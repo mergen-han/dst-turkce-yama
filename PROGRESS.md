@@ -101,13 +101,49 @@
 
 ---
 
-## Sonraki oturum başlatma rehberi (kendime not)
+## Sonraki oturum başlatma rehberi (Claude'a not)
 
-1. `git pull` ile son durumu çek (gerekirse)
-2. `cat PROGRESS.md` ile durum gör
-3. Bir sonraki "⬜ Oturum N" satırına bak, ilk batch'ten başla
-4. Her batch için: pending'ten oku → çevir → done'a yaz
-5. Oturum sonu: `python pipeline/merge_translations.py` + `python pipeline/validate_po.py`
-6. PO'yu DST mods'a sync et
-7. Bu PROGRESS.md'yi güncelle (oturum kapanışı + sonraki oturum hedefleri)
-8. Commit + push
+> Compact sonrası yeni oturumda Aydın "devam" derse:
+
+### 1. Bağlam yükle (paralel Read)
+- `CLAUDE.md` — proje özeti + çalışma yöntemi (zaten oku)
+- `PROGRESS.md` — bu dosya, sıradaki ⬜ batch hangisi gör
+- `docs/glossary.tsv` — 121 zorunlu terim
+- `docs/style-guide.md` — disiplin kuralları
+- `docs/character-voices.md` — 17 karakter persona (Faz 5 için)
+
+### 2. Sıradaki batch'i çevir
+```bash
+# Read
+pipeline/batches/pending/batch_0767.json     # ← şu an buradan başlıyoruz
+
+# Write (çevirisi yapılmış halde)
+pipeline/batches/done/batch_0767.json
+```
+
+### 3. Oturum sonu prosedürü
+```bash
+cd "C:\Users\colak\Desktop\dst-turkce-yama"
+python pipeline/merge_translations.py
+python pipeline/validate_po.py
+cp languages/turkish.po "C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\dst-turkce-yama\languages\turkish.po"
+
+# PROGRESS.md güncelle (bu dosya):
+# - Genel Durum tablosunda Faz 2 sayısını artır
+# - "Şu ana kadar çevrilen toplam" güncelle
+# - "Oturum N" başlığında ⬜ → ✅, batch satırına gerçek kapsamı yaz
+
+git add .
+git commit -m "feat(faz-2): oturum N — batch XXXX-YYYY (NN string)"
+git push
+```
+
+### 4. Aydın'a bildirilecek
+- Hangi yeni Türkçe ekranlar görülebilir (in-game test rehberi)
+- Toplam ilerleme % (UI bazlı + genel)
+- Sonraki oturum hedef batch'ler
+
+### 5. Aydın "compact" derse
+- CLAUDE.md ve PROGRESS.md zaten güncel olmalı
+- Tüm değişiklikler commit + push edilmiş olmalı
+- Pending iş bırakma — done/ klasörüne yazıp merge'le
