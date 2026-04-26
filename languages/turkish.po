@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Application: Don't Starve\n"
+"POT Version: 2.0\n"
+
+#. STRINGS.UI.MAINSCREEN.PLAY
+msgctxt "STRINGS.UI.MAINSCREEN.PLAY"
+msgid "Play"
+msgstr "OYNA"
+
+#. STRINGS.UI.MAINSCREEN.OPTIONS
+msgctxt "STRINGS.UI.MAINSCREEN.OPTIONS"
+msgid "Options"
+msgstr "Ayarlar"
+
+#. STRINGS.UI.MAINSCREEN.QUIT
+msgctxt "STRINGS.UI.MAINSCREEN.QUIT"
+msgid "Quit"
+msgstr "Çıkış"
+
+#. STRINGS.UI.MAINSCREEN.MODS
+msgctxt "STRINGS.UI.MAINSCREEN.MODS"
+msgid "Mods"
+msgstr "Modlar"
+
+#. DIAKRITIK_TEST_AYDIN
+msgctxt "STRINGS.UI.MAINSCREEN.PLAY_TOOLTIP"
+msgid "Choose your adventure!"
+msgstr "Maceranı seç! (ŞÇĞİÖÜ şçğıöü — diakritik testi)"

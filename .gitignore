@@ -1,0 +1,40 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python pipeline
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Pipeline runtime data (reproducible from scripts.zip)
+pipeline/raw/
+pipeline/batches/
+pipeline/speech_batches/
+
+# Build artefactları (autocompiler.exe çıktısı, .png'den üretilir)
+modicon.tex
+modicon.xml
+
+# Workshop yerel test sembolik linki
+mod_link/
+
+# Geçici / log
+*.log
+tmp/
