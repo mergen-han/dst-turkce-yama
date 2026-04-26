@@ -3,198 +3,3003 @@ msgstr ""
 "Application: Don't Starve\n"
 "POT Version: 2.0\n"
 
-#. STRINGS.UI.LOBBYSCREEN.APPLY
-msgctxt "STRINGS.UI.LOBBYSCREEN.APPLY"
+#. STRINGS.UI.ACCOUNT.CANCEL
+msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.ACCOUNT.CDKEY
+msgctxt "STRINGS.UI.ACCOUNT.CDKEY"
+msgid "Don't Starve CD-Key"
+msgstr "Don't Starve CD Anahtarı"
+
+#. STRINGS.UI.ACCOUNT.CREATE
+msgctxt "STRINGS.UI.ACCOUNT.CREATE"
+msgid "Create"
+msgstr "Oluştur"
+
+#. STRINGS.UI.ACCOUNT.EMAIL
+msgctxt "STRINGS.UI.ACCOUNT.EMAIL"
+msgid "Email"
+msgstr "E-posta"
+
+#. STRINGS.UI.ACCOUNT.LAN
+msgctxt "STRINGS.UI.ACCOUNT.LAN"
+msgid "LAN"
+msgstr "LAN"
+
+#. STRINGS.UI.ACCOUNT.LINKSTEAMACCOUNT
+msgctxt "STRINGS.UI.ACCOUNT.LINKSTEAMACCOUNT"
+msgid "Link Steam Account"
+msgstr "Steam Hesabını Bağla"
+
+#. STRINGS.UI.ACCOUNT.LOGIN
+msgctxt "STRINGS.UI.ACCOUNT.LOGIN"
+msgid "Login"
+msgstr "Giriş Yap"
+
+#. STRINGS.UI.ACCOUNT.LOGINWITHSTEAM
+msgctxt "STRINGS.UI.ACCOUNT.LOGINWITHSTEAM"
+msgid "Login With Steam"
+msgstr "Steam ile Giriş Yap"
+
+#. STRINGS.UI.ACCOUNT.PASSWORD
+msgctxt "STRINGS.UI.ACCOUNT.PASSWORD"
+msgid "Password"
+msgstr "Şifre"
+
+#. STRINGS.UI.ACCOUNT.REGISTER
+msgctxt "STRINGS.UI.ACCOUNT.REGISTER"
+msgid "Register"
+msgstr "Kayıt Ol"
+
+#. STRINGS.UI.ACCOUNT.USERNAME
+msgctxt "STRINGS.UI.ACCOUNT.USERNAME"
+msgid "User Name"
+msgstr "Kullanıcı Adı"
+
+#. STRINGS.UI.ACHIEVEMENTS.INGAME_NOTICE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.INGAME_NOTICE"
+msgid "Accomplishments are awarded at the end of a match."
+msgstr "Başarımlar maç sonunda verilir."
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC"
+msgid "Finish the Pit Pig round having taken less than 800 teamwide damage"
+msgstr "Çukur Domuzu turunu takım olarak 800'den az hasar alarak bitir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE"
+msgid "Down But Not Snout"
+msgstr "Bitap Düştük, Burnumuz Sapasağlam"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC"
+msgid "Finish the Pit Pig round having taken less than 600 teamwide damage"
+msgstr "Çukur Domuzu turunu takım olarak 600'den az hasar alarak bitir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE"
+msgid "Hair Of Their Chinny, Chin, Chin"
+msgstr "Üç Küçük Domuz Mu, Onlar Mı?"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC"
+msgid "Survive until the first wave of Scorpeons without any teammates dying"
+msgstr "Hiçbir takım arkadaşı ölmeden ilk Akrep dalgasına kadar hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE"
+msgid "Not Today"
+msgstr "Bugün Olmaz"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC"
+msgid "Survive until the Grand Forge Boarrior is summoned without any teammates dying"
+msgstr "Hiçbir takım arkadaşı ölmeden Büyük Demirci Domuz Savaşçısı çağrılana dek hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE"
+msgid "Just Won't Die!"
+msgstr "Sırf Ölmüyor!"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC"
+msgid "Survive until the first Boarilla arrives and defeat it without any teammates dying"
+msgstr "Hiçbir takım arkadaşı ölmeden ilk Domuzgoril gelene dek hayatta kal ve onu yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE"
+msgid "Hard To Kill"
+msgstr "Zor Ölür"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC"
+msgid "Survive the first wave of Scorpeons without any teammates dying from acid"
+msgstr "İlk Akrep dalgasını hiçbir takım arkadaşı asitten ölmeden atlat"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE"
+msgid "Basic Solution"
+msgstr "Temel Çözüm"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC"
+msgid "Finish the Snortoise round without allowing Snortoises to perform more than 3 spin attacks"
+msgstr "Hışırkaplumbağa turunda 3'ten fazla dönme saldırısı yapmalarına izin verme"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE"
+msgid "Big Wheel Kept From Turnin'"
+msgstr "Çark Dönmesin"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC"
+msgid "Finish the Snortoise round without allowing Snortoises to perform any spin attacks"
+msgstr "Hışırkaplumbağa turunda hiç dönme saldırısı yapmalarına izin verme"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE"
+msgid "Unspun Hero"
+msgstr "Dönmeyen Kahraman"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.DESC"
+msgid "Land 20 Lucy Chucks in a single match"
+msgstr "Tek bir maçta 20 Lucy Fırlatması isabet ettir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_axethrow.TITLE"
+msgid "Chuck It Overboard"
+msgstr "Fırlat Gitsin"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.DESC"
+msgid "Trigger the Battle Cry buff on at least 3 friends, 10 times in a single match"
+msgstr "Tek bir maçta en az 3 dosta Savaş Çığlığı buff'ını 10 kez tetikle"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlecry.TITLE"
+msgid "Standing Ovation"
+msgstr "Ayakta Alkış"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.DESC"
+msgid "Destroy 3 or more battle standards in a single match"
+msgstr "Tek bir maçta 3 veya daha fazla savaş sancağı yık"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_battlestandards.TITLE"
+msgid "Triple Standard"
+msgstr "Üçlü Sancak"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.DESC"
+msgid "desc_laq_beetle1"
+msgstr "desc_laq_beetle1"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_beetle1.TITLE"
+msgid "name_laq_beetle1"
+msgstr "name_laq_beetle1"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.DESC"
+msgid "Defeat the Pit Pigs round with less then 800 player damage take by the team"
+msgstr "Çukur Domuzları turunu takım 800'den az hasar alarak yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_boarons.TITLE"
+msgid "Acceptable Casualties"
+msgstr "Kabul Edilebilir Kayıplar"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailymatch.TITLE"
+msgid "Daily Match Bonus"
+msgstr "Günlük Maç Bonusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_dailywin.TITLE"
+msgid "Daily Victory Bonus"
+msgstr "Günlük Zafer Bonusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.DESC"
+msgid "Achieve the Expert Decoy card at the end of the match"
+msgstr "Maç sonunda Usta Yem kartını al"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_decoy.TITLE"
+msgid "Bundle of Decoy"
+msgstr "Yem Demeti"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.DESC"
+msgid "Defeat the Grand Forge Boarrior"
+msgstr "Büyük Demirci Domuz Savaşçısı'nı yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_boarrior.TITLE"
+msgid "Boarrior Victorior"
+msgstr "Savaşçıya Karşı Galip"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.DESC"
+msgid "Defeat the Rhinocebro round"
+msgstr "Gergedankardeş turunu yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_rhinodrill.TITLE"
+msgid "Way To Go, Bro"
+msgstr "Helal Olsun, Kanka"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.DESC"
+msgid "Complete the Crocommander round"
+msgstr "Krokokomutan turunu tamamla"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_snapper.TITLE"
+msgid "Crocommand the Room"
+msgstr "Salona Krokokomut Et"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.DESC"
+msgid "Defeat the Boarilla"
+msgstr "Domuzgoril'i yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_defeat_trails.TITLE"
+msgid "Boarilla'd To Death"
+msgstr "Domuzgorillenip Öldürüldü"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.DESC"
+msgid "Achieve the Distraction or Expert Decoy card at the end of the match"
+msgstr "Maç sonunda Şaşırtma veya Usta Yem kartını al"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_distraction.TITLE"
+msgid "Welcome Distraction"
+msgstr "Hoş Bir Şaşırtma"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.DESC"
+msgid "Achieve the Doctor card at the end of the match"
+msgstr "Maç sonunda Doktor kartını al"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_doctor.TITLE"
+msgid "Win Doctor"
+msgstr "Galip Doktor"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.DESC"
+msgid "Cast 4 Life Blossoms within 60 seconds"
+msgstr "60 saniye içinde 4 Yaşam Tomurcuğu büyüt"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fasthealing.TITLE"
+msgid "Fight Four Their Life"
+msgstr "Dördü Hayatına Savaşıyor"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.DESC"
+msgid "Flip 20 or more Snortoises in a single match"
+msgstr "Tek bir maçta 20 veya daha fazla Hışırkaplumbağayı ters çevir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_flip.TITLE"
+msgid "Flip It Real Good"
+msgstr "Şöyle Bir Çevir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.DESC"
+msgid "Perform a special attack using a melee weapon, dart and staff all in a single match"
+msgstr "Tek bir maçta yakın silah, dart ve asayla özel saldırı yap"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_fullhands.TITLE"
+msgid "Many Hands Make Fight Work"
+msgstr "İşi Çoğu Eller Çevirir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.DESC"
+msgid "Interrupt 5 or more guarded enemies in a single match"
+msgstr "Tek bir maçta 5 veya daha fazla korunmalı düşmanı sektir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_guardsbroken.TITLE"
+msgid "Drop Your Guard"
+msgstr "İndir Kalkanı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.DESC"
+msgid "Land Anvil Strikes on 25 or more targets in a single match"
+msgstr "Tek bir maçta 25 veya daha fazla hedefe Örs Vuruşu indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_hammer.TITLE"
+msgid "Strike A Match"
+msgstr "Bir Çakım Çakıver"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.DESC"
+msgid "Parry 15 special attacks in a single match using the Blacksmith's Edge"
+msgstr "Demirci Bıçağı ile tek bir maçta 15 özel saldırıyı savuştur"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_heavyblade_special.TITLE"
+msgid "Best Blade Plans"
+msgstr "En İyi Bıçak Planları"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.DESC"
+msgid "Land 10 or more killing blows in a single match"
+msgstr "Tek bir maçta 10 veya daha fazla öldürücü vuruş indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_killingblows_lots.TITLE"
+msgid "Blow It Wide Open"
+msgstr "Sökerek Aç"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.DESC"
+msgid "Achieve the Merciless card at the end of the match"
+msgstr "Maç sonunda Acımasız kartını al"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_merciless.TITLE"
+msgid "Cry Mercy"
+msgstr "Aman Dile"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.DESC"
+msgid "Land a killing blow with a Cataclysm Meteor"
+msgstr "Felaket Göktaşı ile öldürücü vuruş indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteorkill.TITLE"
+msgid "Death From Above"
+msgstr "Tepeden Ölüm"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.DESC"
+msgid "Land Cataclysm Meteors on 40 or more targets in a single match"
+msgstr "Tek bir maçta 40 veya daha fazla hedefe Felaket Göktaşı indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_meteors.TITLE"
+msgid "Meteor Your Match"
+msgstr "Göktaşı Yağmuru"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.DESC"
+msgid "Avoid being hit by a dashing Pit Pig before the Snortoises arrive"
+msgstr "Hışırkaplumbağalar gelmeden hücum eden bir Çukur Domuzunun darbesini ye-me"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodashhounds.TITLE"
+msgid "Dash Their Hopes"
+msgstr "Umutlarını Kır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.DESC"
+msgid "Survive with no team deaths before the Snortoises arrive"
+msgstr "Hışırkaplumbağalar gelmeden takımca hiç ölmeden hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r2.TITLE"
+msgid "Rigor Snortoise"
+msgstr "Hışır Sertliği"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.DESC"
+msgid "Survive with no team deaths before the Scorpeons arrive"
+msgstr "Akrepler gelmeden takımca hiç ölmeden hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r3.TITLE"
+msgid "Scorpeon Denizens"
+msgstr "Akrep Sakinleri"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.DESC"
+msgid "Survive with no team deaths until a Boarilla is defeated"
+msgstr "Bir Domuzgoril yenilene dek takımca hiç ölmeden hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r4.TITLE"
+msgid "Mindless Violence"
+msgstr "Akılsız Şiddet"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.DESC"
+msgid "Survive with no team deaths until the Grand Forge Boarrior is defeated"
+msgstr "Büyük Demirci Domuz Savaşçısı yenilene dek takımca hiç ölmeden hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r5.TITLE"
+msgid "On the Boarrior Path"
+msgstr "Savaşçının Yolunda"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.DESC"
+msgid "Survive with no team deaths until both Rhinocebros are defeated"
+msgstr "Her iki Gergedankardeş yenilene dek takımca hiç ölmeden hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_r6.TITLE"
+msgid "Drill Down"
+msgstr "Sondajı Bitir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.DESC"
+msgid "Avoid death before the Boarilla arrives"
+msgstr "Domuzgoril gelmeden ölme"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_easy.TITLE"
+msgid "Live To See the Fray"
+msgstr "Kavgayı Görmek İçin Yaşa"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.DESC"
+msgid "Survive until the Grand Forge Boarrior is defeated"
+msgstr "Büyük Demirci Domuz Savaşçısı yenilene dek hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nodeath_solo_hard.TITLE"
+msgid "Delusions of Grand Forge"
+msgstr "Büyük Demircilik Hayalleri"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.DESC"
+msgid "Defeat the initial Scorpeon wave without anyone dying from Scorpeon Acid"
+msgstr "İlk Akrep dalgasını kimse Akrep Asidi'nden ölmeden yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_nopoisondeath.TITLE"
+msgid "Acid Redux"
+msgstr "Asit Reflüsü"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.DESC"
+msgid "Survive until the Scorpeons arrive, taking under 200 damage"
+msgstr "Akrepler gelene dek 200'den az hasar alarak hayatta kal"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_outofharmsway.TITLE"
+msgid "Scorpeons Position"
+msgstr "Akrep Mevzisi"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.DESC"
+msgid "Petrify 25 or more enemies before the Infernal Staff drops"
+msgstr "Cehennem Asası düşmeden önce 25 veya daha fazla düşmanı taşa çevir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_petrify.TITLE"
+msgid "Stone Cold"
+msgstr "Buz Gibi Taş"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.DESC"
+msgid "Revive a fallen friend"
+msgstr "Düşmüş bir dostu dirilt"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_reviver.TITLE"
+msgid "Modern Prometheus"
+msgstr "Modern Prometheus"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.DESC"
+msgid "Avoid death by the Rhinocebros"
+msgstr "Gergedankardeşlerden ölme"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill1.TITLE"
+msgid "No the Drill"
+msgstr "Matkaba Hayır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.DESC"
+msgid "Defeat the Rhinocebros without allowing either of them to be revived"
+msgstr "Gergedankardeşleri hiçbiri dirilmeden yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_rhinodrill_hard.TITLE"
+msgid "Night of the Drilling Dead"
+msgstr "Matkaplı Ölülerin Gecesi"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.DESC"
+msgid "Deal a killing blow using Maxwell's shadow minions"
+msgstr "Maxwell'in gölge yardımcılarıyla öldürücü vuruş indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shadowkill.TITLE"
+msgid "From The Shadows"
+msgstr "Gölgelerden"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.DESC"
+msgid "Stop a spinning Snortoise with a shock"
+msgstr "Dönen bir Hışırkaplumbağayı şokla durdur"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_shock.TITLE"
+msgid "Shell Shocked"
+msgstr "Kabuk Şoku"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.DESC"
+msgid "Use 40 or more special attacks in a single match"
+msgstr "Tek bir maçta 40 veya daha fazla özel saldırı kullan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_somany.TITLE"
+msgid "Super Special"
+msgstr "Süper Özel"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.DESC"
+msgid "Perform 4 special attacks in under 20 seconds (excludes chucking Riled Lucy)"
+msgstr "20 saniye içinde 4 özel saldırı yap (Öfkeli Lucy fırlatma hariç)"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_specials_veryfast.TITLE"
+msgid "Rapid Try Movement"
+msgstr "Süratli Hücum"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.DESC"
+msgid "Defeat the Snortoise round without allowing Snortoises to perform more than 4 spin attacks"
+msgstr "Hışırkaplumbağa turunu 4'ten fazla dönme saldırısı yapmadan yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_easy.TITLE"
+msgid "Spin Docker"
+msgstr "Dönüş Frenleyici"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.DESC"
+msgid "Defeat the Snortoise round without allowing Snortoises to perform any spin attacks"
+msgstr "Hışırkaplumbağa turunu hiç dönme saldırısı yapmadan yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinners_hard.TITLE"
+msgid "Unspun Hero"
+msgstr "Dönmeyen Kahraman"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.DESC"
+msgid "Stop a spinning Snortoise, by any means necessary."
+msgstr "Dönen bir Hışırkaplumbağayı ne pahasına olursa olsun durdur."
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_spinstopper.TITLE"
+msgid "Spinning In Their Grave"
+msgstr "Mezarında Dönüyor"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.DESC"
+msgid "Cast 3 amplified Life Blossoms within 60 seconds"
+msgstr "60 saniye içinde 3 güçlendirilmiş Yaşam Tomurcuğu büyüt"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_stronghealing.TITLE"
+msgid "Spell It Out"
+msgstr "Tane Tane Söyle"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.DESC"
+msgid "Win a match in under 20 minutes"
+msgstr "20 dakikadan kısa sürede maç kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_20.TITLE"
+msgid "Gold Speed Run"
+msgstr "Altın Hız Koşusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.DESC"
+msgid "Win a match in under 25 minutes"
+msgstr "25 dakikadan kısa sürede maç kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_25.TITLE"
+msgid "Silver Speed Run"
+msgstr "Gümüş Hız Koşusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.DESC"
+msgid "Win a match in under 30 minutes"
+msgstr "30 dakikadan kısa sürede maç kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.laq_wintime_30.TITLE"
+msgid "Bronze Speed Run"
+msgstr "Bronz Hız Koşusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.DESC"
+msgid "Win a Forge match without dying"
+msgstr "Demirhane maçını ölmeden kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_self.TITLE"
+msgid "Solo Survivor"
+msgstr "Tek Başına Hayatta Kalan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.DESC"
+msgid "Win a Forge match without any teammates dying"
+msgstr "Hiçbir takım arkadaşı ölmeden Demirhane maçı kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_team.TITLE"
+msgid "Team Survivor"
+msgstr "Takım Hayatta Kaldı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.DESC"
+msgid "Play on a team with 6 unique survivors and win without any teammates dying"
+msgstr "6 farklı hayatta kalanlı takımda oyna ve hiçbiri ölmeden kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.nodeaths_uniqueteam.TITLE"
+msgid "Survival of the Mis-Fittest"
+msgstr "Uyumsuzların Sağ Kalımı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.DESC"
+msgid "Buff 3 friends simultaneously 5 times in a match using Battle Cry"
+msgstr "Bir maçta Savaş Çığlığı ile 3 dosta aynı anda 5 kez buff ver"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_battlecry.TITLE"
+msgid "Curtain Call"
+msgstr "Sahne Selamı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.DESC"
+msgid "Flip 20 or more Snortoises in a single match"
+msgstr "Tek bir maçta 20 veya daha fazla Hışırkaplumbağayı ters çevir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_flip.TITLE"
+msgid "Exit, Pursued By Viking"
+msgstr "Çıkış, Vikinglerce Kovalanırken"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wigfrid"
+msgstr "Wigfrid olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wathgrithr_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.DESC"
+msgid "Deal a killing blow using Maxwell's shadow minions"
+msgstr "Maxwell'in gölge yardımcılarıyla öldürücü vuruş indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_minion_kill.TITLE"
+msgid "From The Shadows"
+msgstr "Gölgelerden"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.DESC"
+msgid "Petrify 25 or more enemies before the Infernal Staff drops"
+msgstr "Cehennem Asası düşmeden önce 25 veya daha fazla düşmanı taşa çevir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_petrify.TITLE"
+msgid "Stone Cold"
+msgstr "Buz Gibi Taş"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Maxwell"
+msgstr "Maxwell olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.waxwell_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.DESC"
+msgid "Use 3 special attacks in under 20 seconds"
+msgstr "20 saniye içinde 3 özel saldırı kullan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_darts.TITLE"
+msgid "Webslinger"
+msgstr "Ağ Atan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.DESC"
+msgid "Achieve the Merciless card at the end of the match"
+msgstr "Maç sonunda Acımasız kartını al"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_merciless.TITLE"
+msgid "Prey Tell"
+msgstr "Av Anlatır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Webber"
+msgstr "Webber olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.webber_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.DESC"
+msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
+msgstr "Tek bir maçta savunma duruşunda 5 veya daha fazla düşmanın sektir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_guardsbroken.TITLE"
+msgid "En-guard, Villain"
+msgstr "Garda Geç, Kötü"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.DESC"
+msgid "Take under 100 damage and land 150 darts before the Scorpeon wave"
+msgstr "Akrep dalgasına dek 100'den az hasar al ve 150 dart isabet ettir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_outofharmsway.TITLE"
+msgid "Float Like A Butterfly"
+msgstr "Kelebek Gibi Süzül"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wendy"
+msgstr "Wendy olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wendy_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.DESC"
+msgid "Destroy 3 or more Battle Standards in a single match"
+msgstr "Tek bir maçta 3 veya daha fazla Savaş Sancağı yık"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_battlestandards.TITLE"
+msgid "Unspoken Standard"
+msgstr "Sessiz Sancak"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.DESC"
+msgid "Receive the Expert Decoy card at the end of the match"
+msgstr "Maç sonunda Usta Yem kartını al"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_decoy.TITLE"
+msgid "Show, Don't Tell"
+msgstr "Söyleme, Göster"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wes"
+msgstr "Wes olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wes_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC"
+msgid "Cast 3 amplified Life Blossoms within 60 seconds"
+msgstr "60 saniye içinde 3 güçlendirilmiş Yaşam Tomurcuğu büyüt"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE"
+msgid "Spell It Out"
+msgstr "Tane Tane Söyle"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.DESC"
+msgid "Land a killing blow with an amplified Cataclysm Meteor"
+msgstr "Güçlendirilmiş Felaket Göktaşı ile öldürücü vuruş indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_meteor.TITLE"
+msgid "Library Staff"
+msgstr "Kütüphane Kadrosu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wickerbottom"
+msgstr "Wickerbottom olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.DESC"
+msgid "Hit 40 or more targets in a single match using Meteor Strikes"
+msgstr "Tek bir maçta Göktaşı Vuruşu ile 40 veya daha fazla hedefe vur"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_meteor.TITLE"
+msgid "Heat Stricken"
+msgstr "Sıcaklık Vurdu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.DESC"
+msgid "Stop a spinning Snortoise with using a Molten Bolt attack"
+msgstr "Erimiş Şimşek saldırısı ile dönen bir Hışırkaplumbağayı durdur"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_moltenbolt.TITLE"
+msgid "Ring of Fire"
+msgstr "Ateş Çemberi"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Willow"
+msgstr "Willow olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.willow_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.DESC"
+msgid "Destroy 3 or more Battle Standards in a single match"
+msgstr "Tek bir maçta 3 veya daha fazla Savaş Sancağı yık"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_battlestandards.TITLE"
+msgid "Standard Deviations"
+msgstr "Standart Sapma"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.DESC"
+msgid "Revive a fallen friend"
+msgstr "Düşmüş bir dostu dirilt"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_reviver.TITLE"
+msgid "It's Alive!"
+msgstr "Yaşıyor!"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wilson"
+msgstr "Wilson olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wilson_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.DESC"
+msgid "Perform a special attack using a melee weapon, a dart, and a staff in a single match"
+msgstr "Tek bir maçta yakın silah, dart ve asayla özel saldırı yap"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_allweapons.TITLE"
+msgid "Jill of All Trades"
+msgstr "Her İşin Hanımı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.DESC"
+msgid "Use 40 or more special attacks in a single match"
+msgstr "Tek bir maçta 40 veya daha fazla özel saldırı kullan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_altattacks.TITLE"
+msgid "Maximum Efficiency"
+msgstr "Azami Verim"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Winona"
+msgstr "Winona olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.winona_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.DESC"
+msgid "Win a Forge match in under 20 minutes"
+msgstr "20 dakikadan kısa sürede Demirhane maçı kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_20.TITLE"
+msgid "Gold Speed Run"
+msgstr "Altın Hız Koşusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.DESC"
+msgid "Win a Forge match in under 25 minutes"
+msgstr "25 dakikadan kısa sürede Demirhane maçı kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_25.TITLE"
+msgid "Silver Speed Run"
+msgstr "Gümüş Hız Koşusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.DESC"
+msgid "Win a Forge match in under 30 minutes"
+msgstr "30 dakikadan kısa sürede Demirhane maçı kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wintime_30.TITLE"
+msgid "Bronze Speed Run"
+msgstr "Bronz Hız Koşusu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.DESC"
+msgid "Interrupt 5 or more enemies while they're in guard stance in a single match"
+msgstr "Tek bir maçta savunma duruşunda 5 veya daha fazla düşmanın sektir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_guardsbroken.TITLE"
+msgid "Caught Off Guard"
+msgstr "Hazırlıksız Yakaladı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.DESC"
+msgid "Stop a spinning Snortoise using an Anvil Strike attack"
+msgstr "Örs Vuruşu saldırısı ile dönen bir Hışırkaplumbağayı durdur"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_nospinning.TITLE"
+msgid "High Striker"
+msgstr "Tepetaklak Vurucu"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Wolfgang"
+msgstr "Wolfgang olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wolfgang_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.DESC"
+msgid "Land 20 Lucy Chucks in a single match"
+msgstr "Tek bir maçta 20 Lucy Fırlatması isabet ettir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_lucychuck.TITLE"
+msgid "Would A Werebeaver Chuck"
+msgstr "Bir Kunduradam Fırlatır mı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.DESC"
+msgid "Stop a spinning Snortoise using Lucy"
+msgstr "Lucy ile dönen bir Hışırkaplumbağayı durdur"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_nospinning.TITLE"
+msgid "The Chopping Block"
+msgstr "Kütük Tezgahı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as Woodie"
+msgstr "Woodie olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.woodie_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.DESC"
+msgid "Land Anvil Strikes on 50 or more targets in a single match"
+msgstr "Tek bir maçta 50 veya daha fazla hedefe Örs Vuruşu indir"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_anvil.TITLE"
+msgid "Well-Oiled Machine"
+msgstr "İyi Yağlanmış Makine"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.DESC"
+msgid "Stop a spinning Snortoise with a shock"
+msgstr "Dönen bir Hışırkaplumbağayı şokla durdur"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_shocks.TITLE"
+msgid "Circuit Breaker"
+msgstr "Devre Kesici"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.DESC"
+msgid "Defeat Battlemaster Pugna's warriors as WX-78"
+msgstr "WX-78 olarak Savaş Ustası Pugna'nın askerlerini yen"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wx78_victory.TITLE"
+msgid "Forging Victory"
+msgstr "Demir Dövülüp Zafer Yapılır"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.encore
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.encore"
+msgid "Forge Mastery"
+msgstr "Demirhane Ustalığı"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.nodeaths
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.nodeaths"
+msgid "Perfect Runs"
+msgstr "Kusursuz Koşular"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wathgrithr"
+msgid "Wigfrid"
+msgstr "Wigfrid"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.waxwell"
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.webber
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.webber"
+msgid "Webber"
+msgstr "Webber"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wendy
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wendy"
+msgid "Wendy"
+msgstr "Wendy"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wes
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wes"
+msgid "Wes"
+msgstr "Wes"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wickerbottom"
+msgid "Wickerbottom"
+msgstr "Wickerbottom"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.willow"
+msgid "Willow"
+msgstr "Willow"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wilson
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wilson"
+msgid "Wilson"
+msgstr "Wilson"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.winona
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.winona"
+msgid "Winona"
+msgstr "Winona"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wintime
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wintime"
+msgid "Speed Runs"
+msgstr "Hız Koşuları"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wolfgang
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wolfgang"
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.woodie"
+msgid "Woodie"
+msgstr "Woodie"
+
+#. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78
+msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.CATEGORIES.wx78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.DESC"
+msgid "Cook and complete at least one meal using an oven, a cookpot, and a grill, respectively"
+msgstr "Sırasıyla fırın, tencere ve ızgara kullanarak en az birer yemek pişir ve tamamla"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_all_stations.TITLE"
+msgid "Bake Boss"
+msgstr "Fırın Patronu"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.DESC"
+msgid "Cook a meal"
+msgstr "Bir yemek pişir"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_first.TITLE"
+msgid "Great Victorian Cook Off"
+msgstr "Büyük Viktorya Devri Aşçı Düellosu"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.DESC"
+msgid "Discover all possible recipes"
+msgstr "Tüm olası tarifleri keşfet"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_full_book.TITLE"
+msgid "Master Chef"
+msgstr "Üstat Şef"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.DESC"
+msgid "Cook and complete at least one meal using a Large Grill, Large Cookpot or Large Casserole Dish"
+msgstr "Büyük Izgara, Büyük Tencere veya Büyük Güveç Tabağı ile en az bir yemek pişir ve tamamla"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_large.TITLE"
+msgid "Big Meal"
+msgstr "Doyuran Sofra"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.DESC"
+msgid "Cook at least 6 meals from start to finish in a single match, without burning any of them"
+msgstr "Tek bir maçta hiçbiri yanmadan baştan sona 6 yemek pişir"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_noburnt.TITLE"
+msgid "It's Not Raw"
+msgstr "Çiğ Değil"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.DESC"
+msgid "Increase the value of a dish by plating it in a silver plate or bowl"
+msgstr "Gümüş tabağa veya kaseye koyarak bir yemeğin değerini artır"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.cook_silver.TITLE"
+msgid "The Silver Gullet"
+msgstr "Gümüş Boğaz"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.DESC"
+msgid "Fertilize at least 20 crops in a single match"
+msgstr "Tek bir maçta en az 20 ekin gübrele"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_fertilize.TITLE"
+msgid "Premium Plant Food"
+msgstr "Birinci Sınıf Bitki Yemi"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.DESC"
+msgid "Sow at least 30 seeds in a single match"
+msgstr "Tek bir maçta en az 30 tohum ek"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow.TITLE"
+msgid "Reap What You Sow"
+msgstr "Ne Ekersen Onu Biçersin"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.DESC"
+msgid "Sow one or more of each type of seed"
+msgstr "Her türden tohumdan en az bir tane ek"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_sow_all.TITLE"
+msgid "Sowing Machine"
+msgstr "Ekme Makinesi"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.DESC"
+msgid "Till at least 50 farm plots in a single match"
+msgstr "Tek bir maçta en az 50 ekim parseli işle"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.farm_till.TITLE"
+msgid "Dawn Till Dusk"
+msgstr "Şafaktan Akşama"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.DESC"
+msgid "Catch a Pebble Crab"
+msgstr "Bir Çakıl Yengeci yakala"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_crab.TITLE"
+msgid "The Landed Land Crab"
+msgstr "Karaya Çıkan Kara Yengeci"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.DESC"
+msgid "Chop and gather 80 logs or more in a single match"
+msgstr "Tek bir maçta 80 veya daha fazla kütük kes ve topla"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_logs.TITLE"
+msgid "Chopped"
+msgstr "Doğrandı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.DESC"
+msgid "Unlock at least one safe"
+msgstr "En az bir kasayı aç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_safe.TITLE"
+msgid "Finders, Keepers"
+msgstr "Bulan Saklar"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.DESC"
+msgid "Gather sap from Sugarwood trees 9 times or more in a single match"
+msgstr "Tek bir maçta Şekerodun ağaçlarından 9 veya daha fazla öz su topla"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_sap.TITLE"
+msgid "Extra Sappy"
+msgstr "Bol Özsulu"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.DESC"
+msgid "Grind 5 teaspoons of spice in a single match"
+msgstr "Tek bir maçta 5 çay kaşığı baharat öğüt"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.gather_spice.TITLE"
+msgid "The Spice of Strife"
+msgstr "Çekişmenin Baharatı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.DESC"
+msgid "Cook and complete at least one meal using a Large Grill, a Large Cookpot, and a Large Casserole Dish, respectively"
+msgstr "Sırasıyla Büyük Izgara, Büyük Tencere ve Büyük Güveç Tabağı kullanarak en az birer yemek pişir ve tamamla"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_all_stations_large.TITLE"
+msgid "Snack of All Trades"
+msgstr "Her İşin Atıştırmalığı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.DESC"
+msgid "Play a 3-player match where everyone has a turn to cook and complete at least two meals"
+msgstr "3 oyunculu bir maç oyna; herkes pişirme sırası alsın ve en az iki yemek tamamlansın"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_allcooks.TITLE"
+msgid "Three Many Cooks"
+msgstr "Üç Aşçı Çorbayı Bozar Mı?"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.DESC"
+msgid "Escape with all cooked meals having one or more meat ingredients (Meat Scraps, Salmon, Meat, or Crab Meat)"
+msgstr "Pişen tüm yemekler etli (Et Kırıntısı, Somon, Et veya Yengeç Eti) olarak kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_meaty.TITLE"
+msgid "Killing Spree"
+msgstr "Etlik Çılgınlığı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.DESC"
+msgid "Escape without satisfying any cravings"
+msgstr "Hiçbir arzuyu karşılamadan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_nomatches.TITLE"
+msgid "Never Satisfied"
+msgstr "Hiç Doymayan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.DESC"
+msgid "Escape without harvesting any logs"
+msgstr "Hiç kütük toplamadan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_notrees.TITLE"
+msgid "Tree Hugger"
+msgstr "Ağaç Sevgilisi"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.DESC"
+msgid "Find or earn 3 or more Sapphire Medallions in one match"
+msgstr "Bir maçta 3 veya daha fazla Safir Madalyon bul ya da kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin2.TITLE"
+msgid "Gather 'Round the Sapphire"
+msgstr "Safir Etrafında Toplan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.DESC"
+msgid "Find or earn 3 or more Red Marks in one match"
+msgstr "Bir maçta 3 veya daha fazla Kızıl İşaret bul ya da kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_tribute_coin3.TITLE"
+msgid "Marked For Red"
+msgstr "Kızıla Damgalı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.DESC"
+msgid "Escape without any meals cooked with meat ingredients (Meat Scraps, Salmon, Meat, or Crab Meat)"
+msgstr "Etli (Et Kırıntısı, Somon, Et veya Yengeç Eti) hiçbir yemek pişirmeden kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_encore_veggie.TITLE"
+msgid "Meaty Neglect"
+msgstr "Etin İhmali"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.DESC"
+msgid "Escape the Gorge by offering 10 meals or less"
+msgstr "Boğaz'dan 10 ya da daha az yemek sunarak kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_fast.TITLE"
+msgid "Quick Lunch"
+msgstr "Çabuk Öğle"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.DESC"
+msgid "Activate the Ancient Gateway and escape the Gorge"
+msgstr "Kadim Geçidi etkinleştir ve Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_first.TITLE"
+msgid "Escape!"
+msgstr "Kaçış!"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.DESC"
+msgid "Escape the Gorge having fulfilled 15 or more of the Gnaw's cravings"
+msgstr "Kemiren'in 15 veya daha fazla arzusunu karşılayarak Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_long.TITLE"
+msgid "Gnaw's Gnosh"
+msgstr "Kemiren'in Kemirgisi"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.DESC"
+msgid "Escape the Gorge without having burned or ruined any meals"
+msgstr "Hiçbir yemeği yakmadan ya da bozmadan Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_noburnt.TITLE"
+msgid "Cooked to Perfection"
+msgstr "Mükemmelliğe Pişmiş"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.DESC"
+msgid "Escape the Gorge without offering any duplicate meals"
+msgstr "Tekrar eden hiç yemek sunmadan Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nodups.TITLE"
+msgid "No Repeater Eater"
+msgstr "Aynısını Yemez"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.DESC"
+msgid "Escape the Gorge without offering the Gnaw any salted meals"
+msgstr "Kemiren'e hiç tuzlu yemek sunmadan Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosalt.TITLE"
+msgid "Sodi-yum"
+msgstr "Sodyummm"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.DESC"
+msgid "Escape the Gorge without offering any silver plated meals to the Gnaw"
+msgstr "Kemiren'e gümüş tabaklı hiç yemek sunmadan Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_nosilver.TITLE"
+msgid "No Silver Linings"
+msgstr "Gümüşten Astar Yok"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.DESC"
+msgid "Escape the Gorge without failing to fulfill any cravings"
+msgstr "Hiçbir arzuyu karşılamayı kaçırmadan Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_perfect.TITLE"
+msgid "Taste Maker"
+msgstr "Tat Yaratan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.DESC"
+msgid "Escape the Gorge by offering 7 meals or less"
+msgstr "Boğaz'dan 7 ya da daha az yemek sunarak kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_veryfast.TITLE"
+msgid "Zero-Wait Staff"
+msgstr "Sıfır Bekleme Garsonu"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.DESC"
+msgid "Escape the Gorge having fulfilled 18 or more of the Gnaw's cravings"
+msgstr "Kemiren'in 18 veya daha fazla arzusunu karşılayarak Boğaz'dan kaç"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.quag_win_verylong.TITLE"
+msgid "Flavorville"
+msgstr "Lezzet Diyarı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.DESC"
+msgid "Find or earn a Sapphire Medallion"
+msgstr "Bir Safir Madalyon bul ya da kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin2.TITLE"
+msgid "Gnaw In The Sky With Sapphires"
+msgstr "Gökyüzünde Safirleriyle Kemiren"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.DESC"
+msgid "Find or earn a Red Mark"
+msgstr "Bir Kızıl İşaret bul ya da kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin3.TITLE"
+msgid "Marked"
+msgstr "Damgalı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.DESC"
+msgid "Earn the Gnaw's Favor"
+msgstr "Kemiren'in Lütfunu kazan"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_coin4.TITLE"
+msgid "Favored"
+msgstr "Gözde"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.DESC"
+msgid "Sacrifice something the Gnaw is craving 3 times in 3 minutes"
+msgstr "3 dakika içinde Kemiren'in arzuladığı bir şeyi 3 kez kurban et"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_fast.TITLE"
+msgid "Fast Food"
+msgstr "Hızlı Yemek"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 9 times in one match"
+msgstr "Bir maçta Kemiren'in arzuladığı bir şeyi en az 9 kez kurban et"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_high.TITLE"
+msgid "Spoiled Wyrm"
+msgstr "Şımarık Ejder"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 3 times in one match"
+msgstr "Bir maçta Kemiren'in arzuladığı bir şeyi en az 3 kez kurban et"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_low.TITLE"
+msgid "Cheat Day"
+msgstr "Hile Günü"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.DESC
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.DESC"
+msgid "Sacrifice something the Gnaw is craving at least 6 times in one match"
+msgstr "Bir maçta Kemiren'in arzuladığı bir şeyi en az 6 kez kurban et"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.TITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.ACHIEVEMENT.tribute_num_med.TITLE"
+msgid "Eternal Cravings"
+msgstr "Sonsuz Arzular"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.chef
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.chef"
+msgid "Cooking"
+msgstr "Aşçılık"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.encore
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.encore"
+msgid "Gorge Mastery"
+msgstr "Boğaz Ustalığı"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.farmer
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.farmer"
+msgid "Farming"
+msgstr "Çiftçilik"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.gatherer
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.gatherer"
+msgid "Resource Collection"
+msgstr "Kaynak Toplama"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.tributes
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.tributes"
+msgid "Offerings"
+msgstr "Adaklar"
+
+#. STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.victory
+msgctxt "STRINGS.UI.ACHIEVEMENTS.QUAGMIRE.CATEGORIES.victory"
+msgid "Victory"
+msgstr "Zafer"
+
+#. STRINGS.UI.ACHIEVEMENTS.SCREENTITLE
+msgctxt "STRINGS.UI.ACHIEVEMENTS.SCREENTITLE"
+msgid "Accomplishments"
+msgstr "Başarımlar"
+
+#. STRINGS.UI.BARTERSCREEN.CANCEL
+msgctxt "STRINGS.UI.BARTERSCREEN.CANCEL"
+msgid "Never mind"
+msgstr "Boş ver"
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_BUY
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_BUY"
+msgid "Weave"
+msgstr "Doku"
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND"
+msgid "Unravel"
+msgstr "Söke"
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND_DUPES
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_GRIND_DUPES"
+msgid "Unravel Duplicates"
+msgstr "Tekrarları Söke"
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_BUY"
+msgid "Use {doodad_value} Spools to weave this curio."
+msgstr "Bu süs için {doodad_value} Bobin kullan."
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND"
+msgid "This curio can be unraveled into {doodad_value} Spools."
+msgstr "Bu süs {doodad_value} Bobine sökülebilir."
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND_ENTITLEMENT
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND_ENTITLEMENT"
+msgid "Note: {entitlement_count} of the {total_owned} selected curio is linked to an owned DLC or a past event and can not be unraveled."
+msgstr "Not: Seçilen {total_owned} süsten {entitlement_count} tanesi sahip olduğun bir DLC ya da geçmiş bir etkinliğe bağlı ve sökülemez."
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER"
+msgid "This curio is not weaveable."
+msgstr "Bu süs dokunamaz."
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NOT_ACTIVE"
+msgid "This curio is not currently weaveable."
+msgstr "Bu süs şu an dokunamaz."
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_UNOWNED"
+msgid "You must have {character} unlocked to weave this item from Spools."
+msgstr "Bu eşyayı Bobinlerden dokumak için {character} kilidini açmış olman gerek."
+
+#. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND
+msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOGRIND"
+msgid "This curio cannot be unraveled."
+msgstr "Bu süs sökülemez."
+
+#. STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT
+msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_BUY_FMT"
+msgid "Use {doodad_count} Spools to weave item: {item_name}?\n\nYou will be left with {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "{item_name} eşyasını dokumak için {doodad_count} Bobin kullanılsın mı?\n\nElinde {doodad_net} Bobin kalacak.\nBobinler \"Dokuma\" nadirliğindeki süsleri dokumak için kullanılır."
+
+#. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
+msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
+msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "{count} tekrar {doodad_count} Bobine sökülsün mü?\n\nToplam {doodad_net} Bobinin olacak."
+
+#. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
+msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
+msgid "Unravel 1 duplicate into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
+msgstr "1 tekrar {doodad_count} Bobine sökülsün mü?\n\nToplam {doodad_net} Bobinin olacak."
+
+#. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT
+msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_FMT"
+msgid "Unravel this {item_name} into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools.\nSpools are used to weave \"Woven\" rarity curios."
+msgstr "Bu {item_name} {doodad_count} Bobine sökülsün mü?\n\nToplam {doodad_net} Bobinin olacak.\nBobinler \"Dokuma\" nadirliğindeki süsleri dokumak için kullanılır."
+
+#. STRINGS.UI.BARTERSCREEN.FAILED_BODY
+msgctxt "STRINGS.UI.BARTERSCREEN.FAILED_BODY"
+msgid "Sorry!\nFailed to contact Klei Servers. Please try again."
+msgstr "Üzgünüz!\nKlei Sunucularına ulaşılamadı. Lütfen tekrar dene."
+
+#. STRINGS.UI.BARTERSCREEN.FAILED_TITLE
+msgctxt "STRINGS.UI.BARTERSCREEN.FAILED_TITLE"
+msgid "Connection failure"
+msgstr "Bağlantı arızası"
+
+#. STRINGS.UI.BARTERSCREEN.FAIL_BUY_FMT
+msgctxt "STRINGS.UI.BARTERSCREEN.FAIL_BUY_FMT"
+msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
+msgstr "{item_name} eşyasını dokumak için {doodad_count} Bobin gerekiyor.\n\nBu eşyayı dokumak için {doodad_net} Bobin daha lazım.\nBobinler süsleri sökerek elde edilir."
+
+#. STRINGS.UI.BARTERSCREEN.NO_MARKET
+msgctxt "STRINGS.UI.BARTERSCREEN.NO_MARKET"
+msgid "This curio cannot be traded or sold."
+msgstr "Bu süs takas edilemez veya satılamaz."
+
+#. STRINGS.UI.BARTERSCREEN.OK
+msgctxt "STRINGS.UI.BARTERSCREEN.OK"
+msgid "OK"
+msgstr "Tamam"
+
+#. STRINGS.UI.BARTERSCREEN.TITLE
+msgctxt "STRINGS.UI.BARTERSCREEN.TITLE"
+msgid "The Curio Loom"
+msgstr "Süs Dokuma Tezgâhı"
+
+#. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
+msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY"
+msgid "Unraveling this item will break your {ensemble_name} and cause you to lose access to the Reward item, {reward_name}."
+msgstr "Bu eşyayı sökmek {ensemble_name} setini bozar ve {reward_name} ödül eşyasına erişimini kaybetmene neden olur."
+
+#. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
+msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY"
+msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
+msgstr "Bu eşyayı sökersen {character} olarak oynayamazsın. Ayrıca {character}'a özel sahip olduğun tüm eşyalara erişimini kaybedersin; istersen onları da sökebilirsin."
+
+#. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
+msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
+msgid "Warning!"
+msgstr "Uyarı!"
+
+#. STRINGS.UI.BEARDSCREEN.BEARD_NAMES.1
+msgctxt "STRINGS.UI.BEARDSCREEN.BEARD_NAMES.1"
+msgid "Trimmed"
+msgstr "Düzeltilmiş"
+
+#. STRINGS.UI.BEARDSCREEN.BEARD_NAMES.2
+msgctxt "STRINGS.UI.BEARDSCREEN.BEARD_NAMES.2"
+msgid "Groomed"
+msgstr "Bakımlı"
+
+#. STRINGS.UI.BEARDSCREEN.BEARD_NAMES.3
+msgctxt "STRINGS.UI.BEARDSCREEN.BEARD_NAMES.3"
+msgid "Magnificent"
+msgstr "Şahane"
+
+#. STRINGS.UI.BOAT.HEALTH
+msgctxt "STRINGS.UI.BOAT.HEALTH"
+msgid "Boat Health: "
+msgstr "Tekne Canı: "
+
+#. STRINGS.UI.BOX_POPUP.OK
+msgctxt "STRINGS.UI.BOX_POPUP.OK"
+msgid "OK"
+msgstr "Tamam"
+
+#. STRINGS.UI.BOX_POPUP.SERVER_ERROR_BODY
+msgctxt "STRINGS.UI.BOX_POPUP.SERVER_ERROR_BODY"
+msgid "There was an error while opening your Chest. Please log in again to refresh your account inventory."
+msgstr "Sandığını açarken bir hata oluştu. Hesap envanterini yenilemek için lütfen tekrar giriş yap."
+
+#. STRINGS.UI.BOX_POPUP.SERVER_ERROR_TITLE
+msgctxt "STRINGS.UI.BOX_POPUP.SERVER_ERROR_TITLE"
+msgid "Error Opening Chest"
+msgstr "Sandık Açılamadı"
+
+#. STRINGS.UI.BOX_POPUP.SERVER_NO_ITEM_BODY
+msgctxt "STRINGS.UI.BOX_POPUP.SERVER_NO_ITEM_BODY"
+msgid "This Chest contained items that are not supported by your current game version. Please exit and update your game."
+msgstr "Bu Sandıkta mevcut oyun sürümünün desteklemediği eşyalar var. Lütfen çıkış yap ve oyununu güncelle."
+
+#. STRINGS.UI.BOX_POPUP.TITLE
+msgctxt "STRINGS.UI.BOX_POPUP.TITLE"
+msgid "You received..."
+msgstr "Sana gelen..."
+
+#. STRINGS.UI.BROADCASTING.ACCEPT
+msgctxt "STRINGS.UI.BROADCASTING.ACCEPT"
+msgid "Accept"
+msgstr "Onayla"
+
+#. STRINGS.UI.BROADCASTING.ACCEPTBODY
+msgctxt "STRINGS.UI.BROADCASTING.ACCEPTBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "Bu değişiklikleri onaylamak istiyor musun?"
+
+#. STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSBODY
+msgctxt "STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "Bu değişiklikleri onaylamak istiyor musun?"
+
+#. STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSTITLE
+msgctxt "STRINGS.UI.BROADCASTING.ACCEPTGRAPHICSTITLE"
+msgid "Accept Changes"
+msgstr "Değişiklikleri Onayla"
+
+#. STRINGS.UI.BROADCASTING.ACCEPTTITLE
+msgctxt "STRINGS.UI.BROADCASTING.ACCEPTTITLE"
+msgid "Accept Changes"
+msgstr "Değişiklikleri Onayla"
+
+#. STRINGS.UI.BROADCASTING.APPLY
+msgctxt "STRINGS.UI.BROADCASTING.APPLY"
 msgid "Apply"
 msgstr "Uygula"
 
-#. STRINGS.UI.LOBBYSCREEN.BACK
-msgctxt "STRINGS.UI.LOBBYSCREEN.BACK"
-msgid "Back"
-msgstr "Geri"
+#. STRINGS.UI.BROADCASTING.AUDIO
+msgctxt "STRINGS.UI.BROADCASTING.AUDIO"
+msgid "Audio"
+msgstr "Ses"
 
-#. STRINGS.UI.LOBBYSCREEN.CANCEL
-msgctxt "STRINGS.UI.LOBBYSCREEN.CANCEL"
+#. STRINGS.UI.BROADCASTING.BACKBODY
+msgctxt "STRINGS.UI.BROADCASTING.BACKBODY"
+msgid "Do you want to throw out your changes?"
+msgstr "Değişikliklerini iptal etmek istiyor musun?"
+
+#. STRINGS.UI.BROADCASTING.BACKTITLE
+msgctxt "STRINGS.UI.BROADCASTING.BACKTITLE"
+msgid "Lose Changes?"
+msgstr "Değişiklikler Kaybedilsin Mi?"
+
+#. STRINGS.UI.BROADCASTING.BANDWIDTH
+msgctxt "STRINGS.UI.BROADCASTING.BANDWIDTH"
+msgid "Bandwidth"
+msgstr "Bant Genişliği"
+
+#. STRINGS.UI.BROADCASTING.BROADCASTINGENABLED
+msgctxt "STRINGS.UI.BROADCASTING.BROADCASTINGENABLED"
+msgid "Broadcasting Enabled"
+msgstr "Yayın Açık"
+
+#. STRINGS.UI.BROADCASTING.CANCEL
+msgctxt "STRINGS.UI.BROADCASTING.CANCEL"
 msgid "Cancel"
 msgstr "İptal"
 
-#. STRINGS.UI.LOBBYSCREEN.CHAT
-msgctxt "STRINGS.UI.LOBBYSCREEN.CHAT"
-msgid "Chat"
-msgstr "Sohbet"
+#. STRINGS.UI.BROADCASTING.CLOSE
+msgctxt "STRINGS.UI.BROADCASTING.CLOSE"
+msgid "Close"
+msgstr "Kapat"
 
-#. STRINGS.UI.LOBBYSCREEN.CUSTOMIZE
-msgctxt "STRINGS.UI.LOBBYSCREEN.CUSTOMIZE"
-msgid "Customize Your Character"
-msgstr "Karakterini Özelleştir"
+#. STRINGS.UI.BROADCASTING.FORGET
+msgctxt "STRINGS.UI.BROADCASTING.FORGET"
+msgid "Forget Account"
+msgstr "Hesabı Unut"
 
-#. STRINGS.UI.LOBBYSCREEN.DISCONNECT
-msgctxt "STRINGS.UI.LOBBYSCREEN.DISCONNECT"
+#. STRINGS.UI.BROADCASTING.FRAMERATE
+msgctxt "STRINGS.UI.BROADCASTING.FRAMERATE"
+msgid "Frame Rate"
+msgstr "Kare Hızı"
+
+#. STRINGS.UI.BROADCASTING.HELP
+msgctxt "STRINGS.UI.BROADCASTING.HELP"
+msgid "Help"
+msgstr "Yardım"
+
+#. STRINGS.UI.BROADCASTING.LOGIN
+msgctxt "STRINGS.UI.BROADCASTING.LOGIN"
+msgid "Login"
+msgstr "Giriş Yap"
+
+#. STRINGS.UI.BROADCASTING.LOGOUT
+msgctxt "STRINGS.UI.BROADCASTING.LOGOUT"
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+#. STRINGS.UI.BROADCASTING.MICROPHONE
+msgctxt "STRINGS.UI.BROADCASTING.MICROPHONE"
+msgid "Microphone"
+msgstr "Mikrofon"
+
+#. STRINGS.UI.BROADCASTING.NO
+msgctxt "STRINGS.UI.BROADCASTING.NO"
+msgid "No"
+msgstr "Hayır"
+
+#. STRINGS.UI.BROADCASTING.REVERT
+msgctxt "STRINGS.UI.BROADCASTING.REVERT"
+msgid "Revert Changes"
+msgstr "Değişiklikleri Geri Al"
+
+#. STRINGS.UI.BROADCASTING.SIGNUP
+msgctxt "STRINGS.UI.BROADCASTING.SIGNUP"
+msgid "Sign Up"
+msgstr "Kayıt Ol"
+
+#. STRINGS.UI.BROADCASTING.SMOOTHSCALING
+msgctxt "STRINGS.UI.BROADCASTING.SMOOTHSCALING"
+msgid "Smooth Scaling"
+msgstr "Yumuşak Ölçekleme"
+
+#. STRINGS.UI.BROADCASTING.STARTSTREAM
+msgctxt "STRINGS.UI.BROADCASTING.STARTSTREAM"
+msgid "Start Stream"
+msgstr "Yayını Başlat"
+
+#. STRINGS.UI.BROADCASTING.STOPSTREAM
+msgctxt "STRINGS.UI.BROADCASTING.STOPSTREAM"
+msgid "Stop Stream"
+msgstr "Yayını Durdur"
+
+#. STRINGS.UI.BROADCASTING.SYSTEMSOUND
+msgctxt "STRINGS.UI.BROADCASTING.SYSTEMSOUND"
+msgid "System Sound"
+msgstr "Sistem Sesi"
+
+#. STRINGS.UI.BROADCASTING.TWITCHCHAT
+msgctxt "STRINGS.UI.BROADCASTING.TWITCHCHAT"
+msgid "Twitch Chat"
+msgstr "Twitch Sohbeti"
+
+#. STRINGS.UI.BROADCASTING.VIEWSTREAM
+msgctxt "STRINGS.UI.BROADCASTING.VIEWSTREAM"
+msgid "View Stream"
+msgstr "Yayını Görüntüle"
+
+#. STRINGS.UI.BROADCASTING.WEBCAM
+msgctxt "STRINGS.UI.BROADCASTING.WEBCAM"
+msgid "Webcam Enabled"
+msgstr "Kamera Açık"
+
+#. STRINGS.UI.BROADCASTING.WEBCAMALPHA
+msgctxt "STRINGS.UI.BROADCASTING.WEBCAMALPHA"
+msgid "Webcam Alpha"
+msgstr "Kamera Saydamlığı"
+
+#. STRINGS.UI.BROADCASTING.YES
+msgctxt "STRINGS.UI.BROADCASTING.YES"
+msgid "Yes"
+msgstr "Evet"
+
+#. STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_BODY"
+msgid "You have not submitted your report.\nAre you sure you want to cancel?"
+msgstr "Raporunu göndermedin.\nİptal etmek istediğine emin misin?"
+
+#. STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.CANCEL_SUBMIT_HEADER"
+msgid "Cancel Bug Report?"
+msgstr "Hata Raporu İptal Edilsin Mi?"
+
+#. STRINGS.UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.CHANGE_BUG_DESCRIPTION"
+msgid "Change Bug Description"
+msgstr "Hata Açıklamasını Değiştir"
+
+#. STRINGS.UI.BUGREPORTSCREEN.DESCRIPTION_LABEL
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.DESCRIPTION_LABEL"
+msgid "Please describe your issue."
+msgstr "Lütfen sorununu açıkla."
+
+#. STRINGS.UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.ENTER_BUG_DESCRIPTION"
+msgid "Enter Bug Description"
+msgstr "Hata Açıklaması Gir"
+
+#. STRINGS.UI.BUGREPORTSCREEN.NO
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.NO"
+msgid "No"
+msgstr "Hayır"
+
+#. STRINGS.UI.BUGREPORTSCREEN.OK
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.OK"
+msgid "OK"
+msgstr "Tamam"
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT"
+msgid "Submit"
+msgstr "Gönder"
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMITTING_TEXT
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMITTING_TEXT"
+msgid "Submitting files, please wait"
+msgstr "Dosyalar gönderiliyor, lütfen bekleyin"
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_DIALOG_BODY"
+msgid "Submitting a bug report will upload your game information and saved worlds to Klei to help us analyze the issue.\n\nThis may take several minutes."
+msgstr "Hata raporu göndermek, sorunu çözmemize yardımcı olmak için oyun bilgilerini ve kaydedilmiş dünyalarını Klei'ye yükler.\n\nBu birkaç dakika sürebilir."
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_DIALOG_HEADER"
+msgid "Submit Bug Report?"
+msgstr "Hata Raporu Gönderilsin Mi?"
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TEXT"
+msgid "There was a problem uploading your files."
+msgstr "Dosyaların yüklenirken bir sorun oluştu."
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_FAILURE_TITLE"
+msgid "Error"
+msgstr "Hata"
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_SUCCESS
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_SUCCESS"
+msgid "Files successfully uploaded. Thanks for the report!"
+msgstr "Dosyalar başarıyla yüklendi. Rapor için teşekkürler!"
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_SUCCESS_TITLE"
+msgid "Success"
+msgstr "Başarılı"
+
+#. STRINGS.UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.SUBMIT_TEXT_PLACEHOLDER"
+msgid "Please enter a description of the bug you are experiencing and any details that you feel may aid us in fixing it."
+msgstr "Lütfen yaşadığın hatanın açıklamasını ve düzeltmemize yardımcı olabileceğini düşündüğün ayrıntıları gir."
+
+#. STRINGS.UI.BUGREPORTSCREEN.YES
+msgctxt "STRINGS.UI.BUGREPORTSCREEN.YES"
+msgid "Yes"
+msgstr "Evet"
+
+#. STRINGS.UI.BUILTINCOMMANDS.BAN.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.BAN.DESC"
+msgid "Boot someone off the server. 'seconds' param makes the ban temporary."
+msgstr "Birini sunucudan at. 'seconds' parametresi yasağı geçici yapar."
+
+#. STRINGS.UI.BUILTINCOMMANDS.BAN.DESC_CONSOLE
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.BAN.DESC_CONSOLE"
+msgid "Boot someone off the server."
+msgstr "Birini sunucudan at."
+
+#. STRINGS.UI.BUILTINCOMMANDS.BAN.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.BAN.PRETTYNAME"
+msgid "Ban"
+msgstr "Yasakla"
+
+#. STRINGS.UI.BUILTINCOMMANDS.BUG.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.BUG.DESC"
+msgid "Run this to report a problem with the game!"
+msgstr "Oyundaki bir sorunu bildirmek için bunu çalıştır!"
+
+#. STRINGS.UI.BUILTINCOMMANDS.BUG.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.BUG.PRETTYNAME"
+msgid "Report Bug"
+msgstr "Hata Bildir"
+
+#. STRINGS.UI.BUILTINCOMMANDS.EMOTE.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.EMOTE.DESC"
+msgid "Express your feelings!"
+msgstr "Duygularını ifade et!"
+
+#. STRINGS.UI.BUILTINCOMMANDS.EMOTE.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.EMOTE.PRETTYNAME"
+msgid "Emote"
+msgstr "Mimik"
+
+#. STRINGS.UI.BUILTINCOMMANDS.EMOTES.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.EMOTES.DESC"
+msgid "Perform an emote!"
+msgstr "Bir mimik yap!"
+
+#. STRINGS.UI.BUILTINCOMMANDS.EMOTES.PRETTYNAMEFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.EMOTES.PRETTYNAMEFMT"
+msgid "%s emote"
+msgstr "%s mimik"
+
+#. STRINGS.UI.BUILTINCOMMANDS.HELP.AVAILABLE
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.HELP.AVAILABLE"
+msgid "Available commands:"
+msgstr "Kullanılabilir komutlar:"
+
+#. STRINGS.UI.BUILTINCOMMANDS.HELP.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.HELP.DESC"
+msgid "Get more info on commands."
+msgstr "Komutlar hakkında daha fazla bilgi al."
+
+#. STRINGS.UI.BUILTINCOMMANDS.HELP.NOTFOUND
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.HELP.NOTFOUND"
+msgid "Couldn't find a command called '%s'"
+msgstr "'%s' adında bir komut bulunamadı"
+
+#. STRINGS.UI.BUILTINCOMMANDS.HELP.OVERVIEW
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.HELP.OVERVIEW"
+msgid "Type '/help commandname' for more info on a command."
+msgstr "Bir komut hakkında bilgi için '/help komutadı' yaz."
+
+#. STRINGS.UI.BUILTINCOMMANDS.HELP.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.HELP.PRETTYNAME"
+msgid "Command Help"
+msgstr "Komut Yardımı"
+
+#. STRINGS.UI.BUILTINCOMMANDS.KICK.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.KICK.DESC"
+msgid "Boot someone off the server."
+msgstr "Birini sunucudan at."
+
+#. STRINGS.UI.BUILTINCOMMANDS.KICK.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.KICK.PRETTYNAME"
+msgid "Kick"
+msgstr "At"
+
+#. STRINGS.UI.BUILTINCOMMANDS.KICK.VOTENAMEFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.KICK.VOTENAMEFMT"
+msgid "vote to kick %s"
+msgstr "%s atılsın oylaması"
+
+#. STRINGS.UI.BUILTINCOMMANDS.KICK.VOTETITLEFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.KICK.VOTETITLEFMT"
+msgid "Should we kick %s?"
+msgstr "%s atılsın mı?"
+
+#. STRINGS.UI.BUILTINCOMMANDS.LOCKWOBY.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.LOCKWOBY.DESC"
+msgid "Only you have access to items in Woby's pack, unless she is delivering to another player."
+msgstr "Woby başka bir oyuncuya teslimat yapmadığı sürece çantasındaki eşyalara yalnız sen erişirsin."
+
+#. STRINGS.UI.BUILTINCOMMANDS.LOCKWOBY.NOTIFY
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.LOCKWOBY.NOTIFY"
+msgid "Woby's pack is now locked."
+msgstr "Woby'nin çantası artık kilitli."
+
+#. STRINGS.UI.BUILTINCOMMANDS.LOCKWOBY.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.LOCKWOBY.PRETTYNAME"
+msgid "Lock Woby's Pack"
+msgstr "Woby'nin Çantasını Kilitle"
+
+#. STRINGS.UI.BUILTINCOMMANDS.REGENERATE.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.REGENERATE.DESC"
+msgid "Destroy this world and start with a brand new one!"
+msgstr "Bu dünyayı yık ve yepyeni biriyle başla!"
+
+#. STRINGS.UI.BUILTINCOMMANDS.REGENERATE.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.REGENERATE.PRETTYNAME"
+msgid "Regenerate World"
+msgstr "Dünyayı Yeniden Oluştur"
+
+#. STRINGS.UI.BUILTINCOMMANDS.REGENERATE.VOTENAMEFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.REGENERATE.VOTENAMEFMT"
+msgid "vote to regenerate the world"
+msgstr "dünya yeniden oluşturulsun oylaması"
+
+#. STRINGS.UI.BUILTINCOMMANDS.REGENERATE.VOTEPASSEDFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.REGENERATE.VOTEPASSEDFMT"
+msgid "Regenerating world in 5 seconds..."
+msgstr "Dünya 5 saniye içinde yeniden oluşturuluyor..."
+
+#. STRINGS.UI.BUILTINCOMMANDS.REGENERATE.VOTETITLEFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.REGENERATE.VOTETITLEFMT"
+msgid "Should we regenerate the world?"
+msgstr "Dünya yeniden oluşturulsun mu?"
+
+#. STRINGS.UI.BUILTINCOMMANDS.RESCUE.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESCUE.DESC"
+msgid "If you ever find yourself stuck in the void, this will put you back on land."
+msgstr "Boşlukta sıkışıp kaldıysan bu seni karaya geri getirir."
+
+#. STRINGS.UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME"
+msgid "Rescue Me!"
+msgstr "Beni Kurtar!"
+
+#. STRINGS.UI.BUILTINCOMMANDS.RESET.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESET.DESC"
+msgid "Restart the server from the last save."
+msgstr "Sunucuyu son kayıttan yeniden başlat."
+
+#. STRINGS.UI.BUILTINCOMMANDS.RESET.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESET.PRETTYNAME"
+msgid "Reset"
+msgstr "Sıfırla"
+
+#. STRINGS.UI.BUILTINCOMMANDS.ROLL.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLL.DESC"
+msgid "Random dice roll from 1 to 100."
+msgstr "1 ile 100 arasında rastgele zar atışı."
+
+#. STRINGS.UI.BUILTINCOMMANDS.ROLL.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLL.PRETTYNAME"
+msgid "Dice Roll"
+msgstr "Zar At"
+
+#. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.DESC"
+msgid "Rollback the server to a previous save."
+msgstr "Sunucuyu önceki bir kayda geri al."
+
+#. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME"
+msgid "Rollback"
+msgstr "Geri Al"
+
+#. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.VOTENAMEFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.VOTENAMEFMT"
+msgid "vote to rollback the server"
+msgstr "sunucu geri alınsın oylaması"
+
+#. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.VOTEPASSEDFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.VOTEPASSEDFMT"
+msgid "Rolling server back in 5 seconds..."
+msgstr "Sunucu 5 saniye içinde geri alınıyor..."
+
+#. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.VOTETITLEFMT
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.VOTETITLEFMT"
+msgid "Should we rollback this world?"
+msgstr "Bu dünya geri alınsın mı?"
+
+#. STRINGS.UI.BUILTINCOMMANDS.STOPVOTE.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.STOPVOTE.DESC"
+msgid "Cancel a vote in progress if you don't like it!"
+msgstr "Beğenmediğin bir oylamayı iptal et!"
+
+#. STRINGS.UI.BUILTINCOMMANDS.STOPVOTE.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.STOPVOTE.PRETTYNAME"
+msgid "Stop Vote"
+msgstr "Oylamayı Durdur"
+
+#. STRINGS.UI.BUILTINCOMMANDS.UNLOCKWOBY.DESC
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.UNLOCKWOBY.DESC"
+msgid "Everyone will have access to items in Woby's pack."
+msgstr "Herkes Woby'nin çantasındaki eşyalara erişebilecek."
+
+#. STRINGS.UI.BUILTINCOMMANDS.UNLOCKWOBY.NOTIFY
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.UNLOCKWOBY.NOTIFY"
+msgid "Woby's pack is now unlocked."
+msgstr "Woby'nin çantasının kilidi açıldı."
+
+#. STRINGS.UI.BUILTINCOMMANDS.UNLOCKWOBY.PRETTYNAME
+msgctxt "STRINGS.UI.BUILTINCOMMANDS.UNLOCKWOBY.PRETTYNAME"
+msgid "Unlock Woby's Pack"
+msgstr "Woby'nin Çantasını Aç"
+
+#. STRINGS.UI.CHARACTERSELECT.APPLY
+msgctxt "STRINGS.UI.CHARACTERSELECT.APPLY"
+msgid "Apply"
+msgstr "Uygula"
+
+#. STRINGS.UI.CHARACTERSELECT.CANCEL
+msgctxt "STRINGS.UI.CHARACTERSELECT.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.CHARACTERSELECT.DISCONNECT
+msgctxt "STRINGS.UI.CHARACTERSELECT.DISCONNECT"
 msgid "Disconnect"
 msgstr "Bağlantıyı Kes"
 
-#. STRINGS.UI.LOBBYSCREEN.INVITE
-msgctxt "STRINGS.UI.LOBBYSCREEN.INVITE"
-msgid "Invite"
-msgstr "Davet Et"
-
-#. STRINGS.UI.LOBBYSCREEN.INVITE_FRIEND
-msgctxt "STRINGS.UI.LOBBYSCREEN.INVITE_FRIEND"
-msgid "Invite Friend"
-msgstr "Arkadaş Davet Et"
-
-#. STRINGS.UI.LOBBYSCREEN.NEXT
-msgctxt "STRINGS.UI.LOBBYSCREEN.NEXT"
-msgid "Next"
-msgstr "İleri"
-
-#. STRINGS.UI.LOBBYSCREEN.NO
-msgctxt "STRINGS.UI.LOBBYSCREEN.NO"
-msgid "Maybe not..."
-msgstr "Belki de değil..."
-
-#. STRINGS.UI.LOBBYSCREEN.PLAYER
-msgctxt "STRINGS.UI.LOBBYSCREEN.PLAYER"
-msgid "Player"
-msgstr "Oyuncu"
-
-#. STRINGS.UI.LOBBYSCREEN.PLAYERLIST
-msgctxt "STRINGS.UI.LOBBYSCREEN.PLAYERLIST"
-msgid "Players"
-msgstr "Oyuncular"
-
-#. STRINGS.UI.LOBBYSCREEN.READY
-msgctxt "STRINGS.UI.LOBBYSCREEN.READY"
-msgid "Ready!"
-msgstr "Hazır!"
-
-#. STRINGS.UI.LOBBYSCREEN.SELECT
-msgctxt "STRINGS.UI.LOBBYSCREEN.SELECT"
+#. STRINGS.UI.CHARACTERSELECT.SELECT
+msgctxt "STRINGS.UI.CHARACTERSELECT.SELECT"
 msgid "Select"
 msgstr "Seç"
 
-#. STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE
-msgctxt "STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE"
-msgid "Survivor Select"
-msgstr "Hayatta Kalan Seç"
+#. STRINGS.UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.HELP_OPEN_VIRTUAL_KEYBOARD"
+msgid "Open Keyboard"
+msgstr "Klavyeyi Aç"
 
-#. STRINGS.UI.LOBBYSCREEN.SKINS
-msgctxt "STRINGS.UI.LOBBYSCREEN.SKINS"
-msgid "Skins"
-msgstr "Görünümler"
+#. STRINGS.UI.CHATINPUTSCREEN.HELP_SAY
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.HELP_SAY"
+msgid "Say"
+msgstr "Söyle"
 
-#. STRINGS.UI.LOBBYSCREEN.START
-msgctxt "STRINGS.UI.LOBBYSCREEN.START"
-msgid "Go!"
-msgstr "Başla!"
+#. STRINGS.UI.CHATINPUTSCREEN.HELP_WHISPER
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.HELP_WHISPER"
+msgid "Whisper"
+msgstr "Fısılda"
 
-#. STRINGS.UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE
-msgctxt "STRINGS.UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE"
-msgid "Waiting For Other Players"
-msgstr "Diğer Oyuncular Bekleniyor"
+#. STRINGS.UI.CHATINPUTSCREEN.SAY
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.SAY"
+msgid "say:"
+msgstr "söyle:"
 
-#. STRINGS.UI.LOBBYSCREEN.YES
-msgctxt "STRINGS.UI.LOBBYSCREEN.YES"
-msgid "Do it!"
-msgstr "Yap gitsin!"
+#. STRINGS.UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.STEAMDECK_MSG_PROMPT"
+msgid "Message:"
+msgstr "Mesaj:"
 
-#. STRINGS.UI.MAINSCREEN.ACCOUNTINFO
-msgctxt "STRINGS.UI.MAINSCREEN.ACCOUNTINFO"
-msgid "Account Info"
-msgstr "Hesap Bilgisi"
+#. STRINGS.UI.CHATINPUTSCREEN.WHISPER
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.WHISPER"
+msgid "whisper:"
+msgstr "fısılda:"
 
-#. STRINGS.UI.MAINSCREEN.ADVENTURE
-msgctxt "STRINGS.UI.MAINSCREEN.ADVENTURE"
-msgid "Adventure"
-msgstr "Macera"
+#. STRINGS.UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR
+msgctxt "STRINGS.UI.CHATINPUTSCREEN.WHISPER_DESIGNATOR"
+msgid "[W]"
+msgstr "[F]"
 
-#. STRINGS.UI.MAINSCREEN.ASKQUIT
-msgctxt "STRINGS.UI.MAINSCREEN.ASKQUIT"
-msgid "Quit Game?"
-msgstr "Oyundan Çıkılsın mı?"
+#. STRINGS.UI.CLOUDSERVERCREATIONSCREEN.CREATE
+msgctxt "STRINGS.UI.CLOUDSERVERCREATIONSCREEN.CREATE"
+msgid "Create Match"
+msgstr "Maç Oluştur"
 
-#. STRINGS.UI.MAINSCREEN.ASKQUITDESC
-msgctxt "STRINGS.UI.MAINSCREEN.ASKQUITDESC"
-msgid "Charlie will miss you."
-msgstr "Charlie seni özleyecek."
+#. STRINGS.UI.CLOUDSERVERCREATIONSCREEN.TITLE
+msgctxt "STRINGS.UI.CLOUDSERVERCREATIONSCREEN.TITLE"
+msgid "Custom Match"
+msgstr "Özel Maç"
 
-#. STRINGS.UI.MAINSCREEN.BACK
-msgctxt "STRINGS.UI.MAINSCREEN.BACK"
-msgid "Back"
-msgstr "Geri"
+#. STRINGS.UI.COLLECTIONSCREEN.BEARD
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.BEARD"
+msgid "Beards"
+msgstr "Sakallar"
 
-#. STRINGS.UI.MAINSCREEN.BROADCASTING
-msgctxt "STRINGS.UI.MAINSCREEN.BROADCASTING"
-msgid "Broadcasting"
-msgstr "Yayında"
+#. STRINGS.UI.COLLECTIONSCREEN.BEEFALO
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.BEEFALO"
+msgid "Beefalo"
+msgstr "Bızonsığır"
 
-#. STRINGS.UI.MAINSCREEN.BROWSE
-msgctxt "STRINGS.UI.MAINSCREEN.BROWSE"
-msgid "Browse Games"
-msgstr "Oyun Listesi"
+#. STRINGS.UI.COLLECTIONSCREEN.EMOJI
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.EMOJI"
+msgid "Emoticons"
+msgstr "Suratçıklar"
 
-#. STRINGS.UI.MAINSCREEN.BUYNOW
-msgctxt "STRINGS.UI.MAINSCREEN.BUYNOW"
-msgid "Buy Now"
-msgstr "Satın Al"
+#. STRINGS.UI.COLLECTIONSCREEN.EMOTE
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.EMOTE"
+msgid "Emotes"
+msgstr "Mimikler"
 
-#. STRINGS.UI.MAINSCREEN.CANCEL
-msgctxt "STRINGS.UI.MAINSCREEN.CANCEL"
+#. STRINGS.UI.COLLECTIONSCREEN.FAILED_TO_LOAD
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.FAILED_TO_LOAD"
+msgid "Sorry!\nWe've temporarily misplaced your curios.\nPlease try again later."
+msgstr "Üzgünüz!\nSüslerinizi geçici olarak kaybettik.\nLütfen sonra tekrar deneyin."
+
+#. STRINGS.UI.COLLECTIONSCREEN.GAMEITEM
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.GAMEITEM"
+msgid "Belongings"
+msgstr "Eşyalar"
+
+#. STRINGS.UI.COLLECTIONSCREEN.LOADERS
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.LOADERS"
+msgid "Vignettes"
+msgstr "Vinyetler"
+
+#. STRINGS.UI.COLLECTIONSCREEN.NEW
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.NEW"
+msgid "New!"
+msgstr "Yeni!"
+
+#. STRINGS.UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.PORTRAITBACKGROUNDS"
+msgid "Portrait Frames"
+msgstr "Portre Çerçeveleri"
+
+#. STRINGS.UI.COLLECTIONSCREEN.PROFILEFLAIR
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.PROFILEFLAIR"
+msgid "Profile Icons"
+msgstr "Profil Simgeleri"
+
+#. STRINGS.UI.COLLECTIONSCREEN.SET_INFO
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.SET_INFO"
+msgid "Ensemble"
+msgstr "Set"
+
+#. STRINGS.UI.COLLECTIONSCREEN.SKINS
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.SKINS"
+msgid "Wardrobe"
+msgstr "Gardırop"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TITLE
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TITLE"
+msgid "Curio Cabinet"
+msgstr "Süs Dolabı"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEARD
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEARD"
+msgid "View your character beards"
+msgstr "Karakter sakallarını görüntüle"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEEFALO
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_BEEFALO"
+msgid "View your beefalo skins"
+msgstr "Bızonsığır görünümlerini görüntüle"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOJI
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOJI"
+msgid "View your available chat icons"
+msgstr "Sohbet simgelerini görüntüle"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOTE
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_EMOTE"
+msgid "View your character emotes"
+msgstr "Karakter mimiklerini görüntüle"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_GAMEITEM"
+msgid "View your skins for craftable in-game items"
+msgstr "Üretilebilir oyun eşyalarının görünümlerini görüntüle"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_LOADERS
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_LOADERS"
+msgid "Select loading screens to display between games"
+msgstr "Maçlar arası gösterilecek yükleme ekranlarını seç"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_PORTRAITBACKGROUNDS"
+msgid "Equip new backgrounds to your characters' portraits"
+msgstr "Karakter portrelerine yeni arka plan kuşan"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_PROFILEFLAIR"
+msgid "Select an icon for your profile"
+msgstr "Profilin için bir simge seç"
+
+#. STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_SKINS
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.TOOLTIP_SKINS"
+msgid "View and equip your character skins"
+msgstr "Karakter görünümlerini görüntüle ve kuşan"
+
+#. STRINGS.UI.COLLECTIONSCREEN.VIEW_MARKET
+msgctxt "STRINGS.UI.COLLECTIONSCREEN.VIEW_MARKET"
+msgid "Steam"
+msgstr "Steam"
+
+#. STRINGS.UI.COLOUR.Black
+msgctxt "STRINGS.UI.COLOUR.Black"
+msgid "Black"
+msgstr "Siyah"
+
+#. STRINGS.UI.COLOUR.Blue
+msgctxt "STRINGS.UI.COLOUR.Blue"
+msgid "Blue"
+msgstr "Mavi"
+
+#. STRINGS.UI.COLOUR.Brown
+msgctxt "STRINGS.UI.COLOUR.Brown"
+msgid "Brown"
+msgstr "Kahverengi"
+
+#. STRINGS.UI.COLOUR.Green
+msgctxt "STRINGS.UI.COLOUR.Green"
+msgid "Green"
+msgstr "Yeşil"
+
+#. STRINGS.UI.COLOUR.Grey
+msgctxt "STRINGS.UI.COLOUR.Grey"
+msgid "Gray"
+msgstr "Gri"
+
+#. STRINGS.UI.COLOUR.Navy
+msgctxt "STRINGS.UI.COLOUR.Navy"
+msgid "Navy"
+msgstr "Lacivert"
+
+#. STRINGS.UI.COLOUR.Orange
+msgctxt "STRINGS.UI.COLOUR.Orange"
+msgid "Orange"
+msgstr "Turuncu"
+
+#. STRINGS.UI.COLOUR.Pink
+msgctxt "STRINGS.UI.COLOUR.Pink"
+msgid "Pink"
+msgstr "Pembe"
+
+#. STRINGS.UI.COLOUR.Purple
+msgctxt "STRINGS.UI.COLOUR.Purple"
+msgid "Purple"
+msgstr "Mor"
+
+#. STRINGS.UI.COLOUR.Red
+msgctxt "STRINGS.UI.COLOUR.Red"
+msgid "Red"
+msgstr "Kırmızı"
+
+#. STRINGS.UI.COLOUR.Tan
+msgctxt "STRINGS.UI.COLOUR.Tan"
+msgid "Tan"
+msgstr "Bej"
+
+#. STRINGS.UI.COLOUR.Teal
+msgctxt "STRINGS.UI.COLOUR.Teal"
+msgid "Teal"
+msgstr "Camgöbeği"
+
+#. STRINGS.UI.COLOUR.White
+msgctxt "STRINGS.UI.COLOUR.White"
+msgid "White"
+msgstr "Beyaz"
+
+#. STRINGS.UI.COLOUR.Yellow
+msgctxt "STRINGS.UI.COLOUR.Yellow"
+msgid "Yellow"
+msgstr "Sarı"
+
+#. STRINGS.UI.COMMANDSSCREEN.CANCEL
+msgctxt "STRINGS.UI.COMMANDSSCREEN.CANCEL"
 msgid "Cancel"
 msgstr "İptal"
 
-#. STRINGS.UI.MAINSCREEN.CHEATS
-msgctxt "STRINGS.UI.MAINSCREEN.CHEATS"
-msgid "Cheats"
-msgstr "Hileler"
+#. STRINGS.UI.COMMANDSSCREEN.CONFIRMBODY
+msgctxt "STRINGS.UI.COMMANDSSCREEN.CONFIRMBODY"
+msgid "Are you sure?"
+msgstr "Emin misin?"
 
-#. STRINGS.UI.MAINSCREEN.COMPENDIUM
-msgctxt "STRINGS.UI.MAINSCREEN.COMPENDIUM"
-msgid "Compendium"
-msgstr "Külliyat"
+#. STRINGS.UI.COMMANDSSCREEN.CONFIRMTITLE
+msgctxt "STRINGS.UI.COMMANDSSCREEN.CONFIRMTITLE"
+msgid "Really %s?"
+msgstr "Cidden %s?"
 
-#. STRINGS.UI.MAINSCREEN.CONTINUE
-msgctxt "STRINGS.UI.MAINSCREEN.CONTINUE"
-msgid "Continue"
-msgstr "Devam Et"
+#. STRINGS.UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET
+msgctxt "STRINGS.UI.COMMANDSSCREEN.CONFIRMTITLE_TARGET"
+msgid "Really %s %s?"
+msgstr "Cidden %s %s?"
 
-#. STRINGS.UI.MAINSCREEN.CONTROLS
-msgctxt "STRINGS.UI.MAINSCREEN.CONTROLS"
-msgid "Controls"
-msgstr "Kontroller"
+#. STRINGS.UI.COMMANDSSCREEN.HIDE_SERVERNAME
+msgctxt "STRINGS.UI.COMMANDSSCREEN.HIDE_SERVERNAME"
+msgid "Hide Server Name"
+msgstr "Sunucu Adını Gizle"
 
-#. STRINGS.UI.MAINSCREEN.CREATE
-msgctxt "STRINGS.UI.MAINSCREEN.CREATE"
-msgid "Host Game"
-msgstr "Oyun Kur"
+#. STRINGS.UI.COMMANDSSCREEN.SERVERSUBTITLE
+msgctxt "STRINGS.UI.COMMANDSSCREEN.SERVERSUBTITLE"
+msgid "Actions for"
+msgstr "Şunun için eylemler:"
 
-#. STRINGS.UI.MAINSCREEN.CREDITS
-msgctxt "STRINGS.UI.MAINSCREEN.CREDITS"
-msgid "Credits"
-msgstr "Künye"
+#. STRINGS.UI.COMMANDSSCREEN.SERVERTITLE
+msgctxt "STRINGS.UI.COMMANDSSCREEN.SERVERTITLE"
+msgid "The Server"
+msgstr "Sunucu"
 
-#. STRINGS.UI.MAINSCREEN.DELETE
-msgctxt "STRINGS.UI.MAINSCREEN.DELETE"
-msgid "Delete"
-msgstr "Sil"
+#. STRINGS.UI.COMMANDSSCREEN.SHOW_SERVERNAME
+msgctxt "STRINGS.UI.COMMANDSSCREEN.SHOW_SERVERNAME"
+msgid "Show Server Name"
+msgstr "Sunucu Adını Göster"
 
-#. STRINGS.UI.MAINSCREEN.MODS
-msgctxt "STRINGS.UI.MAINSCREEN.MODS"
-msgid "Mods"
-msgstr "Modlar"
+#. STRINGS.UI.COMMANDSSCREEN.USERSUBTITLE
+msgctxt "STRINGS.UI.COMMANDSSCREEN.USERSUBTITLE"
+msgid "User Actions for"
+msgstr "Şu kullanıcı için eylemler:"
 
-#. STRINGS.UI.MAINSCREEN.OPTIONS
-msgctxt "STRINGS.UI.MAINSCREEN.OPTIONS"
-msgid "Options"
-msgstr "Ayarlar"
+#. STRINGS.UI.COMMANDSSCREEN.VOTEFMT
+msgctxt "STRINGS.UI.COMMANDSSCREEN.VOTEFMT"
+msgid "%s (vote)"
+msgstr "%s (oyla)"
 
-#. STRINGS.UI.MAINSCREEN.PLAY
-msgctxt "STRINGS.UI.MAINSCREEN.PLAY"
-msgid "Play"
-msgstr "Oyna"
+#. STRINGS.UI.COMMANDWHEEL.EMOTES
+msgctxt "STRINGS.UI.COMMANDWHEEL.EMOTES"
+msgid "Emotes"
+msgstr "Mimikler"
 
-#. STRINGS.UI.MAINSCREEN.QUIT
-msgctxt "STRINGS.UI.MAINSCREEN.QUIT"
-msgid "Quit"
-msgstr "Çıkış"
+#. STRINGS.UI.COMMANDWHEEL.INVITE
+msgctxt "STRINGS.UI.COMMANDWHEEL.INVITE"
+msgid "Send Invitation"
+msgstr "Davet Gönder"
+
+#. STRINGS.UI.COMMANDWHEEL.PLAYERLIST
+msgctxt "STRINGS.UI.COMMANDWHEEL.PLAYERLIST"
+msgid "Player Listing"
+msgstr "Oyuncu Listesi"
+
+#. STRINGS.UI.COMMANDWHEEL.SAY
+msgctxt "STRINGS.UI.COMMANDWHEEL.SAY"
+msgid "Say"
+msgstr "Söyle"
+
+#. STRINGS.UI.COMMANDWHEEL.USERCOMMANDS
+msgctxt "STRINGS.UI.COMMANDWHEEL.USERCOMMANDS"
+msgid "Miscellaneous"
+msgstr "Çeşitli"
+
+#. STRINGS.UI.COMMANDWHEEL.WHISPER
+msgctxt "STRINGS.UI.COMMANDWHEEL.WHISPER"
+msgid "Whisper"
+msgstr "Fısılda"
+
+#. STRINGS.UI.COMPENDIUM.CAUSEOFDEATH_OTHER
+msgctxt "STRINGS.UI.COMPENDIUM.CAUSEOFDEATH_OTHER"
+msgid "Other"
+msgstr "Diğer"
+
+#. STRINGS.UI.COMPENDIUM.CHARACTERDETAILS
+msgctxt "STRINGS.UI.COMPENDIUM.CHARACTERDETAILS"
+msgid "Survivors"
+msgstr "Hayatta Kalanlar"
+
+#. STRINGS.UI.COMPENDIUM.CINEMATICS
+msgctxt "STRINGS.UI.COMPENDIUM.CINEMATICS"
+msgid "Cinematics"
+msgstr "Sinematikler"
+
+#. STRINGS.UI.COMPENDIUM.COOKBOOKPANEL
+msgctxt "STRINGS.UI.COMPENDIUM.COOKBOOKPANEL"
+msgid "Cookbook"
+msgstr "Yemek Kitabı"
+
+#. STRINGS.UI.COMPENDIUM.ENCOUNTERS
+msgctxt "STRINGS.UI.COMPENDIUM.ENCOUNTERS"
+msgid "Encounters"
+msgstr "Karşılaşmalar"
+
+#. STRINGS.UI.COMPENDIUM.HISTORYOFTRAVELS
+msgctxt "STRINGS.UI.COMPENDIUM.HISTORYOFTRAVELS"
+msgid "History of Travels"
+msgstr "Yolculuk Tarihçesi"
+
+#. STRINGS.UI.COMPENDIUM.OBITUARIES
+msgctxt "STRINGS.UI.COMPENDIUM.OBITUARIES"
+msgid "Obituaries"
+msgstr "Vefat İlanları"
+
+#. STRINGS.UI.COMPENDIUM.PLANTREGISTRYPANEL
+msgctxt "STRINGS.UI.COMPENDIUM.PLANTREGISTRYPANEL"
+msgid "Plant Registry"
+msgstr "Bitki Kayıtları"
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_CHARACTERDETAILS"
+msgid "The survivors of the Constant"
+msgstr "Daimi'nin hayatta kalanları"
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_CINEMATICS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_CINEMATICS"
+msgid "Pretty movies!"
+msgstr "Şirin filmler!"
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_COOKBOOKPANEL"
+msgid "The Constant's guide to cookery"
+msgstr "Daimi'nin aşçılık rehberi"
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_ENCOUNTERS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_ENCOUNTERS"
+msgid "A history of those you've crossed paths with"
+msgstr "Yolun kesiştiği varlıkların tarihçesi"
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_HISTORYOFTRAVELS"
+msgid "A summary of your adventures"
+msgstr "Maceralarının özeti"
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_OBITUARIES
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_OBITUARIES"
+msgid "Reminisce over past mistakes"
+msgstr "Geçmiş hataları hatırla"
+
+#. STRINGS.UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY
+msgctxt "STRINGS.UI.COMPENDIUM.TOOLTIP_PLANTREGISTRY"
+msgid "The Constant gardener's almanac"
+msgstr "Daimi bahçıvanının almanağı"
+
+#. STRINGS.UI.CONSOLESCREEN.LOCALEXECUTE
+msgctxt "STRINGS.UI.CONSOLESCREEN.LOCALEXECUTE"
+msgid "Local:"
+msgstr "Yerel:"
+
+#. STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE
+msgctxt "STRINGS.UI.CONSOLESCREEN.REMOTEEXECUTE"
+msgid "Remote:"
+msgstr "Uzak:"
+
+#. STRINGS.UI.CONTROLSSCREEN.APPLY
+msgctxt "STRINGS.UI.CONTROLSSCREEN.APPLY"
+msgid "Apply"
+msgstr "Uygula"
+
+#. STRINGS.UI.CONTROLSSCREEN.APPLYBODY
+msgctxt "STRINGS.UI.CONTROLSSCREEN.APPLYBODY"
+msgid "Do you wish to accept these changes?"
+msgstr "Bu değişiklikleri onaylamak istiyor musun?"
+
+#. STRINGS.UI.CONTROLSSCREEN.APPLYTITLE
+msgctxt "STRINGS.UI.CONTROLSSCREEN.APPLYTITLE"
+msgid "Accept Changes"
+msgstr "Değişiklikleri Onayla"
+
+#. STRINGS.UI.CONTROLSSCREEN.BACK
+msgctxt "STRINGS.UI.CONTROLSSCREEN.BACK"
+msgid "Back"
+msgstr "Geri"
+
+#. STRINGS.UI.CONTROLSSCREEN.CANCEL
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.CONTROLSSCREEN.CHANGEBIND
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CHANGEBIND"
+msgid "Change Bind"
+msgstr "Tuşu Değiştir"
+
+#. STRINGS.UI.CONTROLSSCREEN.CLOSE
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CLOSE"
+msgid "Close"
+msgstr "Kapat"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.1
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.1"
+msgid "Primary"
+msgstr "Birincil"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.10
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.10"
+msgid "Zoom In"
+msgstr "Yakınlaş"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.101
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.101"
+msgid "Toggle Alignment (mod)"
+msgstr "Hizalamayı Aç/Kapa (mod)"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.102
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.102"
+msgid "Cycle Alignment Grid"
+msgstr "Hizalama Izgarasını Değiştir"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.11
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.11"
+msgid "Zoom Out"
+msgstr "Uzaklaş"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.12
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.12"
+msgid "Rotate Left"
+msgstr "Sola Döndür"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.13
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.13"
+msgid "Rotate Right"
+msgstr "Sağa Döndür"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.14
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.14"
+msgid "Pause"
+msgstr "Duraklat"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.15
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.15"
+msgid "Map"
+msgstr "Harita"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.16
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.16"
+msgid "Inv 1"
+msgstr "Env 1"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.17
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.17"
+msgid "Inv 2"
+msgstr "Env 2"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.18
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.18"
+msgid "Inv 3"
+msgstr "Env 3"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.19
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.19"
+msgid "Inv 4"
+msgstr "Env 4"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.2
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.2"
+msgid "Secondary"
+msgstr "İkincil"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.20
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.20"
+msgid "Inv 5"
+msgstr "Env 5"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.21
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.21"
+msgid "Inv 6"
+msgstr "Env 6"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.22
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.22"
+msgid "Inv 7"
+msgstr "Env 7"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.23
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.23"
+msgid "Inv 8"
+msgstr "Env 8"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.24
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.24"
+msgid "Inv 9"
+msgstr "Env 9"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.25
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.25"
+msgid "Inv 10"
+msgstr "Env 10"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.26
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.26"
+msgid "Menu Up"
+msgstr "Menü Yukarı"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.27
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.27"
+msgid "Menu Down"
+msgstr "Menü Aşağı"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.28
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.28"
+msgid "Menu Left"
+msgstr "Menü Sol"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.29
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.29"
+msgid "Menu Right"
+msgstr "Menü Sağ"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.3
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.3"
+msgid "Do Attack"
+msgstr "Saldır"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.30
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.30"
+msgid "Menu Accept"
+msgstr "Menü Onayla"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.31
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.31"
+msgid "Menu Cancel"
+msgstr "Menü İptal"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.32
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.32"
+msgid "Menu Scroll Up"
+msgstr "Menü Yukarı Kaydır"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.33
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.33"
+msgid "Menu Scroll Down"
+msgstr "Menü Aşağı Kaydır"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.34
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.34"
+msgid "Menu Prev Value"
+msgstr "Menü Önceki Değer"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.35
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.35"
+msgid "Menu Next Value"
+msgstr "Menü Sonraki Değer"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.36
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.36"
+msgid "Take Half"
+msgstr "Yarısını Al"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.37
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.37"
+msgid "Change Box"
+msgstr "Kutu Değiştir"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.38
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.38"
+msgid "Change Box (Half)"
+msgstr "Kutu Değiştir (Yarım)"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.39
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.39"
+msgid "Force Inspect (mod)"
+msgstr "Zorla İncele (mod)"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.4
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.4"
+msgid "Examine"
+msgstr "İncele"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.40
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.40"
+msgid "Force Attack (mod)"
+msgstr "Zorla Saldır (mod)"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.41
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.41"
+msgid "Force Container (mod)"
+msgstr "Zorla Kap (mod)"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.42
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.42"
+msgid "Force Stack (mod)"
+msgstr "Zorla Yığ (mod)"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.43
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.43"
+msgid "Debug Console"
+msgstr "Hata Ayıklama Konsolu"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.44
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.44"
+msgid "Debug Log"
+msgstr "Hata Ayıklama Logu"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.45
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.45"
+msgid "Debug Render"
+msgstr "Hata Ayıklama Çizimi"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.46
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.46"
+msgid "Open Inventory"
+msgstr "Envanteri Aç"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.47
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.47"
+msgid "Open Crafting Menu"
+msgstr "Üretim Menüsünü Aç"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.48
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.48"
+msgid "Inv Left"
+msgstr "Env Sol"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.49
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.49"
+msgid "Inv Right"
+msgstr "Env Sağ"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.5
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.5"
+msgid "Do Action"
+msgstr "Eyleme Geç"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.50
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.50"
+msgid "Inv Up"
+msgstr "Env Yukarı"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.51
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.51"
+msgid "Inv Down"
+msgstr "Env Aşağı"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.52
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.52"
+msgid "Inv Examine"
+msgstr "Env İncele"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.53
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.53"
+msgid "Inv Use Self"
+msgstr "Env Kendine Kullan"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.54
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.54"
+msgid "Inv Use Scene"
+msgstr "Env Sahnede Kullan"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.55
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.55"
+msgid "Inv Drop"
+msgstr "Env Bırak"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.56
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.56"
+msgid "Inv Adjust Stack"
+msgstr "Env Yığını Ayarla"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.57
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.57"
+msgid "Attack"
+msgstr "Saldırı"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.58
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.58"
+msgid "Action"
+msgstr "Eylem"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.59
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.59"
+msgid "Alt Action"
+msgstr "Alt Eylem"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.6
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.6"
+msgid "Move Up"
+msgstr "Yukarı Hareket"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.60
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.60"
+msgid "Inv Use On Item"
+msgstr "Env Eşyada Kullan"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.61
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.61"
+msgid "Map Zoom In"
+msgstr "Haritada Yakınlaş"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.62
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.62"
+msgid "Map Zoom Out"
+msgstr "Haritada Uzaklaş"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.63
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.63"
+msgid "Debug Menu"
+msgstr "Hata Ayıklama Menüsü"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.64
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.64"
+msgid "Global Chat"
+msgstr "Genel Sohbet"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.65
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.65"
+msgid "Whisper Chat"
+msgstr "Fısıltı Sohbet"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.66
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.66"
+msgid "Slash Command"
+msgstr "Slash Komutu"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.67
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.67"
+msgid "Scoreboard"
+msgstr "Skor Tablosu"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.68
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.68"
+msgid "Scoreboard"
+msgstr "Skor Tablosu"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.69
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.69"
+msgid "Menu Misc 1"
+msgstr "Menü Çeşitli 1"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.7
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.7"
+msgid "Move Down"
+msgstr "Aşağı Hareket"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.70
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.70"
+msgid "Menu Misc 2"
+msgstr "Menü Çeşitli 2"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.71
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.71"
+msgid "Menu Misc 3"
+msgstr "Menü Çeşitli 3"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.72
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.72"
+msgid "Menu Misc 4"
+msgstr "Menü Çeşitli 4"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.73
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.73"
+msgid "Inspect Self"
+msgstr "Kendini İncele"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.74
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.74"
+msgid "Pause Server"
+msgstr "Sunucuyu Duraklat"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.75
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.75"
+msgid "Crafting Menu (mod)"
+msgstr "Üretim Menüsü (mod)"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.76
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.76"
+msgid "Pinned Recipes Page Left"
+msgstr "Sabitli Tarifler Sol Sayfa"
+
+#. STRINGS.UI.CONTROLSSCREEN.CONTROLS.77
+msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.77"
+msgid "Pinned Recipes Page Right"
+msgstr "Sabitli Tarifler Sağ Sayfa"
 
