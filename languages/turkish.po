@@ -3,27 +3,198 @@ msgstr ""
 "Application: Don't Starve\n"
 "POT Version: 2.0\n"
 
-#. STRINGS.UI.MAINSCREEN.PLAY
-msgctxt "STRINGS.UI.MAINSCREEN.PLAY"
-msgid "Play"
-msgstr "OYNA"
+#. STRINGS.UI.LOBBYSCREEN.APPLY
+msgctxt "STRINGS.UI.LOBBYSCREEN.APPLY"
+msgid "Apply"
+msgstr "Uygula"
 
-#. STRINGS.UI.MAINSCREEN.OPTIONS
-msgctxt "STRINGS.UI.MAINSCREEN.OPTIONS"
-msgid "Options"
-msgstr "Ayarlar"
+#. STRINGS.UI.LOBBYSCREEN.BACK
+msgctxt "STRINGS.UI.LOBBYSCREEN.BACK"
+msgid "Back"
+msgstr "Geri"
 
-#. STRINGS.UI.MAINSCREEN.QUIT
-msgctxt "STRINGS.UI.MAINSCREEN.QUIT"
-msgid "Quit"
-msgstr "Çıkış"
+#. STRINGS.UI.LOBBYSCREEN.CANCEL
+msgctxt "STRINGS.UI.LOBBYSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.LOBBYSCREEN.CHAT
+msgctxt "STRINGS.UI.LOBBYSCREEN.CHAT"
+msgid "Chat"
+msgstr "Sohbet"
+
+#. STRINGS.UI.LOBBYSCREEN.CUSTOMIZE
+msgctxt "STRINGS.UI.LOBBYSCREEN.CUSTOMIZE"
+msgid "Customize Your Character"
+msgstr "Karakterini Özelleştir"
+
+#. STRINGS.UI.LOBBYSCREEN.DISCONNECT
+msgctxt "STRINGS.UI.LOBBYSCREEN.DISCONNECT"
+msgid "Disconnect"
+msgstr "Bağlantıyı Kes"
+
+#. STRINGS.UI.LOBBYSCREEN.INVITE
+msgctxt "STRINGS.UI.LOBBYSCREEN.INVITE"
+msgid "Invite"
+msgstr "Davet Et"
+
+#. STRINGS.UI.LOBBYSCREEN.INVITE_FRIEND
+msgctxt "STRINGS.UI.LOBBYSCREEN.INVITE_FRIEND"
+msgid "Invite Friend"
+msgstr "Arkadaş Davet Et"
+
+#. STRINGS.UI.LOBBYSCREEN.NEXT
+msgctxt "STRINGS.UI.LOBBYSCREEN.NEXT"
+msgid "Next"
+msgstr "İleri"
+
+#. STRINGS.UI.LOBBYSCREEN.NO
+msgctxt "STRINGS.UI.LOBBYSCREEN.NO"
+msgid "Maybe not..."
+msgstr "Belki de değil..."
+
+#. STRINGS.UI.LOBBYSCREEN.PLAYER
+msgctxt "STRINGS.UI.LOBBYSCREEN.PLAYER"
+msgid "Player"
+msgstr "Oyuncu"
+
+#. STRINGS.UI.LOBBYSCREEN.PLAYERLIST
+msgctxt "STRINGS.UI.LOBBYSCREEN.PLAYERLIST"
+msgid "Players"
+msgstr "Oyuncular"
+
+#. STRINGS.UI.LOBBYSCREEN.READY
+msgctxt "STRINGS.UI.LOBBYSCREEN.READY"
+msgid "Ready!"
+msgstr "Hazır!"
+
+#. STRINGS.UI.LOBBYSCREEN.SELECT
+msgctxt "STRINGS.UI.LOBBYSCREEN.SELECT"
+msgid "Select"
+msgstr "Seç"
+
+#. STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE
+msgctxt "STRINGS.UI.LOBBYSCREEN.SELECTION_TITLE"
+msgid "Survivor Select"
+msgstr "Hayatta Kalan Seç"
+
+#. STRINGS.UI.LOBBYSCREEN.SKINS
+msgctxt "STRINGS.UI.LOBBYSCREEN.SKINS"
+msgid "Skins"
+msgstr "Görünümler"
+
+#. STRINGS.UI.LOBBYSCREEN.START
+msgctxt "STRINGS.UI.LOBBYSCREEN.START"
+msgid "Go!"
+msgstr "Başla!"
+
+#. STRINGS.UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE
+msgctxt "STRINGS.UI.LOBBYSCREEN.WAITING_FOR_PLAYERS_TITLE"
+msgid "Waiting For Other Players"
+msgstr "Diğer Oyuncular Bekleniyor"
+
+#. STRINGS.UI.LOBBYSCREEN.YES
+msgctxt "STRINGS.UI.LOBBYSCREEN.YES"
+msgid "Do it!"
+msgstr "Yap gitsin!"
+
+#. STRINGS.UI.MAINSCREEN.ACCOUNTINFO
+msgctxt "STRINGS.UI.MAINSCREEN.ACCOUNTINFO"
+msgid "Account Info"
+msgstr "Hesap Bilgisi"
+
+#. STRINGS.UI.MAINSCREEN.ADVENTURE
+msgctxt "STRINGS.UI.MAINSCREEN.ADVENTURE"
+msgid "Adventure"
+msgstr "Macera"
+
+#. STRINGS.UI.MAINSCREEN.ASKQUIT
+msgctxt "STRINGS.UI.MAINSCREEN.ASKQUIT"
+msgid "Quit Game?"
+msgstr "Oyundan Çıkılsın mı?"
+
+#. STRINGS.UI.MAINSCREEN.ASKQUITDESC
+msgctxt "STRINGS.UI.MAINSCREEN.ASKQUITDESC"
+msgid "Charlie will miss you."
+msgstr "Charlie seni özleyecek."
+
+#. STRINGS.UI.MAINSCREEN.BACK
+msgctxt "STRINGS.UI.MAINSCREEN.BACK"
+msgid "Back"
+msgstr "Geri"
+
+#. STRINGS.UI.MAINSCREEN.BROADCASTING
+msgctxt "STRINGS.UI.MAINSCREEN.BROADCASTING"
+msgid "Broadcasting"
+msgstr "Yayında"
+
+#. STRINGS.UI.MAINSCREEN.BROWSE
+msgctxt "STRINGS.UI.MAINSCREEN.BROWSE"
+msgid "Browse Games"
+msgstr "Oyun Listesi"
+
+#. STRINGS.UI.MAINSCREEN.BUYNOW
+msgctxt "STRINGS.UI.MAINSCREEN.BUYNOW"
+msgid "Buy Now"
+msgstr "Satın Al"
+
+#. STRINGS.UI.MAINSCREEN.CANCEL
+msgctxt "STRINGS.UI.MAINSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.MAINSCREEN.CHEATS
+msgctxt "STRINGS.UI.MAINSCREEN.CHEATS"
+msgid "Cheats"
+msgstr "Hileler"
+
+#. STRINGS.UI.MAINSCREEN.COMPENDIUM
+msgctxt "STRINGS.UI.MAINSCREEN.COMPENDIUM"
+msgid "Compendium"
+msgstr "Külliyat"
+
+#. STRINGS.UI.MAINSCREEN.CONTINUE
+msgctxt "STRINGS.UI.MAINSCREEN.CONTINUE"
+msgid "Continue"
+msgstr "Devam Et"
+
+#. STRINGS.UI.MAINSCREEN.CONTROLS
+msgctxt "STRINGS.UI.MAINSCREEN.CONTROLS"
+msgid "Controls"
+msgstr "Kontroller"
+
+#. STRINGS.UI.MAINSCREEN.CREATE
+msgctxt "STRINGS.UI.MAINSCREEN.CREATE"
+msgid "Host Game"
+msgstr "Oyun Kur"
+
+#. STRINGS.UI.MAINSCREEN.CREDITS
+msgctxt "STRINGS.UI.MAINSCREEN.CREDITS"
+msgid "Credits"
+msgstr "Künye"
+
+#. STRINGS.UI.MAINSCREEN.DELETE
+msgctxt "STRINGS.UI.MAINSCREEN.DELETE"
+msgid "Delete"
+msgstr "Sil"
 
 #. STRINGS.UI.MAINSCREEN.MODS
 msgctxt "STRINGS.UI.MAINSCREEN.MODS"
 msgid "Mods"
 msgstr "Modlar"
 
-#. DIAKRITIK_TEST_AYDIN
-msgctxt "STRINGS.UI.MAINSCREEN.PLAY_TOOLTIP"
-msgid "Choose your adventure!"
-msgstr "Maceranı seç! (ŞÇĞİÖÜ şçğıöü — diakritik testi)"
+#. STRINGS.UI.MAINSCREEN.OPTIONS
+msgctxt "STRINGS.UI.MAINSCREEN.OPTIONS"
+msgid "Options"
+msgstr "Ayarlar"
+
+#. STRINGS.UI.MAINSCREEN.PLAY
+msgctxt "STRINGS.UI.MAINSCREEN.PLAY"
+msgid "Play"
+msgstr "Oyna"
+
+#. STRINGS.UI.MAINSCREEN.QUIT
+msgctxt "STRINGS.UI.MAINSCREEN.QUIT"
+msgid "Quit"
+msgstr "Çıkış"
+

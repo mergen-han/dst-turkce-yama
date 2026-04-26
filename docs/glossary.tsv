@@ -1,0 +1,137 @@
+# DST Türkçe Yama — Terim Sözlüğü (Glossary)
+# Format: EN_term <TAB> TR_term <TAB> notes
+# Bu dosya çevirilerde MUTLAK referanstır. Yeni terim eklerken karakter ses tonunu, kafiyeyi, oyun bağlamını düşün.
+# Yorum satırı için '#' kullan. Boş satırlar atlanır.
+#
+# === İSTAT/SİSTEM ===
+Health	Can	asla "sağlık" değil; UI'da bar başlığı
+Sanity	Akıl	"akıl sağlığı" yer kaplar; "Akıl" tek başına oturur
+Hunger	Açlık	bar başlığı; "Tokluk" değil
+Wetness	Islaklık	yağmur sistemi
+Temperature	Sıcaklık
+Day	Gün
+Night	Gece
+Dusk	Alacakaranlık
+Winter	Kış
+Spring	İlkbahar
+Summer	Yaz
+Autumn	Sonbahar
+#
+# === ANA OBJELER & DÜŞMANLAR ===
+Spider	Örümcek
+Spider Den	Örümcek İni	"yuva" değil, "in" daha karanlık
+Pig	Domuz
+Pig King	Domuzların Kralı	"Domuz Kral" KULLANMA, doğal değil
+Bunnyman	Tavşanadam	"adam" bitişik
+Werepig	Kurtdomuz	"were-" → "kurt-" (kurtadam analoğu)
+Krampus	Krampus	özel isim, çeviri yok
+Deerclops	Geyikgöz	klasik isim
+Bearger	Ayıger	(Ayı + Badger ⇒ Türkçe karşılığı yok, transliterate)
+Moose/Goose	Tos/Kaz	(çift karakter, dual-form)
+Ancient Guardian	Kadim Muhafız
+Klaus	Klaus	özel isim
+Toadstool	Mantarkurbağa	(Toad+Stool wordplay → Mantar+Kurbağa)
+Misery Toadstool	Çile Mantarkurbağası
+Fuelweaver	Yakıtdokur	(Fuel+Weaver portmanto)
+Crab King	Yengeçlerin Kralı
+Celestial Champion	Semavi Şampiyon
+#
+# === KARAKTERLER (özel isim, çeviri yok) ===
+Wilson	Wilson
+Willow	Willow
+Wolfgang	Wolfgang
+Wendy	Wendy
+WX-78	WX-78
+Wickerbottom	Wickerbottom
+Woodie	Woodie
+Maxwell	Maxwell	(soyad: The Magnificent → Şahane)
+Wathgrithr	Wathgrithr	bilinen lakap "Wigfrid" — özel isim
+Wigfrid	Wigfrid
+Webber	Webber
+Winona	Winona
+Warly	Warly
+Wormwood	Wormwood
+Wortox	Wortox
+Wurt	Wurt
+Walter	Walter
+Wanda	Wanda
+Abigail	Abigail
+Charlie	Charlie
+#
+# === ITEM ÖRNEKLERİ (genişletilecek, ~500 hedefi) ===
+Pretty Parasol	Şirin Şemsiye	kafiye korunsun
+Eyebrella	Gözlemsiye	"eye+umbrella" portmanto → "göz+şemsiye"
+Tam o' Shanter	Tam Şapkası	İskoç şapkası, telafuz korundu
+Football Helmet	Futbol Kaskı
+Log Suit	Kütük Zırh
+Marble Suit	Mermer Zırh
+Backpack	Sırt Çantası
+Piggyback	Domuzçanta	(piggy+back portmanto)
+Krampus Sack	Krampus Çuvalı
+Spear	Mızrak
+Tentacle Spike	Dokunaç Diken
+Ham Bat	Jambon Sopa
+Dark Sword	Kara Kılıç
+Battle Spear	Savaş Mızrağı
+Bee Box	Arı Kutusu
+Beefalo	Bızonsığır	(beefalo özel ama Türkçeye uyarlama; alternatif: "Bizon" tek başına)
+Drumstick	BuT	(tavuk budu anlamında)
+Monster Meat	Canavar Eti
+Meatballs	Köfte
+Pierogi	Mantı	(yerelleştirme; "pierogi" Türk halkına yakın değil)
+Honey Ham	Ballı Jambon
+Jerky	Pastırma	(jerky → pastırma yerelleştirme)
+Berry	Meyve
+Carrot	Havuç
+Pumpkin	Bal Kabağı
+Twigs	Çubuk
+Grass	Çayır	("ot" değil; Long Grass = Uzun Çayır)
+Cut Grass	Biçilmiş Çayır
+Log	Kütük
+Boards	Tahta
+Rocks	Taş
+Flint	Çakmaktaşı
+Gold Nugget	Altın Külçesi
+Silk	İpek
+Hound's Tooth	İt Dişi	("hound" → "it/tazı"; "tazı dişi" alternatif)
+Bone Shard	Kemik Kırığı
+Glommer's Goop	Glommer Sümüğü
+#
+# === BİYOMLAR & YAPILAR ===
+Forest	Orman
+Cave	Mağara
+Ruins	Harabeler
+Atrium	Atriyum
+Lunar Island	Ay Adası
+Oasis	Vaha
+Swamp	Bataklık
+Rocklands	Taşlık
+Lights Out	Işıklar Sönsün
+Lava Pond	Lav Gölü
+Touch Stone	Diriliş Taşı	(meaning > literal: bu taş seni dirilten)
+Telltale Heart	Yürek Tılsımı	("telltale" → ifşa eden, ama kontekst: bu kalp seni geri getirir)
+Meat Effigy	Et Heykel
+Florid Postern	Çiçekli Çeşmecik	("florid" çiçekli; "postern" küçük arka kapı)
+#
+# === MENÜ & UI ===
+Play	Oyna
+Browse Games	Oyun Listesi
+Host Game	Oyun Kur	("ev sahipliği yap" çok uzun)
+Item Collection	Eşya Koleksiyonu
+Compendium	Külliyat	(eski Türkçe ama Wickerbottom'a yakışır)
+Options	Ayarlar
+Mods	Modlar
+Quit	Çıkış
+Save	Kaydet
+Load	Yükle
+Cancel	İptal
+Apply	Uygula
+Accept	Onayla
+Disconnect	Bağlantıyı Kes
+Resume	Devam Et
+New Game	Yeni Oyun
+Continue	Devam
+Servers	Sunucular
+Friends	Arkadaşlar
+Steam	Steam
+Workshop	Atölye
