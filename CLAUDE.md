@@ -47,12 +47,12 @@ Her oturum başında bu üç dosyayı oku (Aydın'ın "devam" demesi yetiyor):
 
 ## Sıradaki Adım
 
-**`PROGRESS.md`** dosyasını oku — "🟡 Oturum 2 — devam ediyor" bölümü altında ⬜ işaretli ilk batch'ten başla.
+**`PROGRESS.md`** dosyasını oku — "⬜ Oturum 3" bölümü altında ⬜ işaretli ilk batch'ten başla.
 
-Kabaca özet (compact zamanı, 2026-04-26):
+Kabaca özet (oturum 2 sonu, 2026-04-26):
 - ✅ Faz 0+1 tamam (mod iskeleti + pipeline + docs)
-- 🟡 Faz 2 oturum 2 yarıda: 0762-0766 ✅ + priority_mainscreen ✅ = **1.039 string** PO'da
-- ⬜ Sıradaki: `batch_0767.json` (CRAFTING devamı + CREDITS başlangıcı)
+- ✅ Faz 2 oturum 1 + 2 tamam: 0762-0770 + priority_mainscreen = **1.839 string** PO'da (%2.15 / %41 UI)
+- ⬜ Sıradaki: `batch_0771.json` (FOOD_TYPES sonu + LAVAARENA + LOADING_SCREEN_LORE_TIPS — Oturum 3 başlangıcı)
 
 ## Kritik Teknik Noktalar
 

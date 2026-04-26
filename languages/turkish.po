@@ -5003,6 +5003,4006 @@ msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.HERMITCRABSHOP"
 msgid "Trade"
 msgstr "Takas"
 
+#. STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE"
+msgid "Mix"
+msgstr "Karıştır"
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.ORPHANAGE
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.ORPHANAGE"
+msgid "Adopt"
+msgstr "Sahiplen"
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.PERDOFFERING
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.PERDOFFERING"
+msgid "Offer"
+msgstr "Sun"
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.RABBITKINGSHOP
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.RABBITKINGSHOP"
+msgid "Trade"
+msgstr "Takas Et"
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.SCULPTING
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.SCULPTING"
+msgid "Create"
+msgstr "Yarat"
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.SOCKET
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.SOCKET"
+msgid "Socket"
+msgstr "Yerleştir"
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.TRANSFORM
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.TRANSFORM"
+msgid "Transform"
+msgstr "Dönüştür"
+
+#. STRINGS.UI.CRAFTING.RECIPEACTION.WANDERINGTRADERSHOP
+msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.WANDERINGTRADERSHOP"
+msgid "Trade"
+msgstr "Takas Et"
+
+#. STRINGS.UI.CRAFTING.RESEARCH
+msgctxt "STRINGS.UI.CRAFTING.RESEARCH"
+msgid "Research"
+msgstr "Araştır"
+
+#. STRINGS.UI.CRAFTING.TABACTION.CARNIVAL_HOSTSHOP
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.CARNIVAL_HOSTSHOP"
+msgid "Purchase"
+msgstr "Satın Al"
+
+#. STRINGS.UI.CRAFTING.TABACTION.CARNIVAL_PRIZESHOP
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.CARNIVAL_PRIZESHOP"
+msgid "Purchase"
+msgstr "Satın Al"
+
+#. STRINGS.UI.CRAFTING.TABACTION.CARTOGRAPHY
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.CARTOGRAPHY"
+msgid "Scribe"
+msgstr "Çiz"
+
+#. STRINGS.UI.CRAFTING.TABACTION.MADSCIENCE
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.MADSCIENCE"
+msgid "Mix"
+msgstr "Karıştır"
+
+#. STRINGS.UI.CRAFTING.TABACTION.ORPHANAGE
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.ORPHANAGE"
+msgid "Adopt"
+msgstr "Sahiplen"
+
+#. STRINGS.UI.CRAFTING.TABACTION.PERDOFFERING
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.PERDOFFERING"
+msgid "Offer"
+msgstr "Sun"
+
+#. STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_MEALINGSTONE"
+msgid "Grind"
+msgstr "Öğüt"
+
+#. STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_ELDER
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_ELDER"
+msgid "Trade"
+msgstr "Takas Et"
+
+#. STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_KID
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_KID"
+msgid "Purchase"
+msgstr "Satın Al"
+
+#. STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM1
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM1"
+msgid "Purchase"
+msgstr "Satın Al"
+
+#. STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM2
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MERM2"
+msgid "Purchase"
+msgstr "Satın Al"
+
+#. STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MUM
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.QUAGMIRE_TRADER_MUM"
+msgid "Purchase"
+msgstr "Satın Al"
+
+#. STRINGS.UI.CRAFTING.TABACTION.RABBITKINGSHOP
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.RABBITKINGSHOP"
+msgid "Trade"
+msgstr "Takas Et"
+
+#. STRINGS.UI.CRAFTING.TABACTION.SCULPTING
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.SCULPTING"
+msgid "Create"
+msgstr "Yarat"
+
+#. STRINGS.UI.CRAFTING.TABACTION.WANDERINGTRADERSHOP
+msgctxt "STRINGS.UI.CRAFTING.TABACTION.WANDERINGTRADERSHOP"
+msgid "Trade"
+msgstr "Takas Et"
+
+#. STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE
+msgctxt "STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_MEALINGSTONE"
+msgid "Find ingredients \nto grind!"
+msgstr "Öğütmek için \nmalzeme bul!"
+
+#. STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER
+msgctxt "STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_ELDER"
+msgid "Find materials \nto trade!"
+msgstr "Takas için \nmalzeme bul!"
+
+#. STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_KID
+msgctxt "STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_KID"
+msgid "Earn coins to trade!"
+msgstr "Takas için sikke kazan!"
+
+#. STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM1
+msgctxt "STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM1"
+msgid "Earn coins to trade!"
+msgstr "Takas için sikke kazan!"
+
+#. STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM2
+msgctxt "STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MERM2"
+msgid "Earn coins to trade!"
+msgstr "Takas için sikke kazan!"
+
+#. STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM
+msgctxt "STRINGS.UI.CRAFTING.TABNEEDSTUFF.QUAGMIRE_TRADER_MUM"
+msgid "Earn coins to trade!"
+msgstr "Takas için sikke kazan!"
+
+#. STRINGS.UI.CRAFTING_FILTERS.ARMOUR
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.ARMOUR"
+msgid "Armor"
+msgstr "Zırh"
+
+#. STRINGS.UI.CRAFTING_FILTERS.CHARACTER
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CHARACTER"
+msgid "Survivor Items"
+msgstr "Karakter Eşyaları"
+
+#. STRINGS.UI.CRAFTING_FILTERS.CLOTHING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CLOTHING"
+msgid "Clothing"
+msgstr "Kıyafet"
+
+#. STRINGS.UI.CRAFTING_FILTERS.CONTAINERS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CONTAINERS"
+msgid "Storage Solutions"
+msgstr "Depolama Çözümleri"
+
+#. STRINGS.UI.CRAFTING_FILTERS.COOKING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.COOKING"
+msgid "Cooking"
+msgstr "Pişirme"
+
+#. STRINGS.UI.CRAFTING_FILTERS.CRAFTING_STATION
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.CRAFTING_STATION"
+msgid "All Crafting Stations"
+msgstr "Tüm Üretim İstasyonları"
+
+#. STRINGS.UI.CRAFTING_FILTERS.DECOR
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.DECOR"
+msgid "Decorations"
+msgstr "Süslemeler"
+
+#. STRINGS.UI.CRAFTING_FILTERS.EVERYTHING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.EVERYTHING"
+msgid "Everything"
+msgstr "Hepsi"
+
+#. STRINGS.UI.CRAFTING_FILTERS.FAVORITES
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.FAVORITES"
+msgid "Favorites"
+msgstr "Favoriler"
+
+#. STRINGS.UI.CRAFTING_FILTERS.FISHING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.FISHING"
+msgid "Fishing"
+msgstr "Balıkçılık"
+
+#. STRINGS.UI.CRAFTING_FILTERS.GARDENING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.GARDENING"
+msgid "Food & Gardening"
+msgstr "Yemek ve Bahçıvanlık"
+
+#. STRINGS.UI.CRAFTING_FILTERS.LIGHT
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.LIGHT"
+msgid "Light Sources"
+msgstr "Işık Kaynakları"
+
+#. STRINGS.UI.CRAFTING_FILTERS.MAGIC
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.MAGIC"
+msgid "Magic"
+msgstr "Büyü"
+
+#. STRINGS.UI.CRAFTING_FILTERS.MODS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.MODS"
+msgid "Modded Items"
+msgstr "Mod Eşyaları"
+
+#. STRINGS.UI.CRAFTING_FILTERS.PROTOTYPERS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.PROTOTYPERS"
+msgid "Prototypers & Stations"
+msgstr "Prototipçiler ve İstasyonlar"
+
+#. STRINGS.UI.CRAFTING_FILTERS.RAIN
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.RAIN"
+msgid "Rain Gear"
+msgstr "Yağmur Donanımı"
+
+#. STRINGS.UI.CRAFTING_FILTERS.REFINE
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.REFINE"
+msgid "Refined Materials"
+msgstr "İşlenmiş Malzemeler"
+
+#. STRINGS.UI.CRAFTING_FILTERS.RESTORATION
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.RESTORATION"
+msgid "Healing"
+msgstr "İyileştirme"
+
+#. STRINGS.UI.CRAFTING_FILTERS.RIDING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.RIDING"
+msgid "Beefalo Riding"
+msgstr "Bızonsığır Binme"
+
+#. STRINGS.UI.CRAFTING_FILTERS.SEAFARING
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.SEAFARING"
+msgid "Seafaring"
+msgstr "Denizcilik"
+
+#. STRINGS.UI.CRAFTING_FILTERS.SPECIAL_EVENT
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.SPECIAL_EVENT"
+msgid "Special Event"
+msgstr "Özel Etkinlik"
+
+#. STRINGS.UI.CRAFTING_FILTERS.STRUCTURES
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.STRUCTURES"
+msgid "Structures"
+msgstr "Yapılar"
+
+#. STRINGS.UI.CRAFTING_FILTERS.SUMMER
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.SUMMER"
+msgid "Summer Items"
+msgstr "Yaz Eşyaları"
+
+#. STRINGS.UI.CRAFTING_FILTERS.TOOLS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.TOOLS"
+msgid "Tools"
+msgstr "Aletler"
+
+#. STRINGS.UI.CRAFTING_FILTERS.WEAPONS
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.WEAPONS"
+msgid "Weapons"
+msgstr "Silahlar"
+
+#. STRINGS.UI.CRAFTING_FILTERS.WINTER
+msgctxt "STRINGS.UI.CRAFTING_FILTERS.WINTER"
+msgid "Winter Items"
+msgstr "Kış Eşyaları"
+
+#. STRINGS.UI.CRAFTING_MENU.FAVORITE_ADD
+msgctxt "STRINGS.UI.CRAFTING_MENU.FAVORITE_ADD"
+msgid "Add Favorite"
+msgstr "Favorilere Ekle"
+
+#. STRINGS.UI.CRAFTING_MENU.FAVORITE_REMOVE
+msgctxt "STRINGS.UI.CRAFTING_MENU.FAVORITE_REMOVE"
+msgid "Remove Favorite"
+msgstr "Favorilerden Çıkar"
+
+#. STRINGS.UI.CRAFTING_MENU.MORE
+msgctxt "STRINGS.UI.CRAFTING_MENU.MORE"
+msgid "More Actions"
+msgstr "Diğer Eylemler"
+
+#. STRINGS.UI.CRAFTING_MENU.NAVIGATION
+msgctxt "STRINGS.UI.CRAFTING_MENU.NAVIGATION"
+msgid "Navigation"
+msgstr "Gezinme"
+
+#. STRINGS.UI.CRAFTING_MENU.NO_ITEMS
+msgctxt "STRINGS.UI.CRAFTING_MENU.NO_ITEMS"
+msgid "No items match the current filter."
+msgstr "Mevcut filtreye uyan eşya yok."
+
+#. STRINGS.UI.CRAFTING_MENU.PIN
+msgctxt "STRINGS.UI.CRAFTING_MENU.PIN"
+msgid "Pin"
+msgstr "Sabitle"
+
+#. STRINGS.UI.CRAFTING_MENU.PINBAR_PAGE
+msgctxt "STRINGS.UI.CRAFTING_MENU.PINBAR_PAGE"
+msgid "Select Page"
+msgstr "Sayfa Seç"
+
+#. STRINGS.UI.CRAFTING_MENU.SEARCH
+msgctxt "STRINGS.UI.CRAFTING_MENU.SEARCH"
+msgid "Search"
+msgstr "Ara"
+
+#. STRINGS.UI.CRAFTING_MENU.SKIN_SELECT
+msgctxt "STRINGS.UI.CRAFTING_MENU.SKIN_SELECT"
+msgid "Select Skin"
+msgstr "Görünüm Seç"
+
+#. STRINGS.UI.CRAFTING_MENU.SORTING.CRAFTABLE
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORTING.CRAFTABLE"
+msgid "Craftable"
+msgstr "Üretilebilir"
+
+#. STRINGS.UI.CRAFTING_MENU.SORTING.DEFAULT
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORTING.DEFAULT"
+msgid "Default"
+msgstr "Varsayılan"
+
+#. STRINGS.UI.CRAFTING_MENU.SORTING.FAVORITE
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORTING.FAVORITE"
+msgid "Favorite"
+msgstr "Favori"
+
+#. STRINGS.UI.CRAFTING_MENU.SORTING.NAME
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORTING.NAME"
+msgid "Alphabetical"
+msgstr "Alfabetik"
+
+#. STRINGS.UI.CRAFTING_MENU.SORT_MODE_FMT
+msgctxt "STRINGS.UI.CRAFTING_MENU.SORT_MODE_FMT"
+msgid "Sort Mode: {mode}"
+msgstr "Sıralama Modu: {mode}"
+
+#. STRINGS.UI.CRAFTING_MENU.UNPIN
+msgctxt "STRINGS.UI.CRAFTING_MENU.UNPIN"
+msgid "Unpin"
+msgstr "Sabit Kaldır"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.ANCIENT
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.ANCIENT"
+msgid "Ancient Pseudoscience"
+msgstr "Kadim Sözdebilim"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_HOSTSHOP"
+msgid "Cawnival Creation"
+msgstr "Karganaval Yaratımı"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARNIVAL_PRIZESHOP"
+msgid "Trinket Trove"
+msgstr "Süs Sandığı"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARPENTRY
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARPENTRY"
+msgid "Carpentry"
+msgstr "Marangozluk"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CARTOGRAPHY"
+msgid "Cartography"
+msgstr "Haritacılık"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.CELESTIAL
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.CELESTIAL"
+msgid "Celestial"
+msgstr "Semavi"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.FOODPROCESSING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.FOODPROCESSING"
+msgid "Seasonings"
+msgstr "Baharatlar"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRABSHOP"
+msgid "Bottle Exchange"
+msgstr "Şişe Takası"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRAB_TEASHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRAB_TEASHOP"
+msgid "Tea Brewing"
+msgstr "Çay Demleme"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.LUNARFORGING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.LUNARFORGING"
+msgid "Brightsmithy"
+msgstr "Aydındemirhane"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.MADSCIENCE
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.MADSCIENCE"
+msgid "Mad Science"
+msgstr "Çılgın Bilim"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.ORPHANAGE
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.ORPHANAGE"
+msgid "Critters"
+msgstr "Yaratıklar"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.RABBITKINGSHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.RABBITKINGSHOP"
+msgid "Trading Hutch"
+msgstr "Takas Kulübesi"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.SCULPTING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.SCULPTING"
+msgid "Sculptures"
+msgstr "Heykeller"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.SHADOW
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.SHADOW"
+msgid "Codex Umbra"
+msgstr "Codex Umbra"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.SHADOWFORGING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.SHADOWFORGING"
+msgid "Shadowcraft"
+msgstr "Gölge Sanatı"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.SHELLWEAVER
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.SHELLWEAVER"
+msgid "Combrining"
+msgstr "İnci Sanatı"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.WAGPUNK_WORKSTATION
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.WAGPUNK_WORKSTATION"
+msgid "Fabrication"
+msgstr "İmalat"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.WANDERINGTRADERSHOP
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.WANDERINGTRADERSHOP"
+msgid "Trading"
+msgstr "Ticaret"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.WINTERSFEASTCOOKING"
+msgid "Winter's Feast Cooking"
+msgstr "Kış Şöleni Pişirmesi"
+
+#. STRINGS.UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING
+msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.YOT_SHRINE_DOFFERING"
+msgid "Offerings"
+msgstr "Sunular"
+
+#. STRINGS.UI.CREDITS.ALTGAMES.NAMES.1
+msgctxt "STRINGS.UI.CREDITS.ALTGAMES.NAMES.1"
+msgid "Turo Lamminen"
+msgstr "Turo Lamminen"
+
+#. STRINGS.UI.CREDITS.ALTGAMES.NAMES.2
+msgctxt "STRINGS.UI.CREDITS.ALTGAMES.NAMES.2"
+msgid "Tuomas Narvainen"
+msgstr "Tuomas Narvainen"
+
+#. STRINGS.UI.CREDITS.ALTGAMES.NAMES.3
+msgctxt "STRINGS.UI.CREDITS.ALTGAMES.NAMES.3"
+msgid "Tapio Honkonen"
+msgstr "Tapio Honkonen"
+
+#. STRINGS.UI.CREDITS.ALTGAMES.TITLE
+msgctxt "STRINGS.UI.CREDITS.ALTGAMES.TITLE"
+msgid "Linux and OSX ports by Alternative Games"
+msgstr "Linux ve OSX portları, Alternative Games tarafından"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES1.1
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES1.1"
+msgid "Chris Wylie"
+msgstr "Chris Wylie"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES1.2
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES1.2"
+msgid "Alexander Stokes"
+msgstr "Alexander Stokes"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES1.3
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES1.3"
+msgid "Yubing Hu"
+msgstr "Yubing Hu"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES1.4
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES1.4"
+msgid "William Rapone"
+msgstr "William Rapone"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES1.5
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES1.5"
+msgid "Steve Desroches"
+msgstr "Steve Desroches"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES2.1
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES2.1"
+msgid "Israel Aubin"
+msgstr "Israel Aubin"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES2.2
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES2.2"
+msgid "Cedric Picard"
+msgstr "Cedric Picard"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES2.3
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES2.3"
+msgid "Mike Holdaway"
+msgstr "Mike Holdaway"
+
+#. STRINGS.UI.CREDITS.BABEL.NAMES2.4
+msgctxt "STRINGS.UI.CREDITS.BABEL.NAMES2.4"
+msgid "Norman Fong"
+msgstr "Norman Fong"
+
+#. STRINGS.UI.CREDITS.BABEL.TITLE
+msgctxt "STRINGS.UI.CREDITS.BABEL.TITLE"
+msgid "Babel"
+msgstr "Babel"
+
+#. STRINGS.UI.CREDITS.BLIT.NAMES.1
+msgctxt "STRINGS.UI.CREDITS.BLIT.NAMES.1"
+msgid "Tony Cabello"
+msgstr "Tony Cabello"
+
+#. STRINGS.UI.CREDITS.BLIT.NAMES.2
+msgctxt "STRINGS.UI.CREDITS.BLIT.NAMES.2"
+msgid "Jorge Cabezas"
+msgstr "Jorge Cabezas"
+
+#. STRINGS.UI.CREDITS.BLIT.NAMES.3
+msgctxt "STRINGS.UI.CREDITS.BLIT.NAMES.3"
+msgid "Miguel Angel Horna"
+msgstr "Miguel Angel Horna"
+
+#. STRINGS.UI.CREDITS.BLIT.NAMES2.1
+msgctxt "STRINGS.UI.CREDITS.BLIT.NAMES2.1"
+msgid "Roc Ramon"
+msgstr "Roc Ramon"
+
+#. STRINGS.UI.CREDITS.BLIT.NAMES2.2
+msgctxt "STRINGS.UI.CREDITS.BLIT.NAMES2.2"
+msgid "Sergi Díaz"
+msgstr "Sergi Díaz"
+
+#. STRINGS.UI.CREDITS.BLIT.NAMES2.3
+msgctxt "STRINGS.UI.CREDITS.BLIT.NAMES2.3"
+msgid "Cesar Sánchez"
+msgstr "Cesar Sánchez"
+
+#. STRINGS.UI.CREDITS.BLIT.TITLE
+msgctxt "STRINGS.UI.CREDITS.BLIT.TITLE"
+msgid "Xbox One port by BlitWorks"
+msgstr "Xbox One portu, BlitWorks tarafından"
+
+#. STRINGS.UI.CREDITS.EXTRA_THANKS
+msgctxt "STRINGS.UI.CREDITS.EXTRA_THANKS"
+msgid "Ophir Lupu\nKo Kim\nColt McAnlis"
+msgstr "Ophir Lupu\nKo Kim\nColt McAnlis"
+
+#. STRINGS.UI.CREDITS.EXTRA_THANKS_2
+msgctxt "STRINGS.UI.CREDITS.EXTRA_THANKS_2"
+msgid "Pieter Wycoff\nMatthew Nickerson\nAnna Sweet"
+msgstr "Pieter Wycoff\nMatthew Nickerson\nAnna Sweet"
+
+#. STRINGS.UI.CREDITS.FACEBOOK
+msgctxt "STRINGS.UI.CREDITS.FACEBOOK"
+msgid "The Facebooks"
+msgstr "Facebook'lar"
+
+#. STRINGS.UI.CREDITS.FMOD
+msgctxt "STRINGS.UI.CREDITS.FMOD"
+msgid "FMOD Sound System,\nCopyright Firelight Technologies"
+msgstr "FMOD Ses Sistemi,\nTelif Hakkı Firelight Technologies"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES.1
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES.1"
+msgid "Alexandre Do Rego"
+msgstr "Alexandre Do Rego"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES.2
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES.2"
+msgid "Carolljo Maher"
+msgstr "Carolljo Maher"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES.3
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES.3"
+msgid "Frédérik Macchabée"
+msgstr "Frédérik Macchabée"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES.4
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES.4"
+msgid "Gabriel Levac"
+msgstr "Gabriel Levac"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES2.1
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES2.1"
+msgid "Jason Smith Murk"
+msgstr "Jason Smith Murk"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES2.2
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES2.2"
+msgid "Kariane Lacharité"
+msgstr "Kariane Lacharité"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES2.3
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES2.3"
+msgid "Kevin Proulx"
+msgstr "Kevin Proulx"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES2.4
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES2.4"
+msgid "Louis St-Denis"
+msgstr "Louis St-Denis"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES3.1
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES3.1"
+msgid "Nicolas Lefebvre"
+msgstr "Nicolas Lefebvre"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES3.2
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES3.2"
+msgid "Roxanne Gingras"
+msgstr "Roxanne Gingras"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES3.3
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES3.3"
+msgid "Sébastien Chamard"
+msgstr "Sébastien Chamard"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES3.4
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES3.4"
+msgid "Thibault Armando"
+msgstr "Thibault Armando"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES4.1
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES4.1"
+msgid "Alexandre Caron"
+msgstr "Alexandre Caron"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES4.2
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES4.2"
+msgid "Michael Frouin"
+msgstr "Michael Frouin"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES4.3
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES4.3"
+msgid "Jeanne Dion"
+msgstr "Jeanne Dion"
+
+#. STRINGS.UI.CREDITS.HUWIZ.NAMES4.4
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.NAMES4.4"
+msgid "Maxime Landry Lamy"
+msgstr "Maxime Landry Lamy"
+
+#. STRINGS.UI.CREDITS.HUWIZ.TITLE
+msgctxt "STRINGS.UI.CREDITS.HUWIZ.TITLE"
+msgid "%s QA by HUWIZ QA/UX"
+msgstr "%s QA'sı, HUWIZ QA/UX tarafından"
+
+#. STRINGS.UI.CREDITS.LOLLI.NAMES.1
+msgctxt "STRINGS.UI.CREDITS.LOLLI.NAMES.1"
+msgid "Daniel Segarra"
+msgstr "Daniel Segarra"
+
+#. STRINGS.UI.CREDITS.LOLLI.NAMES.2
+msgctxt "STRINGS.UI.CREDITS.LOLLI.NAMES.2"
+msgid "Óscar Navalón"
+msgstr "Óscar Navalón"
+
+#. STRINGS.UI.CREDITS.LOLLI.NAMES2.1
+msgctxt "STRINGS.UI.CREDITS.LOLLI.NAMES2.1"
+msgid "Pablo Granada"
+msgstr "Pablo Granada"
+
+#. STRINGS.UI.CREDITS.LOLLI.NAMES2.2
+msgctxt "STRINGS.UI.CREDITS.LOLLI.NAMES2.2"
+msgid "Luis Moyano"
+msgstr "Luis Moyano"
+
+#. STRINGS.UI.CREDITS.LOLLI.NAMES2.3
+msgctxt "STRINGS.UI.CREDITS.LOLLI.NAMES2.3"
+msgid "Francesc Sánchez"
+msgstr "Francesc Sánchez"
+
+#. STRINGS.UI.CREDITS.LOLLI.TITLE
+msgctxt "STRINGS.UI.CREDITS.LOLLI.TITLE"
+msgid "Xbox One QA by Lollipop Robot"
+msgstr "Xbox One QA'sı, Lollipop Robot tarafından"
+
+#. STRINGS.UI.CREDITS.NAMES.1
+msgctxt "STRINGS.UI.CREDITS.NAMES.1"
+msgid "Kevin Forbes"
+msgstr "Kevin Forbes"
+
+#. STRINGS.UI.CREDITS.NAMES.10
+msgctxt "STRINGS.UI.CREDITS.NAMES.10"
+msgid "Wade Lindley"
+msgstr "Wade Lindley"
+
+#. STRINGS.UI.CREDITS.NAMES.11
+msgctxt "STRINGS.UI.CREDITS.NAMES.11"
+msgid "Joe Wreggelsworth"
+msgstr "Joe Wreggelsworth"
+
+#. STRINGS.UI.CREDITS.NAMES.12
+msgctxt "STRINGS.UI.CREDITS.NAMES.12"
+msgid "Corey Rollins"
+msgstr "Corey Rollins"
+
+#. STRINGS.UI.CREDITS.NAMES.13
+msgctxt "STRINGS.UI.CREDITS.NAMES.13"
+msgid "Matthew Marteinsson"
+msgstr "Matthew Marteinsson"
+
+#. STRINGS.UI.CREDITS.NAMES.14
+msgctxt "STRINGS.UI.CREDITS.NAMES.14"
+msgid "Jason Garner"
+msgstr "Jason Garner"
+
+#. STRINGS.UI.CREDITS.NAMES.15
+msgctxt "STRINGS.UI.CREDITS.NAMES.15"
+msgid "Vince de Vera"
+msgstr "Vince de Vera"
+
+#. STRINGS.UI.CREDITS.NAMES.16
+msgctxt "STRINGS.UI.CREDITS.NAMES.16"
+msgid "Jeff Agala"
+msgstr "Jeff Agala"
+
+#. STRINGS.UI.CREDITS.NAMES.17
+msgctxt "STRINGS.UI.CREDITS.NAMES.17"
+msgid "Alex Savin"
+msgstr "Alex Savin"
+
+#. STRINGS.UI.CREDITS.NAMES.18
+msgctxt "STRINGS.UI.CREDITS.NAMES.18"
+msgid "Sloth Trakhtenberg"
+msgstr "Sloth Trakhtenberg"
+
+#. STRINGS.UI.CREDITS.NAMES.19
+msgctxt "STRINGS.UI.CREDITS.NAMES.19"
+msgid "Kelly Graham"
+msgstr "Kelly Graham"
+
+#. STRINGS.UI.CREDITS.NAMES.2
+msgctxt "STRINGS.UI.CREDITS.NAMES.2"
+msgid "Ju-Lian Kwan"
+msgstr "Ju-Lian Kwan"
+
+#. STRINGS.UI.CREDITS.NAMES.20
+msgctxt "STRINGS.UI.CREDITS.NAMES.20"
+msgid "Allan Cortez"
+msgstr "Allan Cortez"
+
+#. STRINGS.UI.CREDITS.NAMES.21
+msgctxt "STRINGS.UI.CREDITS.NAMES.21"
+msgid "Aaron Bouthillier"
+msgstr "Aaron Bouthillier"
+
+#. STRINGS.UI.CREDITS.NAMES.22
+msgctxt "STRINGS.UI.CREDITS.NAMES.22"
+msgid "David Forsey"
+msgstr "David Forsey"
+
+#. STRINGS.UI.CREDITS.NAMES.23
+msgctxt "STRINGS.UI.CREDITS.NAMES.23"
+msgid "Kaj Eijlers"
+msgstr "Kaj Eijlers"
+
+#. STRINGS.UI.CREDITS.NAMES.24
+msgctxt "STRINGS.UI.CREDITS.NAMES.24"
+msgid "Jan Hutchings"
+msgstr "Jan Hutchings"
+
+#. STRINGS.UI.CREDITS.NAMES.25
+msgctxt "STRINGS.UI.CREDITS.NAMES.25"
+msgid "Seth Rosen"
+msgstr "Seth Rosen"
+
+#. STRINGS.UI.CREDITS.NAMES.26
+msgctxt "STRINGS.UI.CREDITS.NAMES.26"
+msgid "Johann Seidenz"
+msgstr "Johann Seidenz"
+
+#. STRINGS.UI.CREDITS.NAMES.27
+msgctxt "STRINGS.UI.CREDITS.NAMES.27"
+msgid "Paul Ku"
+msgstr "Paul Ku"
+
+#. STRINGS.UI.CREDITS.NAMES.28
+msgctxt "STRINGS.UI.CREDITS.NAMES.28"
+msgid "Vito Sze"
+msgstr "Vito Sze"
+
+#. STRINGS.UI.CREDITS.NAMES.29
+msgctxt "STRINGS.UI.CREDITS.NAMES.29"
+msgid "Mark Laprairie"
+msgstr "Mark Laprairie"
+
+#. STRINGS.UI.CREDITS.NAMES.3
+msgctxt "STRINGS.UI.CREDITS.NAMES.3"
+msgid "Jamie Cheng"
+msgstr "Jamie Cheng"
+
+#. STRINGS.UI.CREDITS.NAMES.30
+msgctxt "STRINGS.UI.CREDITS.NAMES.30"
+msgid "Peter Andrews"
+msgstr "Peter Andrews"
+
+#. STRINGS.UI.CREDITS.NAMES.31
+msgctxt "STRINGS.UI.CREDITS.NAMES.31"
+msgid "Mike Bell"
+msgstr "Mike Bell"
+
+#. STRINGS.UI.CREDITS.NAMES.32
+msgctxt "STRINGS.UI.CREDITS.NAMES.32"
+msgid "Nabie-Ah Yousuf"
+msgstr "Nabie-Ah Yousuf"
+
+#. STRINGS.UI.CREDITS.NAMES.33
+msgctxt "STRINGS.UI.CREDITS.NAMES.33"
+msgid "Elizabeth Gordon"
+msgstr "Elizabeth Gordon"
+
+#. STRINGS.UI.CREDITS.NAMES.34
+msgctxt "STRINGS.UI.CREDITS.NAMES.34"
+msgid "Nana Fujino"
+msgstr "Nana Fujino"
+
+#. STRINGS.UI.CREDITS.NAMES.35
+msgctxt "STRINGS.UI.CREDITS.NAMES.35"
+msgid "Toni Zhang"
+msgstr "Toni Zhang"
+
+#. STRINGS.UI.CREDITS.NAMES.36
+msgctxt "STRINGS.UI.CREDITS.NAMES.36"
+msgid "Quentin Proust"
+msgstr "Quentin Proust"
+
+#. STRINGS.UI.CREDITS.NAMES.37
+msgctxt "STRINGS.UI.CREDITS.NAMES.37"
+msgid "Hugo Moraleida"
+msgstr "Hugo Moraleida"
+
+#. STRINGS.UI.CREDITS.NAMES.38
+msgctxt "STRINGS.UI.CREDITS.NAMES.38"
+msgid "Kris Fortune"
+msgstr "Kris Fortune"
+
+#. STRINGS.UI.CREDITS.NAMES.39
+msgctxt "STRINGS.UI.CREDITS.NAMES.39"
+msgid "James Lantz"
+msgstr "James Lantz"
+
+#. STRINGS.UI.CREDITS.NAMES.4
+msgctxt "STRINGS.UI.CREDITS.NAMES.4"
+msgid "Alia McCutcheon"
+msgstr "Alia McCutcheon"
+
+#. STRINGS.UI.CREDITS.NAMES.40
+msgctxt "STRINGS.UI.CREDITS.NAMES.40"
+msgid "Jason Dreger"
+msgstr "Jason Dreger"
+
+#. STRINGS.UI.CREDITS.NAMES.41
+msgctxt "STRINGS.UI.CREDITS.NAMES.41"
+msgid "Kristin Ruff-Frederickson"
+msgstr "Kristin Ruff-Frederickson"
+
+#. STRINGS.UI.CREDITS.NAMES.42
+msgctxt "STRINGS.UI.CREDITS.NAMES.42"
+msgid "Dany Gagnon"
+msgstr "Dany Gagnon"
+
+#. STRINGS.UI.CREDITS.NAMES.43
+msgctxt "STRINGS.UI.CREDITS.NAMES.43"
+msgid "May Wa Leng"
+msgstr "May Wa Leng"
+
+#. STRINGS.UI.CREDITS.NAMES.44
+msgctxt "STRINGS.UI.CREDITS.NAMES.44"
+msgid "Will Turnbull"
+msgstr "Will Turnbull"
+
+#. STRINGS.UI.CREDITS.NAMES.45
+msgctxt "STRINGS.UI.CREDITS.NAMES.45"
+msgid "Michael Rodriguez"
+msgstr "Michael Rodriguez"
+
+#. STRINGS.UI.CREDITS.NAMES.46
+msgctxt "STRINGS.UI.CREDITS.NAMES.46"
+msgid "Ragnar Guidote"
+msgstr "Ragnar Guidote"
+
+#. STRINGS.UI.CREDITS.NAMES.47
+msgctxt "STRINGS.UI.CREDITS.NAMES.47"
+msgid "Erica Pitt"
+msgstr "Erica Pitt"
+
+#. STRINGS.UI.CREDITS.NAMES.48
+msgctxt "STRINGS.UI.CREDITS.NAMES.48"
+msgid "David Briscoe"
+msgstr "David Briscoe"
+
+#. STRINGS.UI.CREDITS.NAMES.49
+msgctxt "STRINGS.UI.CREDITS.NAMES.49"
+msgid "Justin Liew"
+msgstr "Justin Liew"
+
+#. STRINGS.UI.CREDITS.NAMES.5
+msgctxt "STRINGS.UI.CREDITS.NAMES.5"
+msgid "Tatham Johnson"
+msgstr "Tatham Johnson"
+
+#. STRINGS.UI.CREDITS.NAMES.50
+msgctxt "STRINGS.UI.CREDITS.NAMES.50"
+msgid "Ricardo Pinto"
+msgstr "Ricardo Pinto"
+
+#. STRINGS.UI.CREDITS.NAMES.51
+msgctxt "STRINGS.UI.CREDITS.NAMES.51"
+msgid "Steven Erenst"
+msgstr "Steven Erenst"
+
+#. STRINGS.UI.CREDITS.NAMES.52
+msgctxt "STRINGS.UI.CREDITS.NAMES.52"
+msgid "Corey McDaniel"
+msgstr "Corey McDaniel"
+
+#. STRINGS.UI.CREDITS.NAMES.53
+msgctxt "STRINGS.UI.CREDITS.NAMES.53"
+msgid "Xiaowen Lin"
+msgstr "Xiaowen Lin"
+
+#. STRINGS.UI.CREDITS.NAMES.54
+msgctxt "STRINGS.UI.CREDITS.NAMES.54"
+msgid "Leira Zamfirescu"
+msgstr "Leira Zamfirescu"
+
+#. STRINGS.UI.CREDITS.NAMES.55
+msgctxt "STRINGS.UI.CREDITS.NAMES.55"
+msgid "Scott Hansen"
+msgstr "Scott Hansen"
+
+#. STRINGS.UI.CREDITS.NAMES.56
+msgctxt "STRINGS.UI.CREDITS.NAMES.56"
+msgid "Philippe Donati"
+msgstr "Philippe Donati"
+
+#. STRINGS.UI.CREDITS.NAMES.57
+msgctxt "STRINGS.UI.CREDITS.NAMES.57"
+msgid "Yorman Arias"
+msgstr "Yorman Arias"
+
+#. STRINGS.UI.CREDITS.NAMES.58
+msgctxt "STRINGS.UI.CREDITS.NAMES.58"
+msgid "Grace Kim"
+msgstr "Grace Kim"
+
+#. STRINGS.UI.CREDITS.NAMES.59
+msgctxt "STRINGS.UI.CREDITS.NAMES.59"
+msgid "Steven Miclette"
+msgstr "Steven Miclette"
+
+#. STRINGS.UI.CREDITS.NAMES.6
+msgctxt "STRINGS.UI.CREDITS.NAMES.6"
+msgid "Graham Jans"
+msgstr "Graham Jans"
+
+#. STRINGS.UI.CREDITS.NAMES.60
+msgctxt "STRINGS.UI.CREDITS.NAMES.60"
+msgid "Felix Hard"
+msgstr "Felix Hard"
+
+#. STRINGS.UI.CREDITS.NAMES.61
+msgctxt "STRINGS.UI.CREDITS.NAMES.61"
+msgid "Jen Davreux"
+msgstr "Jen Davreux"
+
+#. STRINGS.UI.CREDITS.NAMES.62
+msgctxt "STRINGS.UI.CREDITS.NAMES.62"
+msgid "Steph Mahoney"
+msgstr "Steph Mahoney"
+
+#. STRINGS.UI.CREDITS.NAMES.63
+msgctxt "STRINGS.UI.CREDITS.NAMES.63"
+msgid "Anne-Marie Cyr"
+msgstr "Anne-Marie Cyr"
+
+#. STRINGS.UI.CREDITS.NAMES.64
+msgctxt "STRINGS.UI.CREDITS.NAMES.64"
+msgid "Matthew Barry"
+msgstr "Matthew Barry"
+
+#. STRINGS.UI.CREDITS.NAMES.65
+msgctxt "STRINGS.UI.CREDITS.NAMES.65"
+msgid "Zachary Lockwood"
+msgstr "Zachary Lockwood"
+
+#. STRINGS.UI.CREDITS.NAMES.66
+msgctxt "STRINGS.UI.CREDITS.NAMES.66"
+msgid "Andy Niles"
+msgstr "Andy Niles"
+
+#. STRINGS.UI.CREDITS.NAMES.67
+msgctxt "STRINGS.UI.CREDITS.NAMES.67"
+msgid "Auday Hussein"
+msgstr "Auday Hussein"
+
+#. STRINGS.UI.CREDITS.NAMES.68
+msgctxt "STRINGS.UI.CREDITS.NAMES.68"
+msgid "Jesse Blackston"
+msgstr "Jesse Blackston"
+
+#. STRINGS.UI.CREDITS.NAMES.69
+msgctxt "STRINGS.UI.CREDITS.NAMES.69"
+msgid "Jeddy Zhang"
+msgstr "Jeddy Zhang"
+
+#. STRINGS.UI.CREDITS.NAMES.7
+msgctxt "STRINGS.UI.CREDITS.NAMES.7"
+msgid "Brook Miles"
+msgstr "Brook Miles"
+
+#. STRINGS.UI.CREDITS.NAMES.70
+msgctxt "STRINGS.UI.CREDITS.NAMES.70"
+msgid "Sarig Poyyara"
+msgstr "Sarig Poyyara"
+
+#. STRINGS.UI.CREDITS.NAMES.71
+msgctxt "STRINGS.UI.CREDITS.NAMES.71"
+msgid "Yan Fisch"
+msgstr "Yan Fisch"
+
+#. STRINGS.UI.CREDITS.NAMES.72
+msgctxt "STRINGS.UI.CREDITS.NAMES.72"
+msgid "Marcus Lo"
+msgstr "Marcus Lo"
+
+#. STRINGS.UI.CREDITS.NAMES.73
+msgctxt "STRINGS.UI.CREDITS.NAMES.73"
+msgid "Jordan Krahn"
+msgstr "Jordan Krahn"
+
+#. STRINGS.UI.CREDITS.NAMES.74
+msgctxt "STRINGS.UI.CREDITS.NAMES.74"
+msgid "Daniel MacGregor"
+msgstr "Daniel MacGregor"
+
+#. STRINGS.UI.CREDITS.NAMES.75
+msgctxt "STRINGS.UI.CREDITS.NAMES.75"
+msgid "Anita Ho"
+msgstr "Anita Ho"
+
+#. STRINGS.UI.CREDITS.NAMES.76
+msgctxt "STRINGS.UI.CREDITS.NAMES.76"
+msgid "Janis Osenenko"
+msgstr "Janis Osenenko"
+
+#. STRINGS.UI.CREDITS.NAMES.77
+msgctxt "STRINGS.UI.CREDITS.NAMES.77"
+msgid "Dave Downes"
+msgstr "Dave Downes"
+
+#. STRINGS.UI.CREDITS.NAMES.78
+msgctxt "STRINGS.UI.CREDITS.NAMES.78"
+msgid "Sun Chung"
+msgstr "Sun Chung"
+
+#. STRINGS.UI.CREDITS.NAMES.79
+msgctxt "STRINGS.UI.CREDITS.NAMES.79"
+msgid "Andrea Alcaraz"
+msgstr "Andrea Alcaraz"
+
+#. STRINGS.UI.CREDITS.NAMES.8
+msgctxt "STRINGS.UI.CREDITS.NAMES.8"
+msgid "Bryce Doig"
+msgstr "Bryce Doig"
+
+#. STRINGS.UI.CREDITS.NAMES.80
+msgctxt "STRINGS.UI.CREDITS.NAMES.80"
+msgid "Ian Bartolo"
+msgstr "Ian Bartolo"
+
+#. STRINGS.UI.CREDITS.NAMES.81
+msgctxt "STRINGS.UI.CREDITS.NAMES.81"
+msgid "Emmett Hall"
+msgstr "Emmett Hall"
+
+#. STRINGS.UI.CREDITS.NAMES.82
+msgctxt "STRINGS.UI.CREDITS.NAMES.82"
+msgid "Margaret Lu"
+msgstr "Margaret Lu"
+
+#. STRINGS.UI.CREDITS.NAMES.83
+msgctxt "STRINGS.UI.CREDITS.NAMES.83"
+msgid "Kial Natale"
+msgstr "Kial Natale"
+
+#. STRINGS.UI.CREDITS.NAMES.84
+msgctxt "STRINGS.UI.CREDITS.NAMES.84"
+msgid "Daniel Yu"
+msgstr "Daniel Yu"
+
+#. STRINGS.UI.CREDITS.NAMES.85
+msgctxt "STRINGS.UI.CREDITS.NAMES.85"
+msgid "Elaine Chen"
+msgstr "Elaine Chen"
+
+#. STRINGS.UI.CREDITS.NAMES.86
+msgctxt "STRINGS.UI.CREDITS.NAMES.86"
+msgid "Diogo Webber"
+msgstr "Diogo Webber"
+
+#. STRINGS.UI.CREDITS.NAMES.87
+msgctxt "STRINGS.UI.CREDITS.NAMES.87"
+msgid "Chris Chan"
+msgstr "Chris Chan"
+
+#. STRINGS.UI.CREDITS.NAMES.88
+msgctxt "STRINGS.UI.CREDITS.NAMES.88"
+msgid "Rich Talmey"
+msgstr "Rich Talmey"
+
+#. STRINGS.UI.CREDITS.NAMES.89
+msgctxt "STRINGS.UI.CREDITS.NAMES.89"
+msgid "Jayson Thiessen"
+msgstr "Jayson Thiessen"
+
+#. STRINGS.UI.CREDITS.NAMES.9
+msgctxt "STRINGS.UI.CREDITS.NAMES.9"
+msgid "Charles Bostik"
+msgstr "Charles Bostik"
+
+#. STRINGS.UI.CREDITS.NAMES.90
+msgctxt "STRINGS.UI.CREDITS.NAMES.90"
+msgid "Amanda Wong"
+msgstr "Amanda Wong"
+
+#. STRINGS.UI.CREDITS.NAMES.91
+msgctxt "STRINGS.UI.CREDITS.NAMES.91"
+msgid "Kent Reimer"
+msgstr "Kent Reimer"
+
+#. STRINGS.UI.CREDITS.NAMES.92
+msgctxt "STRINGS.UI.CREDITS.NAMES.92"
+msgid "Garnet (G50) Syberg-Olsen"
+msgstr "Garnet (G50) Syberg-Olsen"
+
+#. STRINGS.UI.CREDITS.NAMES.93
+msgctxt "STRINGS.UI.CREDITS.NAMES.93"
+msgid "Omar Al-Saadi"
+msgstr "Omar Al-Saadi"
+
+#. STRINGS.UI.CREDITS.NAMES.94
+msgctxt "STRINGS.UI.CREDITS.NAMES.94"
+msgid "Elaine Chen"
+msgstr "Elaine Chen"
+
+#. STRINGS.UI.CREDITS.NAMES.95
+msgctxt "STRINGS.UI.CREDITS.NAMES.95"
+msgid "Nathan Bosia"
+msgstr "Nathan Bosia"
+
+#. STRINGS.UI.CREDITS.NX_THANKS
+msgctxt "STRINGS.UI.CREDITS.NX_THANKS"
+msgid "Kristen Lynch\nTed Regulski"
+msgstr "Kristen Lynch\nTed Regulski"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES.1
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES.1"
+msgid "Daniel Bourke"
+msgstr "Daniel Bourke"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES.2
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES.2"
+msgid "Collin Desmond"
+msgstr "Collin Desmond"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES.3
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES.3"
+msgid "Neal Laurenza"
+msgstr "Neal Laurenza"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES.4
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES.4"
+msgid "Jeremy Quinn"
+msgstr "Jeremy Quinn"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES2.1
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES2.1"
+msgid "CJ Schiller"
+msgstr "CJ Schiller"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES2.2
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES2.2"
+msgid "Robert Smith"
+msgstr "Robert Smith"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES2.3
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES2.3"
+msgid "Herman Lejter"
+msgstr "Herman Lejter"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES2.4
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES2.4"
+msgid "James Kilian"
+msgstr "James Kilian"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES3.1
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES3.1"
+msgid "Cameron McQuade"
+msgstr "Cameron McQuade"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES3.2
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES3.2"
+msgid "Karyn Kilian"
+msgstr "Karyn Kilian"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES3.3
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES3.3"
+msgid "Evan Shuey"
+msgstr "Evan Shuey"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES3.4
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES3.4"
+msgid "Holly Marcella Blooflat"
+msgstr "Holly Marcella Blooflat"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES4.1
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES4.1"
+msgid "Jane Quigley"
+msgstr "Jane Quigley"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES4.2
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES4.2"
+msgid "Marcus Carbone"
+msgstr "Marcus Carbone"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES4.3
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES4.3"
+msgid "Dave Carrigg"
+msgstr "Dave Carrigg"
+
+#. STRINGS.UI.CREDITS.SKYMAP.NAMES4.4
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.NAMES4.4"
+msgid "Joseph Owen"
+msgstr "Joseph Owen"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.1
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.1"
+msgid "Josh LaFrance"
+msgstr "Josh LaFrance"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.2
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.2"
+msgid "Evan Shuey"
+msgstr "Evan Shuey"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.3
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.3"
+msgid "Neal Laurenza"
+msgstr "Neal Laurenza"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.4
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.4"
+msgid "Dave Carrigg"
+msgstr "Dave Carrigg"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.5
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES.5"
+msgid "Daniel Bourke"
+msgstr "Daniel Bourke"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.1
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.1"
+msgid "Preston Peek"
+msgstr "Preston Peek"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.2
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.2"
+msgid "Randy Condon"
+msgstr "Randy Condon"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.3
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.3"
+msgid "Herman Lejter"
+msgstr "Herman Lejter"
+
+#. STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.4
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.PS5_NAMES2.4"
+msgid "Karyn Kilian"
+msgstr "Karyn Kilian"
+
+#. STRINGS.UI.CREDITS.SKYMAP.TITLE
+msgctxt "STRINGS.UI.CREDITS.SKYMAP.TITLE"
+msgid "%s port by Skymap Games"
+msgstr "%s portu, Skymap Games tarafından"
+
+#. STRINGS.UI.CREDITS.SONY.NAMES.1
+msgctxt "STRINGS.UI.CREDITS.SONY.NAMES.1"
+msgid "Shane Bettenhausen"
+msgstr "Shane Bettenhausen"
+
+#. STRINGS.UI.CREDITS.SONY.NAMES.2
+msgctxt "STRINGS.UI.CREDITS.SONY.NAMES.2"
+msgid "Adam Boyes"
+msgstr "Adam Boyes"
+
+#. STRINGS.UI.CREDITS.SONY.NAMES.3
+msgctxt "STRINGS.UI.CREDITS.SONY.NAMES.3"
+msgid "Brian Silva"
+msgstr "Brian Silva"
+
+#. STRINGS.UI.CREDITS.SONY.NAMES.4
+msgctxt "STRINGS.UI.CREDITS.SONY.NAMES.4"
+msgid "Nick Suttner"
+msgstr "Nick Suttner"
+
+#. STRINGS.UI.CREDITS.SONY.NAMES2.1
+msgctxt "STRINGS.UI.CREDITS.SONY.NAMES2.1"
+msgid "Alessandro Bovenzi"
+msgstr "Alessandro Bovenzi"
+
+#. STRINGS.UI.CREDITS.SONY.NAMES2.2
+msgctxt "STRINGS.UI.CREDITS.SONY.NAMES2.2"
+msgid "Alice Liang"
+msgstr "Alice Liang"
+
+#. STRINGS.UI.CREDITS.SONY.NAMES2.3
+msgctxt "STRINGS.UI.CREDITS.SONY.NAMES2.3"
+msgid "Andrew Wong"
+msgstr "Andrew Wong"
+
+#. STRINGS.UI.CREDITS.SONY_THANKS
+msgctxt "STRINGS.UI.CREDITS.SONY_THANKS"
+msgid "Shane Bettenhausen\nAdam Boyes\nBrian Silva\nNick Suttner\nAlessandro Bovenzi"
+msgstr "Shane Bettenhausen\nAdam Boyes\nBrian Silva\nNick Suttner\nAlessandro Bovenzi"
+
+#. STRINGS.UI.CREDITS.THANKS
+msgctxt "STRINGS.UI.CREDITS.THANKS"
+msgid "And a very special thanks to all our supporters who braved the challenge of the \"Early-Access\nBeta\". You are too numerous to name - our amazing moderators, the wonderful artists, musicians,\nlivestreamers, to all who made a Let's Play video and everybody who chimed in to let us know\nexactly what you think. Your encouragement, passion and support has been amazing.\n\nDon't Starve Together is truly a better game because of all of you."
+msgstr "Ve \"Erken Erişim\nBetası\"nın zorluğuna göğüs geren tüm destekçilerimize çok özel bir teşekkür. İsim isim sayamayacağımız kadar\nçoksunuz — harika moderatörlerimiz, muhteşem sanatçılar, müzisyenler,\nyayıncılar, Let's Play videosu çeken herkes ve tam olarak ne düşündüğünüzü bize bildirmek için söze atılan herkes.\nCesaretiniz, tutkunuz ve desteğiniz olağanüstüydü.\n\nDon't Starve Together hepiniz sayesinde gerçekten daha iyi bir oyun oldu."
+
+#. STRINGS.UI.CREDITS.THANKYOU
+msgctxt "STRINGS.UI.CREDITS.THANKYOU"
+msgid "Thank you!"
+msgstr "Teşekkürler!"
+
+#. STRINGS.UI.CREDITS.TITLE
+msgctxt "STRINGS.UI.CREDITS.TITLE"
+msgid "CREDITS"
+msgstr "JENERİK"
+
+#. STRINGS.UI.CREDITS.TWITTER
+msgctxt "STRINGS.UI.CREDITS.TWITTER"
+msgid "The Twitters"
+msgstr "Twitter'lar"
+
+#. STRINGS.UI.CREDITS.VMEM
+msgctxt "STRINGS.UI.CREDITS.VMEM"
+msgid "Powered by VMem\nby PureDev Software"
+msgstr "VMem ile çalışır\nPureDev Software'in eseri"
+
+#. STRINGS.UI.CREDITS.XB1_THANKS
+msgctxt "STRINGS.UI.CREDITS.XB1_THANKS"
+msgid "Rick Ryan\nVictor Castano\nAngela Savarese\nNick Bodenham"
+msgstr "Rick Ryan\nVictor Castano\nAngela Savarese\nNick Bodenham"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG.BODY
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG.BODY"
+msgid "PlayStation®4 system saved data has been found. Do you want to import it?"
+msgstr "PlayStation®4 sistem kayıt verisi bulundu. İçe aktarmak ister misiniz?"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG.NO
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG.NO"
+msgid "No"
+msgstr "Hayır"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG.TITLE
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG.TITLE"
+msgid "Import saved data?"
+msgstr "Kayıt verisi içe aktarılsın mı?"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG.YES
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG.YES"
+msgid "Yes"
+msgstr "Evet"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.BODY
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.BODY"
+msgid "Importing will overwrite any existing saved data. Are you sure?"
+msgstr "İçe aktarma mevcut kayıt verisinin üzerine yazacak. Emin misiniz?"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.NO
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.NO"
+msgid "No"
+msgstr "Hayır"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.TITLE
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.TITLE"
+msgid "Overwrite saved data?"
+msgstr "Kayıt verisinin üzerine yazılsın mı?"
+
+#. STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.YES
+msgctxt "STRINGS.UI.CROSS_SAVE_DIALOG_CONFIRM.YES"
+msgid "Yes"
+msgstr "Evet"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ACIDRAIN_ENABLED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ACIDRAIN_ENABLED"
+msgid "Acid Rain"
+msgstr "Asit Yağmuru"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ALTERNATEHUNT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ALTERNATEHUNT"
+msgid "Hunt Surprises"
+msgstr "Av Sürprizleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ANGRYBEES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ANGRYBEES"
+msgid "Killer Bee Hives"
+msgstr "Katil Arı Kovanları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ANTLIONTRIBUTE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ANTLIONTRIBUTE"
+msgid "Antlion Tribute"
+msgstr "Karıncaaslan Sunusu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.APPLY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.APPLY"
+msgid "Apply"
+msgstr "Uygula"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ATRIUMGATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ATRIUMGATE"
+msgid "Ancient Gateway"
+msgstr "Kadim Geçit"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.AUTUMN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.AUTUMN"
+msgid "Autumn"
+msgstr "Sonbahar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACK
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACK"
+msgid "Back"
+msgstr "Geri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY"
+msgid "Do you want to discard the changes you made to your world generation options?"
+msgstr "Dünya üretim ayarlarındaki değişiklikleri silmek istiyor musun?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_COMBINED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_COMBINED"
+msgid "Do you want to discard the changes you made to your world?"
+msgstr "Dünyandaki değişiklikleri silmek istiyor musun?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_SETTINGS"
+msgid "Do you want to discard the changes you made to your world settings?"
+msgstr "Dünya ayarlarındaki değişiklikleri silmek istiyor musun?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKBODY_WORLDGEN"
+msgid "Do you want to discard the changes you made to your world generation?"
+msgstr "Dünya üretimindeki değişiklikleri silmek istiyor musun?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BACKTITLE"
+msgid "Discard Changes"
+msgstr "Değişiklikleri Sil"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BALATRO
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BALATRO"
+msgid "JIMBO"
+msgstr "JIMBO"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BANANA
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BANANA"
+msgid "Bananas"
+msgstr "Muzlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BANANABUSH_PORTALRATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BANANABUSH_PORTALRATE"
+msgid "Banana Bushes"
+msgstr "Muz Çalıları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BASICRESOURCE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BASICRESOURCE_REGROWTH"
+msgid "Basic Resources"
+msgstr "Temel Kaynaklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BATS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BATS"
+msgid "Bats"
+msgstr "Yarasalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BATS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BATS_SETTING"
+msgid "Bats"
+msgstr "Yarasalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEARGER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEARGER"
+msgid "Bearger"
+msgstr "Ayıger"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEEFALO
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEEFALO"
+msgid "Beefalos"
+msgstr "Bızonsığırlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEEFALOHEAT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEEFALOHEAT"
+msgid "Beefalo Mating Frequency"
+msgstr "Bızonsığır Çiftleşme Sıklığı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEEQUEEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEEQUEEN"
+msgid "Bee Queen"
+msgstr "Arı Kraliçesi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEES"
+msgid "Bee Hives"
+msgstr "Arı Kovanları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BEES_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEES_SETTING"
+msgid "Bees"
+msgstr "Arılar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BERRYBUSH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BERRYBUSH"
+msgid "Berry Bushes"
+msgstr "Meyve Çalıları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BIRDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BIRDS"
+msgid "Birds"
+msgstr "Kuşlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BOONS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BOONS"
+msgid "Failed Survivors"
+msgstr "Düşmüş Hayatta Kalanlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BRANCHING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BRANCHING"
+msgid "Branches"
+msgstr "Dallanmalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES"
+msgid "Enlightenment Monsters"
+msgstr "Aydınlanma Canavarları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN"
+msgid "Rabbit Hutches"
+msgstr "Tavşan Yuvaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BUNNYMEN_SETTING"
+msgid "Bunnymen"
+msgstr "Tavşanadamlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BUTTERFLY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BUTTERFLY"
+msgid "Butterflies"
+msgstr "Kelebekler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.BUZZARD
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BUZZARD"
+msgid "Buzzards"
+msgstr "Akbabalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CACTUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CACTUS"
+msgid "Cacti"
+msgstr "Kaktüsler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CACTUS_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CACTUS_REGROWTH"
+msgid "Cacti"
+msgstr "Kaktüsler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CANCEL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CARROT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CARROT"
+msgid "Carrots"
+msgstr "Havuçlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CARROTS_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CARROTS_REGROWTH"
+msgid "Carrots"
+msgstr "Havuçlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOON
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOON"
+msgid "Hollow Stump"
+msgstr "Oyuk Kütük"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOONS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CATCOONS"
+msgid "Catcoons"
+msgstr "Kedikoonlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CAVELIGHT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CAVELIGHT"
+msgid "Sinkhole Lights"
+msgstr "Mağara Işıkları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CAVE_PONDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CAVE_PONDS"
+msgid "Ponds"
+msgstr "Göletler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CAVE_SPIDERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CAVE_SPIDERS"
+msgid "Spilagmites"
+msgstr "Örümşit"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CHESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CHESS"
+msgid "Clockworks"
+msgstr "Saat Mekanizmaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CHEST_MIMICS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CHEST_MIMICS"
+msgid "Ornery Chests"
+msgstr "Aksi Sandıklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.COMBINEDPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.COMBINEDPRESET"
+msgid "World Presets"
+msgstr "Dünya Ön Ayarları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CONFIRM_PRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CONFIRM_PRESET"
+msgid "Apply Preset"
+msgstr "Ön Ayarı Uygula"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.COOKIECUTTERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.COOKIECUTTERS"
+msgid "Cookie Cutters"
+msgstr "Çörek Kesiciler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CRABKING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CRABKING"
+msgid "Crabking"
+msgstr "Yengeçlerin Kralı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CROW_CARNIVAL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CROW_CARNIVAL"
+msgid "Midsummer Cawnival"
+msgstr "Yaz Karganavalı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM"
+msgid "%s (Custom)"
+msgstr "%s (Özel)"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOMDESC
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOMDESC"
+msgid "Your world, your rules!"
+msgstr "Senin dünyan, senin kuralların!"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET"
+msgid "Custom Preset"
+msgstr "Özel Ön Ayar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.CUSTOM_PRESET_DESC"
+msgid "Custom preset"
+msgstr "Özel ön ayar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DARKNESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DARKNESS"
+msgid "Darkness Damage"
+msgstr "Karanlık Hasarı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DAY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DAY"
+msgid "Day Type"
+msgstr "Gün Tipi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DAYWALKER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DAYWALKER"
+msgid "Nightmare Werepig"
+msgstr "Kabus Kurtdomuzu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DAYWALKER2
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DAYWALKER2"
+msgid "Scrappy Werepig"
+msgstr "Yırtıcı Kurtdomuz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DECIDUOUSMONSTER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DECIDUOUSMONSTER"
+msgid "Poison Birchnut Trees"
+msgstr "Zehirli Huş Cevizi Ağaçları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DECIDUOUSTREE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DECIDUOUSTREE_REGROWTH"
+msgid "Birchnut Trees"
+msgstr "Huş Cevizi Ağaçları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DEERCLOPS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEERCLOPS"
+msgid "Deerclops"
+msgstr "Geyikgöz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DEFAULT_PRESET_DESC"
+msgid "Lots of pigs and spiders and a Tallbird nest."
+msgstr "Bolca domuz, örümcek ve bir Uzunkuş yuvası."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETE"
+msgid "Delete"
+msgstr "Sil"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET"
+msgid "Delete Preset"
+msgstr "Ön Ayarı Sil"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_BODY"
+msgid "Are you sure?"
+msgstr "Emin misin?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DELETEPRESET_TITLE"
+msgid "Delete Preset \"%s\""
+msgstr "\"%s\" Ön Ayarını Sil"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DESCRIBEPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DESCRIBEPRESET"
+msgid "Description:"
+msgstr "Açıklama:"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DISEASE_DELAY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DISEASE_DELAY"
+msgid "Disease"
+msgstr "Hastalık"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DRAGONFLY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DRAGONFLY"
+msgid "Dragonfly"
+msgstr "Yusufçuk"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN"
+msgid "Drop Items on Disconnect"
+msgstr "Bağlantı Kesilince Eşyaları Bırak"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.DUSTMOTHS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUSTMOTHS"
+msgid "Dust Moths"
+msgstr "Toz Güveleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EARTHQUAKES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EARTHQUAKES"
+msgid "Earthquakes"
+msgstr "Depremler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EDITPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EDITPRESET"
+msgid "Update Current Preset"
+msgstr "Mevcut Ön Ayarı Güncelle"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EVERGREEN_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EVERGREEN_REGROWTH"
+msgid "Evergreens"
+msgstr "Çamlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EXTRASTARTINGITEMS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EXTRASTARTINGITEMS"
+msgid "Extra Starting Resources"
+msgstr "Ekstra Başlangıç Kaynakları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.EYEOFTERROR
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.EYEOFTERROR"
+msgid "Eye of Terror"
+msgstr "Dehşet Gözü"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FERN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FERN"
+msgid "Cave Ferns"
+msgstr "Mağara Eğreltiotları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FISHSCHOOLS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FISHSCHOOLS"
+msgid "Schools of Fish"
+msgstr "Balık Sürüleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FISSURE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FISSURE"
+msgid "Nightmare Fissures"
+msgstr "Kabus Yarıkları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FLINT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLINT"
+msgid "Flint"
+msgstr "Çakmaktaşı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWERS"
+msgid "Flowers, Evil Flowers"
+msgstr "Çiçekler, Kötü Çiçekler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWERS_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWERS_REGROWTH"
+msgid "Flowers"
+msgstr "Çiçekler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE"
+msgid "Light Flowers"
+msgstr "Işık Çiçekleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLOWER_CAVE_REGROWTH"
+msgid "Light Flower"
+msgstr "Işık Çiçeği"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FROGRAIN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FROGRAIN"
+msgid "Frog Rain"
+msgstr "Kurbağa Yağmuru"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FROGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FROGS"
+msgid "Frogs"
+msgstr "Kurbağalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.FRUITFLY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FRUITFLY"
+msgid "Lord of the Fruit Flies"
+msgstr "Meyve Sineklerinin Lordu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GHOSTENABLED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GHOSTENABLED"
+msgid "Survivor Death"
+msgstr "Hayatta Kalan Ölümü"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GHOSTSANITYDRAIN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GHOSTSANITYDRAIN"
+msgid "Ghost Sanity Drain"
+msgstr "Hayalet Akıl Tüketimi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GNARWAIL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GNARWAIL"
+msgid "Gnarwails"
+msgstr "Hırlbalinalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GOOSEMOOSE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GOOSEMOOSE"
+msgid "Meese/Geese"
+msgstr "Toslar/Kazlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GRASS"
+msgid "Grass"
+msgstr "Çayır"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.GRASSGEKKOS"
+msgid "Grass Gekko Morphing"
+msgstr "Çayır Geko Dönüşümü"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HALLOWED_NIGHTS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HALLOWED_NIGHTS"
+msgid "Hallowed Nights"
+msgstr "Cadılar Bayramı Geceleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HEALTHPENALTY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HEALTHPENALTY"
+msgid "Max Health Penalty"
+msgstr "Maksimum Can Cezası"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDMOUND
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDMOUND"
+msgid "Hound Mounds"
+msgstr "Tazı Tepeleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HOUNDS"
+msgid "Hound Attacks"
+msgstr "Tazı Saldırıları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HOUND_MOUNDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HOUND_MOUNDS"
+msgid "Hounds"
+msgstr "Tazılar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HUNGER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HUNGER"
+msgid "Hunger Damage"
+msgstr "Açlık Hasarı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.HUNT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.HUNT"
+msgid "Hunts"
+msgstr "Avlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.AUTUMN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.AUTUMN"
+msgid "Autumn"
+msgstr "Sonbahar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.BRANCHING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.BRANCHING"
+msgid "Branches"
+msgstr "Dallanmalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.DAY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.DAY"
+msgid "Day Type"
+msgstr "Gün Tipi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.LOOP
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.LOOP"
+msgid "Loops"
+msgstr "Döngüler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START"
+msgid "Starting Resource Variety"
+msgstr "Başlangıç Kaynak Çeşitliliği"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START"
+msgid "Starting Season"
+msgstr "Başlangıç Mevsimi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SPRING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SPRING"
+msgid "Spring"
+msgstr "İlkbahar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.START_LOCATION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.START_LOCATION"
+msgid "Spawn Area"
+msgstr "Doğuş Alanı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SUMMER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SUMMER"
+msgid "Summer"
+msgstr "Yaz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.TASK_SET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.TASK_SET"
+msgid "Biomes"
+msgstr "Biyomlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WINTER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WINTER"
+msgid "Winter"
+msgstr "Kış"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WORLD_SIZE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.WORLD_SIZE"
+msgid "Size"
+msgstr "Boyut"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_BODY"
+msgid "You have set all seasons to \"None\".\nPlease turn on at least one season to continue."
+msgstr "Tüm mevsimleri \"Yok\" yaptın.\nDevam etmek için en az bir mevsimi aç."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.INVALIDSEASONCOMBO_TITLE"
+msgid "All Seasons Disabled"
+msgstr "Tüm Mevsimler Kapalı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ITEMMIMICS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ITEMMIMICS"
+msgid "Mimicreeps"
+msgstr "Sürünmik"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.JUNKYARD
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.JUNKYARD"
+msgid "Junk Yard"
+msgstr "Hurdalık"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.KLAUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.KLAUS"
+msgid "Klaus"
+msgstr "Klaus"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.KRAMPUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.KRAMPUS"
+msgid "Krampii"
+msgstr "Krampuslar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LESSDAMAGETAKEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LESSDAMAGETAKEN"
+msgid "Damage Taken"
+msgstr "Alınan Hasar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LICHEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LICHEN"
+msgid "Lichen"
+msgstr "Liken"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIEFS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIEFS"
+msgid "Treeguards"
+msgstr "Ağaçmuhafızlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTCRAB_PORTALRATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTCRAB_PORTALRATE"
+msgid "Crustashines"
+msgstr "Parlakkabuklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIERS"
+msgid "Bulbous Lightbugs"
+msgstr "Şişman Işıkböcekleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIER_FLOWER_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTFLIER_FLOWER_REGROWTH"
+msgid "Lightbug Flower"
+msgstr "Işıkböceği Çiçeği"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTNING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTNING"
+msgid "Lightning"
+msgstr "Yıldırım"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTNINGGOAT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LIGHTNINGGOAT"
+msgid "Volt Goats"
+msgstr "Şimşek Keçileri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LINKPRESETSTR"
+msgid "Link Settings and Worldgen Presets into World Presets"
+msgstr "Ayar ve Dünya Üretim Ön Ayarlarını Dünya Ön Ayarına Bağla"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET"
+msgid "Choose Preset"
+msgstr "Ön Ayar Seç"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_COMBINED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_COMBINED"
+msgid "Choose World Preset"
+msgstr "Dünya Ön Ayarı Seç"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_SETINGS"
+msgid "Choose Settings Preset"
+msgstr "Ayar Ön Ayarı Seç"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOADPRESET_WORLDGEN"
+msgid "Choose Generation Preset"
+msgstr "Üretim Ön Ayarı Seç"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOOP
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOOP"
+msgid "Loops"
+msgstr "Döngüler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY"
+msgid "Apply a new preset and lose custom changes?"
+msgstr "Yeni ön ayar uygulayıp özel değişiklikleri kaybetmek istiyor musun?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESTITLE"
+msgid "Lose Changes?"
+msgstr "Değişiklikler Kaybedilsin mi?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LUNARHAIL_FREQUENCY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LUNARHAIL_FREQUENCY"
+msgid "Lunar Hail"
+msgstr "Ay Dolusu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.LUREPLANTS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LUREPLANTS"
+msgid "Lureplants"
+msgstr "Yem Bitkileri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MALBATROSS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MALBATROSS"
+msgid "Malbatross"
+msgstr "Malbatros"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MANDRAKE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MANDRAKE"
+msgid "Mandrakes"
+msgstr "Adamotları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MARSHBUSH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MARSHBUSH"
+msgid "Spiky Bushes"
+msgstr "Dikenli Çalılar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_BODY"
+msgid "Only 5 custom presets allowed.\nChoose one to overwrite:"
+msgstr "Sadece 5 özel ön ayara izin var.\nÜzerine yazılacak birini seç:"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MAX_PRESETS_EXCEEDED_TITLE"
+msgid "Preset Limit Reached"
+msgstr "Ön Ayar Limitine Ulaşıldı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MERM
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MERM"
+msgid "Leaky Shack"
+msgstr "Sızıntılı Kulübe"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MERMS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MERMS"
+msgid "Merms"
+msgstr "Mermler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.METEORSHOWERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.METEORSHOWERS"
+msgid "Meteor Frequency"
+msgstr "Meteor Sıklığı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.METEORSPAWNER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.METEORSPAWNER"
+msgid "Meteor Fields"
+msgstr "Meteor Tarlaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_BODY"
+msgid "You forgot to enter a name for your preset."
+msgstr "Ön ayarına isim vermeyi unuttun."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MISSINGPRESETNAME_TITLE"
+msgid "Missing Preset Name"
+msgstr "Eksik Ön Ayar Adı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLEBATS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLEBATS"
+msgid "Naked Mole Bats"
+msgstr "Çıplak Köstebek Yarasaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES"
+msgid "Mole Burrows"
+msgstr "Köstebek Yuvaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOLES_SETTING"
+msgid "Moles"
+msgstr "Köstebekler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY"
+msgid "Splumonkey Pods"
+msgstr "Splumaymun Kovukları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEYTAIL_PORTALRATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEYTAIL_PORTALRATE"
+msgid "Monkeytails"
+msgstr "Maymunkuyrukları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MONKEY_SETTING"
+msgid "Splumonkeys"
+msgstr "Splumaymunlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BERRYBUSH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BERRYBUSH"
+msgid "Stone Fruit Bushes"
+msgstr "Taş Meyve Çalıları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BULLKELP
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_BULLKELP"
+msgid "Beached Bull Kelp"
+msgstr "Karaya Vurmuş Boğa Yosunu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_CARROT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_CARROT"
+msgid "Carrats"
+msgstr "Havufareler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FISSURE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FISSURE"
+msgid "Celestial Fissures"
+msgstr "Semavi Yarıklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FRUITDRAGON
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_FRUITDRAGON"
+msgid "Saladmander"
+msgstr "Salatamender"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_HOTSPRING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_HOTSPRING"
+msgid "Hot Springs"
+msgstr "Kaplıcalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_ROCK
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_ROCK"
+msgid "Lunar Rocks"
+msgstr "Ay Taşları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SAPLING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SAPLING"
+msgid "Lunar Saplings"
+msgstr "Ay Fidanları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDER"
+msgid "Shattered Spiders"
+msgstr "Parçalanmış Örümcekler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_SPIDERS"
+msgid "Shattered Spider Holes"
+msgstr "Parçalanmış Örümcek Yuvaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_STARFISH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_STARFISH"
+msgid "Anenemies"
+msgstr "Düşmanavarlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE"
+msgid "Lune Trees"
+msgstr "Ay Ağaçları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOON_TREE_REGROWTH"
+msgid "Lune Trees"
+msgstr "Ay Ağaçları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MOSQUITOS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MOSQUITOS"
+msgid "Mosquitos"
+msgstr "Sivrisinekler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHGNOME
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHGNOME"
+msgid "Mush Gnomes"
+msgstr "Mantar Cüceleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHROOM
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHROOM"
+msgid "Mushrooms"
+msgstr "Mantarlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE"
+msgid "Mushroom Trees"
+msgstr "Mantar Ağaçları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_MOON_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_MOON_REGROWTH"
+msgid "Lunar Mushtrees"
+msgstr "Ay Mantar Ağaçları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUSHTREE_REGROWTH"
+msgid "Mushroom Trees"
+msgstr "Mantar Ağaçları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BEARGER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BEARGER"
+msgid "Armored Bearger"
+msgstr "Zırhlı Ayıger"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BIRDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BIRDS"
+msgid "Mutated Birds"
+msgstr "Mutasyonlu Kuşlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BIRD_GESTALT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BIRD_GESTALT"
+msgid "Bright-Beaked Birds"
+msgstr "Parlak Gagalı Kuşlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BUZZARD_GESTALT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BUZZARD_GESTALT"
+msgid "Crystal-Crested Buzzards"
+msgstr "Kristal Tepeli Akbabalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_DEERCLOPS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_DEERCLOPS"
+msgid "Crystal Deerclops"
+msgstr "Kristal Geyikgöz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_HOUNDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_HOUNDS"
+msgid "Horror Hounds"
+msgstr "Dehşet Tazıları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_MERM
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_MERM"
+msgid "Mutated Merms"
+msgstr "Mutasyonlu Mermler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_SPIDERQUEEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_SPIDERQUEEN"
+msgid "Shattered Spider Holes"
+msgstr "Parçalanmış Örümcek Yuvaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_WARG
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_WARG"
+msgid "Possessed Vargs"
+msgstr "Cinli Varglar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NAMEPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NAMEPRESET"
+msgid "Name:"
+msgstr "İsim:"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NEWPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NEWPRESET"
+msgid "Name Your Preset"
+msgstr "Ön Ayarına İsim Ver"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NIGHTMARECREATURES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NIGHTMARECREATURES"
+msgid "Ruins Nightmares"
+msgstr "Harabe Kabusları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.NO
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.NO"
+msgid "No"
+msgstr "Hayır"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_BULLKELP
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_BULLKELP"
+msgid "Bull Kelp"
+msgstr "Boğa Yosunu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_OTTERDENS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_OTTERDENS"
+msgid "Marotter Dens"
+msgstr "Denisamur İnleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SEASTACK
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SEASTACK"
+msgid "Sea Stacks"
+msgstr "Deniz Kayalıkları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SHOAL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_SHOAL"
+msgid "Shoals"
+msgstr "Sığlıklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WATERPLANT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WATERPLANT"
+msgid "Sea Weeds"
+msgstr "Deniz Yosunları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WOBSTERDEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OCEAN_WOBSTERDEN"
+msgid "Wobster Mounds"
+msgstr "Wobster Tepeleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OKAY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OKAY"
+msgid "Okay"
+msgstr "Tamam"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OTTERS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OTTERS_SETTING"
+msgid "Marotters"
+msgstr "Denisamurlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.OVERWRITE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.OVERWRITE"
+msgid "Overwrite"
+msgstr "Üzerine Yaz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PALMCONETREE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PALMCONETREE"
+msgid "Palmcone Tree"
+msgstr "Palm Konisi Ağacı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PALMCONETREE_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PALMCONETREE_REGROWTH"
+msgid "Palmcone Tree"
+msgstr "Palm Konisi Ağacı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PALMCONE_SEED_PORTALRATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PALMCONE_SEED_PORTALRATE"
+msgid "Palmcone Sprouts"
+msgstr "Palm Konisi Filizleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PENGUINS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PENGUINS"
+msgid "Pengulls"
+msgstr "Pengullar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PENGUINS_MOON
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PENGUINS_MOON"
+msgid "Permafrost Pengulls"
+msgstr "Donyer Pengulları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PERD
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PERD"
+msgid "Gobblers"
+msgstr "Yutkunlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PETRIFICATION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PETRIFICATION"
+msgid "Forest Petrification"
+msgstr "Orman Taşlaşması"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS"
+msgid "Pig Houses"
+msgstr "Domuz Evleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PIGS_SETTING"
+msgid "Pigs"
+msgstr "Domuzlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PIRATERAIDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PIRATERAIDS"
+msgid "Moon Quay Pirates"
+msgstr "Ay Quay Korsanları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PONDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PONDS"
+msgid "Ponds"
+msgstr "Göletler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PORTALRESURECTION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PORTALRESURECTION"
+msgid "Revive At Florid Postern"
+msgstr "Çiçekli Çeşmecik'te Diril"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PORTAL_SPAWNRATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PORTAL_SPAWNRATE"
+msgid "Portal Activity"
+msgstr "Portal Aktivitesi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.POWDER_MONKEY_PORTALRATE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.POWDER_MONKEY_PORTALRATE"
+msgid "Powder Monkeys"
+msgstr "Toz Maymunları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS"
+msgid "Changing Resources"
+msgstr "Değişen Kaynaklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START"
+msgid "Starting Resource Variety"
+msgstr "Başlangıç Kaynak Çeşitliliği"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY"
+msgid "A preset with the name \"%s\" already exists, please choose a different name."
+msgstr "\"%s\" adlı bir ön ayar zaten var, başka bir isim seç."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_TITLE"
+msgid "Preset Already Exists"
+msgstr "Ön Ayar Zaten Var"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.1"
+msgid "The standard Don't Starve experience."
+msgstr "Standart Don't Starve deneyimi."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10"
+msgid "The multiplayer Don't Starve experience."
+msgstr "Çok oyunculu Don't Starve deneyimi."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.11
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.11"
+msgid "Don't Starve Together with Reign of Giants turned off."
+msgstr "Reign of Giants kapalı Don't Starve Together."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.12
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.12"
+msgid "Delve into the caves... together!"
+msgstr "Mağaralara dal... birlikte!"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.13
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.13"
+msgid "A darker, more arachnid-y cave experience."
+msgstr "Daha karanlık, daha örümceksi bir mağara deneyimi."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2"
+msgid "A quicker start in a harsher world."
+msgstr "Daha sert bir dünyada daha hızlı bir başlangıç."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3"
+msgid "A dark twist on the standard Don't Starve experience."
+msgstr "Standart Don't Starve deneyiminin karanlık bir versiyonu."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4"
+msgid "The standard Don't Starve Experience 4"
+msgstr "Standart Don't Starve Deneyimi 4"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.5
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.5"
+msgid "The standard Don't Starve Experience 5"
+msgstr "Standart Don't Starve Deneyimi 5"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.6
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.6"
+msgid "The standard Don't Starve Experience 6"
+msgstr "Standart Don't Starve Deneyimi 6"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.7
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.7"
+msgid "The standard Don't Starve Experience 7"
+msgstr "Standart Don't Starve Deneyimi 7"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.8
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.8"
+msgid "The standard Don't Starve Experience 8"
+msgstr "Standart Don't Starve Deneyimi 8"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.9
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.9"
+msgid "The standard Don't Starve Experience 9"
+msgstr "Standart Don't Starve Deneyimi 9"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.COMPLETE_DARKNESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.COMPLETE_DARKNESS"
+msgid "A dark twist on the standard Don't Starve experience."
+msgstr "Standart Don't Starve deneyiminin karanlık bir versiyonu."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE"
+msgid "Delve into the caves... together!"
+msgstr "Mağaralara dal... birlikte!"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE_PLUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE_PLUS"
+msgid "A darker, more arachnid-y cave experience."
+msgstr "Daha karanlık, daha örümceksi bir mağara deneyimi."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.ENDLESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.ENDLESS"
+msgid "A never-ending Don't Starve sandbox.\nResurrection is always available via the Florid Postern."
+msgstr "Sonsuza dek süren bir Don't Starve sanal kumu.\nÇiçekli Çeşmecik'le diriliş her zaman mevcut."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LAVAARENA
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LAVAARENA"
+msgid "Dare you prove yourself in The Forge?"
+msgstr "Demirhane'de kendini kanıtlamaya cesaretin var mı?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT"
+msgid "A dark twist on the standard Don't Starve experience."
+msgstr "Standart Don't Starve deneyiminin karanlık bir versiyonu."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING"
+msgid "This preset came from a mod, but that mod isn't active right now!"
+msgstr "Bu ön ayar bir moddan geldi ama o mod şu an aktif değil!"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.QUAGMIRE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.QUAGMIRE"
+msgid "Can you stand the heat in The Gorge?"
+msgstr "Boğaz'ın sıcağına dayanabilir misin?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.RELAXED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.RELAXED"
+msgid "A more relaxed playstyle with less threats from the world.\nSurvivors will not die from starvation, freezing, overheating, or the darkness.\nDamage to survivors is reduced. Resurrection is always available via the Florid Postern."
+msgstr "Dünyadan daha az tehdit içeren daha rahat bir oyun tarzı.\nHayatta kalanlar açlık, donma, aşırı ısınma veya karanlıktan ölmez.\nHayatta kalanlara verilen hasar azaltılır. Çiçekli Çeşmecik'le diriliş her zaman mevcuttur."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_DEFAULT_PLUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_DEFAULT_PLUS"
+msgid "A quicker start in a harsher world."
+msgstr "Daha sert bir dünyada daha hızlı bir başlangıç."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER"
+msgid "The standard Don't Starve experience."
+msgstr "Standart Don't Starve deneyimi."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER_CLASSIC
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER_CLASSIC"
+msgid "Don't Starve Together with Reign of Giants turned off."
+msgstr "Reign of Giants kapalı Don't Starve Together."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA"
+msgid "Don't Starve Together, with a Terraria-inspired twist."
+msgstr "Don't Starve Together, Terraria esintili bir versiyon."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.TERRARIA_CAVE"
+msgid "Don't Starve Together, with a Terraria-inspired twist... in the caves!"
+msgstr "Don't Starve Together, Terraria esintili bir versiyon... mağaralarda!"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.WILDERNESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.WILDERNESS"
+msgid "It's wild and dangerous out there!\nEnter at a random location in the world.\nWhen you die: pick a new survivor and try, try again."
+msgstr "Dışarısı vahşi ve tehlikeli!\nDünyada rastgele bir yerde başla.\nÖldüğünde: yeni bir hayatta kalan seç ve dene, tekrar dene."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.1
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.1"
+msgid "Default"
+msgstr "Varsayılan"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.10
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.10"
+msgid "Together Forever"
+msgstr "Sonsuza Dek Birlikte"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.11
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.11"
+msgid "No Giants Here"
+msgstr "Burada Dev Yok"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.12
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.12"
+msgid "The Caves"
+msgstr "Mağaralar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.13
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.13"
+msgid "Caves Plus"
+msgstr "Mağaralar Artı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.2
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.2"
+msgid "Together Plus"
+msgstr "Birlikte Artı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.3
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.3"
+msgid "Lights Out"
+msgstr "Işıklar Sönsün"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.4
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.4"
+msgid "Soggy"
+msgstr "Sırılsıklam"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.5
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.5"
+msgid "Eternal Summer"
+msgstr "Sonsuz Yaz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.6
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.6"
+msgid "Winter you'll do next?"
+msgstr "Bir Dahaki Kışın Ne Yapsın?"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.7
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.7"
+msgid "Island you an axe"
+msgstr "Adan Sana Balta"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.8
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.8"
+msgid "Crazy Eddie"
+msgstr "Çılgın Ahmet"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.9
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.9"
+msgid "Nighttime Antics"
+msgstr "Gece Maskaralıkları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.COMPLETE_DARKNESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.COMPLETE_DARKNESS"
+msgid "Lights Out"
+msgstr "Işıklar Sönsün"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE"
+msgid "The Caves"
+msgstr "Mağaralar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PLUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PLUS"
+msgid "Caves Plus"
+msgstr "Mağaralar Artı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PS4
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.DST_CAVE_PS4"
+msgid "Standard Caves"
+msgstr "Standart Mağaralar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.ENDLESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.ENDLESS"
+msgid "Endless"
+msgstr "Sonsuz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LAVAARENA
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LAVAARENA"
+msgid "The Forge"
+msgstr "Demirhane"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LIGHTS_OUT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.LIGHTS_OUT"
+msgid "Lights Out"
+msgstr "Işıklar Sönsün"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.MOD_MISSING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.MOD_MISSING"
+msgid "<MOD MISSING>"
+msgstr "<MOD EKSİK>"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.QUAGMIRE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.QUAGMIRE"
+msgid "The Gorge"
+msgstr "Boğaz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.RELAXED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.RELAXED"
+msgid "Relaxed"
+msgstr "Rahat"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_DEFAULT_PLUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_DEFAULT_PLUS"
+msgid "Forest Plus"
+msgstr "Orman Artı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER"
+msgid "Survival"
+msgstr "Hayatta Kalma"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_CLASSIC
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_CLASSIC"
+msgid "No Giants Here"
+msgstr "Burada Dev Yok"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_PS4
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.SURVIVAL_TOGETHER_PS4"
+msgid "Generic Forest"
+msgstr "Genel Orman"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA"
+msgid "Taste of Terraria"
+msgstr "Terraria Tadı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.TERRARIA_CAVE"
+msgid "Caves of Terraria"
+msgstr "Terraria Mağaraları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.WILDERNESS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELS.WILDERNESS"
+msgid "Wilderness"
+msgstr "Vahşi Doğa"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET_PLAYSTYLE_LABEL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESET_PLAYSTYLE_LABEL"
+msgid "Playstyle:"
+msgstr "Oyun Tarzı:"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS"
+msgid "Rabbit Holes"
+msgstr "Tavşan Yuvaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RABBITS_SETTING"
+msgid "Rabbits"
+msgstr "Tavşanlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.REEDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.REEDS"
+msgid "Reeds"
+msgstr "Sazlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.REEDS_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.REEDS_REGROWTH"
+msgid "Reeds"
+msgstr "Sazlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.REGROWTH"
+msgid "Regrowth Multiplier"
+msgstr "Yeniden Büyüme Çarpanı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RESETTIME
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RESETTIME"
+msgid "Death Reset Timer"
+msgstr "Ölüm Sıfırlama Zamanlayıcısı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.REVERTCHANGES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.REVERTCHANGES"
+msgid "Revert Changes"
+msgstr "Değişiklikleri Geri Al"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED"
+msgid "Wild Rifts"
+msgstr "Vahşi Yarıklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED_CAVE"
+msgid "Wild Rifts"
+msgstr "Vahşi Yarıklar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY"
+msgid "Wild Rift Frequency"
+msgstr "Vahşi Yarık Sıklığı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY_CAVE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY_CAVE"
+msgid "Wild Rift Frequency"
+msgstr "Vahşi Yarık Sıklığı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ROADS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROADS"
+msgid "Roads"
+msgstr "Yollar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCK
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROCK"
+msgid "Boulders"
+msgstr "Kayalar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY"
+msgid "Rock Lobsters"
+msgstr "Taş Istakozları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROCKY_SETTING"
+msgid "Rock Lobsters"
+msgstr "Taş Istakozları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.ROCK_ICE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROCK_ICE"
+msgid "Mini Glaciers"
+msgstr "Mini Buzullar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SALTSTACK_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SALTSTACK_REGROWTH"
+msgid "Salt Formations"
+msgstr "Tuz Oluşumları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAPLING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAPLING"
+msgid "Saplings"
+msgstr "Fidanlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_BODY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_BODY"
+msgid "An error occured while saving your preset, please try again."
+msgstr "Ön ayarın kaydedilirken bir hata oluştu, tekrar dene."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_TITLE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVECHANGESFAILED_TITLE"
+msgid "Failed To Save Preset"
+msgstr "Ön Ayar Kaydedilemedi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESET"
+msgid "Save As New Preset"
+msgstr "Yeni Ön Ayar Olarak Kaydet"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESETCHANGES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SAVEPRESETCHANGES"
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SEASONALSTARTINGITEMS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SEASONALSTARTINGITEMS"
+msgid "Seasonal Starting Items"
+msgstr "Mevsimsel Başlangıç Eşyaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SEASON_START
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SEASON_START"
+msgid "Starting Season"
+msgstr "Başlangıç Mevsimi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SETTINGSPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SETTINGSPRESET"
+msgid "Settings Presets"
+msgstr "Ayar Ön Ayarları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SHADOWCREATURES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHADOWCREATURES"
+msgid "Sanity Monsters"
+msgstr "Akıl Canavarları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SHARKBOI
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHARKBOI"
+msgid "Frostjaw"
+msgstr "Donçene"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SHARKS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SHARKS"
+msgid "Sharks"
+msgstr "Köpekbalıkları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SLURPER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SLURPER"
+msgid "Slurpers"
+msgstr "Yutucular"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES"
+msgid "Slurtle Mounds"
+msgstr "Slurtle Tepeleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SLURTLES_SETTING"
+msgid "Slurtles"
+msgstr "Slurtle"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SNURTLES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SNURTLES"
+msgid "Snurtles"
+msgstr "Snurtle"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPAWNMODE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPAWNMODE"
+msgid "Spawn Mode"
+msgstr "Doğuş Modu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPAWNPROTECTION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPAWNPROTECTION"
+msgid "Griefer Spawn Protection"
+msgstr "Griefer Doğuş Koruması"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPECIALEVENT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPECIALEVENT"
+msgid "Events"
+msgstr "Etkinlikler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERQUEEN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERQUEEN"
+msgid "Spider Queen"
+msgstr "Örümcek Kraliçesi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS"
+msgid "Spider Dens"
+msgstr "Örümcek İnleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDERS_SETTING"
+msgid "Spiders"
+msgstr "Örümcekler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_DROPPER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_DROPPER"
+msgid "Dangling Depth Dwellers"
+msgstr "Sallanan Derinlik Sakinleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_HIDER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_HIDER"
+msgid "Cave Spiders"
+msgstr "Mağara Örümcekleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_SPITTER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_SPITTER"
+msgid "Spitter Spiders"
+msgstr "Tükürük Örümcekleri"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_WARRIORS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPIDER_WARRIORS"
+msgid "Spider Warriors"
+msgstr "Örümcek Savaşçıları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SPRING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SPRING"
+msgid "Spring"
+msgstr "İlkbahar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SQUID
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SQUID"
+msgid "Skittersquids"
+msgstr "Kayan Mürekkepbalıkları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.STAGEPLAYS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.STAGEPLAYS"
+msgid "Stage Plays"
+msgstr "Sahne Oyunları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.START_LOCATION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.START_LOCATION"
+msgid "Spawn Area"
+msgstr "Doğuş Alanı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMER"
+msgid "Summer"
+msgstr "Yaz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMERHOUNDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMERHOUNDS"
+msgid "Fire Hound Waves"
+msgstr "Ateş Tazısı Dalgaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDGENERATION
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDGENERATION"
+msgid "World Generation"
+msgstr "Dünya Üretimi"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TAB_TITLE_WORLDSETTINGS"
+msgid "World Settings"
+msgstr "Dünya Ayarları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TALLBIRDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TALLBIRDS"
+msgid "Tallbirds"
+msgstr "Uzunkuşlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CAVE_DEFAULT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CAVE_DEFAULT"
+msgid "Underground"
+msgstr "Yeraltı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CLASSIC
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.CLASSIC"
+msgid "Classic"
+msgstr "Klasik"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.DEFAULT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.DEFAULT"
+msgid "Together"
+msgstr "Birlikte"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.LAVA_ARENA
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.LAVA_ARENA"
+msgid "The Forge"
+msgstr "Demirhane"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.QUAGMIRE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.QUAGMIRE"
+msgid "The Gorge"
+msgstr "Boğaz"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TASK_SET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASK_SET"
+msgid "Biomes"
+msgstr "Biyomlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TEMPERATUREDAMAGE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TEMPERATUREDAMAGE"
+msgid "Temperature Damage"
+msgstr "Sıcaklık Hasarı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TENTACLES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TENTACLES"
+msgid "Tentacles"
+msgstr "Dokunaçlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TERRARIUMCHEST
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TERRARIUMCHEST"
+msgid "Terrarium"
+msgstr "Terarium"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TOADSTOOL
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TOADSTOOL"
+msgid "Toadstool"
+msgstr "Mantarkurbağa"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TOUCHSTONE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TOUCHSTONE"
+msgid "Touch Stones"
+msgstr "Diriliş Taşları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TREES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TREES"
+msgid "Trees (All)"
+msgstr "Ağaçlar (Tümü)"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TREE_ROCK
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TREE_ROCK"
+msgid "Boulderboughs"
+msgstr "Kayadallar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TREE_ROCK_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TREE_ROCK_REGROWTH"
+msgid "Boulderboughs"
+msgstr "Kayadallar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TUMBLEWEED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TUMBLEWEED"
+msgid "Tumbleweeds"
+msgstr "Yuvarlanan Otlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.TWIGGYTREES_REGROWTH
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TWIGGYTREES_REGROWTH"
+msgid "Twiggy Trees"
+msgstr "Çubuksu Ağaçlar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET"
+msgid "Unknown Preset"
+msgstr "Bilinmeyen Ön Ayar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET_DESC
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.UNKNOWN_PRESET_DESC"
+msgid "This game was started with some settings we don't quite recognize."
+msgstr "Bu oyun, tam olarak tanımadığımız bazı ayarlarla başlatıldı."
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.UNLINKPRESETSTR"
+msgid "Seperate World Presets into Settings and Worldgen Presets"
+msgstr "Dünya Ön Ayarlarını Ayar ve Dünya Üretim Ön Ayarlarına Ayır"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS"
+msgid "MacTusk Camps"
+msgstr "MacTusk Kampları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS_SETTING
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WALRUS_SETTING"
+msgid "MacTusk"
+msgstr "MacTusk"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WANDERINGTRADER_ENABLED
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WANDERINGTRADER_ENABLED"
+msgid "Wandering Trader"
+msgstr "Gezgin Tüccar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WASPS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WASPS"
+msgid "Killer Bees"
+msgstr "Katil Arılar"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WEATHER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WEATHER"
+msgid "Rain"
+msgstr "Yağmur"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WILDFIRES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WILDFIRES"
+msgid "Wildfires"
+msgstr "Orman Yangınları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WINTER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WINTER"
+msgid "Winter"
+msgstr "Kış"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WINTERHOUNDS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WINTERHOUNDS"
+msgid "Ice Hound Waves"
+msgstr "Buz Tazısı Dalgaları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WINTERS_FEAST
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WINTERS_FEAST"
+msgid "Winter's Feast"
+msgstr "Kış Şöleni"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WOBSTERS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WOBSTERS"
+msgid "Wobsters"
+msgstr "Wobsterler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WORLDGENPRESET
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORLDGENPRESET"
+msgid "Generation Presets"
+msgstr "Üretim Ön Ayarları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WORLD_SIZE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORLD_SIZE"
+msgid "World Size"
+msgstr "Dünya Boyutu"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WORMATTACKS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORMATTACKS"
+msgid "Cave Worm Attacks"
+msgstr "Mağara Solucanı Saldırıları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WORMATTACKS_BOSS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORMATTACKS_BOSS"
+msgid "Great Worm"
+msgstr "Yüce Solucan"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WORMLIGHTS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORMLIGHTS"
+msgid "Glow Berries"
+msgstr "Parlak Meyveler"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.WORMS
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.WORMS"
+msgid "Cave Worms"
+msgstr "Mağara Solucanları"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BEEFALO
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BEEFALO"
+msgid "Year of the Beefalo"
+msgstr "Bızonsığır Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BUNNYMAN
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_BUNNYMAN"
+msgid "Year of the Bunnyman"
+msgstr "Tavşanadam Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CARRAT"
+msgid "Year of the Carrat"
+msgstr "Havufare Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CATCOON
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_CATCOON"
+msgid "Year of the Catcoon"
+msgstr "Kedikoon Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_DRAGONFLY
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_DRAGONFLY"
+msgid "Year of the Dragonfly"
+msgstr "Yusufçuk Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_GOBBLER
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_GOBBLER"
+msgid "Year of the Gobbler"
+msgstr "Yutkun Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_KNIGHT
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_KNIGHT"
+msgid "Year of the Clockwork Knight"
+msgstr "Mekanik Şövalye Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_PIG
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_PIG"
+msgid "Year of the Pig King"
+msgstr "Domuzların Kralı Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_SNAKE
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_SNAKE"
+msgid "Year of the Depths Worm"
+msgstr "Derinlik Solucanı Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_VARG
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YEAR_OF_THE_VARG"
+msgid "Year of the Varg"
+msgstr "Varg Yılı"
+
+#. STRINGS.UI.CUSTOMIZATIONSCREEN.YES
+msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.YES"
+msgid "Yes"
+msgstr "Evet"
+
+#. STRINGS.UI.DATACOLLECTION_LOGIN.BODY
+msgctxt "STRINGS.UI.DATACOLLECTION_LOGIN.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nSurvivors and worlds from online games will be unavailable.\n\nData Collection settings can be modified in the Options menu."
+msgstr "Çevrimiçi hizmetler sunabilmemiz için kullanıcı verisi toplamamız gerekiyor. Veri toplamayı kapatan oyuncular yalnızca çevrimdışı modda oynayabilir.\n\nÇevrimiçi oyunlardaki hayatta kalanlar ve dünyalar kullanılamaz.\n\nVeri Toplama ayarları, Ayarlar menüsünden değiştirilebilir."
+
+#. STRINGS.UI.DATACOLLECTION_LOGIN.CONTINUE
+msgctxt "STRINGS.UI.DATACOLLECTION_LOGIN.CONTINUE"
+msgid "Continue"
+msgstr "Devam"
+
+#. STRINGS.UI.DATACOLLECTION_LOGIN.TITLE
+msgctxt "STRINGS.UI.DATACOLLECTION_LOGIN.TITLE"
+msgid "Offline Mode"
+msgstr "Çevrimdışı Mod"
+
+#. STRINGS.UI.DATACOLLECTION_POPUP.BODY
+msgctxt "STRINGS.UI.DATACOLLECTION_POPUP.BODY"
+msgid "We require the collection of user data to provide online services. Players who disable data collection will only have access to play in offline mode.\n\nFor more details on our privacy policy and how we use the data we collect, please see our official privacy policy."
+msgstr "Çevrimiçi hizmetler sunabilmemiz için kullanıcı verisi toplamamız gerekiyor. Veri toplamayı kapatan oyuncular yalnızca çevrimdışı modda oynayabilir.\n\nGizlilik politikamız ve topladığımız veriyi nasıl kullandığımız hakkında daha fazla bilgi için resmi gizlilik politikamıza bak."
+
+#. STRINGS.UI.DATACOLLECTION_POPUP.CANCEL
+msgctxt "STRINGS.UI.DATACOLLECTION_POPUP.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE
+msgctxt "STRINGS.UI.DATACOLLECTION_POPUP.OPT_IN.CONTINUE"
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#. STRINGS.UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE
+msgctxt "STRINGS.UI.DATACOLLECTION_POPUP.OPT_OUT.CONTINUE"
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+#. STRINGS.UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL
+msgctxt "STRINGS.UI.DATACOLLECTION_POPUP.PRIVACY_PORTAL"
+msgid "View Privacy Policy"
+msgstr "Gizlilik Politikasını Görüntüle"
+
+#. STRINGS.UI.DATACOLLECTION_POPUP.TITLE
+msgctxt "STRINGS.UI.DATACOLLECTION_POPUP.TITLE"
+msgid "Data Collection"
+msgstr "Veri Toplama"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.1
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.1"
+msgid "Jan"
+msgstr "Oca"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.10
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.10"
+msgid "Oct"
+msgstr "Eki"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.11
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.11"
+msgid "Nov"
+msgstr "Kas"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.12
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.12"
+msgid "Dec"
+msgstr "Ara"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.2
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.2"
+msgid "Feb"
+msgstr "Şub"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.3
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.3"
+msgid "Mar"
+msgstr "Mar"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.4
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.4"
+msgid "Apr"
+msgstr "Nis"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.5
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.5"
+msgid "May"
+msgstr "May"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.6
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.6"
+msgid "Jun"
+msgstr "Haz"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.7
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.7"
+msgid "Jul"
+msgstr "Tem"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.8
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.8"
+msgid "Aug"
+msgstr "Ağu"
+
+#. STRINGS.UI.DATE.MONTH_ABBR.9
+msgctxt "STRINGS.UI.DATE.MONTH_ABBR.9"
+msgid "Sep"
+msgstr "Eyl"
+
+#. STRINGS.UI.DATE_FORMAT.MDY
+msgctxt "STRINGS.UI.DATE_FORMAT.MDY"
+msgid "{month} {day}, {year}"
+msgstr "{day} {month} {year}"
+
+#. STRINGS.UI.DAYS_FORMAT.DHM
+msgctxt "STRINGS.UI.DAYS_FORMAT.DHM"
+msgid "{days}d {hours}h {minutes}m"
+msgstr "{days}g {hours}sa {minutes}dk"
+
+#. STRINGS.UI.DAYS_FORMAT.HM
+msgctxt "STRINGS.UI.DAYS_FORMAT.HM"
+msgid "{hours}h {minutes}m"
+msgstr "{hours}sa {minutes}dk"
+
+#. STRINGS.UI.DAYS_FORMAT.M
+msgctxt "STRINGS.UI.DAYS_FORMAT.M"
+msgid "{minutes}m"
+msgstr "{minutes}dk"
+
+#. STRINGS.UI.DEMOOVERDIALOG.BODY_FREEWEEKEND
+msgctxt "STRINGS.UI.DEMOOVERDIALOG.BODY_FREEWEEKEND"
+msgid "Buy now to get the special price!"
+msgstr "Özel fiyatı yakalamak için şimdi satın al!"
+
+#. STRINGS.UI.DEMOOVERDIALOG.QUIT
+msgctxt "STRINGS.UI.DEMOOVERDIALOG.QUIT"
+msgid "Quit"
+msgstr "Çıkış"
+
+#. STRINGS.UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND
+msgctxt "STRINGS.UI.DEMOOVERDIALOG.TITLE_FREEWEEKEND"
+msgid "Thank you for playing the free demo!"
+msgstr "Ücretsiz demoyu oynadığın için teşekkürler!"
+
+#. STRINGS.UI.DRESSUP_AVATAR.DRESSED_BY_FMT
+msgctxt "STRINGS.UI.DRESSUP_AVATAR.DRESSED_BY_FMT"
+msgid "Dressed by {name}"
+msgstr "{name} tarafından giydirildi"
+
+#. STRINGS.UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT
+msgctxt "STRINGS.UI.DRESSUP_AVATAR.UNDRESSED_BY_FMT"
+msgid "Undressed by {name}"
+msgstr "{name} tarafından soyuldu"
+
+#. STRINGS.UI.DRONE_ZAP_OVERLAY.ATTACK
+msgctxt "STRINGS.UI.DRONE_ZAP_OVERLAY.ATTACK"
+msgid "Shoot"
+msgstr "Ateş Et"
+
+#. STRINGS.UI.EMAILSCREEN.APR
+msgctxt "STRINGS.UI.EMAILSCREEN.APR"
+msgid "Apr"
+msgstr "Nis"
+
+#. STRINGS.UI.EMAILSCREEN.AUG
+msgctxt "STRINGS.UI.EMAILSCREEN.AUG"
+msgid "Aug"
+msgstr "Ağu"
+
+#. STRINGS.UI.EMAILSCREEN.BIRTHDAY
+msgctxt "STRINGS.UI.EMAILSCREEN.BIRTHDAY"
+msgid "Birthdate:"
+msgstr "Doğum Tarihi:"
+
+#. STRINGS.UI.EMAILSCREEN.BIRTHDAYREASON
+msgctxt "STRINGS.UI.EMAILSCREEN.BIRTHDAYREASON"
+msgid "We need to know your birthdate in order to send age appropriate updates!\nDon't worry, we won't spam you or sell your information."
+msgstr "Yaşına uygun güncellemeler gönderebilmemiz için doğum tarihini bilmemiz gerekiyor!\nMerak etme, sana spam göndermeyiz veya bilgilerini satmayız."
+
+#. STRINGS.UI.EMAILSCREEN.CANCEL
+msgctxt "STRINGS.UI.EMAILSCREEN.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.EMAILSCREEN.DAY
+msgctxt "STRINGS.UI.EMAILSCREEN.DAY"
+msgid "D"
+msgstr "G"
+
+#. STRINGS.UI.EMAILSCREEN.DEC
+msgctxt "STRINGS.UI.EMAILSCREEN.DEC"
+msgid "Dec"
+msgstr "Ara"
+
+#. STRINGS.UI.EMAILSCREEN.EMAIL
+msgctxt "STRINGS.UI.EMAILSCREEN.EMAIL"
+msgid "Email:"
+msgstr "E-posta:"
+
+#. STRINGS.UI.EMAILSCREEN.FEB
+msgctxt "STRINGS.UI.EMAILSCREEN.FEB"
+msgid "Feb"
+msgstr "Şub"
+
+#. STRINGS.UI.EMAILSCREEN.INVALIDDATE
+msgctxt "STRINGS.UI.EMAILSCREEN.INVALIDDATE"
+msgid "We need to know your birthdate in order to send age appropriate updates!"
+msgstr "Yaşına uygun güncellemeler gönderebilmemiz için doğum tarihini bilmemiz gerekiyor!"
+
+#. STRINGS.UI.EMAILSCREEN.INVALIDDATETITLE
+msgctxt "STRINGS.UI.EMAILSCREEN.INVALIDDATETITLE"
+msgid "Invalid Date"
+msgstr "Geçersiz Tarih"
+
+#. STRINGS.UI.EMAILSCREEN.INVALIDEMAIL
+msgctxt "STRINGS.UI.EMAILSCREEN.INVALIDEMAIL"
+msgid "If you don't enter your email address, we won't be able to tell you about new stuff!"
+msgstr "E-posta adresini girmezsen, sana yeni şeylerden bahsedemeyiz!"
+
+#. STRINGS.UI.EMAILSCREEN.INVALIDEMAILTITLE
+msgctxt "STRINGS.UI.EMAILSCREEN.INVALIDEMAILTITLE"
+msgid "Invalid Email"
+msgstr "Geçersiz E-posta"
+
+#. STRINGS.UI.EMAILSCREEN.JAN
+msgctxt "STRINGS.UI.EMAILSCREEN.JAN"
+msgid "Jan"
+msgstr "Oca"
+
+#. STRINGS.UI.EMAILSCREEN.JUL
+msgctxt "STRINGS.UI.EMAILSCREEN.JUL"
+msgid "Jul"
+msgstr "Tem"
+
+#. STRINGS.UI.EMAILSCREEN.JUN
+msgctxt "STRINGS.UI.EMAILSCREEN.JUN"
+msgid "Jun"
+msgstr "Haz"
+
+#. STRINGS.UI.EMAILSCREEN.MAR
+msgctxt "STRINGS.UI.EMAILSCREEN.MAR"
+msgid "Mar"
+msgstr "Mar"
+
+#. STRINGS.UI.EMAILSCREEN.MAY
+msgctxt "STRINGS.UI.EMAILSCREEN.MAY"
+msgid "May"
+msgstr "May"
+
+#. STRINGS.UI.EMAILSCREEN.MONTH
+msgctxt "STRINGS.UI.EMAILSCREEN.MONTH"
+msgid "M"
+msgstr "A"
+
+#. STRINGS.UI.EMAILSCREEN.NOV
+msgctxt "STRINGS.UI.EMAILSCREEN.NOV"
+msgid "Nov"
+msgstr "Kas"
+
+#. STRINGS.UI.EMAILSCREEN.OCT
+msgctxt "STRINGS.UI.EMAILSCREEN.OCT"
+msgid "Oct"
+msgstr "Eki"
+
+#. STRINGS.UI.EMAILSCREEN.OK
+msgctxt "STRINGS.UI.EMAILSCREEN.OK"
+msgid "Ok"
+msgstr "Tamam"
+
+#. STRINGS.UI.EMAILSCREEN.SEP
+msgctxt "STRINGS.UI.EMAILSCREEN.SEP"
+msgid "Sep"
+msgstr "Eyl"
+
+#. STRINGS.UI.EMAILSCREEN.SIGNUPFAIL
+msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPFAIL"
+msgid "Looks like we had some trouble signing you up. Please try again later if you don't receive a confirmation email."
+msgstr "Kayıt olurken bir sorun yaşadık. Onay e-postası almazsan daha sonra tekrar dene."
+
+#. STRINGS.UI.EMAILSCREEN.SIGNUPFAILTITLE
+msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPFAILTITLE"
+msgid "Something Went Wrong"
+msgstr "Bir Şeyler Ters Gitti"
+
+#. STRINGS.UI.EMAILSCREEN.SIGNUPSUBMIT
+msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPSUBMIT"
+msgid "Please wait a moment while we sign you up."
+msgstr "Seni kaydederken biraz bekle."
+
+#. STRINGS.UI.EMAILSCREEN.SIGNUPSUBMITTITLE
+msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPSUBMITTITLE"
+msgid "Sending..."
+msgstr "Gönderiliyor..."
+
+#. STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESS
+msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESS"
+msgid "Thanks for signing up! You should receive a confirmation email in your inbox."
+msgstr "Kayıt olduğun için teşekkürler! Gelen kutuna onay e-postası düşmeli."
+
+#. STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESSTITLE
+msgctxt "STRINGS.UI.EMAILSCREEN.SIGNUPSUCCESSTITLE"
+msgid "Success!"
+msgstr "Başarılı!"
+
+#. STRINGS.UI.EMAILSCREEN.SUBSCRIBE
+msgctxt "STRINGS.UI.EMAILSCREEN.SUBSCRIBE"
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+#. STRINGS.UI.EMAILSCREEN.TITLE
+msgctxt "STRINGS.UI.EMAILSCREEN.TITLE"
+msgid "Keep me updated with Don't Starve news"
+msgstr "Don't Starve haberlerinden haberdar olmak istiyorum"
+
+#. STRINGS.UI.EMAILSCREEN.YEAR
+msgctxt "STRINGS.UI.EMAILSCREEN.YEAR"
+msgid "YYYY"
+msgstr "YYYY"
+
+#. STRINGS.UI.EMOTES.ACTIONS
+msgctxt "STRINGS.UI.EMOTES.ACTIONS"
+msgid "Actions"
+msgstr "Eylemler"
+
+#. STRINGS.UI.EMOTES.ANGRY
+msgctxt "STRINGS.UI.EMOTES.ANGRY"
+msgid "Angry"
+msgstr "Kızgın"
+
+#. STRINGS.UI.EMOTES.BIGPET
+msgctxt "STRINGS.UI.EMOTES.BIGPET"
+msgid "Big Pet"
+msgstr "Büyük Sevgi"
+
+#. STRINGS.UI.EMOTES.BONESAW
+msgctxt "STRINGS.UI.EMOTES.BONESAW"
+msgid "Bonesaw"
+msgstr "Kemik Testere"
+
+#. STRINGS.UI.EMOTES.CAROL
+msgctxt "STRINGS.UI.EMOTES.CAROL"
+msgid "Carol"
+msgstr "İlahi"
+
+#. STRINGS.UI.EMOTES.CHEER
+msgctxt "STRINGS.UI.EMOTES.CHEER"
+msgid "Cheer"
+msgstr "Tezahürat"
+
+#. STRINGS.UI.EMOTES.CHICKEN
+msgctxt "STRINGS.UI.EMOTES.CHICKEN"
+msgid "Chicken Dance"
+msgstr "Tavuk Dansı"
+
+#. STRINGS.UI.EMOTES.CRY
+msgctxt "STRINGS.UI.EMOTES.CRY"
+msgid "Sad"
+msgstr "Üzgün"
+
+#. STRINGS.UI.EMOTES.DANCE
+msgctxt "STRINGS.UI.EMOTES.DANCE"
+msgid "Dance"
+msgstr "Dans"
+
+#. STRINGS.UI.EMOTES.EMOTIONS
+msgctxt "STRINGS.UI.EMOTES.EMOTIONS"
+msgid "Emotions"
+msgstr "Duygular"
+
+#. STRINGS.UI.EMOTES.FACEPALM
+msgctxt "STRINGS.UI.EMOTES.FACEPALM"
+msgid "Facepalm"
+msgstr "Yüzünü Ört"
+
+#. STRINGS.UI.EMOTES.FISTSHAKE
+msgctxt "STRINGS.UI.EMOTES.FISTSHAKE"
+msgid "Fist Shake"
+msgstr "Yumruk Salla"
+
+#. STRINGS.UI.EMOTES.FLEX
+msgctxt "STRINGS.UI.EMOTES.FLEX"
+msgid "Flex"
+msgstr "Kas Göster"
+
+#. STRINGS.UI.EMOTES.HAPPY
+msgctxt "STRINGS.UI.EMOTES.HAPPY"
+msgid "Happy"
+msgstr "Mutlu"
+
+#. STRINGS.UI.EMOTES.HELPTEXTPREFIX
+msgctxt "STRINGS.UI.EMOTES.HELPTEXTPREFIX"
+msgid "Emote:  "
+msgstr "İfade:  "
+
+#. STRINGS.UI.EMOTES.IMPATIENT
+msgctxt "STRINGS.UI.EMOTES.IMPATIENT"
+msgid "Impatient"
+msgstr "Sabırsız"
+
+#. STRINGS.UI.EMOTES.JOY
+msgctxt "STRINGS.UI.EMOTES.JOY"
+msgid "Joy"
+msgstr "Sevinç"
+
+#. STRINGS.UI.EMOTES.KISS
+msgctxt "STRINGS.UI.EMOTES.KISS"
+msgid "Kiss"
+msgstr "Öpücük"
+
+#. STRINGS.UI.EMOTES.LAUGH
+msgctxt "STRINGS.UI.EMOTES.LAUGH"
+msgid "Laugh"
+msgstr "Kahkaha"
+
+#. STRINGS.UI.EMOTES.NO
+msgctxt "STRINGS.UI.EMOTES.NO"
+msgid "Annoyed"
+msgstr "Sinirli"
+
+#. STRINGS.UI.EMOTES.PET
+msgctxt "STRINGS.UI.EMOTES.PET"
+msgid "Pet"
+msgstr "Sev"
+
+#. STRINGS.UI.EMOTES.POSE
+msgctxt "STRINGS.UI.EMOTES.POSE"
+msgid "Pose"
+msgstr "Poz"
+
+#. STRINGS.UI.EMOTES.ROBOT
+msgctxt "STRINGS.UI.EMOTES.ROBOT"
+msgid "Robot Dance"
+msgstr "Robot Dansı"
+
+#. STRINGS.UI.EMOTES.RUDE
+msgctxt "STRINGS.UI.EMOTES.RUDE"
+msgid "Threaten"
+msgstr "Tehdit Et"
+
+#. STRINGS.UI.EMOTES.SHRUG
+msgctxt "STRINGS.UI.EMOTES.SHRUG"
+msgid "Shrug"
+msgstr "Omuz Silk"
+
+#. STRINGS.UI.EMOTES.SIT
+msgctxt "STRINGS.UI.EMOTES.SIT"
+msgid "Sit"
+msgstr "Otur"
+
+#. STRINGS.UI.EMOTES.SLEEPY
+msgctxt "STRINGS.UI.EMOTES.SLEEPY"
+msgid "Sleepy"
+msgstr "Uykulu"
+
+#. STRINGS.UI.EMOTES.SLOWCLAP
+msgctxt "STRINGS.UI.EMOTES.SLOWCLAP"
+msgid "Slow Clap"
+msgstr "Yavaş Alkış"
+
+#. STRINGS.UI.EMOTES.SQUAT
+msgctxt "STRINGS.UI.EMOTES.SQUAT"
+msgid "Squat"
+msgstr "Çömel"
+
+#. STRINGS.UI.EMOTES.STEP
+msgctxt "STRINGS.UI.EMOTES.STEP"
+msgid "Step Dance"
+msgstr "Step Dansı"
+
+#. STRINGS.UI.EMOTES.SWOON
+msgctxt "STRINGS.UI.EMOTES.SWOON"
+msgid "Swoon"
+msgstr "Bayıl"
+
+#. STRINGS.UI.EMOTES.TIPHAT
+msgctxt "STRINGS.UI.EMOTES.TIPHAT"
+msgid "Tip Hat"
+msgstr "Şapka Selamı"
+
+#. STRINGS.UI.EMOTES.TOAST
+msgctxt "STRINGS.UI.EMOTES.TOAST"
+msgid "Toast"
+msgstr "Kadeh Kaldır"
+
+#. STRINGS.UI.EMOTES.UNLOCKABLES
+msgctxt "STRINGS.UI.EMOTES.UNLOCKABLES"
+msgid "Extras"
+msgstr "Ekstralar"
+
+#. STRINGS.UI.EMOTES.WAVE
+msgctxt "STRINGS.UI.EMOTES.WAVE"
+msgid "Wave"
+msgstr "El Salla"
+
+#. STRINGS.UI.EMOTES.YAWN
+msgctxt "STRINGS.UI.EMOTES.YAWN"
+msgid "Yawn"
+msgstr "Esne"
+
+#. STRINGS.UI.EULADIALOG.ACCEPT
+msgctxt "STRINGS.UI.EULADIALOG.ACCEPT"
+msgid "Accept"
+msgstr "Onayla"
+
+#. STRINGS.UI.EULADIALOG.AGREEMENT_UPDATED
+msgctxt "STRINGS.UI.EULADIALOG.AGREEMENT_UPDATED"
+msgid "The EULA has been updated and needs your review."
+msgstr "EULA güncellendi ve incelemeni bekliyor."
+
+#. STRINGS.UI.EULADIALOG.DECLINE
+msgctxt "STRINGS.UI.EULADIALOG.DECLINE"
+msgid "Decline"
+msgstr "Reddet"
+
+#. STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_BODY
+msgctxt "STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_BODY"
+msgid "You will not be able to play online. Are you sure?"
+msgstr "Çevrimiçi oynayamazsın. Emin misin?"
+
+#. STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE
+msgctxt "STRINGS.UI.EULADIALOG.DECLINE_CONFIRMATION_TITLE"
+msgid "Decline the EULA?"
+msgstr "EULA Reddedilsin mi?"
+
+#. STRINGS.UI.EULADIALOG.TITLE
+msgctxt "STRINGS.UI.EULADIALOG.TITLE"
+msgid "End User License Agreement"
+msgstr "Son Kullanıcı Lisans Sözleşmesi"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.BODY
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.BODY"
+msgid "Searching for available matches"
+msgstr "Uygun maçlar aranıyor"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.CONNECTING_TO_SERVER"
+msgid "Connecting to Server: {server}"
+msgstr "Sunucuya bağlanılıyor: {server}"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.JOIN_BTN
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.JOIN_BTN"
+msgid "Join"
+msgstr "Katıl"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_BROWSE"
+msgid "Browse"
+msgstr "Göz At"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_CLOSE"
+msgid "Close"
+msgstr "Kapat"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_HOST"
+msgid "Custom Match"
+msgstr "Özel Maç"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_MSG"
+msgid "No servers could be found matching the quick match criteria."
+msgstr "Hızlı maç kriterlerine uyan sunucu bulunamadı."
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.NO_SERVERS_TITLE"
+msgid "Quick Match Failed"
+msgstr "Hızlı Maç Başarısız"
+
+#. STRINGS.UI.EVENT_QUICKJOINSCREEN.TITLE
+msgctxt "STRINGS.UI.EVENT_QUICKJOINSCREEN.TITLE"
+msgid "Quick Match"
+msgstr "Hızlı Maç"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.BROWSE
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.BROWSE"
+msgid "Browse Servers"
+msgstr "Sunucuları Görüntüle"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST"
+msgid "Custom Match"
+msgstr "Özel Maç"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_CONNECTINGTOSERVER"
+msgid "Connecting to server"
+msgstr "Sunucuya bağlanılıyor"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_DETERMININGREGION"
+msgid "Determining region"
+msgstr "Bölge belirleniyor"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_FAILED
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_FAILED"
+msgid "Network Error"
+msgstr "Ağ Hatası"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_FAILED_BODY"
+msgid "Failed to connect to event server."
+msgstr "Etkinlik sunucusuna bağlanılamadı."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_GETTINGREGIONS"
+msgid "Getting regions"
+msgstr "Bölgeler alınıyor"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_NO_SERVERS_BODY"
+msgid "No servers are currently available for your game version. Please update and try again."
+msgstr "Oyun sürümün için şu an uygun sunucu yok. Güncelleyip tekrar dene."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_PINGS_FAILED_BODY"
+msgid "Unable to contact Klei servers.\nPlease check your network connection and try again."
+msgstr "Klei sunucularına ulaşılamadı.\nAğ bağlantını kontrol edip tekrar dene."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_REQUESTINGSERVER"
+msgid "Requesting server"
+msgstr "Sunucu isteniyor"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.HOST_WAITINGFORWORLD"
+msgid "Waiting for world"
+msgstr "Dünya bekleniyor"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_BODY"
+msgid "Warning!\nClient mods are unsupported in {event}.\nDisabling all mods is recommended."
+msgstr "Uyarı!\n{event} etkinliğinde istemci modları desteklenmez.\nTüm modları kapatman tavsiye edilir."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_CONTINUE"
+msgid "Continue"
+msgstr "Devam"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_DISABLE_MODS"
+msgid "Disable All Mods"
+msgstr "Tüm Modları Kapat"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.MODS_POPUP_TITLE"
+msgid "Mods Detected!"
+msgstr "Modlar Tespit Edildi!"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BACK"
+msgid "Back"
+msgstr "Geri"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.lavaarena"
+msgid "You must be logged in to challenge\nBattlemaster Pugna's warriors."
+msgstr "Battlemaster Pugna'nın savaşçılarına meydan okumak için\ngiriş yapmış olmalısın."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY.quagmire"
+msgid "You must be logged in to prepare\nofferings for the Altar of Gnaw."
+msgstr "Gnaw Sunağı için sunular hazırlamak için\ngiriş yapmış olmalısın."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.lavaarena"
+msgid "All players must be online to challenge\nBattlemaster Pugna's warriors."
+msgstr "Battlemaster Pugna'nın savaşçılarına meydan okumak için\ntüm oyuncular çevrimiçi olmalı."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_BODY_CONSOLE.quagmire"
+msgid "All players must be online to prepare\nofferings for the Altar of Gnaw."
+msgstr "Gnaw Sunağı için sunular hazırlamak için\ntüm oyuncular çevrimiçi olmalı."
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_LOGIN"
+msgid "Log In"
+msgstr "Giriş Yap"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE"
+msgid "Offline"
+msgstr "Çevrimdışı"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.OFFLINE_POPUP_TITLE_CONSOLE"
+msgid "You are in offline mode"
+msgstr "Çevrimdışı moddasın"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.QUICKMATCH
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.QUICKMATCH"
+msgid "Quick Match"
+msgstr "Hızlı Maç"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA"
+msgid "The Forge"
+msgstr "Demirhane"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2"
+msgid "The Forge - Season 2"
+msgstr "Demirhane - Sezon 2"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
+msgid "The Gorge"
+msgstr "Boğaz"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TOGGLE_PLAYER"
+msgid "Toggle player"
+msgstr "Oyuncuyu Değiştir"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_BROWSE"
+msgid "Browse all event servers"
+msgstr "Tüm etkinlik sunucularına göz at"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_HOST"
+msgid "Start your own event server"
+msgstr "Kendi etkinlik sunucunu kur"
+
+#. STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH
+msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TOOLTIP_QUICKMATCH"
+msgid "Hop in to the first available match"
+msgstr "İlk uygun maça katıl"
+
+#. STRINGS.UI.FOOD_TYPES.BERRY
+msgctxt "STRINGS.UI.FOOD_TYPES.BERRY"
+msgid "Berry"
+msgstr "Meyve"
+
 #. STRINGS.UI.LOBBYSCREEN.APPLY
 msgctxt "STRINGS.UI.LOBBYSCREEN.APPLY"
 msgid "Apply"
