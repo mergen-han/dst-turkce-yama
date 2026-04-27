@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-26 (Oturum 2 TAMAM — 6 batch / 1.200 string + priority_mainscreen 39 string)
+**Son güncelleme:** 2026-04-27 (Oturum 3 TAMAM — 6 batch / 1.200 string)
 
 ---
 
@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 | 0 | Mod iskeleti + smoke test | — | ✅ | 100 |
 | 1 | Pipeline + docs + smoke | — | ✅ | 100 |
-| **2** | **STRINGS.UI** (UI/menü) | **4.439** | **🟡 1.839** | **41** |
+| **2** | **STRINGS.UI** (UI/menü) | **4.439** | **🟡 3.000** | **68** |
 | 3 | STRINGS.NAMES + RECIPE_DESC + INV_DESC + COOKBOOK + PLANTREGISTRY | ~5.000 | ⬜ | 0 |
 | 4 | STRINGS.SCIENCE_TAB + CRAFTING_FILTER + SKILLTREE + STAGEPLAY | ~2.000 | ⬜ | 0 |
 | 5 | STRINGS.CHARACTERS (17 karakter speech) | 62.645 | ⬜ | 0 |
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 1.839 / 85.706 msgid (%2.15)
+**Şu ana kadar çevrilen toplam:** 3.000 / 85.706 msgid (%3.50)
 
 ---
 
@@ -48,18 +48,18 @@
 | `0769` | 200 | CUSTOMIZATIONSCREEN devamı J-S (mob/biyom/preset adları: Krampuslar/Likenler/Ağaçmuhafızlar/Şimşek Keçileri/Adamotları/Köstebekler/Splumaymunlar/Havufareler/Salatamender/Düşmanavarlar/Pengullar/Yutkunlar/Domuz Evleri/Ay Quay Korsanları + **PRESETLEVELDESC + PRESETLEVELS** preset açıklamaları "Standart Don't Starve deneyimi"/"Daha sert bir dünya"/"Demirhane'de kendini kanıtla"/"Boğaz'ın sıcağına dayanabilir misin?"/"Vahşi Doğa" — Çılgın Ahmet, Adan Sana Balta gibi yerelleştirmeler) | ✅ |
 | `0770` | 200 | CUSTOMIZATIONSCREEN sonu (Sahne Oyunları/Mevsim/Birlikte/Demirhane/Boğaz biyom + Mantarkurbağa/Diriliş Taşları/Kayadallar/Yuvarlanan Otlar/Wobsterler/Yüce Solucan + 10 Yıl Etkinliği: Bızonsığır/Tavşanadam/Havufare/Kedikoon/Yusufçuk/Yutkun/Mekanik Şövalye/Domuzların Kralı/Derinlik Solucanı/Varg) + DATACOLLECTION (Veri Toplama, Çevrimdışı Mod) + DATE.MONTH_ABBR (Oca-Ara) + DAYS_FORMAT + DEMOOVERDIALOG + DRESSUP_AVATAR + DRONE_ZAP + EMAILSCREEN (kayıt formu) + EMOTES (35 ifade: Kızgın/Tezahürat/Tavuk Dansı/Mutlu/Kahkaha/Robot Dansı/Step Dansı/Şapka Selamı vb.) + EULADIALOG + EVENT_QUICKJOINSCREEN + FESTIVALEVENTSCREEN (Demirhane/Boğaz etkinlikleri) + FOOD_TYPES.BERRY (başlangıç) | ✅ |
 
-### ⬜ Oturum 3 — sıradaki (hedef ~6 batch, başlangıç batch_0771)
+### ✅ Oturum 3 — 2026-04-27 (6 batch / 1.200 string)
 
 | Batch | Sayı | Kapsam | Durum |
 |---|---|---|---|
-| `0771` | 200 | FOOD_TYPES sonu + LAVAARENA + LOADING_SCREEN_LORE_TIPS | ⬜ |
-| `0772` | 200 | LOADING_SCREEN_LORE_TIPS sonu + LOBBYSCREEN + LOBBY_WAITING + **MAINSCREEN ilk yarısı** (priority_mainscreen override edilir) | ⬜ |
-| `0773` | 200 | **MAINSCREEN ikinci yarısı** + MODSSCREEN | ⬜ |
-| `0774` | 200 | MODSSCREEN devamı + NETWORKDISCONNECT | ⬜ |
-| `0775` | 200 | NETWORKDISCONNECT sonu + **OPTIONS başlangıcı (yüksek görünür: ses/grafik/genel)** | ⬜ |
-| `0776` | 200 | **OPTIONS devamı** (parlaklık/ekran/dil) + PAUSEMENU | ⬜ |
+| `0771` | 200 | FOOD_TYPES sonu (Yanık/Element/Et/Çiğ/Sebze) + GAMEMODES tam (Endless/Forge/Gorge/Survival/Wilderness açıklamalı) + GENDERSTRINGS (TR cinsiyet yok → hep "o/onun") + HELP (kontrol yardım butonları) + HUD (oyun arayüzü temel: Saldır/İncele/Kuşan/Bayat/Bozuk/Erimiş + ölüm anonsları + Quagmire bildirimleri + Trophyscale Merm sahipleri) + INTENTION + ITEM_SCREEN (eşya alma) + ITEM_SERVER + LAVAARENA_COMMUNITY_UNLOCKS başlangıcı | ✅ |
+| `0772` | 200 | LAVAARENA_COMMUNITY_UNLOCKS sonu (görev tipleri/zırh tanımları/silah açılışları) + LAVAARENA_QUESTS_HISTORY/SUMMARY + **LOADING_SCREEN_CONTROL_TIPS** (klavye+kontrolcü ipuçları) + **LOADING_SCREEN_LORE_TIPS** (Charlie/Maxwell/Wendy/Webber/Wilson/Winona/Woodie karakterleri kısa anlatım) + **LOADING_SCREEN_SURVIVAL_TIPS** (Wilson notebook alıntıları — uzun atmosferik metinler) + LOBBYSCREEN tam (karakter seç/skin/loadout) + LOBBY_WAITING_FOR_PLAYERS + **MAINSCREEN ilk yarısı** (Hesap/Görüntü Alanı/Macera/Yine de Oyna/Beta/Yayında/Oyun Listesi/Oyun Kur/Konsol/Külliyat/Devam/Kontroller/Kontrolcü/Jenerik/Sil/Demirhane Betası/Yayın/Anahtar) | ✅ |
+| `0773` | 200 | **MAINSCREEN ikinci yarısı** (Aile Paylaşımı/Demirhane'ye Gir/Sanal Kum/Oyun Sihirbazı/Hediye/Merhaba/IP ile Katıl/Giriş Yap/Yetenek Vurgusu/Mod Forumları/Klei Mağaza/Hazine/Oyna!/Çevrimiçi Oyna/Bölünmüş Ekran/Süs Dolabı/Hileler/Yeniden Başlat/Oyundan Çık/Hata Ayıklama/Tooltip'ler) + MODSSCREEN ilk kısmı (Tümü/Uygula/Bağımlılıklar/Mod Uyarısı/Yapılandır/Devre Dışı/İstemci Modları/Uyumluluk) | ✅ |
+| `0774` | 200 | MODSSCREEN devamı (Yerel/Mod Sayfası/Hepsini Güncelle/Atölye/Çöktü/Yapılandırma) + MORGUESCREEN (Vefat İlanları/Karşılaşmalar/Geçmiş) + MORTALITYSTRINGS (ölümlü/şeytan-Wortox) + MVP_LOADING_WIDGET (Forge: Suikastçı/Şifacı/Diriltici + Quagmire: Şef/Hasatçı/Tarımcı/Mutfak Felaketi) + MYSTERYBOXSCREEN + NETWORKDISCONNECT.BODY ilk kısmı (E_BANNED/E_DELETED/Bağlantı sorunları) | ✅ |
+| `0775` | 200 | NETWORKDISCONNECT.BODY sonu + NETWORKDISCONNECT.TITLE tam (Bağlantı Kesildi/Sürüm Uyumsuzluğu/Sunucu Dolu/Yasaklı/Atıldı vb. 50+ başlık) + NEW_CONTROLSCHEME_POPUP + NOTIFICATION (Bağlanılıyor/Yükleniyor/Dünya Üretiliyor/Oyuna Katıldı/Atıldı) + OBJECTOWNERSHIP + OPTIONS başlangıcı (A-D: Onayla/Çevre Sesi/Otomatik Giriş/Yapı Hizalaması/Geri/Sırt Çantası/Parlama/Tekne/Üretim/Veri Toplama/Loş) | ✅ |
+| `0776` | 200 | **OPTIONS devamı E-Y** (En Loş/Bozulma/Tam Ekran/Ses Efekt/Grafikler/Boss Efektleri/HUD Boyutu/Giriş Cihazı/Bütünleşik/Diller/Yükleme İpuçları/Mini Harita/Müzik/Çevrimiçi/Oyun Ayarları + **TÜM TOOLTIP'LER** — kontrol açıklamaları/sosyal menü/grafik kalitesi/dokunsal efektler/yıldırım/Wigfrid Umlaut) + PAUSEMENU başlangıcı (Mola Ver/Otomatik Duraklatıldı) | ✅ |
 
-### ⬜ Oturum 4 — (hedef ~7 batch + 39)
+### ⬜ Oturum 4 — sıradaki (hedef ~7 batch + 39, başlangıç batch_0777)
 
 | Batch | Sayı | Kapsam | Durum |
 |---|---|---|---|
@@ -115,10 +115,10 @@
 ### 2. Sıradaki batch'i çevir
 ```bash
 # Read
-pipeline/batches/pending/batch_0771.json     # ← şu an buradan başlıyoruz (Oturum 3)
+pipeline/batches/pending/batch_0777.json     # ← şu an buradan başlıyoruz (Oturum 4)
 
 # Write (çevirisi yapılmış halde)
-pipeline/batches/done/batch_0771.json
+pipeline/batches/done/batch_0777.json
 ```
 
 ### 3. Oturum sonu prosedürü
