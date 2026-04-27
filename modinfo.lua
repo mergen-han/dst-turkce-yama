@@ -1,11 +1,11 @@
 name = "Türkçe Yama"
-author = "Aydın Çolak (mergen-han) ve katkıda bulunanlar"
+author = "Aydın Çolak (aydincol4k) ve katkıda bulunanlar"
 version = "0.1.0-faz0"
 description = [[Don't Starve Together için tam Türkçe çeviri modu (geliştirme aşamasında).
 
 Faz 0 — Smoke test sürümü. Yalnızca ana menüdeki "Play" butonu Türkçeleştirilmiştir; Türkçe karakterlerin (ş ç ğ İ ö ü) düzgün render edilip edilmediği kontrol edilir.
 
-Açık kaynak: github.com/mergen-han/dst-turkce-yama
+Açık kaynak: github.com/aydincol4k/dst-turkce-yama
 Lisans: MIT (kod) + CC-BY-SA 4.0 (çeviriler)]]
 
 forumthread = ""

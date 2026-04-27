@@ -8,8 +8,8 @@
 
 **Don't Starve Together (DST) için Türkçe yama modu.**
 
-- Sahip: Aydın Çolak — `mergen-han` (GitHub).
-- Repo: `github.com/mergen-han/dst-turkce-yama` (public, MIT + CC-BY-SA)
+- Sahip: Aydın Çolak — `aydincol4k` (GitHub).
+- Repo: `github.com/aydincol4k/dst-turkce-yama` (public, MIT + CC-BY-SA)
 - Çalışma dizini: `C:\Users\colak\Desktop\dst-turkce-yama\`
 - DST yerel test klasörü: `C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\mods\dst-turkce-yama\`
 - Hedef yayın: Steam Workshop + GitHub açık kaynak (Faz 9'da)
@@ -150,7 +150,7 @@ python pipeline/diff_pot.py
 
 ## Önemli URL'ler
 
-- Repo: https://github.com/mergen-han/dst-turkce-yama
+- Repo: https://github.com/aydincol4k/dst-turkce-yama
 - DST API docs (referans): https://vietnd69.github.io/dst-api-webdocs/
 - Klei forum modding: https://forums.kleientertainment.com/forums/forum/79-dont-starve-together-mods-and-tools/
 

@@ -106,6 +106,51 @@
 
 **Faz 3 toplam:** Oturum 5 (609) + Oturum 6 (161) = 770 string. UI sonrası küçük blok temizliği devam ediyor.
 
+## 🎯 Sıradaki Oturum (7) — Aktif Yol Haritası
+
+> Oturum sonunda durum güncellendi 2026-04-28. Sıradaki Claude bu listeyi takip etsin.
+
+### Yakın blok: batch_0036-0049 — CARNIVAL_CROWKID kalan (14 batch, ~70 string tahmini)
+- `0036` CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK
+- `0037` CARNIVAL_CROWKID_DECOR_AMBIENT_SOME
+- `0038` CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK
+- `0039` CARNIVAL_CROWKID_DECOR_PLAYER_LOTS
+- `0040` CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK
+- `0041` CARNIVAL_CROWKID_DECOR_PLAYER_NONE
+- `0042` CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK
+- `0043` CARNIVAL_CROWKID_DECOR_PLAYER_SOME
+- `0044` CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK
+- `0045` CARNIVAL_CROWKID_GAME_GOTO
+- `0046` CARNIVAL_CROWKID_HASGIFT
+- `0047` CARNIVAL_CROWKID_OTHERGAME_GOTO
+- `0048` CARNIVAL_CROWKID_REFUSEGIFT
+- `0049` CARNIVAL_CROWKID_SCARED
+
+### Sonra: batch_0050-0058 — CARNIVAL_HOST (9 batch, ~? string)
+Karganaval ev sahibi (Corvus liderleri) blokları:
+- `0050` CARNIVAL_HOST_ANNOUNCE_CARNIVAL
+- `0051` CARNIVAL_HOST_ANNOUNCE_GENERIC
+- `0052` CARNIVAL_HOST_GAME_BORED
+- `0053` CARNIVAL_HOST_GAME_CHEER
+- `0054` CARNIVAL_HOST_GAME_END_BORED
+- `0055` CARNIVAL_HOST_GAME_END_CHEER
+- `0056` CARNIVAL_HOST_OTHERGAME_TALK
+- `0057` CARNIVAL_HOST_SELL_GENERIC
+- `0058` CARNIVAL_HOST_SELL_PLAZA
+
+### Sonra: batch_0059 — STRINGS.CAST (1 batch, oyuncu/karakter cinsi)
+
+### ⚠️ KRİTİK: batch_0060+ — STRINGS.CHARACTERS başlıyor (~62.645 string, ~313 batch)
+**Burada karar gerek:** Faz numaraları ile alfabetik batch sıralama uyuşmuyor.
+- Alfabetik: CHARACTERS (60-373) → COOKBOOK → INV_DESC → ... → NAMES → RECIPE_DESC → ...
+- Faz mantığı: Faz 3 = NAMES/RECIPE_DESC/INV_DESC/COOKBOOK öncelik; Faz 5 = CHARACTERS
+
+**Seçenek A (numaralı sıra):** batch_0060'tan başlayıp CHARACTERS'a doğrudan gir → Faz 5'e erken geç. Persona disiplini için `docs/character-voices.md` zorunlu okuma.
+
+**Seçenek B (faz öncelikli):** batch_0060-0373 CHARACTERS'ı atla, sırayla COOKBOOK/INV_DESC/NAMES/RECIPE_DESC/PLANTREGISTRY batch'lerini bul (numarayla aramak gerekiyor) — Faz 3'ü tamamla, sonra Faz 5'e dön.
+
+**Tavsiye:** Aydın'a sor. Eğer karar bekliyorsa: bunları item glossary'si CHARACTERS persona'sı için besleyici olduğundan **Seçenek B** mantıklı (Wilson "Cut Grass" derse Türkçe adını bilmek lazım).
+
 ## Faz 3+ — sonraki büyük bloklar (özet)
 
 | Bölüm | msgid | Önemi | Strateji |

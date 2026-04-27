@@ -63,4 +63,4 @@ Yanlış çeviri / eksik metin / bug için **Issues** sekmesi. PR rehberi `CONTR
 
 ---
 
-**Sahip:** [@mergen-han](https://github.com/mergen-han) · **Build:** DST `722900` · **Sürüm:** `0.4.0-faz3`
+**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.4.0-faz3`
