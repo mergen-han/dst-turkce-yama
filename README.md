@@ -2,7 +2,7 @@
 
 Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe çeviri modu.
 
-> 🚧 **Geliştirme aşamasında — Faz 2 (UI çevirisi, %68).** Ana menü, ayarlar, dünya kurma, mod yönetimi ve sunucu lobisi tamamen Türkçe. Tam yama (UI + itemler + 17 karakter konuşmaları) v1.0 ile gelecek.
+> 🚧 **Geliştirme aşamasında — Faz 3 (item + lore çevirisi).** Faz 2 UI ✅ %100 tamam: ana menü, ayarlar, dünya kurma, sunucu yönetimi, Süs Dolabı, Takas Hanı, Maç Sonu Paneli ve tüm HUD aksiyonları (Saldır/İncele/Kuşan...) tamamen Türkçe. Tam yama (UI + itemler + 17 karakter konuşmaları) v1.0 ile gelecek.
 
 ## Özellikler
 
@@ -19,8 +19,8 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 |---|---|---|
 | 0 | Mod iskeleti + smoke test | ✅ |
 | 1 | Pipeline + glossary + dokümantasyon | ✅ |
-| 2 | UI çevirisi (4.439 string) | 🟡 %68 (3.000) |
-| 3 | İtem isimleri + tarif/envanter açıklamaları | ⬜ |
+| 2 | UI çevirisi (4.439 string) | ✅ %100 |
+| 3 | İtem isimleri + tarif/envanter açıklamaları | 🟡 ACTIONS+lore başladı |
 | 4 | Bilim/üretim/skill tree/sahne | ⬜ |
 | 5 | 17 karakter konuşmaları (62.645 string) | ⬜ |
 | 6 | Skinler + lore + vinyetler | ⬜ |
@@ -28,7 +28,7 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 | 8 | Logo + Workshop varlıkları | ⬜ |
 | 9 | v1.0 yayın | ⬜ |
 
-**Toplam:** 3.000 / 85.706 msgid çevrildi (%3.50). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
+**Toplam:** 5.048 / 85.706 msgid çevrildi (%5.89). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
 
 ## Kurulum
 
@@ -63,4 +63,4 @@ Yanlış çeviri / eksik metin / bug için **Issues** sekmesi. PR rehberi `CONTR
 
 ---
 
-**Sahip:** [@mergen-han](https://github.com/mergen-han) · **Build:** DST `722900` · **Sürüm:** `0.3.0-faz2`
+**Sahip:** [@mergen-han](https://github.com/mergen-han) · **Build:** DST `722900` · **Sürüm:** `0.4.0-faz3`
