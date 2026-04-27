@@ -47,28 +47,33 @@ Her oturum başında bu üç dosyayı oku (Aydın'ın "devam" demesi yetiyor):
 
 ## Sıradaki Adım
 
-**`PROGRESS.md`** dosyasını oku — "⬜ Oturum 4" bölümü altında ⬜ işaretli ilk batch'ten başla.
+**`PROGRESS.md`** dosyasını oku — Faz 3 başlangıç batch'ini bul.
 
-Kabaca özet (oturum 3 sonu, 2026-04-27):
+Kabaca özet (Oturum 4 sonu, 2026-04-28):
 - ✅ Faz 0+1 tamam (mod iskeleti + pipeline + docs)
-- ✅ Faz 2 oturum 1+2+3 tamam: 0762-0776 + priority_mainscreen = **3.000 string** PO'da (%3.50 / %68 UI)
-- ⬜ Sıradaki: `batch_0777.json` (PAUSEMENU sonu + PRESENCE — Oturum 4 başlangıcı)
+- ✅ **Faz 2 UI %100 tamam** — 4.439/4.439 string PO'da (%5.18 genel)
+- 🟡 Sıradaki: **Faz 3** — STRINGS.NAMES (item isimleri ~1.500) + RECIPE_DESC + INV_DESC + COOKBOOK + PLANTREGISTRY (~5.000 string toplam)
+- batch_0001'den başla, glossary'yi item-bazlı genişletmeye odaklan
 
-## Compact öncesi tam durum (2026-04-27)
+## Faz 2 ✅ tamam (2026-04-28) — In-game tam Türkçe ekranlar
 
-### Çevrilen ana ekranlar (in-game görünür):
-- **Ana menü** (Oyna/Ayarlar/Modlar/Çıkış/Külliyat/Oyun Listesi/Oyun Kur/Süs Dolabı/Hazine/Jenerik) — tooltip'ler dahil
-- **Yeni Dünya Kurma menüsü** — tüm canavar/biyom adları + 10 Yıl Etkinliği + preset açıklamaları
-- **AYARLAR menüsü tam** — ses/grafik/HUD/dokunsal/ipuçları + tüm tooltip açıklamaları
-- **Sunucu lobi ekranı** — karakter seç/skin/loadout
-- **Mod yönetim ekranı** — yapılandırma/uyumluluk/atölye filtreleri
-- **Yükleme ekranları** — Wilson notebook alıntıları + 14 karakter lore tip'i
-- **Vefat ilanları (Morgue)** — geçmiş/karşılaşmalar
-- **Demirhane/Boğaz etkinlikleri** — istatistik ödülleri (Suikastçı/Şifacı/Şef/Oduncu)
-- **HUD** — Saldır/İncele/Kuşan/Bayat/Bozuk/Erimiş + ölüm anonsları
-- **Tüm hata/bağlantı mesajları** — 50+ NETWORKDISCONNECT + EULA + DATACOLLECTION
-- **Emoji menüsü** — 35 ifade
-- **Yemek tipleri** — Et/Sebze/Meyve/Korkunç/Lifli vb.
+### Önceki oturumlar (1-3): Ana menü tüm tooltip'ler, Yeni Dünya Kurma (tüm canavar/biyom/preset), AYARLAR tam, Sunucu lobi, Mod yönetim, Yükleme ekranları (lore tip'leri), Vefat ilanları, Demirhane/Boğaz ödülleri, HUD aksiyonları, 50+ NETWORKDISCONNECT, 35 emoji, yemek tipleri
+
+### Oturum 4 yenilikleri (1.439 string, 8 batch):
+- **Sandbox menüsü tam** — slider/qty/loop seçenekleri, 10 Yıl Etkinliği, Karganaval/Cadılar/Kış Şöleni
+- **SaveLoad / Karalama Defteri / Server Admin** — yasak listesi, snapshot, restore
+- **Server Creation tam** — 4 playstyle (Rekabetçi/İşbirlikçi/Çılgınlık/Sosyal), Cave/UseCave, Privacy, UGC kontrolü
+- **Server Listing tam** — filtre, World Progression Tags (Kadim Arşivler/Atriyum/Semavi Küre/Çiçekli Çeşmecik/Constant)
+- **Süs Dolabı (Skinsscreen)** + Snowman dekorasyon + Special Event Names + Splitscreen + Adventure modu (Maxwell kapısı)
+- **Lunar/Shadow Rift'ler** — "Hırsın Bedeli" diyalogları
+- **Teleportato (TELEPORT)** — yola devam diyalogları
+- **Takas Hanı (Trade Inn) DERİNLİK** — Karganaval mini oyun, Yavrukoon (Kitcoon) evcilleştirme + Tasmana Vuruldum, Gölge Tüccar (Mortal/ölümlü), Redbird/Snow/Crowkid mini oyunları, köylü ağızlı SKIN_COLLECTOR (tüccar)
+- **Gardırop (WARDROBESCREEN)** + Word prediction
+- **WORLDGEN tam** — 45 NOUNS atmosferik+karakter parça + 22 VERBS yükleme cümleleri
+- **WORLDRESETDIALOG** — herkes öldü/dirilmek için ele geçir (haunt)
+- **WXPLOBBYPANEL tam** — Demirhane/Boğaz maç sonu + TP sistemi (XP→TP)
+- **WXP_DETAILS** — Milestone başarımları (Yabansavaşçısı/Gergedankardeşler/Timsahkomutanlar/Horultaplumbağalar)
+- **XB1_USER_DIALOG** — Xbox kontrolcü diyalogları
 
 ### Kalıcı yerelleştirme kararları (glossary'den):
 - Health/Sanity/Hunger = **Can/Akıl/Açlık** (asla "sağlık" değil)
@@ -96,6 +101,7 @@ Kabaca özet (oturum 3 sonu, 2026-04-27):
 | 1 | 2026-04-26 | priority_mainscreen + 0762-0764 | 639 | MAINSCREEN override + ACCOUNT + ACHIEVEMENTS + BARTERSCREEN + BUILTINCOMMANDS + COLLECTIONSCREEN + COMPENDIUM + CONTROLSSCREEN ilk |
 | 2 | 2026-04-26 | 0765-0770 | 1.200 | CONTROLSSCREEN sonu + COOKBOOK + CRAFTING + CREDITS + CUSTOMIZATIONSCREEN tam (10 yıl etkinliği dahil) + DATACOLLECTION + DATE + EMOTES + EULA + FESTIVAL + FOOD_TYPES başlangıcı |
 | 3 | 2026-04-27 | 0771-0776 | 1.200 | FOOD_TYPES sonu + GAMEMODES + GENDERSTRINGS + HELP + HUD + LAVAARENA + LOADING_SCREEN ipuçları + LOBBYSCREEN + MAINSCREEN tam + MODSSCREEN + MORGUESCREEN + MVP_LOADING + NETWORKDISCONNECT (50+ hata) + NOTIFICATION + OPTIONS tam (tooltip'ler) + PAUSEMENU başlangıcı |
+| 4 | 2026-04-27/28 | 0777-0784 | 1.439 | PAUSEMENU sonu + PRESENCE + PURCHASEPACK + RARITY + RECIPE_BOOK + SANDBOXMENU tam + SAVELOAD + SCRAPBOOK + SERVERADMIN + SERVERCREATION tam + SERVERLISTING tam + SETPOPUP + SKINSSCREEN tam + SNOWMAN + SPECIAL_EVENTS + SPLITSCREEN + STARTADVENTURE + LUNAR/SHADOW_RIFTS + STATSPANEL + TELEPORT + TRADESCREEN derinlik (CROW/KITCOON/MAGICSKIN/REDBIRD/SNOW/SKIN_COLLECTOR) + WARDROBE + WORDPREDICTION + WORLDGEN tam + WORLDRESET + WXPLOBBYPANEL tam + WXP_DETAILS + XB1 + XPUTILS — **UI %100 BİTTİ** |
 
 ### Sonraki oturumda devam protokolü
 1. Bu dosyayı (CLAUDE.md) oku

@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-27 (Oturum 3 TAMAM — 6 batch / 1.200 string)
+**Son güncelleme:** 2026-04-28 (Oturum 4 ✅ — Faz 2 UI %100 tamam!)
 
 ---
 
@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 | 0 | Mod iskeleti + smoke test | — | ✅ | 100 |
 | 1 | Pipeline + docs + smoke | — | ✅ | 100 |
-| **2** | **STRINGS.UI** (UI/menü) | **4.439** | **🟡 3.000** | **68** |
+| **2** | **STRINGS.UI** (UI/menü) | **4.439** | **✅ 4.439** | **100** |
 | 3 | STRINGS.NAMES + RECIPE_DESC + INV_DESC + COOKBOOK + PLANTREGISTRY | ~5.000 | ⬜ | 0 |
 | 4 | STRINGS.SCIENCE_TAB + CRAFTING_FILTER + SKILLTREE + STAGEPLAY | ~2.000 | ⬜ | 0 |
 | 5 | STRINGS.CHARACTERS (17 karakter speech) | 62.645 | ⬜ | 0 |
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 3.000 / 85.706 msgid (%3.50)
+**Şu ana kadar çevrilen toplam:** 4.439 / 85.706 msgid (%5.18)
 
 ---
 
@@ -59,18 +59,18 @@
 | `0775` | 200 | NETWORKDISCONNECT.BODY sonu + NETWORKDISCONNECT.TITLE tam (Bağlantı Kesildi/Sürüm Uyumsuzluğu/Sunucu Dolu/Yasaklı/Atıldı vb. 50+ başlık) + NEW_CONTROLSCHEME_POPUP + NOTIFICATION (Bağlanılıyor/Yükleniyor/Dünya Üretiliyor/Oyuna Katıldı/Atıldı) + OBJECTOWNERSHIP + OPTIONS başlangıcı (A-D: Onayla/Çevre Sesi/Otomatik Giriş/Yapı Hizalaması/Geri/Sırt Çantası/Parlama/Tekne/Üretim/Veri Toplama/Loş) | ✅ |
 | `0776` | 200 | **OPTIONS devamı E-Y** (En Loş/Bozulma/Tam Ekran/Ses Efekt/Grafikler/Boss Efektleri/HUD Boyutu/Giriş Cihazı/Bütünleşik/Diller/Yükleme İpuçları/Mini Harita/Müzik/Çevrimiçi/Oyun Ayarları + **TÜM TOOLTIP'LER** — kontrol açıklamaları/sosyal menü/grafik kalitesi/dokunsal efektler/yıldırım/Wigfrid Umlaut) + PAUSEMENU başlangıcı (Mola Ver/Otomatik Duraklatıldı) | ✅ |
 
-### ⬜ Oturum 4 — sıradaki (hedef ~7 batch + 39, başlangıç batch_0777)
+### ✅ Oturum 4 — 2026-04-27/28 (8 batch / 1.439 string — UI BİTTİ!)
 
 | Batch | Sayı | Kapsam | Durum |
 |---|---|---|---|
-| `0777` | 200 | PAUSEMENU sonu + PRESENCE | ⬜ |
-| `0778` | 200 | PRESENCE sonu + SANDBOXMENU | ⬜ |
-| `0779` | 200 | SANDBOX sonu + SERVERCREATIONSCREEN (yeni sunucu) | ⬜ |
-| `0780` | 200 | **SERVERCREATIONSCREEN devamı + SERVERLISTING** | ⬜ |
-| `0781` | 200 | **SERVERLISTING devamı (sunucu tarayıcısı)** + TRADESCREEN başlangıcı | ⬜ |
-| `0782` | 200 | TRADESCREEN devamı | ⬜ |
-| `0783` | 200 | TRADESCREEN sonu + WXP_DETAILS | ⬜ |
-| `0784` | 39 | WXP_DETAILS sonu + XPUTILS (UI son batch) | ⬜ |
+| `0777` | 200 | PAUSEMENU + PLANTREGISTRY (Wickerbottom -W açıklamaları, pun'lar) + PLAYERSTATUSSCREEN (admin/ban/kick/oylama) + PLAYERSUMMARYSCREEN + POPUPDIALOG + PORTRAIT + PRESENCE başlangıcı | ✅ |
+| `0778` | 200 | PRESENCE sonu + PUMPKIN_CARVING + PURCHASEPACKSCREEN tam (Klei mağaza) + QUICKJOINSCREEN + RARITY (10 nadirlik) + RECIPE_BOOK (Warly arzu sistemi) + REDEEMDIALOG + SANDBOXMENU başlangıcı (Adventure presetleri) | ✅ |
+| `0779` | 200 | SANDBOXMENU devamı (slider/qty/loop + Special Events: Karganaval/Cadılar/Kış Şöleni/10 Yıl Etkinliği) + SAVELOAD (bozuk veri/yedek) + SCRAPBOOK + SERVERADMINSCREEN tam (yasak listesi/snapshot/restore) + SERVERCREATIONSCREEN başlangıcı (intention 4 playstyle) | ✅ |
+| `0780` | 200 | SERVERCREATIONSCREEN devamı (NEWGAME/NEWHOST/OFFLINE/PRIVACY/PVP/PRESETS/USECAVES/WORLDGEN_FAILED) + SERVERLISTING başlangıcı (filtre/clan/dedicated/intention) | ✅ |
+| `0781` | 200 | SERVERLISTING devamı (Phases/Ping/Players/Refresh/Report/Seasons/Sort/WORLDPROGRESSION_TAGS — Kadim Arşivler/Atriyum Anahtarı/Semavi Küre/Çiçekli Çeşmecik/Constant) + SETPOPUP + SKINSSCREEN (Süs Dolabı tam) + SNOWMAN_DECORATING + SPECIAL_EVENT_NAMES + SPLITSCREEN + STARTADVENTURE + START_LUNAR/SHADOW_RIFTS + STATSPANEL + TELEPORT + TIME_FORMAT + TRADESCREEN/CROWKID_GAME başlangıcı | ✅ |
+| `0782` | 200 | TRADESCREEN derinlik: CROW_GAME (Karganaval mini oyun, ambalaj toplama) + KITCOON_GAME (Yavrukoon evcilleştirme: Tasmana Vuruldum) + MAGICSKIN_COLLECTOR_SPEECH (Gölge Tüccar - "ölümlü") + REDBIRD_GAME (yumurta toplama) + SKIN_COLLECTOR_SPEECH (köylü ağızlı tüccar tam: Start/Result/Lucky/Trade/Warning) + SKIN_COLLECTOR_SPEECH_CROW/CROWKID/REDBIRD/SNOW (mini oyun replikleri) + SNOWBIRD | ✅ |
+| `0783` | 200 | SNOW_GAME sonu + TRADESCREEN sonu (Sold Out/Specials/Warning) + UNLOCKMAXWELL (Maxwell tahtı) + UPGRADEMODULEDISPLAY (WX-78 modüller) + USERCOMMANDS (komut hata mesajları) + VOTEDIALOG + WARDROBESCREEN tam (Gardırop) + WORDPREDICTIONWIDGET + **WORLDGEN tam** (45 NOUNS atmosferik+karakter parça + 22 VERBS yükleme cümleleri) + WORLDRESETDIALOG (herkes öldü/dirilmek için ele geçir) + WXPLOBBYPANEL tam (Demirhane/Boğaz maç sonu paneli) + WXP_DETAILS başlangıcı | ✅ |
+| `0784` | 39 | WXP_DETAILS sonu (LAB_MILESTONE: Timsahkomutanlar/Horultaplumbağalar/Yabansavaşçısı/Gergedankardeşler) + Quagmire milestones + XB1_USER_DIALOG (Xbox kontrolcü) + **XPUTILS** = **UI SON BATCH — FAZ 2 %100 TAMAM** ✅ | ✅ |
 
 ---
 
@@ -182,13 +182,13 @@
 - `docs/style-guide.md` — disiplin kuralları
 - `docs/character-voices.md` — 17 karakter persona (Faz 5 için)
 
-### 2. Sıradaki batch'i çevir
+### 2. Sıradaki batch'i çevir (Faz 3 başlıyor)
 ```bash
-# Read
-pipeline/batches/pending/batch_0777.json     # ← şu an buradan başlıyoruz (Oturum 4)
+# Read — batch_0001..0760 arası NAMES/RECIPE_DESC/INV_DESC/COOKBOOK/PLANTREGISTRY
+pipeline/batches/pending/batch_0001.json     # ← Faz 3 başlangıcı (NAMES item isimleri)
 
 # Write (çevirisi yapılmış halde)
-pipeline/batches/done/batch_0777.json
+pipeline/batches/done/batch_0001.json
 ```
 
 ### 3. Oturum sonu prosedürü
@@ -226,36 +226,23 @@ git push
 
 ---
 
-## 🗂️ Compact öncesi durum kayıt (2026-04-27)
+## 🗂️ Faz 2 ✅ tamamlandı (2026-04-28)
 
-**Yapılan iş özeti:**
-- 4 commit: `ec0eb59` (faz 0+1), `2d45792` (compact prep oturum 1), `5e900b0` (oturum 2), `2310dba` (oturum 3)
-- 3.000 string PO'da, 18 batch JSON done/ altında
-- Mod DST'de çalışıyor (sandbox sorunu çözüldü, mağarada da çalışır)
-- README.md güncel (rakip yama atfı kaldırıldı, pozitif tona alındı)
+**Yapılan iş özeti (Oturum 1-4):**
+- 4.439 string PO'da, 26 batch JSON done/ altında (priority + 0762-0784)
+- Mod DST'de çalışıyor (mağarada da çalışıyor — hibrit AddSimPostInit + AddPlayerPostInit)
+- Validate temiz: 0 hata, 0 boş msgstr, 70 false-positive glossary uyarısı
+- DST mods/ klasörüne sync edildi
 
-**Ana ekran kapsamı (in-game test için):**
-- Ana menü tam Türkçe + tooltip'ler
-- Yeni Dünya Kurma menüsü (preset/biyom/canavar/yıl etkinliği)
-- AYARLAR menüsü tam (ses/grafik/HUD/dokunsal + tooltip'ler)
-- Sunucu lobi (karakter seç/skin/loadout)
-- Mod yönetim ekranı
-- Yükleme ekranları (Wilson/Maxwell/Wendy/Webber lore tip'leri)
-- Vefat ilanları (Morgue)
-- Demirhane/Boğaz etkinlik istatistikleri
-- HUD aksiyonları (Saldır/İncele/Kuşan/Bayat...)
-- Tüm bağlantı/hata mesajları (50+)
-- 35 emoji ifadesi
-- Yemek tipleri
+**Faz 2 nihai kapsam (in-game tam Türkçe):**
+- Ana menü, Yeni Dünya Kurma, AYARLAR (tooltip'ler dahil), Mod yönetim, Sunucu lobi, Yükleme ekranları, Vefat ilanları, HUD, hata mesajları (50+), 35 emoji, yemek tipleri
+- **Oturum 4 yenilikleri:** Sandbox menüsü tam, SaveLoad, Karalama Defteri, Server Admin (yasak/snapshot), Server Creation tam (4 playstyle/cave/preset/UGC), Server Listing tam (filtre/world progression tags), Süs Dolabı, Maceraya Kapı, Lunar/Shadow Rift'ler, Teleportato, Takas Hanı tam (Karganaval/Yavrukoon/Gölge Tüccar/Tüm mini oyunlar), Gardırop, Dünya Üretim cümleleri (45 isim+22 fiil), Dünya Sıfırlama, Demirhane/Boğaz Maç Sonu Paneli (TP sistem), Xbox kontrolcü diyalogları
 
-**Sıradaki adımlar (Faz 2 oturum 4):**
-- batch_0777: PAUSEMENU sonu + PRESENCE
-- batch_0778: PRESENCE sonu + SANDBOXMENU
-- batch_0779: SANDBOX sonu + SERVERCREATIONSCREEN
-- batch_0780: SERVERCREATION devamı + SERVERLISTING
-- batch_0781: SERVERLISTING devamı + TRADESCREEN başlangıcı
-- batch_0782: TRADESCREEN devamı
-- batch_0783: TRADESCREEN sonu + WXP_DETAILS
-- batch_0784: WXP sonu + XPUTILS (UI **son** batch — 39 öğe)
-- → Oturum 4 sonu: Faz 2 UI %100 tamam (4.439/4.439)
-- → Faz 3 başlar: STRINGS.NAMES + RECIPE_DESC + INV_DESC (item çevirisi)
+**Sıradaki: Faz 3 — item çevirisi (~5.000 string)**
+- `STRINGS.NAMES` (~1.500 item ismi) — en görünür kısım, glossary disiplini kritik
+- `STRINGS.RECIPE_DESC` (~956)
+- `STRINGS.INV_DESC` (envanter hover açıklamaları)
+- `STRINGS.COOKBOOK` (yemek kitabı tarifleri)
+- `STRINGS.PLANTREGISTRY` (Wickerbottom -W bitki kayıt)
+- Strateji: Glossary'yi item-bazlı genişlet (~500 hedef), 2 tur insan QA
+- Tahmini: ~25 batch, 4-5 oturum
