@@ -3048,6 +3048,811 @@ msgctxt "STRINGS.BEEFALONAMING.MENU.RANDOM"
 msgid "Random"
 msgstr "Rastgele"
 
+#. STRINGS.BOARLORD_PLAYERDEATH_BANTER.1
+msgctxt "STRINGS.BOARLORD_PLAYERDEATH_BANTER.1"
+msgid "Ha!"
+msgstr "Ha!"
+
+#. STRINGS.BOARLORD_PLAYERDEATH_BANTER.2
+msgctxt "STRINGS.BOARLORD_PLAYERDEATH_BANTER.2"
+msgid "You are unworthy."
+msgstr "Layık değilsiniz."
+
+#. STRINGS.BOARLORD_PLAYERDEATH_BANTER.3
+msgctxt "STRINGS.BOARLORD_PLAYERDEATH_BANTER.3"
+msgid "You never stood a chance."
+msgstr "Hiç şansınız yoktu."
+
+#. STRINGS.BOARLORD_PLAYERDEATH_BANTER.4
+msgctxt "STRINGS.BOARLORD_PLAYERDEATH_BANTER.4"
+msgid "Ha ha!"
+msgstr "Ha ha!"
+
+#. STRINGS.BOARLORD_PLAYERDEATH_BANTER.5
+msgctxt "STRINGS.BOARLORD_PLAYERDEATH_BANTER.5"
+msgid "Weak."
+msgstr "Zayıf."
+
+#. STRINGS.BOARLORD_PLAYERDEATH_BANTER.6
+msgctxt "STRINGS.BOARLORD_PLAYERDEATH_BANTER.6"
+msgid "We are stronger."
+msgstr "Biz daha güçlüyüz."
+
+#. STRINGS.BOARLORD_PLAYERDEATH_BANTER.7
+msgctxt "STRINGS.BOARLORD_PLAYERDEATH_BANTER.7"
+msgid "Well struck!"
+msgstr "Güzel vuruş!"
+
+#. STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1
+msgctxt "STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.1"
+msgid "At last, our realm returns to glory!"
+msgstr "Sonunda diyarımız ihtişamına kavuşuyor!"
+
+#. STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2
+msgctxt "STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.2"
+msgid "Warriors, rekindle the Gateway..."
+msgstr "Savaşçılar, Geçit'i yeniden tutuşturun..."
+
+#. STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3
+msgctxt "STRINGS.BOARLORD_PLAYERS_DEFEATED_BATTLECRY.3"
+msgid "Today we take the Throne!"
+msgstr "Bugün Taht'ı ele geçiriyoruz!"
+
+#. STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.1
+msgctxt "STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.1"
+msgid "It's good to have a challenge once again!"
+msgstr "Yeniden bir meydan okuyan görmek güzel!"
+
+#. STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.2
+msgctxt "STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.2"
+msgid "This should be fun."
+msgstr "Bu eğlenceli olacak."
+
+#. STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3
+msgctxt "STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3"
+msgid "More pigs! Overwhelm them!"
+msgstr "Daha çok domuz! Onları altedin!"
+
+#. STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.4
+msgctxt "STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.4"
+msgid "More pigs!"
+msgstr "Daha çok domuz!"
+
+#. STRINGS.BOARLORD_ROUND1_START.1
+msgctxt "STRINGS.BOARLORD_ROUND1_START.1"
+msgid "What have we here?"
+msgstr "Karşımızda ne varmış bakalım?"
+
+#. STRINGS.BOARLORD_ROUND1_START.2
+msgctxt "STRINGS.BOARLORD_ROUND1_START.2"
+msgid "Gatekeepers? Ha! Have you come to return us to the Throne?"
+msgstr "Geçit Bekçileri mi? Ha! Bizi Taht'a döndürmeye mi geldiniz?"
+
+#. STRINGS.BOARLORD_ROUND1_START.3
+msgctxt "STRINGS.BOARLORD_ROUND1_START.3"
+msgid "I am Battlemaster Pugna, and I protect what is mine."
+msgstr "Ben Savaş Ustası Pugna; benim olanı korurum."
+
+#. STRINGS.BOARLORD_ROUND1_START.4
+msgctxt "STRINGS.BOARLORD_ROUND1_START.4"
+msgid "Warriors. Release the pigs!"
+msgstr "Savaşçılar. Domuzları salın!"
+
+#. STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.1
+msgctxt "STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.1"
+msgid "For the Forge!"
+msgstr "Demirhane için!"
+
+#. STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.2
+msgctxt "STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.2"
+msgid "Give the Gatekeepers no quarter!"
+msgstr "Geçit Bekçilerine aman vermeyin!"
+
+#. STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.3
+msgctxt "STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.3"
+msgid "Fly your banners proudly, warriors!"
+msgstr "Sancaklarınızı gururla dalgalandırın, savaşçılar!"
+
+#. STRINGS.BOARLORD_ROUND2_START.1
+msgctxt "STRINGS.BOARLORD_ROUND2_START.1"
+msgid "Impressive. You handled our foot soldiers with ease."
+msgstr "Etkileyici. Piyade askerlerimizle kolayca baş ettiniz."
+
+#. STRINGS.BOARLORD_ROUND2_START.2
+msgctxt "STRINGS.BOARLORD_ROUND2_START.2"
+msgid "But our battalions are trained to work together."
+msgstr "Ama bizim taburlarımız birlikte çalışmaya eğitildi."
+
+#. STRINGS.BOARLORD_ROUND2_START.3
+msgctxt "STRINGS.BOARLORD_ROUND2_START.3"
+msgid "Can you do the same? Crocommanders, to the ring!"
+msgstr "Siz de aynısını yapabilir misiniz? Timsahkomutanlar, arenaya!"
+
+#. STRINGS.BOARLORD_ROUND3_START.1
+msgctxt "STRINGS.BOARLORD_ROUND3_START.1"
+msgid "We've endured more here than you know."
+msgstr "Burada bilmediğiniz nice acılara katlandık."
+
+#. STRINGS.BOARLORD_ROUND3_START.2
+msgctxt "STRINGS.BOARLORD_ROUND3_START.2"
+msgid "And as forging fires temper steel,"
+msgstr "Ve döven ateş çeliği nasıl tavlarsa,"
+
+#. STRINGS.BOARLORD_ROUND3_START.3
+msgctxt "STRINGS.BOARLORD_ROUND3_START.3"
+msgid "Hardship has only made us stronger."
+msgstr "Çile bizi yalnızca daha da güçlendirdi."
+
+#. STRINGS.BOARLORD_ROUND3_START.4
+msgctxt "STRINGS.BOARLORD_ROUND3_START.4"
+msgid "Now, Snortoises. Attack!"
+msgstr "Şimdi, Horultaplumbağalar. Saldırın!"
+
+#. STRINGS.BOARLORD_ROUND4_FIGHT_BANTER.1
+msgctxt "STRINGS.BOARLORD_ROUND4_FIGHT_BANTER.1"
+msgid "End this now my warriors!"
+msgstr "Buna bir son verin, savaşçılarım!"
+
+#. STRINGS.BOARLORD_ROUND4_FIGHT_BANTER.2
+msgctxt "STRINGS.BOARLORD_ROUND4_FIGHT_BANTER.2"
+msgid "We... cannot lose the Forge..."
+msgstr "Demirhane'yi... kaybedemeyiz..."
+
+#. STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.1
+msgctxt "STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.1"
+msgid "No! How can this be?!"
+msgstr "Hayır! Bu nasıl olabilir?!"
+
+#. STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.2
+msgctxt "STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.2"
+msgid "You have defeated the mighty Boarilla!"
+msgstr "Kudretli Yabongoril'i alt ettiniz!"
+
+#. STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.3
+msgctxt "STRINGS.BOARLORD_ROUND4_PLAYER_VICTORY.3"
+msgid "You may have won the battle, Gatekeepers... but not the war!"
+msgstr "Savaşı kazanmış olabilirsiniz, Geçit Bekçileri... ama harbi değil!"
+
+#. STRINGS.BOARLORD_ROUND4_START.1
+msgctxt "STRINGS.BOARLORD_ROUND4_START.1"
+msgid "...Do you understand the forces you serve?"
+msgstr "...Hizmet ettiğiniz güçleri anlıyor musunuz?"
+
+#. STRINGS.BOARLORD_ROUND4_START.2
+msgctxt "STRINGS.BOARLORD_ROUND4_START.2"
+msgid "They destroy all They touch..."
+msgstr "Dokundukları her şeyi yok ediyorlar..."
+
+#. STRINGS.BOARLORD_ROUND4_START.3
+msgctxt "STRINGS.BOARLORD_ROUND4_START.3"
+msgid "We were severed from the Throne, trapped in a realm of stone and fire!"
+msgstr "Taht'tan koparıldık, taşın ve ateşin diyarına hapsolduk!"
+
+#. STRINGS.BOARLORD_ROUND4_START.4
+msgctxt "STRINGS.BOARLORD_ROUND4_START.4"
+msgid "That is why we cannot let you win."
+msgstr "İşte bu yüzden kazanmanıza izin veremeyiz."
+
+#. STRINGS.BOARLORD_ROUND4_TRAILS_INTRO.1
+msgctxt "STRINGS.BOARLORD_ROUND4_TRAILS_INTRO.1"
+msgid "Send in the Boarilla."
+msgstr "Yabongoril'i meydana sürün."
+
+#. STRINGS.BOARLORD_ROUND5_BOARRIOR_INTRO.1
+msgctxt "STRINGS.BOARLORD_ROUND5_BOARRIOR_INTRO.1"
+msgid "Grand Forge Boarrior!"
+msgstr "Yüce Demirhane Yabansavaşçısı!"
+
+#. STRINGS.BOARLORD_ROUND5_BOARRIOR_INTRO.2
+msgctxt "STRINGS.BOARLORD_ROUND5_BOARRIOR_INTRO.2"
+msgid "The ring is yours! Destroy them, my champion!"
+msgstr "Meydan senindir! Yok et onları, şampiyonum!"
+
+#. STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.1
+msgctxt "STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.1"
+msgid "The Gatekeepers must not take the Forge!"
+msgstr "Geçit Bekçileri Demirhane'yi ele geçirmemeli!"
+
+#. STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.2
+msgctxt "STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.2"
+msgid "Drive the interlopers back!"
+msgstr "Mütecavizleri geri püskürtün!"
+
+#. STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.3
+msgctxt "STRINGS.BOARLORD_ROUND5_FIGHT_BANTER1.3"
+msgid "Do not hold back! Kill them!"
+msgstr "Kendinizi tutmayın! Öldürün onları!"
+
+#. STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.1
+msgctxt "STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.1"
+msgid "Why are the Gatekeepers still not dead?!"
+msgstr "Geçit Bekçileri neden hâlâ ölmedi?!"
+
+#. STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.2
+msgctxt "STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.2"
+msgid "Destroy them!!"
+msgstr "Yok edin onları!!"
+
+#. STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.3
+msgctxt "STRINGS.BOARLORD_ROUND5_FIGHT_BANTER2.3"
+msgid "We will not live in the Throne's shadow!"
+msgstr "Taht'ın gölgesinde yaşamayacağız!"
+
+#. STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.1
+msgctxt "STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.1"
+msgid "What?! My champion!?!"
+msgstr "Ne?! Şampiyonum!?!"
+
+#. STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.2
+msgctxt "STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.2"
+msgid "I see. You've demonstrated your might."
+msgstr "Anlıyorum. Kudretinizi kanıtladınız."
+
+#. STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.3
+msgctxt "STRINGS.BOARLORD_ROUND5_PLAYER_VICTORY.3"
+msgid "...But we will live to fight again!!"
+msgstr "...Ama yine savaşmak için yaşayacağız!!"
+
+#. STRINGS.BOARLORD_ROUND5_START.1
+msgctxt "STRINGS.BOARLORD_ROUND5_START.1"
+msgid "Know this, Gatekeepers:"
+msgstr "Şunu bilin, Geçit Bekçileri:"
+
+#. STRINGS.BOARLORD_ROUND5_START.2
+msgctxt "STRINGS.BOARLORD_ROUND5_START.2"
+msgid "Once you are dead, we will activate the Gateway."
+msgstr "Siz öldüğünüzde, Geçit'i etkinleştireceğiz."
+
+#. STRINGS.BOARLORD_ROUND5_START.3
+msgctxt "STRINGS.BOARLORD_ROUND5_START.3"
+msgid "We'll return to the hub and destroy the Throne."
+msgstr "Merkeze döneceğiz ve Taht'ı yok edeceğiz."
+
+#. STRINGS.BOARLORD_ROUND5_START.4
+msgctxt "STRINGS.BOARLORD_ROUND5_START.4"
+msgid "We will end this, once and for all."
+msgstr "Buna ebediyen son vereceğiz."
+
+#. STRINGS.BOARLORD_ROUND6_PLAYER_VICTORY.1
+msgctxt "STRINGS.BOARLORD_ROUND6_PLAYER_VICTORY.1"
+msgid "You have won the battle,"
+msgstr "Savaşı kazandınız,"
+
+#. STRINGS.BOARLORD_ROUND6_PLAYER_VICTORY.2
+msgctxt "STRINGS.BOARLORD_ROUND6_PLAYER_VICTORY.2"
+msgid "But the war rages on eternally."
+msgstr "Ama harp ebediyen sürer."
+
+#. STRINGS.BOARLORD_ROUND6_PLAYER_VICTORY.3
+msgctxt "STRINGS.BOARLORD_ROUND6_PLAYER_VICTORY.3"
+msgid "We are not ready to give up yet."
+msgstr "Henüz pes etmeye hazır değiliz."
+
+#. STRINGS.BOARLORD_ROUND6_START.1
+msgctxt "STRINGS.BOARLORD_ROUND6_START.1"
+msgid "We do not fear you."
+msgstr "Sizden korkmuyoruz."
+
+#. STRINGS.BOARLORD_ROUND6_START.2
+msgctxt "STRINGS.BOARLORD_ROUND6_START.2"
+msgid "But you will fear us!"
+msgstr "Ama siz bizden korkacaksınız!"
+
+#. STRINGS.BOARLORD_ROUND6_START.3
+msgctxt "STRINGS.BOARLORD_ROUND6_START.3"
+msgid "Fear my new champions! Fear the Rhinocebros!"
+msgstr "Yeni şampiyonlarımdan korkun! Gergedankardeşler'den korkun!"
+
+#. STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.1
+msgctxt "STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.1"
+msgid "No! My Forge, felled by the Throne's lapdogs!"
+msgstr "Hayır! Demirhane'm, Taht'ın yalakaları tarafından yıkıldı!"
+
+#. STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.2
+msgctxt "STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.2"
+msgid "Please. No more, Gatekeepers. We surrender."
+msgstr "Lütfen. Yeter, Geçit Bekçileri. Teslim oluyoruz."
+
+#. STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.3
+msgctxt "STRINGS.BOARLORD_ROUND7_PLAYER_VICTORY.3"
+msgid "The day is yours, as is the Gateway."
+msgstr "Gün de Geçit de sizindir."
+
+#. STRINGS.BOARLORD_ROUND7_START.1
+msgctxt "STRINGS.BOARLORD_ROUND7_START.1"
+msgid "You have had many victories, Gatekeepers..."
+msgstr "Birçok zafer kazandınız, Geçit Bekçileri..."
+
+#. STRINGS.BOARLORD_ROUND7_START.2
+msgctxt "STRINGS.BOARLORD_ROUND7_START.2"
+msgid "...but from our dungeons comes our most brutal warrior."
+msgstr "...ama zindanlarımızdan en vahşi savaşçımız geliyor."
+
+#. STRINGS.BOARLORD_ROUND7_START.3
+msgctxt "STRINGS.BOARLORD_ROUND7_START.3"
+msgid "Behold: The Infernal Swineclops!"
+msgstr "İşte karşınızda: Cehennemi Domuzgöz!"
+
+#. STRINGS.BROKENITEM
+msgctxt "STRINGS.BROKENITEM"
+msgid "Broken"
+msgstr "Bozuk"
+
+#. STRINGS.BUNNYMANNAMES.1
+msgctxt "STRINGS.BUNNYMANNAMES.1"
+msgid "Brassica"
+msgstr "Brassica"
+
+#. STRINGS.BUNNYMANNAMES.10
+msgctxt "STRINGS.BUNNYMANNAMES.10"
+msgid "Radish"
+msgstr "Turp"
+
+#. STRINGS.BUNNYMANNAMES.11
+msgctxt "STRINGS.BUNNYMANNAMES.11"
+msgid "Sium"
+msgstr "Sium"
+
+#. STRINGS.BUNNYMANNAMES.12
+msgctxt "STRINGS.BUNNYMANNAMES.12"
+msgid "Tragopogon"
+msgstr "Tragopogon"
+
+#. STRINGS.BUNNYMANNAMES.13
+msgctxt "STRINGS.BUNNYMANNAMES.13"
+msgid "Ipomoea"
+msgstr "Ipomoea"
+
+#. STRINGS.BUNNYMANNAMES.14
+msgctxt "STRINGS.BUNNYMANNAMES.14"
+msgid "Manihot"
+msgstr "Manihot"
+
+#. STRINGS.BUNNYMANNAMES.15
+msgctxt "STRINGS.BUNNYMANNAMES.15"
+msgid "Mirabilis"
+msgstr "Mirabilis"
+
+#. STRINGS.BUNNYMANNAMES.16
+msgctxt "STRINGS.BUNNYMANNAMES.16"
+msgid "Psoralea"
+msgstr "Psoralea"
+
+#. STRINGS.BUNNYMANNAMES.17
+msgctxt "STRINGS.BUNNYMANNAMES.17"
+msgid "Canna"
+msgstr "Canna"
+
+#. STRINGS.BUNNYMANNAMES.18
+msgctxt "STRINGS.BUNNYMANNAMES.18"
+msgid "Typha"
+msgstr "Typha"
+
+#. STRINGS.BUNNYMANNAMES.19
+msgctxt "STRINGS.BUNNYMANNAMES.19"
+msgid "Zingiber"
+msgstr "Zingiber"
+
+#. STRINGS.BUNNYMANNAMES.2
+msgctxt "STRINGS.BUNNYMANNAMES.2"
+msgid "Bunium"
+msgstr "Bunium"
+
+#. STRINGS.BUNNYMANNAMES.20
+msgctxt "STRINGS.BUNNYMANNAMES.20"
+msgid "Oxalis"
+msgstr "Oxalis"
+
+#. STRINGS.BUNNYMANNAMES.21
+msgctxt "STRINGS.BUNNYMANNAMES.21"
+msgid "Solanum"
+msgstr "Solanum"
+
+#. STRINGS.BUNNYMANNAMES.22
+msgctxt "STRINGS.BUNNYMANNAMES.22"
+msgid "Ullucus"
+msgstr "Ullucus"
+
+#. STRINGS.BUNNYMANNAMES.23
+msgctxt "STRINGS.BUNNYMANNAMES.23"
+msgid "Cuperus"
+msgstr "Cuperus"
+
+#. STRINGS.BUNNYMANNAMES.24
+msgctxt "STRINGS.BUNNYMANNAMES.24"
+msgid "Apios"
+msgstr "Apios"
+
+#. STRINGS.BUNNYMANNAMES.25
+msgctxt "STRINGS.BUNNYMANNAMES.25"
+msgid "Yam Daisy"
+msgstr "Yam Papatyası"
+
+#. STRINGS.BUNNYMANNAMES.26
+msgctxt "STRINGS.BUNNYMANNAMES.26"
+msgid "Altrincham"
+msgstr "Altrincham"
+
+#. STRINGS.BUNNYMANNAMES.27
+msgctxt "STRINGS.BUNNYMANNAMES.27"
+msgid "Barwon"
+msgstr "Barwon"
+
+#. STRINGS.BUNNYMANNAMES.28
+msgctxt "STRINGS.BUNNYMANNAMES.28"
+msgid "Bolero"
+msgstr "Bolero"
+
+#. STRINGS.BUNNYMANNAMES.29
+msgctxt "STRINGS.BUNNYMANNAMES.29"
+msgid "Chantenay"
+msgstr "Chantenay"
+
+#. STRINGS.BUNNYMANNAMES.3
+msgctxt "STRINGS.BUNNYMANNAMES.3"
+msgid "Burdock"
+msgstr "Dulavratotu"
+
+#. STRINGS.BUNNYMANNAMES.30
+msgctxt "STRINGS.BUNNYMANNAMES.30"
+msgid "Crusader"
+msgstr "Crusader"
+
+#. STRINGS.BUNNYMANNAMES.31
+msgctxt "STRINGS.BUNNYMANNAMES.31"
+msgid "Danvers"
+msgstr "Danvers"
+
+#. STRINGS.BUNNYMANNAMES.32
+msgctxt "STRINGS.BUNNYMANNAMES.32"
+msgid "Doucer"
+msgstr "Doucer"
+
+#. STRINGS.BUNNYMANNAMES.33
+msgctxt "STRINGS.BUNNYMANNAMES.33"
+msgid "Flakee"
+msgstr "Flakee"
+
+#. STRINGS.BUNNYMANNAMES.34
+msgctxt "STRINGS.BUNNYMANNAMES.34"
+msgid "Guerande"
+msgstr "Guerande"
+
+#. STRINGS.BUNNYMANNAMES.35
+msgctxt "STRINGS.BUNNYMANNAMES.35"
+msgid "Hipak"
+msgstr "Hipak"
+
+#. STRINGS.BUNNYMANNAMES.36
+msgctxt "STRINGS.BUNNYMANNAMES.36"
+msgid "Imperator"
+msgstr "Imperator"
+
+#. STRINGS.BUNNYMANNAMES.37
+msgctxt "STRINGS.BUNNYMANNAMES.37"
+msgid "Juwarot"
+msgstr "Juwarot"
+
+#. STRINGS.BUNNYMANNAMES.38
+msgctxt "STRINGS.BUNNYMANNAMES.38"
+msgid "Karotan"
+msgstr "Karotan"
+
+#. STRINGS.BUNNYMANNAMES.39
+msgctxt "STRINGS.BUNNYMANNAMES.39"
+msgid "Magno"
+msgstr "Magno"
+
+#. STRINGS.BUNNYMANNAMES.4
+msgctxt "STRINGS.BUNNYMANNAMES.4"
+msgid "Carrot"
+msgstr "Havuç"
+
+#. STRINGS.BUNNYMANNAMES.40
+msgctxt "STRINGS.BUNNYMANNAMES.40"
+msgid "Crandice"
+msgstr "Crandice"
+
+#. STRINGS.BUNNYMANNAMES.41
+msgctxt "STRINGS.BUNNYMANNAMES.41"
+msgid "Nantes"
+msgstr "Nantes"
+
+#. STRINGS.BUNNYMANNAMES.42
+msgctxt "STRINGS.BUNNYMANNAMES.42"
+msgid "Nelson"
+msgstr "Nelson"
+
+#. STRINGS.BUNNYMANNAMES.43
+msgctxt "STRINGS.BUNNYMANNAMES.43"
+msgid "Onward"
+msgstr "Onward"
+
+#. STRINGS.BUNNYMANNAMES.44
+msgctxt "STRINGS.BUNNYMANNAMES.44"
+msgid "Oxheart"
+msgstr "Oxheart"
+
+#. STRINGS.BUNNYMANNAMES.45
+msgctxt "STRINGS.BUNNYMANNAMES.45"
+msgid "Pimpernel"
+msgstr "Pimpernel"
+
+#. STRINGS.BUNNYMANNAMES.46
+msgctxt "STRINGS.BUNNYMANNAMES.46"
+msgid "Redhild"
+msgstr "Redhild"
+
+#. STRINGS.BUNNYMANNAMES.47
+msgctxt "STRINGS.BUNNYMANNAMES.47"
+msgid "Redland"
+msgstr "Redland"
+
+#. STRINGS.BUNNYMANNAMES.48
+msgctxt "STRINGS.BUNNYMANNAMES.48"
+msgid "Suko"
+msgstr "Suko"
+
+#. STRINGS.BUNNYMANNAMES.49
+msgctxt "STRINGS.BUNNYMANNAMES.49"
+msgid "Thumbelina"
+msgstr "Thumbelina"
+
+#. STRINGS.BUNNYMANNAMES.5
+msgctxt "STRINGS.BUNNYMANNAMES.5"
+msgid "Celeriac"
+msgstr "Kereviz"
+
+#. STRINGS.BUNNYMANNAMES.50
+msgctxt "STRINGS.BUNNYMANNAMES.50"
+msgid "Topweight"
+msgstr "Topweight"
+
+#. STRINGS.BUNNYMANNAMES.51
+msgctxt "STRINGS.BUNNYMANNAMES.51"
+msgid "Touchon"
+msgstr "Touchon"
+
+#. STRINGS.BUNNYMANNAMES.52
+msgctxt "STRINGS.BUNNYMANNAMES.52"
+msgid "Uchon"
+msgstr "Uchon"
+
+#. STRINGS.BUNNYMANNAMES.53
+msgctxt "STRINGS.BUNNYMANNAMES.53"
+msgid "Valery"
+msgstr "Valery"
+
+#. STRINGS.BUNNYMANNAMES.54
+msgctxt "STRINGS.BUNNYMANNAMES.54"
+msgid "Yellow"
+msgstr "Yellow"
+
+#. STRINGS.BUNNYMANNAMES.55
+msgctxt "STRINGS.BUNNYMANNAMES.55"
+msgid "Zino"
+msgstr "Zino"
+
+#. STRINGS.BUNNYMANNAMES.56
+msgctxt "STRINGS.BUNNYMANNAMES.56"
+msgid "Scandius"
+msgstr "Skandiyum"
+
+#. STRINGS.BUNNYMANNAMES.57
+msgctxt "STRINGS.BUNNYMANNAMES.57"
+msgid "Yttria"
+msgstr "İtriyum"
+
+#. STRINGS.BUNNYMANNAMES.58
+msgctxt "STRINGS.BUNNYMANNAMES.58"
+msgid "Lanthan"
+msgstr "Lantan"
+
+#. STRINGS.BUNNYMANNAMES.59
+msgctxt "STRINGS.BUNNYMANNAMES.59"
+msgid "Cerium"
+msgstr "Seryum"
+
+#. STRINGS.BUNNYMANNAMES.6
+msgctxt "STRINGS.BUNNYMANNAMES.6"
+msgid "Daikon"
+msgstr "Daikon"
+
+#. STRINGS.BUNNYMANNAMES.60
+msgctxt "STRINGS.BUNNYMANNAMES.60"
+msgid "Praseodymia"
+msgstr "Praseodimyum"
+
+#. STRINGS.BUNNYMANNAMES.61
+msgctxt "STRINGS.BUNNYMANNAMES.61"
+msgid "Neodymia"
+msgstr "Neodimyum"
+
+#. STRINGS.BUNNYMANNAMES.62
+msgctxt "STRINGS.BUNNYMANNAMES.62"
+msgid "Promethia"
+msgstr "Prometyum"
+
+#. STRINGS.BUNNYMANNAMES.63
+msgctxt "STRINGS.BUNNYMANNAMES.63"
+msgid "Samari"
+msgstr "Samaryum"
+
+#. STRINGS.BUNNYMANNAMES.64
+msgctxt "STRINGS.BUNNYMANNAMES.64"
+msgid "Europia"
+msgstr "Evropyum"
+
+#. STRINGS.BUNNYMANNAMES.65
+msgctxt "STRINGS.BUNNYMANNAMES.65"
+msgid "Gadolin"
+msgstr "Gadolinyum"
+
+#. STRINGS.BUNNYMANNAMES.66
+msgctxt "STRINGS.BUNNYMANNAMES.66"
+msgid "Terbia"
+msgstr "Terbiyum"
+
+#. STRINGS.BUNNYMANNAMES.67
+msgctxt "STRINGS.BUNNYMANNAMES.67"
+msgid "Dyspros"
+msgstr "Disprozyum"
+
+#. STRINGS.BUNNYMANNAMES.68
+msgctxt "STRINGS.BUNNYMANNAMES.68"
+msgid "Holmia"
+msgstr "Holmiyum"
+
+#. STRINGS.BUNNYMANNAMES.69
+msgctxt "STRINGS.BUNNYMANNAMES.69"
+msgid "Erbium"
+msgstr "Erbiyum"
+
+#. STRINGS.BUNNYMANNAMES.7
+msgctxt "STRINGS.BUNNYMANNAMES.7"
+msgid "Lepidium"
+msgstr "Lepidium"
+
+#. STRINGS.BUNNYMANNAMES.70
+msgctxt "STRINGS.BUNNYMANNAMES.70"
+msgid "Thulium"
+msgstr "Tulyum"
+
+#. STRINGS.BUNNYMANNAMES.71
+msgctxt "STRINGS.BUNNYMANNAMES.71"
+msgid "Ytterbia"
+msgstr "İterbiyum"
+
+#. STRINGS.BUNNYMANNAMES.72
+msgctxt "STRINGS.BUNNYMANNAMES.72"
+msgid "Lutetium"
+msgstr "Lutesyum"
+
+#. STRINGS.BUNNYMANNAMES.8
+msgctxt "STRINGS.BUNNYMANNAMES.8"
+msgid "Microseris"
+msgstr "Microseris"
+
+#. STRINGS.BUNNYMANNAMES.9
+msgctxt "STRINGS.BUNNYMANNAMES.9"
+msgid "Parsnip"
+msgstr "Yaban Havucu"
+
+#. STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.1"
+msgid "You're just giving this to me? Thanks!"
+msgstr "Bunu öylece bana mı veriyorsun? Sağ ol!"
+
+#. STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.2"
+msgid "Wow, I didn't even have to steal it- I mean, thanks!"
+msgstr "Vay, çalmama bile gerek kalmadı- yani, sağ ol!"
+
+#. STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.3"
+msgid "They just give you stuff around here? Neat!"
+msgstr "Burada öylece eşya mı veriyorlar? Süper!"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.1"
+msgid "Did you hear that?\nYou don't think we were followed, do you?"
+msgstr "Bunu duydun mu?\nTakip edildiğimizi düşünmüyorsun, değil mi?"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.2"
+msgid "This sure is cozy."
+msgstr "Burası epey rahat doğrusu."
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.3"
+msgid "It's nice to warm your talons by the fire."
+msgstr "Pençelerini ateşte ısıtmak güzel."
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.4"
+msgid "There's been a mysterious murder here...\nAnd with any luck, we'll be back again next year! Cah-cah-cah!"
+msgstr "Burada esrarengiz bir cinayet işlenmiş...\nVe biraz şansla, gelecek yıl yine geleceğiz! Gak-gak-gak!"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.5
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.5"
+msgid "I wonder why the featherfree creatures are so scared of the dark?"
+msgstr "Tüysüz yaratıklar karanlıktan neden bu kadar korkuyor acaba?"
+
+#. STRINGS.CARNIVAL_CROWKID_CAMPFIRE.6
+msgctxt "STRINGS.CARNIVAL_CROWKID_CAMPFIRE.6"
+msgid "Does anyone have some corn?"
+msgstr "Mısır olan var mı?"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.1"
+msgid "Wow! It's so festive!"
+msgstr "Vay! Tam şenlik havası!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.2"
+msgid "Best Cawnival ever!"
+msgstr "Şimdiye kadarki en iyi Karganaval!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.3"
+msgid "Last year's Cawnival was not this fancy."
+msgstr "Geçen yılki Karganaval bu kadar şatafatlı değildi."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.4"
+msgid "I wanna watch the games!"
+msgstr "Oyunları izlemek istiyorum!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.5
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS.5"
+msgid "Have you checked out the Prize Booth yet?"
+msgstr "Ödül Tezgahı'na uğradın mı?"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.1"
+msgid "If I eat anymore, I'm gonna pop.\nHmm, pop... popcorn... mmmmm..."
+msgstr "Daha fazla yersem patlayacağım.\nHmm, patlak... patlamış mısır... mmmmm..."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.2"
+msgid "Do you think they're trying to fatten us up and eat us?\nNaw... they don't look that clever."
+msgstr "Bizi semirtip yemeye mi çalışıyorlar dersin?\nYok... o kadar zeki görünmüyorlar."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK.3"
+msgid "We're lucky that Corvus found this place."
+msgstr "Corvus'un burayı bulması iyi oldu."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.1"
+msgid "They must still be setting up."
+msgstr "Hâlâ hazırlık yapıyor olmalılar."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.2"
+msgid "Where's the party?"
+msgstr "Parti nerede?"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.3"
+msgid "Most boring Midsummer Cawnival ever."
+msgstr "Şimdiye kadarki en sıkıcı Yaz Ortası Karganaval'ı."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.4"
+msgid "More like Caw-no-val."
+msgstr "Daha çok Karga-yok-val."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.5
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.5"
+msgid "Looks like I got here too early..."
+msgstr "Buraya çok erken gelmişim galiba..."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.6
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.6"
+msgid "I'm gonna tell my friends to wait until there's more set up."
+msgstr "Arkadaşlarıma daha çok şey hazırlanana kadar beklemelerini söyleyeceğim."
+
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
 msgid "Cancel"

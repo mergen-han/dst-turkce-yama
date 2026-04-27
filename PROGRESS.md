@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-28 (Oturum 5 ✅ — Faz 3 başladı, ACTIONS+lore blokları)
+**Son güncelleme:** 2026-04-28 (Oturum 6 ✅ — Faz 3 devam, BOARLORD + BUNNYMANNAMES + CARNIVAL_CROWKID)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 5.048 / 85.706 msgid (%5.89)
+**Şu ana kadar çevrilen toplam:** 5.209 / 85.706 msgid (%6.08)
 
 ---
 
@@ -90,6 +90,21 @@
 | `0008` | 22 | STRINGS.BEEFALONAMING (Bızonsığır rastgele isim üreteci — Beef→Bızon portmanto: Annabızon/Toynakfrey/Sinderbızonella/Danavera) | ✅ |
 
 **Faz 3 ilk dilim:** ACTIONS tam tamam (490 string), küçük lore blokları (124 string) → 609 string yeni.
+
+### ✅ Oturum 6 — 2026-04-28 (27 batch / 161 string)
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0009-0028` | 75 | **STRINGS.BOARLORD** tam (Forge patron Pugna diyalogları): PLAYERDEATH_BANTER + PLAYERS_DEFEATED_BATTLECRY + ROUND1-7 START/FIGHT_BANTER/PLAYER_VICTORY/TRAILS_INTRO/BOARRIOR_INTRO. **Boarrior=Yabansavaşçı, Boarilla=Yabongoril, Battlemaster Pugna=Savaş Ustası Pugna, Gatekeepers=Geçit Bekçileri, Throne=Taht, Swineclops=Domuzgöz**. Pugna'nın 1. round kibirinden 7. round teslimiyetine dramatik yay korundu | ✅ |
+| `0029` | 1 | STRINGS.BROKENITEM (Bozuk) | ✅ |
+| `0030` | 72 | STRINGS.BUNNYMANNAMES (Tavşanadam rastgele isimleri — bilim/havuç/element temalı). Latin bilim isimleri olduğu gibi (Brassica/Bunium/Sium/Tragopogon/Ipomoea/Manihot/Mirabilis/Psoralea/Canna/Typha/Zingiber/Oxalis/Solanum/Ullucus/Cuperus/Apios/Lepidium/Microseris); günlük TR adlar çevrildi (Burdock=Dulavratotu, Carrot=Havuç, Celeriac=Kereviz, Parsnip=Yaban Havucu, Radish=Turp, Yam Daisy=Yam Papatyası); havuç çeşit özel adları olduğu gibi (Altrincham/Barwon/Nantes/Imperator vb.); lantanit element adları Türkçeye (Skandiyum/İtriyum/Lantan/Seryum/Praseodimyum/Neodimyum/Prometyum/Samaryum/Evropyum/Gadolinyum/Terbiyum/Disprozyum/Holmiyum/Erbiyum/Tulyum/İterbiyum/Lutesyum) | ✅ |
+| `0031` | 3 | STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT (Karganaval Karga Veleti hediye kabul) | ✅ |
+| `0032` | 6 | STRINGS.CARNIVAL_CROWKID_CAMPFIRE (kamp ateşi diyalogları — "Cah-cah-cah" → "Gak-gak-gak", featherfree → tüysüz) | ✅ |
+| `0033` | 5 | STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS (dekorasyon dolu ambiyans) | ✅ |
+| `0034` | 3 | STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_LOTS_SNACK (atıştırmalık + Corvus karga ismi) | ✅ |
+| `0035` | 6 | STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE (dekorsuz alaycı banter — "Caw-no-val" → "Karga-yok-val" pun) | ✅ |
+
+**Faz 3 toplam:** Oturum 5 (609) + Oturum 6 (161) = 770 string. UI sonrası küçük blok temizliği devam ediyor.
 
 ## Faz 3+ — sonraki büyük bloklar (özet)
 
