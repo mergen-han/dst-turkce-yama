@@ -93,11 +93,81 @@
 
 ## 📌 Kararlar & Notlar
 
+### Validator notları
 - **Glossary uyarıları (false-positive):** Validator "Friends/Save/Cancel/Dusk/Log" gibi terimler için katı eşleşme arıyor; "dost / kayıt / iptal / akşam / günlük" gibi bağlamsal varyantlar uyarı çıkarıyor ama **hata değil**, geçer.
-- **priority_mainscreen geçici batch:** 0772/0773 sıra geldiğinde tam bağlamlı versiyonla override edilecek (merge_translations.py duplicate ctxt'lerde son tanım kazanır). Sonra silinecek.
-- **Üç farklı kelime oyunlu başlık** (Forge başarımları): "Down But Not Snout" → "Bitap Düştük, Burnumuz Sapasağlam" gibi Türkçe pun yaratıldı. Aydın redakte ederse buradan başlasın.
-- **Lavaarena = Demirhane, Quagmire = Boğaz/Gorge** olarak sabitlendi.
-- **Curio Cabinet → Süs Dolabı**, **Curio Loom → Süs Dokuma Tezgahı**, **Spool → Bobin**, **Weave → Doku**, **Unravel → Söke** kalıcı.
+- **priority_mainscreen geçici batch:** 0772/0773 işlendi → MAINSCREEN tam bağlamlı versiyonla override edildi (merge_translations.py son tanım kazanır). priority_mainscreen.json silinmedi ama artık önceliği yok.
+
+### Kalıcı yerelleştirme sözlüğü (oturum 1-3'te kabul edilenler)
+
+**Mekânlar/Yapılar:**
+- The Forge → **Demirhane**
+- The Gorge → **Boğaz**
+- Curio Cabinet → **Süs Dolabı**
+- Curio Loom → **Süs Dokuma Tezgahı**
+- Florid Postern → **Çiçekli Çeşmecik**
+- Touch Stone → **Diriliş Taşı**
+- Meat Effigy → **Et Heykel**
+- Atrium → **Atriyum**
+- Ancient Gateway → **Kadim Geçit**
+- Hot Springs → **Kaplıcalar**
+- Junk Yard → **Hurdalık**
+
+**Karakterler/Mob'lar (özel isim → çeviri):**
+- Beefalo → **Bızonsığır**
+- Catcoon → **Kedikoon** (kedi + raccoon)
+- Bunnyman → **Tavşanadam**
+- Werepig → **Kurtdomuz**
+- Deerclops → **Geyikgöz**
+- Bearger → **Ayıger**
+- Toadstool → **Mantarkurbağa**
+- Crab King → **Yengeçlerin Kralı**
+- Tallbird → **Uzunkuş**
+- Treeguard → **Ağaçmuhafız**
+- Carrat (carrot+rat) → **Havufare**
+- Saladmander → **Salatamender**
+- Gnarwail → **Hırlbalina** (gnar + narwhal)
+- Anenemy (anemone+enemy) → **Düşmanavar**
+- Spilagmite (spider+stalagmite) → **Örümşit**
+- Pengull → **Pengul**
+- Splumonkey → **Splumaymun**
+- Marotter (marine+otter) → **Denisamur**
+
+**Sistem/Stat:**
+- Health/Sanity/Hunger → **Can/Akıl/Açlık** (ASLA "sağlık")
+- Spool → **Bobin**, Weave → **Doku**, Unravel → **Söke**
+- XP → **TP** (tecrübe puanı)
+
+**Etkinlikler/Pun'lar:**
+- Cawnival (crow+carnival) → **Karganaval**
+- Year of the X → **X Yılı** (10 yıl etkinliği: Bızonsığır/Tavşanadam/Havufare/Kedikoon/Yusufçuk/Yutkun/Mekanik Şövalye/Domuzların Kralı/Derinlik Solucanı/Varg)
+- Hallowed Nights → **Cadılar Bayramı Geceleri**
+- Winter's Feast → **Kış Şöleni**
+- All's Well That Maxwell → **Sonu İyi Olan Maxwell** (Klei pun)
+- Where There's a Wilson... → **Wilson Olan Yerde...**
+
+**Preset oyun adları (yerelleştirme):**
+- Crazy Eddie → **Çılgın Ahmet**
+- Soggy → **Sırılsıklam**
+- Together Forever → **Sonsuza Dek Birlikte**
+- Lights Out → **Işıklar Sönsün**
+- Wilderness → **Vahşi Doğa**
+- Endless → **Sonsuz**
+
+**Forge başarım pun'ları (oturum 1):**
+- "Down But Not Snout" → "Bitap Düştük, Burnumuz Sapasağlam"
+- (Aydın redakte ederse Forge başarımlarından başlasın)
+
+**Yiyecek tipleri:**
+- Burnt → Yanık, Edible → Yenilebilir, Goodies → Atıştırmalıklar
+- Horrible → Korkunç, Insect → Böcek, Monstrous → Canavarsı
+- Roughage → Lifli, Seed → Tohum, Veggie → Sebze, Wood → Odun
+
+**UI temel:**
+- Play → Oyna, Quit → Çıkış, Cancel → İptal, Apply → Uygula
+- Browse Games → Oyun Listesi, Host Game → Oyun Kur
+- Compendium → Külliyat, Workshop → Atölye
+- Curio Cabinet → Süs Dolabı, Treasury → Hazine
+- Save/Load → Kaydet/Yükle, Resume → Devam Et
 
 ---
 
@@ -144,6 +214,48 @@ git push
 - Sonraki oturum hedef batch'ler
 
 ### 5. Aydın "compact" derse
-- CLAUDE.md ve PROGRESS.md zaten güncel olmalı
+- CLAUDE.md ve PROGRESS.md zaten güncel olmalı (her oturum sonu güncellenir)
 - Tüm değişiklikler commit + push edilmiş olmalı
 - Pending iş bırakma — done/ klasörüne yazıp merge'le
+- **`pipeline/batches/done/` git'te değil (`.gitignore`'da)** — ama lokal disk'te kalıcı, reproducible
+- Yeni oturum protokolü (compact sonrası):
+  1. CLAUDE.md oku (ana bağlam + oturum geçmişi + kalıcı kararlar)
+  2. PROGRESS.md oku (sıradaki ⬜ batch + glossary kararları)
+  3. docs/glossary.tsv + docs/style-guide.md tekrar yükle
+  4. Sıradaki batch'ten devam (kaldığı yerden)
+
+---
+
+## 🗂️ Compact öncesi durum kayıt (2026-04-27)
+
+**Yapılan iş özeti:**
+- 4 commit: `ec0eb59` (faz 0+1), `2d45792` (compact prep oturum 1), `5e900b0` (oturum 2), `2310dba` (oturum 3)
+- 3.000 string PO'da, 18 batch JSON done/ altında
+- Mod DST'de çalışıyor (sandbox sorunu çözüldü, mağarada da çalışır)
+- README.md güncel (rakip yama atfı kaldırıldı, pozitif tona alındı)
+
+**Ana ekran kapsamı (in-game test için):**
+- Ana menü tam Türkçe + tooltip'ler
+- Yeni Dünya Kurma menüsü (preset/biyom/canavar/yıl etkinliği)
+- AYARLAR menüsü tam (ses/grafik/HUD/dokunsal + tooltip'ler)
+- Sunucu lobi (karakter seç/skin/loadout)
+- Mod yönetim ekranı
+- Yükleme ekranları (Wilson/Maxwell/Wendy/Webber lore tip'leri)
+- Vefat ilanları (Morgue)
+- Demirhane/Boğaz etkinlik istatistikleri
+- HUD aksiyonları (Saldır/İncele/Kuşan/Bayat...)
+- Tüm bağlantı/hata mesajları (50+)
+- 35 emoji ifadesi
+- Yemek tipleri
+
+**Sıradaki adımlar (Faz 2 oturum 4):**
+- batch_0777: PAUSEMENU sonu + PRESENCE
+- batch_0778: PRESENCE sonu + SANDBOXMENU
+- batch_0779: SANDBOX sonu + SERVERCREATIONSCREEN
+- batch_0780: SERVERCREATION devamı + SERVERLISTING
+- batch_0781: SERVERLISTING devamı + TRADESCREEN başlangıcı
+- batch_0782: TRADESCREEN devamı
+- batch_0783: TRADESCREEN sonu + WXP_DETAILS
+- batch_0784: WXP sonu + XPUTILS (UI **son** batch — 39 öğe)
+- → Oturum 4 sonu: Faz 2 UI %100 tamam (4.439/4.439)
+- → Faz 3 başlar: STRINGS.NAMES + RECIPE_DESC + INV_DESC (item çevirisi)

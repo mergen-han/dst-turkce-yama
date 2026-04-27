@@ -2,17 +2,33 @@
 
 Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe çeviri modu.
 
-> 🚧 **Geliştirme aşamasında — Faz 0 (smoke test).** Şu an yalnızca birkaç ana menü stringi çevrilmiş. Tam yama (UI + itemler + 19 karakter konuşmaları) v1.0 ile gelecek.
+> 🚧 **Geliştirme aşamasında — Faz 2 (UI çevirisi, %68).** Ana menü, ayarlar, dünya kurma, mod yönetimi ve sunucu lobisi tamamen Türkçe. Tam yama (UI + itemler + 17 karakter konuşmaları) v1.0 ile gelecek.
 
-## Neden başka bir Türkçe yama?
+## Özellikler
 
-Mevcut yamalar (peter_a_klei, officialvolkan, vb.) Google Translate ile çevrilmiş, **mağarada çalışmıyor** (Forest/Cave shard ayrımı), 6000+ satır boş, item isimleri tutarsız. Bu mod:
-
-- 🤖 **AI-destekli + insan redakte:** Claude ile bağlamsal çeviri, glossary/style-guide disipliniyle tutarlı.
-- 🕳️ **Mağarada çalışır:** `AddSimPostInit` + `AddPlayerPostInit` ile shard transition'larında çeviri yeniden yüklenir.
-- 🎭 **Karakter ses tonu korunur:** 19 karakterin her biri için ayrı persona (Wilson akademik, Wendy melankolik, WX-78 büyük harf mekanik, Wormwood yarım Türkçe...).
+- 🤖 **AI-destekli + insan redakte:** Claude ile bağlamsal çeviri, glossary ve style-guide disipliniyle tutarlı kalite.
+- 🕳️ **Mağarada çalışır:** `AddSimPostInit` + `AddPlayerPostInit` ile shard geçişlerinde çeviri yeniden yüklenir — yeraltında İngilizce'ye dönmez.
+- 🎭 **Karakter ses tonu korunur:** 17 karakterin her biri için ayrı persona (Wilson akademik, Wendy melankolik, WX-78 BÜYÜK HARF, Wormwood yarım Türkçe, Wortox şiirsel kafiye...).
+- 🎨 **Bağlamsal çeviri:** Motamot değil — Klei'nin gotik mizahı korunur, kelime oyunları Türkçe pun'larla yeniden yaratılır (`Eyebrella → Gözlemsiye`, `Pretty Parasol → Şirin Şemsiye`).
 - 📜 **Açık kaynak:** Topluluk PR'larıyla canlı kalır, DST güncellemelerinde otomatik diff.
 - 📦 **Tek mod:** Forest + Cave için tek mod, ayrı "server versiyonu" gerekmez.
+
+## İlerleme
+
+| Faz | Açıklama | Durum |
+|---|---|---|
+| 0 | Mod iskeleti + smoke test | ✅ |
+| 1 | Pipeline + glossary + dokümantasyon | ✅ |
+| 2 | UI çevirisi (4.439 string) | 🟡 %68 (3.000) |
+| 3 | İtem isimleri + tarif/envanter açıklamaları | ⬜ |
+| 4 | Bilim/üretim/skill tree/sahne | ⬜ |
+| 5 | 17 karakter konuşmaları (62.645 string) | ⬜ |
+| 6 | Skinler + lore + vinyetler | ⬜ |
+| 7 | QA playtest | ⬜ |
+| 8 | Logo + Workshop varlıkları | ⬜ |
+| 9 | v1.0 yayın | ⬜ |
+
+**Toplam:** 3.000 / 85.706 msgid çevrildi (%3.50). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
 
 ## Kurulum
 
@@ -22,6 +38,20 @@ Mevcut yamalar (peter_a_klei, officialvolkan, vb.) Google Translate ile çevrilm
 2. İçeriği şuraya kopyala: `Steam/steamapps/common/Don't Starve Together/mods/dst-turkce-yama/`
 3. DST'yi başlat → **Mods → Client Mods → Türkçe Yama → Enable → Apply**.
 
+## Çeviri kalitesi
+
+Glossary'den örnekler (`docs/glossary.tsv` — 121+ zorunlu terim):
+
+| EN | TR |
+|---|---|
+| Health / Sanity / Hunger | Can / Akıl / Açlık |
+| Spider Den | Örümcek İni |
+| Pig King | Domuzların Kralı |
+| Eyebrella | Gözlemsiye |
+| Touch Stone | Diriliş Taşı |
+| The Forge / The Gorge | Demirhane / Boğaz |
+| Curio Cabinet | Süs Dolabı |
+
 ## Lisans
 
 - **Kod** (Lua mod, Python pipeline): [MIT](LICENSE)
@@ -29,8 +59,8 @@ Mevcut yamalar (peter_a_klei, officialvolkan, vb.) Google Translate ile çevrilm
 
 ## Katkı
 
-Bkz. `CONTRIBUTING.md` (yakında). Yanlış çeviri / eksik metin / bug için **Issues** sekmesi.
+Yanlış çeviri / eksik metin / bug için **Issues** sekmesi. PR rehberi `CONTRIBUTING.md` (yakında).
 
 ---
 
-**Sahip:** [@mergen-han](https://github.com/mergen-han) · **Build:** DST `722900` · **Sürüm:** `0.1.0-faz0`
+**Sahip:** [@mergen-han](https://github.com/mergen-han) · **Build:** DST `722900` · **Sürüm:** `0.3.0-faz2`

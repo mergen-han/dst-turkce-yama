@@ -54,6 +54,57 @@ Kabaca özet (oturum 3 sonu, 2026-04-27):
 - ✅ Faz 2 oturum 1+2+3 tamam: 0762-0776 + priority_mainscreen = **3.000 string** PO'da (%3.50 / %68 UI)
 - ⬜ Sıradaki: `batch_0777.json` (PAUSEMENU sonu + PRESENCE — Oturum 4 başlangıcı)
 
+## Compact öncesi tam durum (2026-04-27)
+
+### Çevrilen ana ekranlar (in-game görünür):
+- **Ana menü** (Oyna/Ayarlar/Modlar/Çıkış/Külliyat/Oyun Listesi/Oyun Kur/Süs Dolabı/Hazine/Jenerik) — tooltip'ler dahil
+- **Yeni Dünya Kurma menüsü** — tüm canavar/biyom adları + 10 Yıl Etkinliği + preset açıklamaları
+- **AYARLAR menüsü tam** — ses/grafik/HUD/dokunsal/ipuçları + tüm tooltip açıklamaları
+- **Sunucu lobi ekranı** — karakter seç/skin/loadout
+- **Mod yönetim ekranı** — yapılandırma/uyumluluk/atölye filtreleri
+- **Yükleme ekranları** — Wilson notebook alıntıları + 14 karakter lore tip'i
+- **Vefat ilanları (Morgue)** — geçmiş/karşılaşmalar
+- **Demirhane/Boğaz etkinlikleri** — istatistik ödülleri (Suikastçı/Şifacı/Şef/Oduncu)
+- **HUD** — Saldır/İncele/Kuşan/Bayat/Bozuk/Erimiş + ölüm anonsları
+- **Tüm hata/bağlantı mesajları** — 50+ NETWORKDISCONNECT + EULA + DATACOLLECTION
+- **Emoji menüsü** — 35 ifade
+- **Yemek tipleri** — Et/Sebze/Meyve/Korkunç/Lifli vb.
+
+### Kalıcı yerelleştirme kararları (glossary'den):
+- Health/Sanity/Hunger = **Can/Akıl/Açlık** (asla "sağlık" değil)
+- Spider Den = **Örümcek İni**, Pig King = **Domuzların Kralı**
+- Eyebrella = **Gözlemsiye**, Touch Stone = **Diriliş Taşı**
+- The Forge = **Demirhane**, The Gorge = **Boğaz**
+- Curio Cabinet = **Süs Dolabı**, Spool = **Bobin**, Weave = **Doku**
+- Florid Postern = **Çiçekli Çeşmecik**, Meat Effigy = **Et Heykel**
+- Year of the X = **X Yılı** (10 yıl etkinliği)
+- Cawnival = **Karganaval** (karga + karnaval pun)
+- Gnarwail = **Hırlbalina** (gnar + narwhal)
+- Catcoon = **Kedikoon**, Beefalo = **Bızonsığır**
+- Crazy Eddie preset = **Çılgın Ahmet** (yerelleştirme)
+
+### Stil disiplini:
+- "Sen" = karakter→oyuncu, item açıklamaları, replikler
+- "Siz" = sistem/lobby/menu yönergeleri (sadece gerektiğinde)
+- Klei pun'ları → Türkçe pun (motamot YASAK)
+- Karakter özel isimleri çevrilmez (Wilson/Maxwell/Krampus/Klaus)
+- Kelime oyunu olan unvanlar uyarlanır (All's Well That Maxwell → Sonu İyi Olan Maxwell)
+
+### Oturum geçmişi
+| Oturum | Tarih | Batch | String | Kapsam özeti |
+|---|---|---|---|---|
+| 1 | 2026-04-26 | priority_mainscreen + 0762-0764 | 639 | MAINSCREEN override + ACCOUNT + ACHIEVEMENTS + BARTERSCREEN + BUILTINCOMMANDS + COLLECTIONSCREEN + COMPENDIUM + CONTROLSSCREEN ilk |
+| 2 | 2026-04-26 | 0765-0770 | 1.200 | CONTROLSSCREEN sonu + COOKBOOK + CRAFTING + CREDITS + CUSTOMIZATIONSCREEN tam (10 yıl etkinliği dahil) + DATACOLLECTION + DATE + EMOTES + EULA + FESTIVAL + FOOD_TYPES başlangıcı |
+| 3 | 2026-04-27 | 0771-0776 | 1.200 | FOOD_TYPES sonu + GAMEMODES + GENDERSTRINGS + HELP + HUD + LAVAARENA + LOADING_SCREEN ipuçları + LOBBYSCREEN + MAINSCREEN tam + MODSSCREEN + MORGUESCREEN + MVP_LOADING + NETWORKDISCONNECT (50+ hata) + NOTIFICATION + OPTIONS tam (tooltip'ler) + PAUSEMENU başlangıcı |
+
+### Sonraki oturumda devam protokolü
+1. Bu dosyayı (CLAUDE.md) oku
+2. PROGRESS.md "⬜ Oturum 4" altındaki ⬜ ilk batch'i bul (şu an: `batch_0777`)
+3. docs/glossary.tsv + docs/style-guide.md tekrar yükle (her oturum başı)
+4. `pipeline/batches/pending/batch_NNNN.json` Read → çevir → `pipeline/batches/done/batch_NNNN.json` Write
+5. 6 batch hedef (oturum başı bilgi yükleme + 6 × ~5-10 dk çeviri)
+6. Oturum sonu: merge + validate + DST sync + PROGRESS.md güncelle + commit + push
+
 ## Kritik Teknik Noktalar
 
 - **POT v2 header zorunlu** PO'da (yoksa DST yüklemez): `"Application: Don't Starve\n"` + `"POT Version: 2.0\n"` — `pipeline/merge_translations.py` otomatik ekler.
@@ -96,6 +147,6 @@ python pipeline/diff_pot.py
 
 ## Yapılmaması Gereken (Aydın'ın notu)
 
-- Mevcut Türkçe yamalar (peter_a_klei koleksiyonu, officialvolkan vb.) Google Translate kalitesinde — onları base alma. **Sıfırdan AI-destekli kaliteli çeviri**.
+- Mevcut topluluk Türkçe yamaları base alma — **sıfırdan AI-destekli kaliteli çeviri** mantığı zorunlu.
 - Karakter ses tonu (Wilson akademik, Wendy melankolik, WX-78 BÜYÜK HARF, Wormwood yarım Türkçe, Wortox kafiyeli) Faz 5'te zorunlu.
 - DST mods klasörüne kopyalarken DAİMA `cp` veya `Write` — link/symlink kurma (Windows izinleri).
