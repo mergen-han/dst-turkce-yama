@@ -3,6 +3,3051 @@ msgstr ""
 "Application: Don't Starve\n"
 "POT Version: 2.0\n"
 
+#. STRINGS.ACTIONS.ABANDON
+msgctxt "STRINGS.ACTIONS.ABANDON"
+msgid "Abandon"
+msgstr "Terk Et"
+
+#. STRINGS.ACTIONS.ABANDON_QUEST
+msgctxt "STRINGS.ACTIONS.ABANDON_QUEST"
+msgid "Abandon"
+msgstr "Terk Et"
+
+#. STRINGS.ACTIONS.ABANDON_SHIP
+msgctxt "STRINGS.ACTIONS.ABANDON_SHIP"
+msgid "Abandon Ship"
+msgstr "Gemiyi Terk Et"
+
+#. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
+msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
+msgid "Wind"
+msgstr "Kur"
+
+#. STRINGS.ACTIONS.ACTIVATE.BUTTON
+msgctxt "STRINGS.ACTIONS.ACTIVATE.BUTTON"
+msgid "Press"
+msgstr "Bas"
+
+#. STRINGS.ACTIONS.ACTIVATE.CALM
+msgctxt "STRINGS.ACTIONS.ACTIVATE.CALM"
+msgid "Calm"
+msgstr "Sakinleştir"
+
+#. STRINGS.ACTIONS.ACTIVATE.CLIMB
+msgctxt "STRINGS.ACTIONS.ACTIVATE.CLIMB"
+msgid "Climb"
+msgstr "Tırman"
+
+#. STRINGS.ACTIONS.ACTIVATE.CLOSE
+msgctxt "STRINGS.ACTIONS.ACTIVATE.CLOSE"
+msgid "Close"
+msgstr "Kapat"
+
+#. STRINGS.ACTIONS.ACTIVATE.DEACTIVATE
+msgctxt "STRINGS.ACTIONS.ACTIVATE.DEACTIVATE"
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#. STRINGS.ACTIONS.ACTIVATE.EQUIPMENTSWAP
+msgctxt "STRINGS.ACTIONS.ACTIVATE.EQUIPMENTSWAP"
+msgid "Swap Clothes"
+msgstr "Kıyafet Değiştir"
+
+#. STRINGS.ACTIONS.ACTIVATE.EXCHANGEKNOWLEDGE
+msgctxt "STRINGS.ACTIONS.ACTIVATE.EXCHANGEKNOWLEDGE"
+msgid "Transfer Consciousness"
+msgstr "Bilinç Aktar"
+
+#. STRINGS.ACTIONS.ACTIVATE.FAKE_PICKUP
+msgctxt "STRINGS.ACTIONS.ACTIVATE.FAKE_PICKUP"
+msgid "Pick up"
+msgstr "Topla"
+
+#. STRINGS.ACTIONS.ACTIVATE.GATHER_MERM
+msgctxt "STRINGS.ACTIONS.ACTIVATE.GATHER_MERM"
+msgid "Gather Merm"
+msgstr "Mermleri Topla"
+
+#. STRINGS.ACTIONS.ACTIVATE.GENERIC
+msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#. STRINGS.ACTIONS.ACTIVATE.HIDEANDSEEK
+msgctxt "STRINGS.ACTIONS.ACTIVATE.HIDEANDSEEK"
+msgid "Play Hide and Seek"
+msgstr "Saklambaç Oyna"
+
+#. STRINGS.ACTIONS.ACTIVATE.INVESTIGATE
+msgctxt "STRINGS.ACTIONS.ACTIVATE.INVESTIGATE"
+msgid "Investigate"
+msgstr "Araştır"
+
+#. STRINGS.ACTIONS.ACTIVATE.OPEN
+msgctxt "STRINGS.ACTIONS.ACTIVATE.OPEN"
+msgid "Open"
+msgstr "Aç"
+
+#. STRINGS.ACTIONS.ACTIVATE.PICK
+msgctxt "STRINGS.ACTIONS.ACTIVATE.PICK"
+msgid "Choose"
+msgstr "Seç"
+
+#. STRINGS.ACTIONS.ACTIVATE.PICK_FLOWER
+msgctxt "STRINGS.ACTIONS.ACTIVATE.PICK_FLOWER"
+msgid "Pick Flower From"
+msgstr "Çiçek Topla:"
+
+#. STRINGS.ACTIONS.ACTIVATE.PLAY_WITH
+msgctxt "STRINGS.ACTIONS.ACTIVATE.PLAY_WITH"
+msgid "Play with"
+msgstr "Oyna:"
+
+#. STRINGS.ACTIONS.ACTIVATE.PULL
+msgctxt "STRINGS.ACTIONS.ACTIVATE.PULL"
+msgid "Pull"
+msgstr "Çek"
+
+#. STRINGS.ACTIONS.ACTIVATE.RANSACK
+msgctxt "STRINGS.ACTIONS.ACTIVATE.RANSACK"
+msgid "Ransack"
+msgstr "Yağmala"
+
+#. STRINGS.ACTIONS.ACTIVATE.SPELUNK
+msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
+msgid "Spelunk"
+msgstr "Mağaraya İn"
+
+#. STRINGS.ACTIONS.ACTIVATE.SPIN
+msgctxt "STRINGS.ACTIONS.ACTIVATE.SPIN"
+msgid "Spin"
+msgstr "Çevir"
+
+#. STRINGS.ACTIONS.ACTIVATE.SUMMONHOST
+msgctxt "STRINGS.ACTIONS.ACTIVATE.SUMMONHOST"
+msgid "Ring"
+msgstr "Çal"
+
+#. STRINGS.ACTIONS.ACTIVATE.TOUCH
+msgctxt "STRINGS.ACTIONS.ACTIVATE.TOUCH"
+msgid "Touch"
+msgstr "Dokun"
+
+#. STRINGS.ACTIONS.ACTIVATE.TURN
+msgctxt "STRINGS.ACTIONS.ACTIVATE.TURN"
+msgid "Turn"
+msgstr "Çevir"
+
+#. STRINGS.ACTIONS.ACTIVATE.WHEELSPIN_STOP
+msgctxt "STRINGS.ACTIONS.ACTIVATE.WHEELSPIN_STOP"
+msgid "Press"
+msgstr "Bas"
+
+#. STRINGS.ACTIONS.ADDCOMPOSTABLE
+msgctxt "STRINGS.ACTIONS.ADDCOMPOSTABLE"
+msgid "Give"
+msgstr "Ver"
+
+#. STRINGS.ACTIONS.ADDFUEL
+msgctxt "STRINGS.ACTIONS.ADDFUEL"
+msgid "Add Fuel"
+msgstr "Yakıt Ekle"
+
+#. STRINGS.ACTIONS.ADDWETFUEL
+msgctxt "STRINGS.ACTIONS.ADDWETFUEL"
+msgid "Add Wet Fuel"
+msgstr "Islak Yakıt Ekle"
+
+#. STRINGS.ACTIONS.ADD_CARD_TO_DECK
+msgctxt "STRINGS.ACTIONS.ADD_CARD_TO_DECK"
+msgid "Add"
+msgstr "Ekle"
+
+#. STRINGS.ACTIONS.ADVANCE_TREE_GROWTH
+msgctxt "STRINGS.ACTIONS.ADVANCE_TREE_GROWTH"
+msgid "Apply"
+msgstr "Uygula"
+
+#. STRINGS.ACTIONS.APPLYCONSTRUCTION.GENERIC
+msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.GENERIC"
+msgid "Build"
+msgstr "İnşa Et"
+
+#. STRINGS.ACTIONS.APPLYCONSTRUCTION.OFFER
+msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.OFFER"
+msgid "Offer"
+msgstr "Sun"
+
+#. STRINGS.ACTIONS.APPLYCONSTRUCTION.REBUILD
+msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.REBUILD"
+msgid "Rebuild"
+msgstr "Yeniden İnşa Et"
+
+#. STRINGS.ACTIONS.APPLYCONSTRUCTION.REPAIR
+msgctxt "STRINGS.ACTIONS.APPLYCONSTRUCTION.REPAIR"
+msgid "Repair"
+msgstr "Onar"
+
+#. STRINGS.ACTIONS.APPLYMODULE
+msgctxt "STRINGS.ACTIONS.APPLYMODULE"
+msgid "Plug In"
+msgstr "Tak"
+
+#. STRINGS.ACTIONS.APPLYPRESERVATIVE.GENERIC
+msgctxt "STRINGS.ACTIONS.APPLYPRESERVATIVE.GENERIC"
+msgid "Preserve"
+msgstr "Sakla"
+
+#. STRINGS.ACTIONS.APPLYPRESERVATIVE.SALT
+msgctxt "STRINGS.ACTIONS.APPLYPRESERVATIVE.SALT"
+msgid "Preserve"
+msgstr "Sakla"
+
+#. STRINGS.ACTIONS.APPRAISE
+msgctxt "STRINGS.ACTIONS.APPRAISE"
+msgid "Appraise"
+msgstr "Değer Biç"
+
+#. STRINGS.ACTIONS.ASSESSPLANTHAPPINESS.GENERIC
+msgctxt "STRINGS.ACTIONS.ASSESSPLANTHAPPINESS.GENERIC"
+msgid "Assess Happiness"
+msgstr "Memnuniyeti Değerlendir"
+
+#. STRINGS.ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT
+msgctxt "STRINGS.ACTIONS.ASSESSPLANTHAPPINESS.GENERIC_FMT"
+msgid "Assess {plant}'s Happiness"
+msgstr "{plant} Memnuniyetini Değerlendir"
+
+#. STRINGS.ACTIONS.ATTACK.GENERIC
+msgctxt "STRINGS.ACTIONS.ATTACK.GENERIC"
+msgid "Attack"
+msgstr "Saldır"
+
+#. STRINGS.ACTIONS.ATTACK.PROP
+msgctxt "STRINGS.ACTIONS.ATTACK.PROP"
+msgid "Smack"
+msgstr "Vur"
+
+#. STRINGS.ACTIONS.ATTACK.RANGEDLIGHT
+msgctxt "STRINGS.ACTIONS.ATTACK.RANGEDLIGHT"
+msgid "Light"
+msgstr "Yak"
+
+#. STRINGS.ACTIONS.ATTACK.RANGEDSMOTHER
+msgctxt "STRINGS.ACTIONS.ATTACK.RANGEDSMOTHER"
+msgid "Extinguish"
+msgstr "Söndür"
+
+#. STRINGS.ACTIONS.ATTACK.SMASHABLE
+msgctxt "STRINGS.ACTIONS.ATTACK.SMASHABLE"
+msgid "Smash"
+msgstr "Kır"
+
+#. STRINGS.ACTIONS.ATTACK.WHACK
+msgctxt "STRINGS.ACTIONS.ATTACK.WHACK"
+msgid "Whack"
+msgstr "Vur"
+
+#. STRINGS.ACTIONS.ATTUNE
+msgctxt "STRINGS.ACTIONS.ATTUNE"
+msgid "Attune"
+msgstr "Bağ Kur"
+
+#. STRINGS.ACTIONS.BAIT
+msgctxt "STRINGS.ACTIONS.BAIT"
+msgid "Bait"
+msgstr "Yemle"
+
+#. STRINGS.ACTIONS.BATHBOMB
+msgctxt "STRINGS.ACTIONS.BATHBOMB"
+msgid "Toss In"
+msgstr "İçine At"
+
+#. STRINGS.ACTIONS.BEDAZZLE
+msgctxt "STRINGS.ACTIONS.BEDAZZLE"
+msgid "Decorate"
+msgstr "Süsle"
+
+#. STRINGS.ACTIONS.BEGIN_QUEST
+msgctxt "STRINGS.ACTIONS.BEGIN_QUEST"
+msgid "Assist"
+msgstr "Yardım Et"
+
+#. STRINGS.ACTIONS.BLINK.FREESOUL
+msgctxt "STRINGS.ACTIONS.BLINK.FREESOUL"
+msgid "Soul Echo"
+msgstr "Ruh Yansıması"
+
+#. STRINGS.ACTIONS.BLINK.GENERIC
+msgctxt "STRINGS.ACTIONS.BLINK.GENERIC"
+msgid "Telepoof"
+msgstr "Telepuf"
+
+#. STRINGS.ACTIONS.BLINK.SOUL
+msgctxt "STRINGS.ACTIONS.BLINK.SOUL"
+msgid "Soul Hop"
+msgstr "Ruh Sıçraması"
+
+#. STRINGS.ACTIONS.BLINK_MAP.SOUL
+msgctxt "STRINGS.ACTIONS.BLINK_MAP.SOUL"
+msgid "Soul Hop({souls})"
+msgstr "Ruh Sıçraması({souls})"
+
+#. STRINGS.ACTIONS.BOAT_CANNON_LOAD_AMMO
+msgctxt "STRINGS.ACTIONS.BOAT_CANNON_LOAD_AMMO"
+msgid "Load Ammo"
+msgstr "Mermi Yükle"
+
+#. STRINGS.ACTIONS.BOAT_CANNON_SHOOT
+msgctxt "STRINGS.ACTIONS.BOAT_CANNON_SHOOT"
+msgid "Shoot"
+msgstr "Ateş Et"
+
+#. STRINGS.ACTIONS.BOAT_CANNON_START_AIMING
+msgctxt "STRINGS.ACTIONS.BOAT_CANNON_START_AIMING"
+msgid "Aim"
+msgstr "Nişan Al"
+
+#. STRINGS.ACTIONS.BOAT_CANNON_STOP_AIMING
+msgctxt "STRINGS.ACTIONS.BOAT_CANNON_STOP_AIMING"
+msgid "Stop Aiming"
+msgstr "Nişanı Bırak"
+
+#. STRINGS.ACTIONS.BOAT_MAGNET_ACTIVATE
+msgctxt "STRINGS.ACTIONS.BOAT_MAGNET_ACTIVATE"
+msgid "Pair"
+msgstr "Eşle"
+
+#. STRINGS.ACTIONS.BOAT_MAGNET_BEACON_TURN_OFF
+msgctxt "STRINGS.ACTIONS.BOAT_MAGNET_BEACON_TURN_OFF"
+msgid "Turn Off"
+msgstr "Kapat"
+
+#. STRINGS.ACTIONS.BOAT_MAGNET_BEACON_TURN_ON
+msgctxt "STRINGS.ACTIONS.BOAT_MAGNET_BEACON_TURN_ON"
+msgid "Turn On"
+msgstr "Aç"
+
+#. STRINGS.ACTIONS.BOAT_MAGNET_DEACTIVATE
+msgctxt "STRINGS.ACTIONS.BOAT_MAGNET_DEACTIVATE"
+msgid "Unpair"
+msgstr "Eşleşmeyi Bitir"
+
+#. STRINGS.ACTIONS.BOTTLE
+msgctxt "STRINGS.ACTIONS.BOTTLE"
+msgid "Collect"
+msgstr "Topla"
+
+#. STRINGS.ACTIONS.BRUSH
+msgctxt "STRINGS.ACTIONS.BRUSH"
+msgid "Brush"
+msgstr "Fırçala"
+
+#. STRINGS.ACTIONS.BUILD
+msgctxt "STRINGS.ACTIONS.BUILD"
+msgid "Build"
+msgstr "İnşa Et"
+
+#. STRINGS.ACTIONS.BUNDLE
+msgctxt "STRINGS.ACTIONS.BUNDLE"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.BUNDLESTORE.CONSTRUCT
+msgctxt "STRINGS.ACTIONS.BUNDLESTORE.CONSTRUCT"
+msgid "Add Material"
+msgstr "Malzeme Ekle"
+
+#. STRINGS.ACTIONS.BUNDLESTORE.GENERIC
+msgctxt "STRINGS.ACTIONS.BUNDLESTORE.GENERIC"
+msgid "Store"
+msgstr "Sakla"
+
+#. STRINGS.ACTIONS.BURY
+msgctxt "STRINGS.ACTIONS.BURY"
+msgid "Bury"
+msgstr "Göm"
+
+#. STRINGS.ACTIONS.CARNIVALGAME_FEED
+msgctxt "STRINGS.ACTIONS.CARNIVALGAME_FEED"
+msgid "Feed"
+msgstr "Besle"
+
+#. STRINGS.ACTIONS.CARVEPUMPKIN
+msgctxt "STRINGS.ACTIONS.CARVEPUMPKIN"
+msgid "Carve"
+msgstr "Oy"
+
+#. STRINGS.ACTIONS.CASTAOE.BLOWDART_LAVA
+msgctxt "STRINGS.ACTIONS.CASTAOE.BLOWDART_LAVA"
+msgid "Barrage"
+msgstr "Yaylım Ateşi"
+
+#. STRINGS.ACTIONS.CASTAOE.BLOWDART_LAVA2
+msgctxt "STRINGS.ACTIONS.CASTAOE.BLOWDART_LAVA2"
+msgid "Molten Bolt"
+msgstr "Erimiş Ok"
+
+#. STRINGS.ACTIONS.CASTAOE.BOOK_ELEMENTAL
+msgctxt "STRINGS.ACTIONS.CASTAOE.BOOK_ELEMENTAL"
+msgid "Summon Magma Golem"
+msgstr "Magma Golemi Çağır"
+
+#. STRINGS.ACTIONS.CASTAOE.BOOK_FOSSIL
+msgctxt "STRINGS.ACTIONS.CASTAOE.BOOK_FOSSIL"
+msgid "Petrify"
+msgstr "Taşlaştır"
+
+#. STRINGS.ACTIONS.CASTAOE.FIREBALLSTAFF
+msgctxt "STRINGS.ACTIONS.CASTAOE.FIREBALLSTAFF"
+msgid "Call Cataclysm"
+msgstr "Felaket Çağır"
+
+#. STRINGS.ACTIONS.CASTAOE.GENERIC
+msgctxt "STRINGS.ACTIONS.CASTAOE.GENERIC"
+msgid "Cast Spell"
+msgstr "Büyü Yap"
+
+#. STRINGS.ACTIONS.CASTAOE.HAMMER_MJOLNIR
+msgctxt "STRINGS.ACTIONS.CASTAOE.HAMMER_MJOLNIR"
+msgid "Anvil Strike"
+msgstr "Örs Vuruşu"
+
+#. STRINGS.ACTIONS.CASTAOE.HEALINGSTAFF
+msgctxt "STRINGS.ACTIONS.CASTAOE.HEALINGSTAFF"
+msgid "Cast Life Blossom"
+msgstr "Yaşam Çiçeği Yap"
+
+#. STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB
+msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_FIREBOMB"
+msgid "Hearthsfire Bomb"
+msgstr "Ocak Ateşi Bombası"
+
+#. STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE
+msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_HEAVYBLADE"
+msgid "Parry"
+msgstr "Savuştur"
+
+#. STRINGS.ACTIONS.CASTAOE.LAVAARENA_LUCY
+msgctxt "STRINGS.ACTIONS.CASTAOE.LAVAARENA_LUCY"
+msgid "Chuck Lucy"
+msgstr "Lucy'yi Fırlat"
+
+#. STRINGS.ACTIONS.CASTAOE.SLINGSHOT2EX
+msgctxt "STRINGS.ACTIONS.CASTAOE.SLINGSHOT2EX"
+msgid "Shoot"
+msgstr "Ateş Et"
+
+#. STRINGS.ACTIONS.CASTAOE.SPEAR_GUNGNIR
+msgctxt "STRINGS.ACTIONS.CASTAOE.SPEAR_GUNGNIR"
+msgid "Pyre Poker"
+msgstr "Ateş Demiri"
+
+#. STRINGS.ACTIONS.CASTAOE.SPEAR_LANCE
+msgctxt "STRINGS.ACTIONS.CASTAOE.SPEAR_LANCE"
+msgid "Sky Lunge"
+msgstr "Gök Hamlesi"
+
+#. STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING
+msgctxt "STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING"
+msgid "Lightning Strike"
+msgstr "Yıldırım Vuruşu"
+
+#. STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING_CHARGED
+msgctxt "STRINGS.ACTIONS.CASTAOE.SPEAR_WATHGRITHR_LIGHTNING_CHARGED"
+msgid "Lightning Strike"
+msgstr "Yıldırım Vuruşu"
+
+#. STRINGS.ACTIONS.CASTAOE.WATHGRITHR_SHIELD
+msgctxt "STRINGS.ACTIONS.CASTAOE.WATHGRITHR_SHIELD"
+msgid "Block"
+msgstr "Engelle"
+
+#. STRINGS.ACTIONS.CASTSPELL.GENERIC
+msgctxt "STRINGS.ACTIONS.CASTSPELL.GENERIC"
+msgid "Cast Spell"
+msgstr "Büyü Yap"
+
+#. STRINGS.ACTIONS.CASTSPELL.MUSIC
+msgctxt "STRINGS.ACTIONS.CASTSPELL.MUSIC"
+msgid "Play"
+msgstr "Çal"
+
+#. STRINGS.ACTIONS.CASTSPELL.RESKIN
+msgctxt "STRINGS.ACTIONS.CASTSPELL.RESKIN"
+msgid "Sweep"
+msgstr "Süpür"
+
+#. STRINGS.ACTIONS.CASTSPELL.SCIENCE
+msgctxt "STRINGS.ACTIONS.CASTSPELL.SCIENCE"
+msgid "Use Gadget"
+msgstr "Aleti Kullan"
+
+#. STRINGS.ACTIONS.CASTSPELL.SQUEEZE
+msgctxt "STRINGS.ACTIONS.CASTSPELL.SQUEEZE"
+msgid "Squeeze"
+msgstr "Sık"
+
+#. STRINGS.ACTIONS.CASTSPELL.TERRAFORM
+msgctxt "STRINGS.ACTIONS.CASTSPELL.TERRAFORM"
+msgid "Marshify"
+msgstr "Bataklığa Çevir"
+
+#. STRINGS.ACTIONS.CASTSUMMON
+msgctxt "STRINGS.ACTIONS.CASTSUMMON"
+msgid "Summon"
+msgstr "Çağır"
+
+#. STRINGS.ACTIONS.CASTUNSUMMON
+msgctxt "STRINGS.ACTIONS.CASTUNSUMMON"
+msgid "Return"
+msgstr "Geri Yolla"
+
+#. STRINGS.ACTIONS.CAST_NET
+msgctxt "STRINGS.ACTIONS.CAST_NET"
+msgid "Cast Net"
+msgstr "Ağ At"
+
+#. STRINGS.ACTIONS.CAST_POCKETWATCH.GENERIC
+msgctxt "STRINGS.ACTIONS.CAST_POCKETWATCH.GENERIC"
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#. STRINGS.ACTIONS.CAST_POCKETWATCH.RECALL_MARK
+msgctxt "STRINGS.ACTIONS.CAST_POCKETWATCH.RECALL_MARK"
+msgid "Set Time In Space"
+msgstr "Uzayda Zaman Belirle"
+
+#. STRINGS.ACTIONS.CAST_POCKETWATCH.REVIVER
+msgctxt "STRINGS.ACTIONS.CAST_POCKETWATCH.REVIVER"
+msgid "Revive"
+msgstr "Dirilt"
+
+#. STRINGS.ACTIONS.CATCH
+msgctxt "STRINGS.ACTIONS.CATCH"
+msgid "Catch"
+msgstr "Yakala"
+
+#. STRINGS.ACTIONS.CHANGEIN.DRESSUP
+msgctxt "STRINGS.ACTIONS.CHANGEIN.DRESSUP"
+msgid "Dress Up"
+msgstr "Giyin"
+
+#. STRINGS.ACTIONS.CHANGEIN.GENERIC
+msgctxt "STRINGS.ACTIONS.CHANGEIN.GENERIC"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.CHANGE_TACKLE.AMMO
+msgctxt "STRINGS.ACTIONS.CHANGE_TACKLE.AMMO"
+msgid "Set Ammo"
+msgstr "Mermi Belirle"
+
+#. STRINGS.ACTIONS.CHANGE_TACKLE.GENERIC
+msgctxt "STRINGS.ACTIONS.CHANGE_TACKLE.GENERIC"
+msgid "Attach Tackle"
+msgstr "Olta Takımı Bağla"
+
+#. STRINGS.ACTIONS.CHANGE_TACKLE.REMOVE
+msgctxt "STRINGS.ACTIONS.CHANGE_TACKLE.REMOVE"
+msgid "Remove"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.CHARGE_FROM.ITEM
+msgctxt "STRINGS.ACTIONS.CHARGE_FROM.ITEM"
+msgid "Charge Item"
+msgstr "Eşyayı Şarj Et"
+
+#. STRINGS.ACTIONS.CHARGE_FROM.SELF
+msgctxt "STRINGS.ACTIONS.CHARGE_FROM.SELF"
+msgid "Charge At"
+msgstr "Hücum Et"
+
+#. STRINGS.ACTIONS.CHECKTRAP
+msgctxt "STRINGS.ACTIONS.CHECKTRAP"
+msgid "Check"
+msgstr "Kontrol Et"
+
+#. STRINGS.ACTIONS.CHOP
+msgctxt "STRINGS.ACTIONS.CHOP"
+msgid "Chop"
+msgstr "Kes"
+
+#. STRINGS.ACTIONS.CLOSESPELLBOOK.GENERIC
+msgctxt "STRINGS.ACTIONS.CLOSESPELLBOOK.GENERIC"
+msgid "Close"
+msgstr "Kapat"
+
+#. STRINGS.ACTIONS.CLOSESPELLBOOK.GHOSTTALK
+msgctxt "STRINGS.ACTIONS.CLOSESPELLBOOK.GHOSTTALK"
+msgid "Quiet"
+msgstr "Sustur"
+
+#. STRINGS.ACTIONS.CLOSESPELLBOOK.PYROKINESIS
+msgctxt "STRINGS.ACTIONS.CLOSESPELLBOOK.PYROKINESIS"
+msgid "Extinguish"
+msgstr "Söndür"
+
+#. STRINGS.ACTIONS.CLOSESPELLBOOK.REMOTE
+msgctxt "STRINGS.ACTIONS.CLOSESPELLBOOK.REMOTE"
+msgid "Stop"
+msgstr "Durdur"
+
+#. STRINGS.ACTIONS.COMBINESTACK
+msgctxt "STRINGS.ACTIONS.COMBINESTACK"
+msgid "Combine Stack"
+msgstr "Yığınları Birleştir"
+
+#. STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE
+msgctxt "STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_AGGRESSIVE"
+msgid "Rile Up"
+msgstr "Kışkırt"
+
+#. STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE
+msgctxt "STRINGS.ACTIONS.COMMUNEWITHSUMMONED.MAKE_DEFENSIVE"
+msgid "Soothe"
+msgstr "Yatıştır"
+
+#. STRINGS.ACTIONS.COMPARE_WEIGHABLE
+msgctxt "STRINGS.ACTIONS.COMPARE_WEIGHABLE"
+msgid "Give"
+msgstr "Ver"
+
+#. STRINGS.ACTIONS.CONSTRUCT.GENERIC
+msgctxt "STRINGS.ACTIONS.CONSTRUCT.GENERIC"
+msgid "Build"
+msgstr "İnşa Et"
+
+#. STRINGS.ACTIONS.CONSTRUCT.GENERIC_FMT
+msgctxt "STRINGS.ACTIONS.CONSTRUCT.GENERIC_FMT"
+msgid "Build {name}"
+msgstr "{name} İnşa Et"
+
+#. STRINGS.ACTIONS.CONSTRUCT.OFFER
+msgctxt "STRINGS.ACTIONS.CONSTRUCT.OFFER"
+msgid "Offer Material"
+msgstr "Malzeme Sun"
+
+#. STRINGS.ACTIONS.CONSTRUCT.OFFER_TO
+msgctxt "STRINGS.ACTIONS.CONSTRUCT.OFFER_TO"
+msgid "Offer to"
+msgstr "Sun:"
+
+#. STRINGS.ACTIONS.CONSTRUCT.REBUILD
+msgctxt "STRINGS.ACTIONS.CONSTRUCT.REBUILD"
+msgid "Rebuild"
+msgstr "Yeniden İnşa Et"
+
+#. STRINGS.ACTIONS.CONSTRUCT.REPAIR
+msgctxt "STRINGS.ACTIONS.CONSTRUCT.REPAIR"
+msgid "Repair"
+msgstr "Onar"
+
+#. STRINGS.ACTIONS.CONSTRUCT.STORE
+msgctxt "STRINGS.ACTIONS.CONSTRUCT.STORE"
+msgid "Add Material"
+msgstr "Malzeme Ekle"
+
+#. STRINGS.ACTIONS.CONTAINER_INSTALL_ITEM.GENERIC
+msgctxt "STRINGS.ACTIONS.CONTAINER_INSTALL_ITEM.GENERIC"
+msgid "Install"
+msgstr "Tak"
+
+#. STRINGS.ACTIONS.CONTAINER_INSTALL_ITEM.UNINSTALL
+msgctxt "STRINGS.ACTIONS.CONTAINER_INSTALL_ITEM.UNINSTALL"
+msgid "Uninstall"
+msgstr "Çıkar"
+
+#. STRINGS.ACTIONS.COOK
+msgctxt "STRINGS.ACTIONS.COOK"
+msgid "Cook"
+msgstr "Pişir"
+
+#. STRINGS.ACTIONS.CRAFT
+msgctxt "STRINGS.ACTIONS.CRAFT"
+msgid "Craft"
+msgstr "Üret"
+
+#. STRINGS.ACTIONS.CYCLE.GENERIC
+msgctxt "STRINGS.ACTIONS.CYCLE.GENERIC"
+msgid "Cycle"
+msgstr "Döndür"
+
+#. STRINGS.ACTIONS.CYCLE.TUNE
+msgctxt "STRINGS.ACTIONS.CYCLE.TUNE"
+msgid "Hit"
+msgstr "Vur"
+
+#. STRINGS.ACTIONS.DANCE
+msgctxt "STRINGS.ACTIONS.DANCE"
+msgid "Dance"
+msgstr "Dans Et"
+
+#. STRINGS.ACTIONS.DECORATESNOWMAN.GENERIC
+msgctxt "STRINGS.ACTIONS.DECORATESNOWMAN.GENERIC"
+msgid "Decorate"
+msgstr "Süsle"
+
+#. STRINGS.ACTIONS.DECORATESNOWMAN.STACK
+msgctxt "STRINGS.ACTIONS.DECORATESNOWMAN.STACK"
+msgid "Stack"
+msgstr "Yığ"
+
+#. STRINGS.ACTIONS.DECORATEVASE
+msgctxt "STRINGS.ACTIONS.DECORATEVASE"
+msgid "Decorate"
+msgstr "Süsle"
+
+#. STRINGS.ACTIONS.DEPLOY.DEPLOY
+msgctxt "STRINGS.ACTIONS.DEPLOY.DEPLOY"
+msgid "Deploy"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.DEPLOY.DEPLOY_TOSS
+msgctxt "STRINGS.ACTIONS.DEPLOY.DEPLOY_TOSS"
+msgid "Toss"
+msgstr "Fırlat"
+
+#. STRINGS.ACTIONS.DEPLOY.FENCE
+msgctxt "STRINGS.ACTIONS.DEPLOY.FENCE"
+msgid "Build Fence"
+msgstr "Çit Yap"
+
+#. STRINGS.ACTIONS.DEPLOY.FERTILIZE_GROUND
+msgctxt "STRINGS.ACTIONS.DEPLOY.FERTILIZE_GROUND"
+msgid "Fertilize Plot"
+msgstr "Toprağı Gübrele"
+
+#. STRINGS.ACTIONS.DEPLOY.GATE
+msgctxt "STRINGS.ACTIONS.DEPLOY.GATE"
+msgid "Build Gate"
+msgstr "Kapı Yap"
+
+#. STRINGS.ACTIONS.DEPLOY.GENERIC
+msgctxt "STRINGS.ACTIONS.DEPLOY.GENERIC"
+msgid "Plant"
+msgstr "Dik"
+
+#. STRINGS.ACTIONS.DEPLOY.GRAVEPLANT
+msgctxt "STRINGS.ACTIONS.DEPLOY.GRAVEPLANT"
+msgid "Relocate"
+msgstr "Yer Değiştir"
+
+#. STRINGS.ACTIONS.DEPLOY.GROUNDTILE
+msgctxt "STRINGS.ACTIONS.DEPLOY.GROUNDTILE"
+msgid "Place Ground"
+msgstr "Zemin Yerleştir"
+
+#. STRINGS.ACTIONS.DEPLOY.PORTABLE
+msgctxt "STRINGS.ACTIONS.DEPLOY.PORTABLE"
+msgid "Place"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.DEPLOY.TURRET
+msgctxt "STRINGS.ACTIONS.DEPLOY.TURRET"
+msgid "Place"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.DEPLOY.WALL
+msgctxt "STRINGS.ACTIONS.DEPLOY.WALL"
+msgid "Build Wall"
+msgstr "Duvar Yap"
+
+#. STRINGS.ACTIONS.DEPLOY.WATER
+msgctxt "STRINGS.ACTIONS.DEPLOY.WATER"
+msgid "Launch"
+msgstr "Suya İndir"
+
+#. STRINGS.ACTIONS.DIG
+msgctxt "STRINGS.ACTIONS.DIG"
+msgid "Dig"
+msgstr "Kaz"
+
+#. STRINGS.ACTIONS.DIRECTCOURIER_MAP.CHEST
+msgctxt "STRINGS.ACTIONS.DIRECTCOURIER_MAP.CHEST"
+msgid "Drop Items Off"
+msgstr "Eşyaları Bırak"
+
+#. STRINGS.ACTIONS.DIRECTCOURIER_MAP.SEND
+msgctxt "STRINGS.ACTIONS.DIRECTCOURIER_MAP.SEND"
+msgid "Deliver Items to {target}"
+msgstr "{target} Hesabına Eşya Gönder"
+
+#. STRINGS.ACTIONS.DISMANTLE
+msgctxt "STRINGS.ACTIONS.DISMANTLE"
+msgid "Dismantle"
+msgstr "Sök"
+
+#. STRINGS.ACTIONS.DISMANTLE_POCKETWATCH
+msgctxt "STRINGS.ACTIONS.DISMANTLE_POCKETWATCH"
+msgid "Take Apart"
+msgstr "Parçala"
+
+#. STRINGS.ACTIONS.DISMOUNT
+msgctxt "STRINGS.ACTIONS.DISMOUNT"
+msgid "Dismount"
+msgstr "İn"
+
+#. STRINGS.ACTIONS.DISMOUNT_PLANK
+msgctxt "STRINGS.ACTIONS.DISMOUNT_PLANK"
+msgid "Dismount"
+msgstr "İn"
+
+#. STRINGS.ACTIONS.DIVEGRAB
+msgctxt "STRINGS.ACTIONS.DIVEGRAB"
+msgid "Restrain"
+msgstr "Tut"
+
+#. STRINGS.ACTIONS.DRAW
+msgctxt "STRINGS.ACTIONS.DRAW"
+msgid "Draw On"
+msgstr "Üzerine Çiz"
+
+#. STRINGS.ACTIONS.DRAWITEM
+msgctxt "STRINGS.ACTIONS.DRAWITEM"
+msgid "Draw {item}"
+msgstr "{item} Çek"
+
+#. STRINGS.ACTIONS.DRAW_FROM_DECK
+msgctxt "STRINGS.ACTIONS.DRAW_FROM_DECK"
+msgid "Draw"
+msgstr "Çek"
+
+#. STRINGS.ACTIONS.DROP.FREESOUL
+msgctxt "STRINGS.ACTIONS.DROP.FREESOUL"
+msgid "Release Soul"
+msgstr "Ruhu Serbest Bırak"
+
+#. STRINGS.ACTIONS.DROP.GENERIC
+msgctxt "STRINGS.ACTIONS.DROP.GENERIC"
+msgid "Drop"
+msgstr "Bırak"
+
+#. STRINGS.ACTIONS.DROP.PLACELANTERN
+msgctxt "STRINGS.ACTIONS.DROP.PLACELANTERN"
+msgid "Place"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.DROP.PLAYERFLOATER
+msgctxt "STRINGS.ACTIONS.DROP.PLAYERFLOATER"
+msgid "Let Go"
+msgstr "Salıver"
+
+#. STRINGS.ACTIONS.DROP.SETMINE
+msgctxt "STRINGS.ACTIONS.DROP.SETMINE"
+msgid "Set Mine"
+msgstr "Mayın Yerleştir"
+
+#. STRINGS.ACTIONS.DROP.SETTRAP
+msgctxt "STRINGS.ACTIONS.DROP.SETTRAP"
+msgid "Set Trap"
+msgstr "Tuzak Kur"
+
+#. STRINGS.ACTIONS.DROP.YOTC_ENTERRACE
+msgctxt "STRINGS.ACTIONS.DROP.YOTC_ENTERRACE"
+msgid "Enter Race"
+msgstr "Yarışa Gir"
+
+#. STRINGS.ACTIONS.DRY
+msgctxt "STRINGS.ACTIONS.DRY"
+msgid "Dry"
+msgstr "Kurut"
+
+#. STRINGS.ACTIONS.EAT.DRINK
+msgctxt "STRINGS.ACTIONS.EAT.DRINK"
+msgid "Drink"
+msgstr "İç"
+
+#. STRINGS.ACTIONS.EAT.GENERIC
+msgctxt "STRINGS.ACTIONS.EAT.GENERIC"
+msgid "Eat"
+msgstr "Ye"
+
+#. STRINGS.ACTIONS.EAT.PROCESS
+msgctxt "STRINGS.ACTIONS.EAT.PROCESS"
+msgid "Process"
+msgstr "İşle"
+
+#. STRINGS.ACTIONS.EMPTY_CONTAINER
+msgctxt "STRINGS.ACTIONS.EMPTY_CONTAINER"
+msgid "Empty"
+msgstr "Boşalt"
+
+#. STRINGS.ACTIONS.ENDELECTRICLINK
+msgctxt "STRINGS.ACTIONS.ENDELECTRICLINK"
+msgid "Disconnect Links"
+msgstr "Bağlantıları Kes"
+
+#. STRINGS.ACTIONS.ENTER_GYM
+msgctxt "STRINGS.ACTIONS.ENTER_GYM"
+msgid "Enter"
+msgstr "Gir"
+
+#. STRINGS.ACTIONS.EQUIP
+msgctxt "STRINGS.ACTIONS.EQUIP"
+msgid "Equip"
+msgstr "Kuşan"
+
+#. STRINGS.ACTIONS.EQUIPONBODY
+msgctxt "STRINGS.ACTIONS.EQUIPONBODY"
+msgid "Equip on"
+msgstr "Kuşan:"
+
+#. STRINGS.ACTIONS.ERASE_PAPER
+msgctxt "STRINGS.ACTIONS.ERASE_PAPER"
+msgid "Erase"
+msgstr "Sil"
+
+#. STRINGS.ACTIONS.EXTEND_PLANK
+msgctxt "STRINGS.ACTIONS.EXTEND_PLANK"
+msgid "Extend"
+msgstr "Uzat"
+
+#. STRINGS.ACTIONS.EXTINGUISH
+msgctxt "STRINGS.ACTIONS.EXTINGUISH"
+msgid "Extinguish"
+msgstr "Söndür"
+
+#. STRINGS.ACTIONS.FAN
+msgctxt "STRINGS.ACTIONS.FAN"
+msgid "Fan"
+msgstr "Yelpazele"
+
+#. STRINGS.ACTIONS.FEED.GENERIC
+msgctxt "STRINGS.ACTIONS.FEED.GENERIC"
+msgid "Feed"
+msgstr "Besle"
+
+#. STRINGS.ACTIONS.FEED.TREAT
+msgctxt "STRINGS.ACTIONS.FEED.TREAT"
+msgid "Give Treat"
+msgstr "Atıştırmalık Ver"
+
+#. STRINGS.ACTIONS.FEEDPLAYER
+msgctxt "STRINGS.ACTIONS.FEEDPLAYER"
+msgid "Feed"
+msgstr "Besle"
+
+#. STRINGS.ACTIONS.FERTILIZE
+msgctxt "STRINGS.ACTIONS.FERTILIZE"
+msgid "Fertilize"
+msgstr "Gübrele"
+
+#. STRINGS.ACTIONS.FILL
+msgctxt "STRINGS.ACTIONS.FILL"
+msgid "Fill"
+msgstr "Doldur"
+
+#. STRINGS.ACTIONS.FISH
+msgctxt "STRINGS.ACTIONS.FISH"
+msgid "Fish"
+msgstr "Balık Tut"
+
+#. STRINGS.ACTIONS.FISH_OCEAN
+msgctxt "STRINGS.ACTIONS.FISH_OCEAN"
+msgid "Fish"
+msgstr "Balık Tut"
+
+#. STRINGS.ACTIONS.FLIP_DECK
+msgctxt "STRINGS.ACTIONS.FLIP_DECK"
+msgid "Flip"
+msgstr "Çevir"
+
+#. STRINGS.ACTIONS.GIVE.APPLY
+msgctxt "STRINGS.ACTIONS.GIVE.APPLY"
+msgid "Apply {item}"
+msgstr "{item} Uygula"
+
+#. STRINGS.ACTIONS.GIVE.CELESTIAL
+msgctxt "STRINGS.ACTIONS.GIVE.CELESTIAL"
+msgid "Offer"
+msgstr "Sun"
+
+#. STRINGS.ACTIONS.GIVE.DRINK
+msgctxt "STRINGS.ACTIONS.GIVE.DRINK"
+msgid "Drink {item}"
+msgstr "{item} İç"
+
+#. STRINGS.ACTIONS.GIVE.GENERIC
+msgctxt "STRINGS.ACTIONS.GIVE.GENERIC"
+msgid "Give"
+msgstr "Ver"
+
+#. STRINGS.ACTIONS.GIVE.NOTREADY
+msgctxt "STRINGS.ACTIONS.GIVE.NOTREADY"
+msgid "Place"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.GIVE.PLACE_ITEM
+msgctxt "STRINGS.ACTIONS.GIVE.PLACE_ITEM"
+msgid "Place {item}"
+msgstr "{item} Yerleştir"
+
+#. STRINGS.ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL
+msgctxt "STRINGS.ACTIONS.GIVE.QUAGMIRE_ALTAR.BOWL"
+msgid "Snackrifice Bowl of {food}"
+msgstr "Atıştırmalık Adak: {food} Kasesi"
+
+#. STRINGS.ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC
+msgctxt "STRINGS.ACTIONS.GIVE.QUAGMIRE_ALTAR.GENERIC"
+msgid "Snackrifice {food}"
+msgstr "Atıştırmalık Adak: {food}"
+
+#. STRINGS.ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE
+msgctxt "STRINGS.ACTIONS.GIVE.QUAGMIRE_ALTAR.PLATE"
+msgid "Snackrifice Plate of {food}"
+msgstr "Atıştırmalık Adak: {food} Tabağı"
+
+#. STRINGS.ACTIONS.GIVE.QUAGMIRE_OVEN
+msgctxt "STRINGS.ACTIONS.GIVE.QUAGMIRE_OVEN"
+msgid "Place {item}"
+msgstr "{item} Yerleştir"
+
+#. STRINGS.ACTIONS.GIVE.QUAGMIRE_POT_HANGER
+msgctxt "STRINGS.ACTIONS.GIVE.QUAGMIRE_POT_HANGER"
+msgid "Hang {item}"
+msgstr "{item} As"
+
+#. STRINGS.ACTIONS.GIVE.READY
+msgctxt "STRINGS.ACTIONS.GIVE.READY"
+msgid "Sacrifice"
+msgstr "Adak Sun"
+
+#. STRINGS.ACTIONS.GIVE.REPAIR
+msgctxt "STRINGS.ACTIONS.GIVE.REPAIR"
+msgid "Repair"
+msgstr "Onar"
+
+#. STRINGS.ACTIONS.GIVE.SHOW
+msgctxt "STRINGS.ACTIONS.GIVE.SHOW"
+msgid "Show"
+msgstr "Göster"
+
+#. STRINGS.ACTIONS.GIVE.SOCKET
+msgctxt "STRINGS.ACTIONS.GIVE.SOCKET"
+msgid "Socket"
+msgstr "Yuvala"
+
+#. STRINGS.ACTIONS.GIVEALLTOPLAYER
+msgctxt "STRINGS.ACTIONS.GIVEALLTOPLAYER"
+msgid "Give All"
+msgstr "Hepsini Ver"
+
+#. STRINGS.ACTIONS.GIVETOPLAYER
+msgctxt "STRINGS.ACTIONS.GIVETOPLAYER"
+msgid "Give"
+msgstr "Ver"
+
+#. STRINGS.ACTIONS.GIVE_TACKLESKETCH
+msgctxt "STRINGS.ACTIONS.GIVE_TACKLESKETCH"
+msgid "Give"
+msgstr "Ver"
+
+#. STRINGS.ACTIONS.GNAW
+msgctxt "STRINGS.ACTIONS.GNAW"
+msgid "Gnaw"
+msgstr "Kemir"
+
+#. STRINGS.ACTIONS.GOHOME
+msgctxt "STRINGS.ACTIONS.GOHOME"
+msgid "Go Home"
+msgstr "Eve Dön"
+
+#. STRINGS.ACTIONS.GRAVEDIG
+msgctxt "STRINGS.ACTIONS.GRAVEDIG"
+msgid "Beckon"
+msgstr "Çağır"
+
+#. STRINGS.ACTIONS.HALLOWEENMOONMUTATE
+msgctxt "STRINGS.ACTIONS.HALLOWEENMOONMUTATE"
+msgid "Mutate"
+msgstr "Mutasyona Uğrat"
+
+#. STRINGS.ACTIONS.HAMMER
+msgctxt "STRINGS.ACTIONS.HAMMER"
+msgid "Hammer"
+msgstr "Çekiç Vur"
+
+#. STRINGS.ACTIONS.HARVEST
+msgctxt "STRINGS.ACTIONS.HARVEST"
+msgid "Harvest"
+msgstr "Hasat Et"
+
+#. STRINGS.ACTIONS.HARVEST_TREE
+msgctxt "STRINGS.ACTIONS.HARVEST_TREE"
+msgid "Harvest"
+msgstr "Hasat Et"
+
+#. STRINGS.ACTIONS.HAUNT
+msgctxt "STRINGS.ACTIONS.HAUNT"
+msgid "Haunt"
+msgstr "Ele Geçir"
+
+#. STRINGS.ACTIONS.HEAL.GENERIC
+msgctxt "STRINGS.ACTIONS.HEAL.GENERIC"
+msgid "Heal"
+msgstr "İyileştir"
+
+#. STRINGS.ACTIONS.HEAL.SELF
+msgctxt "STRINGS.ACTIONS.HEAL.SELF"
+msgid "Heal Self"
+msgstr "Kendini İyileştir"
+
+#. STRINGS.ACTIONS.HEAL.USE
+msgctxt "STRINGS.ACTIONS.HEAL.USE"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.HEAL.USEONSELF
+msgctxt "STRINGS.ACTIONS.HEAL.USEONSELF"
+msgid "Use on Self"
+msgstr "Kendine Kullan"
+
+#. STRINGS.ACTIONS.HERD_FOLLOWERS
+msgctxt "STRINGS.ACTIONS.HERD_FOLLOWERS"
+msgid "Herd Spiders"
+msgstr "Örümcekleri Topla"
+
+#. STRINGS.ACTIONS.HIDEANSEEK_FIND
+msgctxt "STRINGS.ACTIONS.HIDEANSEEK_FIND"
+msgid "Investigate"
+msgstr "Araştır"
+
+#. STRINGS.ACTIONS.HITCHUP
+msgctxt "STRINGS.ACTIONS.HITCHUP"
+msgid "Hitch to"
+msgstr "Bağla:"
+
+#. STRINGS.ACTIONS.INCINERATE
+msgctxt "STRINGS.ACTIONS.INCINERATE"
+msgid "Destroy"
+msgstr "Yok Et"
+
+#. STRINGS.ACTIONS.INSTALL
+msgctxt "STRINGS.ACTIONS.INSTALL"
+msgid "Install"
+msgstr "Tak"
+
+#. STRINGS.ACTIONS.INTERACT_WITH.FARM_PLANT
+msgctxt "STRINGS.ACTIONS.INTERACT_WITH.FARM_PLANT"
+msgid "Talk To"
+msgstr "Konuş:"
+
+#. STRINGS.ACTIONS.INTERACT_WITH.GENERIC
+msgctxt "STRINGS.ACTIONS.INTERACT_WITH.GENERIC"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.JOUST
+msgctxt "STRINGS.ACTIONS.JOUST"
+msgid "Charge"
+msgstr "Hücum Et"
+
+#. STRINGS.ACTIONS.JUMPIN.GENERIC
+msgctxt "STRINGS.ACTIONS.JUMPIN.GENERIC"
+msgid "Jump In"
+msgstr "Atla"
+
+#. STRINGS.ACTIONS.JUMPIN.HAUNT
+msgctxt "STRINGS.ACTIONS.JUMPIN.HAUNT"
+msgid "Haunt"
+msgstr "Ele Geçir"
+
+#. STRINGS.ACTIONS.JUMPIN.MAP_WORMHOLE
+msgctxt "STRINGS.ACTIONS.JUMPIN.MAP_WORMHOLE"
+msgid "Choose Path"
+msgstr "Yol Seç"
+
+#. STRINGS.ACTIONS.LEAVE_GYM
+msgctxt "STRINGS.ACTIONS.LEAVE_GYM"
+msgid "Stop"
+msgstr "Dur"
+
+#. STRINGS.ACTIONS.LIFT_DUMBBELL
+msgctxt "STRINGS.ACTIONS.LIFT_DUMBBELL"
+msgid "Lift"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.LIFT_GYM
+msgctxt "STRINGS.ACTIONS.LIFT_GYM"
+msgid "Lift"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.LIFT_GYM_FAIL
+msgctxt "STRINGS.ACTIONS.LIFT_GYM_FAIL"
+msgid "Lift"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.LIFT_GYM_SUCCEED
+msgctxt "STRINGS.ACTIONS.LIFT_GYM_SUCCEED"
+msgid "Lift"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.LIFT_GYM_SUCCEED_PERFECT
+msgctxt "STRINGS.ACTIONS.LIFT_GYM_SUCCEED_PERFECT"
+msgid "Lift"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.LIGHT
+msgctxt "STRINGS.ACTIONS.LIGHT"
+msgid "Light"
+msgstr "Yak"
+
+#. STRINGS.ACTIONS.LOOKAT.CLOSEINSPECT
+msgctxt "STRINGS.ACTIONS.LOOKAT.CLOSEINSPECT"
+msgid "Closely Examine"
+msgstr "Yakından İncele"
+
+#. STRINGS.ACTIONS.LOOKAT.GENERIC
+msgctxt "STRINGS.ACTIONS.LOOKAT.GENERIC"
+msgid "Examine"
+msgstr "İncele"
+
+#. STRINGS.ACTIONS.LOOKAT.READ
+msgctxt "STRINGS.ACTIONS.LOOKAT.READ"
+msgid "Read"
+msgstr "Oku"
+
+#. STRINGS.ACTIONS.LOWER_ANCHOR
+msgctxt "STRINGS.ACTIONS.LOWER_ANCHOR"
+msgid "Lower"
+msgstr "İndir"
+
+#. STRINGS.ACTIONS.LOWER_SAIL
+msgctxt "STRINGS.ACTIONS.LOWER_SAIL"
+msgid "Hoist Sail"
+msgstr "Yelken Aç"
+
+#. STRINGS.ACTIONS.LOWER_SAIL_BOOST.1
+msgctxt "STRINGS.ACTIONS.LOWER_SAIL_BOOST.1"
+msgid "Heave!"
+msgstr "Çek!"
+
+#. STRINGS.ACTIONS.LOWER_SAIL_BOOST.2
+msgctxt "STRINGS.ACTIONS.LOWER_SAIL_BOOST.2"
+msgid "Ho!"
+msgstr "Hey!"
+
+#. STRINGS.ACTIONS.MAKEBALLOON
+msgctxt "STRINGS.ACTIONS.MAKEBALLOON"
+msgid "Inflate"
+msgstr "Şişir"
+
+#. STRINGS.ACTIONS.MANUALEXTINGUISH
+msgctxt "STRINGS.ACTIONS.MANUALEXTINGUISH"
+msgid "Extinguish"
+msgstr "Söndür"
+
+#. STRINGS.ACTIONS.MAPDELIVER_MAP
+msgctxt "STRINGS.ACTIONS.MAPDELIVER_MAP"
+msgid "Send"
+msgstr "Gönder"
+
+#. STRINGS.ACTIONS.MAPSCOUTSELECT_MAP
+msgctxt "STRINGS.ACTIONS.MAPSCOUTSELECT_MAP"
+msgid "Explore"
+msgstr "Keşfet"
+
+#. STRINGS.ACTIONS.MAPSCOUT_MAP
+msgctxt "STRINGS.ACTIONS.MAPSCOUT_MAP"
+msgid "Send"
+msgstr "Gönder"
+
+#. STRINGS.ACTIONS.MAPSCOUT_MAP_TOOFAR
+msgctxt "STRINGS.ACTIONS.MAPSCOUT_MAP_TOOFAR"
+msgid "Out of Range"
+msgstr "Menzil Dışı"
+
+#. STRINGS.ACTIONS.MARK.GENERIC
+msgctxt "STRINGS.ACTIONS.MARK.GENERIC"
+msgid "Choose This Beefalo"
+msgstr "Bu Bızonsığırı Seç"
+
+#. STRINGS.ACTIONS.MARK.UNMARK
+msgctxt "STRINGS.ACTIONS.MARK.UNMARK"
+msgid "Take Back"
+msgstr "Geri Al"
+
+#. STRINGS.ACTIONS.MIGRATE
+msgctxt "STRINGS.ACTIONS.MIGRATE"
+msgid "Travel via"
+msgstr "Şununla Git:"
+
+#. STRINGS.ACTIONS.MINE
+msgctxt "STRINGS.ACTIONS.MINE"
+msgid "Mine"
+msgstr "Kaz"
+
+#. STRINGS.ACTIONS.MIX
+msgctxt "STRINGS.ACTIONS.MIX"
+msgid "Mix"
+msgstr "Karıştır"
+
+#. STRINGS.ACTIONS.MODSLINGSHOT
+msgctxt "STRINGS.ACTIONS.MODSLINGSHOT"
+msgid "Mod Slingshot"
+msgstr "Sapanı Modifiye Et"
+
+#. STRINGS.ACTIONS.MOUNT
+msgctxt "STRINGS.ACTIONS.MOUNT"
+msgid "Mount"
+msgstr "Bin"
+
+#. STRINGS.ACTIONS.MOUNT_PLANK
+msgctxt "STRINGS.ACTIONS.MOUNT_PLANK"
+msgid "Mount"
+msgstr "Bin"
+
+#. STRINGS.ACTIONS.MURDER
+msgctxt "STRINGS.ACTIONS.MURDER"
+msgid "Murder"
+msgstr "Öldür"
+
+#. STRINGS.ACTIONS.MUTATE.MUTATE_TARGET
+msgctxt "STRINGS.ACTIONS.MUTATE.MUTATE_TARGET"
+msgid "Mutate {target}"
+msgstr "{target} Mutasyona Uğrat"
+
+#. STRINGS.ACTIONS.MUTATE_SPIDER
+msgctxt "STRINGS.ACTIONS.MUTATE_SPIDER"
+msgid "Feed"
+msgstr "Besle"
+
+#. STRINGS.ACTIONS.NABBAG
+msgctxt "STRINGS.ACTIONS.NABBAG"
+msgid "Knab"
+msgstr "Kap"
+
+#. STRINGS.ACTIONS.NET
+msgctxt "STRINGS.ACTIONS.NET"
+msgid "Catch"
+msgstr "Yakala"
+
+#. STRINGS.ACTIONS.OCEAN_FISHING_CAST
+msgctxt "STRINGS.ACTIONS.OCEAN_FISHING_CAST"
+msgid "Cast"
+msgstr "At"
+
+#. STRINGS.ACTIONS.OCEAN_FISHING_CATCH
+msgctxt "STRINGS.ACTIONS.OCEAN_FISHING_CATCH"
+msgid "Catch"
+msgstr "Yakala"
+
+#. STRINGS.ACTIONS.OCEAN_FISHING_POND
+msgctxt "STRINGS.ACTIONS.OCEAN_FISHING_POND"
+msgid "Cast"
+msgstr "At"
+
+#. STRINGS.ACTIONS.OCEAN_FISHING_REEL.GENERIC
+msgctxt "STRINGS.ACTIONS.OCEAN_FISHING_REEL.GENERIC"
+msgid "Reel"
+msgstr "Çevir"
+
+#. STRINGS.ACTIONS.OCEAN_FISHING_REEL.SETHOOK
+msgctxt "STRINGS.ACTIONS.OCEAN_FISHING_REEL.SETHOOK"
+msgid "Set Hook"
+msgstr "Kanca Tak"
+
+#. STRINGS.ACTIONS.OCEAN_FISHING_STOP
+msgctxt "STRINGS.ACTIONS.OCEAN_FISHING_STOP"
+msgid "Stop"
+msgstr "Dur"
+
+#. STRINGS.ACTIONS.OCEAN_TOSS
+msgctxt "STRINGS.ACTIONS.OCEAN_TOSS"
+msgid "Toss"
+msgstr "Fırlat"
+
+#. STRINGS.ACTIONS.OCEAN_TRAWLER_FIX
+msgctxt "STRINGS.ACTIONS.OCEAN_TRAWLER_FIX"
+msgid "Fix"
+msgstr "Onar"
+
+#. STRINGS.ACTIONS.OCEAN_TRAWLER_LOWER
+msgctxt "STRINGS.ACTIONS.OCEAN_TRAWLER_LOWER"
+msgid "Lower"
+msgstr "İndir"
+
+#. STRINGS.ACTIONS.OCEAN_TRAWLER_RAISE
+msgctxt "STRINGS.ACTIONS.OCEAN_TRAWLER_RAISE"
+msgid "Raise"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.CARTOGRAPHY
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.CARTOGRAPHY"
+msgid "Draw at"
+msgstr "Şurada Çiz:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.COOKING
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.COOKING"
+msgid "Cook with"
+msgstr "Şununla Pişir:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.CRITTERS
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.CRITTERS"
+msgid "Look in"
+msgstr "Şuraya Bak:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.EXPERIEMENT
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.EXPERIEMENT"
+msgid "Brew with"
+msgstr "Şununla Demle:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.FORGE
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.FORGE"
+msgid "Forge at"
+msgstr "Şurada Döv:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.GENERIC
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.GENERIC"
+msgid "Research at"
+msgstr "Şurada Araştır:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.OFFERING
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.OFFERING"
+msgid "Make offering at"
+msgstr "Şurada Sunu Yap:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.READ
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.READ"
+msgid "Read"
+msgstr "Oku"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.SCULPTING
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.SCULPTING"
+msgid "Sculpt at"
+msgstr "Şurada Heykel Yap:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.STUDY
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.STUDY"
+msgid "Study at"
+msgstr "Şurada Çalış:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.TRADE
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.TRADE"
+msgid "Trade with"
+msgstr "Şununla Takas Et:"
+
+#. STRINGS.ACTIONS.OPEN_CRAFTING.USE
+msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.USE"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.PEEKBUNDLE
+msgctxt "STRINGS.ACTIONS.PEEKBUNDLE"
+msgid "Peek"
+msgstr "Göz At"
+
+#. STRINGS.ACTIONS.PERFORM
+msgctxt "STRINGS.ACTIONS.PERFORM"
+msgid "Perform"
+msgstr "Sergile"
+
+#. STRINGS.ACTIONS.PET
+msgctxt "STRINGS.ACTIONS.PET"
+msgid "Pet"
+msgstr "Sev"
+
+#. STRINGS.ACTIONS.PICK.GENERIC
+msgctxt "STRINGS.ACTIONS.PICK.GENERIC"
+msgid "Pick"
+msgstr "Topla"
+
+#. STRINGS.ACTIONS.PICK.HARVEST
+msgctxt "STRINGS.ACTIONS.PICK.HARVEST"
+msgid "Harvest"
+msgstr "Hasat Et"
+
+#. STRINGS.ACTIONS.PICK.RUMMAGE
+msgctxt "STRINGS.ACTIONS.PICK.RUMMAGE"
+msgid "Rummage"
+msgstr "Karıştır"
+
+#. STRINGS.ACTIONS.PICK.SEARCH
+msgctxt "STRINGS.ACTIONS.PICK.SEARCH"
+msgid "Search"
+msgstr "Ara"
+
+#. STRINGS.ACTIONS.PICKUP.GENERIC
+msgctxt "STRINGS.ACTIONS.PICKUP.GENERIC"
+msgid "Pick up"
+msgstr "Topla"
+
+#. STRINGS.ACTIONS.PICKUP.HEAVY
+msgctxt "STRINGS.ACTIONS.PICKUP.HEAVY"
+msgid "Carry"
+msgstr "Taşı"
+
+#. STRINGS.ACTIONS.PLANT.GENERIC
+msgctxt "STRINGS.ACTIONS.PLANT.GENERIC"
+msgid "Plant"
+msgstr "Dik"
+
+#. STRINGS.ACTIONS.PLANT.PLANTER
+msgctxt "STRINGS.ACTIONS.PLANT.PLANTER"
+msgid "Put"
+msgstr "Koy"
+
+#. STRINGS.ACTIONS.PLANTREGISTRY_RESEARCH
+msgctxt "STRINGS.ACTIONS.PLANTREGISTRY_RESEARCH"
+msgid "Research"
+msgstr "Araştır"
+
+#. STRINGS.ACTIONS.PLANTREGISTRY_RESEARCH_FAIL
+msgctxt "STRINGS.ACTIONS.PLANTREGISTRY_RESEARCH_FAIL"
+msgid "Research"
+msgstr "Araştır"
+
+#. STRINGS.ACTIONS.PLANTSOIL
+msgctxt "STRINGS.ACTIONS.PLANTSOIL"
+msgid "Plant"
+msgstr "Dik"
+
+#. STRINGS.ACTIONS.PLAY.COACH_OFF
+msgctxt "STRINGS.ACTIONS.PLAY.COACH_OFF"
+msgid "End Coaching"
+msgstr "Antrenörlüğü Bitir"
+
+#. STRINGS.ACTIONS.PLAY.COACH_ON
+msgctxt "STRINGS.ACTIONS.PLAY.COACH_ON"
+msgid "Begin Coaching"
+msgstr "Antrenörlüğe Başla"
+
+#. STRINGS.ACTIONS.PLAY.GENERIC
+msgctxt "STRINGS.ACTIONS.PLAY.GENERIC"
+msgid "Play"
+msgstr "Oyna"
+
+#. STRINGS.ACTIONS.PLAY.TWEET
+msgctxt "STRINGS.ACTIONS.PLAY.TWEET"
+msgid "Tweet"
+msgstr "Cıvılda"
+
+#. STRINGS.ACTIONS.POLLINATE
+msgctxt "STRINGS.ACTIONS.POLLINATE"
+msgid "Pollinate"
+msgstr "Tozlaş"
+
+#. STRINGS.ACTIONS.POUNCECAPTURE
+msgctxt "STRINGS.ACTIONS.POUNCECAPTURE"
+msgid "Encapsulate"
+msgstr "Kapsülle"
+
+#. STRINGS.ACTIONS.POUR_WATER.EXTINGUISH
+msgctxt "STRINGS.ACTIONS.POUR_WATER.EXTINGUISH"
+msgid "Extinguish"
+msgstr "Söndür"
+
+#. STRINGS.ACTIONS.POUR_WATER.GENERIC
+msgctxt "STRINGS.ACTIONS.POUR_WATER.GENERIC"
+msgid "Water"
+msgstr "Sula"
+
+#. STRINGS.ACTIONS.QUOTE
+msgctxt "STRINGS.ACTIONS.QUOTE"
+msgid "Recite"
+msgstr "Oku"
+
+#. STRINGS.ACTIONS.RAISE_ANCHOR
+msgctxt "STRINGS.ACTIONS.RAISE_ANCHOR"
+msgid "Raise"
+msgstr "Kaldır"
+
+#. STRINGS.ACTIONS.RAISE_SAIL
+msgctxt "STRINGS.ACTIONS.RAISE_SAIL"
+msgid "Release Sail"
+msgstr "Yelkeni Salıver"
+
+#. STRINGS.ACTIONS.READ
+msgctxt "STRINGS.ACTIONS.READ"
+msgid "Read"
+msgstr "Oku"
+
+#. STRINGS.ACTIONS.REEL.CANCEL
+msgctxt "STRINGS.ACTIONS.REEL.CANCEL"
+msgid "Stop Fishing"
+msgstr "Balık Tutmayı Bırak"
+
+#. STRINGS.ACTIONS.REEL.GENERIC
+msgctxt "STRINGS.ACTIONS.REEL.GENERIC"
+msgid "Hook"
+msgstr "Yakala"
+
+#. STRINGS.ACTIONS.REEL.REEL
+msgctxt "STRINGS.ACTIONS.REEL.REEL"
+msgid "Reel In"
+msgstr "Çek"
+
+#. STRINGS.ACTIONS.REMOTERESURRECT
+msgctxt "STRINGS.ACTIONS.REMOTERESURRECT"
+msgid "Resurrect"
+msgstr "Dirilt"
+
+#. STRINGS.ACTIONS.REMOTE_TELEPORT.GENERIC
+msgctxt "STRINGS.ACTIONS.REMOTE_TELEPORT.GENERIC"
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#. STRINGS.ACTIONS.REMOTE_TELEPORT.GENERIC_FMT
+msgctxt "STRINGS.ACTIONS.REMOTE_TELEPORT.GENERIC_FMT"
+msgid "Activate {item}"
+msgstr "{item} Etkinleştir"
+
+#. STRINGS.ACTIONS.REMOVELUNARBUILDUP
+msgctxt "STRINGS.ACTIONS.REMOVELUNARBUILDUP"
+msgid "Clear"
+msgstr "Temizle"
+
+#. STRINGS.ACTIONS.REMOVEMODULE
+msgctxt "STRINGS.ACTIONS.REMOVEMODULE"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.REMOVEMODULES
+msgctxt "STRINGS.ACTIONS.REMOVEMODULES"
+msgid "Unplug"
+msgstr "Sök"
+
+#. STRINGS.ACTIONS.REPAIR.GENERIC
+msgctxt "STRINGS.ACTIONS.REPAIR.GENERIC"
+msgid "Repair"
+msgstr "Onar"
+
+#. STRINGS.ACTIONS.REPAIR.REFRESH
+msgctxt "STRINGS.ACTIONS.REPAIR.REFRESH"
+msgid "Refresh"
+msgstr "Tazele"
+
+#. STRINGS.ACTIONS.REPAIR.SOCKET
+msgctxt "STRINGS.ACTIONS.REPAIR.SOCKET"
+msgid "Socket"
+msgstr "Yuvala"
+
+#. STRINGS.ACTIONS.REPAIR_LEAK
+msgctxt "STRINGS.ACTIONS.REPAIR_LEAK"
+msgid "Repair Leak"
+msgstr "Sızıntıyı Onar"
+
+#. STRINGS.ACTIONS.REPEL
+msgctxt "STRINGS.ACTIONS.REPEL"
+msgid "Shoo Spiders"
+msgstr "Örümcekleri Kov"
+
+#. STRINGS.ACTIONS.REPLATE.FMT
+msgctxt "STRINGS.ACTIONS.REPLATE.FMT"
+msgid "Change {dish}"
+msgstr "{dish} Değiştir"
+
+#. STRINGS.ACTIONS.REPLATE.GENERIC
+msgctxt "STRINGS.ACTIONS.REPLATE.GENERIC"
+msgid "Change Plating"
+msgstr "Tabağı Değiştir"
+
+#. STRINGS.ACTIONS.RESEARCH
+msgctxt "STRINGS.ACTIONS.RESEARCH"
+msgid "Research"
+msgstr "Araştır"
+
+#. STRINGS.ACTIONS.RESETMINE
+msgctxt "STRINGS.ACTIONS.RESETMINE"
+msgid "Reset"
+msgstr "Sıfırla"
+
+#. STRINGS.ACTIONS.RETRACT_PLANK
+msgctxt "STRINGS.ACTIONS.RETRACT_PLANK"
+msgid "Retract"
+msgstr "Geri Çek"
+
+#. STRINGS.ACTIONS.RETURN_FOLLOWER
+msgctxt "STRINGS.ACTIONS.RETURN_FOLLOWER"
+msgid "Send Home"
+msgstr "Eve Yolla"
+
+#. STRINGS.ACTIONS.REVIVE_CORPSE
+msgctxt "STRINGS.ACTIONS.REVIVE_CORPSE"
+msgid "Revive"
+msgstr "Dirilt"
+
+#. STRINGS.ACTIONS.ROTATE_BOAT_CLOCKWISE
+msgctxt "STRINGS.ACTIONS.ROTATE_BOAT_CLOCKWISE"
+msgid "Rotate Starboard"
+msgstr "Sancağa Dön"
+
+#. STRINGS.ACTIONS.ROTATE_BOAT_COUNTERCLOCKWISE
+msgctxt "STRINGS.ACTIONS.ROTATE_BOAT_COUNTERCLOCKWISE"
+msgid "Rotate Port"
+msgstr "İskeleye Dön"
+
+#. STRINGS.ACTIONS.ROTATE_BOAT_STOP
+msgctxt "STRINGS.ACTIONS.ROTATE_BOAT_STOP"
+msgid "Stop Rotating"
+msgstr "Dönmeyi Bırak"
+
+#. STRINGS.ACTIONS.ROTATE_FENCE
+msgctxt "STRINGS.ACTIONS.ROTATE_FENCE"
+msgid "Rotate"
+msgstr "Döndür"
+
+#. STRINGS.ACTIONS.ROW
+msgctxt "STRINGS.ACTIONS.ROW"
+msgid "Row"
+msgstr "Kürek Çek"
+
+#. STRINGS.ACTIONS.ROW_CONTROLLER
+msgctxt "STRINGS.ACTIONS.ROW_CONTROLLER"
+msgid "Row"
+msgstr "Kürek Çek"
+
+#. STRINGS.ACTIONS.ROW_FAIL
+msgctxt "STRINGS.ACTIONS.ROW_FAIL"
+msgid "Row"
+msgstr "Kürek Çek"
+
+#. STRINGS.ACTIONS.RUMMAGE.CLOSE
+msgctxt "STRINGS.ACTIONS.RUMMAGE.CLOSE"
+msgid "Close"
+msgstr "Kapat"
+
+#. STRINGS.ACTIONS.RUMMAGE.DECORATE
+msgctxt "STRINGS.ACTIONS.RUMMAGE.DECORATE"
+msgid "Decorate"
+msgstr "Süsle"
+
+#. STRINGS.ACTIONS.RUMMAGE.GENERIC
+msgctxt "STRINGS.ACTIONS.RUMMAGE.GENERIC"
+msgid "Open"
+msgstr "Aç"
+
+#. STRINGS.ACTIONS.SADDLE
+msgctxt "STRINGS.ACTIONS.SADDLE"
+msgid "Saddle"
+msgstr "Eyerle"
+
+#. STRINGS.ACTIONS.SCYTHE
+msgctxt "STRINGS.ACTIONS.SCYTHE"
+msgid "Reap"
+msgstr "Biç"
+
+#. STRINGS.ACTIONS.SET_HEADING
+msgctxt "STRINGS.ACTIONS.SET_HEADING"
+msgid "Set Heading"
+msgstr "Yön Belirle"
+
+#. STRINGS.ACTIONS.SEW.GENERIC
+msgctxt "STRINGS.ACTIONS.SEW.GENERIC"
+msgid "Sew"
+msgstr "Dik"
+
+#. STRINGS.ACTIONS.SEW.PATCH
+msgctxt "STRINGS.ACTIONS.SEW.PATCH"
+msgid "Patch"
+msgstr "Yamala"
+
+#. STRINGS.ACTIONS.SHAVE.GENERIC
+msgctxt "STRINGS.ACTIONS.SHAVE.GENERIC"
+msgid "Shave"
+msgstr "Tıraş Et"
+
+#. STRINGS.ACTIONS.SHAVE.SELF
+msgctxt "STRINGS.ACTIONS.SHAVE.SELF"
+msgid "Shave Self"
+msgstr "Kendini Tıraş Et"
+
+#. STRINGS.ACTIONS.SING
+msgctxt "STRINGS.ACTIONS.SING"
+msgid "Sing"
+msgstr "Şarkı Söyle"
+
+#. STRINGS.ACTIONS.SITON
+msgctxt "STRINGS.ACTIONS.SITON"
+msgid "Sit On"
+msgstr "Otur"
+
+#. STRINGS.ACTIONS.SLAUGHTER.BUTCHER
+msgctxt "STRINGS.ACTIONS.SLAUGHTER.BUTCHER"
+msgid "Politely Butcher"
+msgstr "Nazikçe Doğra"
+
+#. STRINGS.ACTIONS.SLAUGHTER.DISEMBOWEL
+msgctxt "STRINGS.ACTIONS.SLAUGHTER.DISEMBOWEL"
+msgid "Gently Disembowel"
+msgstr "İncelikle Bağırsaklarını Çıkar"
+
+#. STRINGS.ACTIONS.SLAUGHTER.EVISCERATE
+msgctxt "STRINGS.ACTIONS.SLAUGHTER.EVISCERATE"
+msgid "Softly Eviscerate"
+msgstr "Yumuşakça Deş"
+
+#. STRINGS.ACTIONS.SLAUGHTER.KILL
+msgctxt "STRINGS.ACTIONS.SLAUGHTER.KILL"
+msgid "Delicately Kill"
+msgstr "İncelikle Öldür"
+
+#. STRINGS.ACTIONS.SLAUGHTER.MURDER
+msgctxt "STRINGS.ACTIONS.SLAUGHTER.MURDER"
+msgid "Tastefully Murder"
+msgstr "Zarafetle Öldür"
+
+#. STRINGS.ACTIONS.SLAUGHTER.SLAUGHTER
+msgctxt "STRINGS.ACTIONS.SLAUGHTER.SLAUGHTER"
+msgid "Gingerly Slaughter"
+msgstr "İhtiyatla Boğazla"
+
+#. STRINGS.ACTIONS.SLEEPIN
+msgctxt "STRINGS.ACTIONS.SLEEPIN"
+msgid "Sleep"
+msgstr "Uyu"
+
+#. STRINGS.ACTIONS.SMOTHER
+msgctxt "STRINGS.ACTIONS.SMOTHER"
+msgid "Extinguish"
+msgstr "Söndür"
+
+#. STRINGS.ACTIONS.SOAKIN
+msgctxt "STRINGS.ACTIONS.SOAKIN"
+msgid "Soak In"
+msgstr "Banyo Yap"
+
+#. STRINGS.ACTIONS.SPICE
+msgctxt "STRINGS.ACTIONS.SPICE"
+msgid "Season"
+msgstr "Tatlandır"
+
+#. STRINGS.ACTIONS.STARTCHANNELING.GENERIC
+msgctxt "STRINGS.ACTIONS.STARTCHANNELING.GENERIC"
+msgid "Touch"
+msgstr "Dokun"
+
+#. STRINGS.ACTIONS.STARTCHANNELING.PUMP
+msgctxt "STRINGS.ACTIONS.STARTCHANNELING.PUMP"
+msgid "Pump"
+msgstr "Pompala"
+
+#. STRINGS.ACTIONS.STARTELECTRICLINK
+msgctxt "STRINGS.ACTIONS.STARTELECTRICLINK"
+msgid "Toggle Linking"
+msgstr "Bağlantı Aç/Kapa"
+
+#. STRINGS.ACTIONS.STARTMAPDELIVER
+msgctxt "STRINGS.ACTIONS.STARTMAPDELIVER"
+msgid "Deliver"
+msgstr "Teslim Et"
+
+#. STRINGS.ACTIONS.STARTREMOVINGMODULE
+msgctxt "STRINGS.ACTIONS.STARTREMOVINGMODULE"
+msgid "Open Chassis"
+msgstr "Şasiyi Aç"
+
+#. STRINGS.ACTIONS.START_CARRAT_RACE
+msgctxt "STRINGS.ACTIONS.START_CARRAT_RACE"
+msgid "Start the Carrat Race"
+msgstr "Havufare Yarışını Başlat"
+
+#. STRINGS.ACTIONS.START_CHANNELCAST.GENERIC
+msgctxt "STRINGS.ACTIONS.START_CHANNELCAST.GENERIC"
+msgid "Start Channeling"
+msgstr "Yöneltme Başlat"
+
+#. STRINGS.ACTIONS.START_CHANNELCAST.LIGHTER
+msgctxt "STRINGS.ACTIONS.START_CHANNELCAST.LIGHTER"
+msgid "Absorb Fire"
+msgstr "Ateşi Em"
+
+#. STRINGS.ACTIONS.START_PUSHING.GENERIC
+msgctxt "STRINGS.ACTIONS.START_PUSHING.GENERIC"
+msgid "Push"
+msgstr "İt"
+
+#. STRINGS.ACTIONS.START_PUSHING.ROLL
+msgctxt "STRINGS.ACTIONS.START_PUSHING.ROLL"
+msgid "Roll"
+msgstr "Yuvarla"
+
+#. STRINGS.ACTIONS.STEER_BOAT
+msgctxt "STRINGS.ACTIONS.STEER_BOAT"
+msgid "Steer"
+msgstr "Yönlendir"
+
+#. STRINGS.ACTIONS.STOKEFIRE
+msgctxt "STRINGS.ACTIONS.STOKEFIRE"
+msgid "Stoke Fire"
+msgstr "Ateşi Körükle"
+
+#. STRINGS.ACTIONS.STOPCHANNELING
+msgctxt "STRINGS.ACTIONS.STOPCHANNELING"
+msgid "Stop Channeling"
+msgstr "Yöneltmeyi Bırak"
+
+#. STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC
+msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC"
+msgid "Stop Building"
+msgstr "İnşayı Bırak"
+
+#. STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC_FMT
+msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.GENERIC_FMT"
+msgid "Stop Building {name}"
+msgstr "{name} İnşasını Bırak"
+
+#. STRINGS.ACTIONS.STOPCONSTRUCTION.OFFER
+msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.OFFER"
+msgid "Stop Offering to"
+msgstr "Sunmayı Bırak:"
+
+#. STRINGS.ACTIONS.STOPCONSTRUCTION.REBUILD
+msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.REBUILD"
+msgid "Stop Rebuilding"
+msgstr "Yeniden İnşayı Bırak"
+
+#. STRINGS.ACTIONS.STOPCONSTRUCTION.REPAIR
+msgctxt "STRINGS.ACTIONS.STOPCONSTRUCTION.REPAIR"
+msgid "Stop Repairing"
+msgstr "Onarmayı Bırak"
+
+#. STRINGS.ACTIONS.STOPMODSLINGSHOT
+msgctxt "STRINGS.ACTIONS.STOPMODSLINGSHOT"
+msgid "Stop Modding"
+msgstr "Modlamayı Bırak"
+
+#. STRINGS.ACTIONS.STOPREMOVINGMODULE
+msgctxt "STRINGS.ACTIONS.STOPREMOVINGMODULE"
+msgid "Close Chassis"
+msgstr "Şasiyi Kapat"
+
+#. STRINGS.ACTIONS.STOPUSINGEQUIPPEDITEM.GENERIC
+msgctxt "STRINGS.ACTIONS.STOPUSINGEQUIPPEDITEM.GENERIC"
+msgid "Stop"
+msgstr "Dur"
+
+#. STRINGS.ACTIONS.STOPUSINGEQUIPPEDITEM.WX78_DRONE_ZAP_REMOTE
+msgctxt "STRINGS.ACTIONS.STOPUSINGEQUIPPEDITEM.WX78_DRONE_ZAP_REMOTE"
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#. STRINGS.ACTIONS.STOPUSINGITEM.BEEF_BELL
+msgctxt "STRINGS.ACTIONS.STOPUSINGITEM.BEEF_BELL"
+msgid "Break Bond"
+msgstr "Bağı Kopar"
+
+#. STRINGS.ACTIONS.STOPUSINGITEM.GENERIC
+msgctxt "STRINGS.ACTIONS.STOPUSINGITEM.GENERIC"
+msgid "Stop"
+msgstr "Dur"
+
+#. STRINGS.ACTIONS.STOPUSINGITEM.SHADOW_BEEF_BELL
+msgctxt "STRINGS.ACTIONS.STOPUSINGITEM.SHADOW_BEEF_BELL"
+msgid "Break Binding"
+msgstr "Bağı Kopar"
+
+#. STRINGS.ACTIONS.STOPUSINGITEM.SLINGSHOTMODKIT
+msgctxt "STRINGS.ACTIONS.STOPUSINGITEM.SLINGSHOTMODKIT"
+msgid "Stop Modding"
+msgstr "Modlamayı Bırak"
+
+#. STRINGS.ACTIONS.STOPUSINGMAGICTOOL
+msgctxt "STRINGS.ACTIONS.STOPUSINGMAGICTOOL"
+msgid "Stop"
+msgstr "Dur"
+
+#. STRINGS.ACTIONS.STOP_CHANNELCAST.GENERIC
+msgctxt "STRINGS.ACTIONS.STOP_CHANNELCAST.GENERIC"
+msgid "Stop Channeling"
+msgstr "Yöneltmeyi Bırak"
+
+#. STRINGS.ACTIONS.STOP_CHANNELCAST.LIGHTER
+msgctxt "STRINGS.ACTIONS.STOP_CHANNELCAST.LIGHTER"
+msgid "Stop Absorbing Fire"
+msgstr "Ateş Emmeyi Bırak"
+
+#. STRINGS.ACTIONS.STOP_LIFT_DUMBBELL
+msgctxt "STRINGS.ACTIONS.STOP_LIFT_DUMBBELL"
+msgid "Stop Lifting"
+msgstr "Kaldırmayı Bırak"
+
+#. STRINGS.ACTIONS.STOP_STEERING_BOAT
+msgctxt "STRINGS.ACTIONS.STOP_STEERING_BOAT"
+msgid "Stop Steering"
+msgstr "Yönlendirmeyi Bırak"
+
+#. STRINGS.ACTIONS.STORE.COOK
+msgctxt "STRINGS.ACTIONS.STORE.COOK"
+msgid "Cook"
+msgstr "Pişir"
+
+#. STRINGS.ACTIONS.STORE.DECORATE
+msgctxt "STRINGS.ACTIONS.STORE.DECORATE"
+msgid "Decorate"
+msgstr "Süsle"
+
+#. STRINGS.ACTIONS.STORE.GENERIC
+msgctxt "STRINGS.ACTIONS.STORE.GENERIC"
+msgid "Store"
+msgstr "Sakla"
+
+#. STRINGS.ACTIONS.STORE.IMPRISON
+msgctxt "STRINGS.ACTIONS.STORE.IMPRISON"
+msgid "Imprison"
+msgstr "Hapset"
+
+#. STRINGS.ACTIONS.STORE.SPICE
+msgctxt "STRINGS.ACTIONS.STORE.SPICE"
+msgid "Season"
+msgstr "Tatlandır"
+
+#. STRINGS.ACTIONS.SWAPBODIES_MAP
+msgctxt "STRINGS.ACTIONS.SWAPBODIES_MAP"
+msgid "Transfer Consciousness"
+msgstr "Bilinç Aktar"
+
+#. STRINGS.ACTIONS.TACKLE
+msgctxt "STRINGS.ACTIONS.TACKLE"
+msgid "Charge"
+msgstr "Hücum Et"
+
+#. STRINGS.ACTIONS.TAKEITEM.BIRDCAGE
+msgctxt "STRINGS.ACTIONS.TAKEITEM.BIRDCAGE"
+msgid "Muck Out"
+msgstr "Pisliği Temizle"
+
+#. STRINGS.ACTIONS.TAKEITEM.GENERIC
+msgctxt "STRINGS.ACTIONS.TAKEITEM.GENERIC"
+msgid "Take Item"
+msgstr "Eşya Al"
+
+#. STRINGS.ACTIONS.TAKEITEM.ITEM
+msgctxt "STRINGS.ACTIONS.TAKEITEM.ITEM"
+msgid "Take {item}"
+msgstr "{item} Al"
+
+#. STRINGS.ACTIONS.TAKESINGLEITEM
+msgctxt "STRINGS.ACTIONS.TAKESINGLEITEM"
+msgid "Take Single Item"
+msgstr "Tek Eşya Al"
+
+#. STRINGS.ACTIONS.TALKTO
+msgctxt "STRINGS.ACTIONS.TALKTO"
+msgid "Talk to"
+msgstr "Konuş:"
+
+#. STRINGS.ACTIONS.TAPTREE.GENERIC
+msgctxt "STRINGS.ACTIONS.TAPTREE.GENERIC"
+msgid "Tap"
+msgstr "Sızdır"
+
+#. STRINGS.ACTIONS.TAPTREE.UNTAP
+msgctxt "STRINGS.ACTIONS.TAPTREE.UNTAP"
+msgid "Untap"
+msgstr "Sızdırmayı Bitir"
+
+#. STRINGS.ACTIONS.TEACH.GENERIC
+msgctxt "STRINGS.ACTIONS.TEACH.GENERIC"
+msgid "Learn"
+msgstr "Öğren"
+
+#. STRINGS.ACTIONS.TEACH.NOTES
+msgctxt "STRINGS.ACTIONS.TEACH.NOTES"
+msgid "Study"
+msgstr "Çalış"
+
+#. STRINGS.ACTIONS.TEACH.READ
+msgctxt "STRINGS.ACTIONS.TEACH.READ"
+msgid "Read"
+msgstr "Oku"
+
+#. STRINGS.ACTIONS.TEACH.SCAN
+msgctxt "STRINGS.ACTIONS.TEACH.SCAN"
+msgid "Scan"
+msgstr "Tara"
+
+#. STRINGS.ACTIONS.TEACH.SCRAPBOOK
+msgctxt "STRINGS.ACTIONS.TEACH.SCRAPBOOK"
+msgid "Add to Scrapbook"
+msgstr "Karalama Defterine Ekle"
+
+#. STRINGS.ACTIONS.TELEPORT.GENERIC
+msgctxt "STRINGS.ACTIONS.TELEPORT.GENERIC"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.TELEPORT.TOWNPORTAL
+msgctxt "STRINGS.ACTIONS.TELEPORT.TOWNPORTAL"
+msgid "Touch"
+msgstr "Dokun"
+
+#. STRINGS.ACTIONS.TELLSTORY
+msgctxt "STRINGS.ACTIONS.TELLSTORY"
+msgid "Tell Story"
+msgstr "Hikâye Anlat"
+
+#. STRINGS.ACTIONS.TERRAFORM
+msgctxt "STRINGS.ACTIONS.TERRAFORM"
+msgid "Dig"
+msgstr "Kaz"
+
+#. STRINGS.ACTIONS.TILL
+msgctxt "STRINGS.ACTIONS.TILL"
+msgid "Till"
+msgstr "Sür"
+
+#. STRINGS.ACTIONS.TOGGLEWXSCREECH.GENERIC
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSCREECH.GENERIC"
+msgid "Initiate Sonic Waves"
+msgstr "Ses Dalgaları Başlat"
+
+#. STRINGS.ACTIONS.TOGGLEWXSCREECH.TURNOFF
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSCREECH.TURNOFF"
+msgid "Terminate Sonic Waves"
+msgstr "Ses Dalgalarını Bitir"
+
+#. STRINGS.ACTIONS.TOGGLEWXSHIELDING.GENERIC
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSHIELDING.GENERIC"
+msgid "Activate Block"
+msgstr "Engelleme Etkinleştir"
+
+#. STRINGS.ACTIONS.TOGGLEWXSHIELDING.TURNOFF
+msgctxt "STRINGS.ACTIONS.TOGGLEWXSHIELDING.TURNOFF"
+msgid "Deactivate Block"
+msgstr "Engellemeyi Etkisizleştir"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY"
+msgid "Deploy"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY_TOSS
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.DEPLOY_TOSS"
+msgid "Toss"
+msgstr "Fırlat"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.FENCE
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.FENCE"
+msgid "Build Fence"
+msgstr "Çit Yap"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.FERTILIZE_GROUND"
+msgid "Fertilize Plot"
+msgstr "Toprağı Gübrele"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GATE
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GATE"
+msgid "Build Gate"
+msgstr "Kapı Yap"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC"
+msgid "Plant"
+msgstr "Dik"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GRAVEPLANT
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GRAVEPLANT"
+msgid "Relocate"
+msgstr "Yer Değiştir"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE"
+msgid "Place Ground"
+msgstr "Zemin Yerleştir"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.PORTABLE"
+msgid "Place"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.TURRET
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.TURRET"
+msgid "Place"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WALL
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
+msgid "Build Wall"
+msgstr "Duvar Yap"
+
+#. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WATER
+msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WATER"
+msgid "Launch"
+msgstr "Suya İndir"
+
+#. STRINGS.ACTIONS.TOSS
+msgctxt "STRINGS.ACTIONS.TOSS"
+msgid "Toss"
+msgstr "Fırlat"
+
+#. STRINGS.ACTIONS.TRANSFER_CRITTER
+msgctxt "STRINGS.ACTIONS.TRANSFER_CRITTER"
+msgid "Transfer Ownership"
+msgstr "Sahipliği Devret"
+
+#. STRINGS.ACTIONS.TRAVEL
+msgctxt "STRINGS.ACTIONS.TRAVEL"
+msgid "Travel"
+msgstr "Seyahat Et"
+
+#. STRINGS.ACTIONS.TURNOFF.EMERGENCY
+msgctxt "STRINGS.ACTIONS.TURNOFF.EMERGENCY"
+msgid "Emergency Mode"
+msgstr "Acil Mod"
+
+#. STRINGS.ACTIONS.TURNOFF.GENERIC
+msgctxt "STRINGS.ACTIONS.TURNOFF.GENERIC"
+msgid "Turn Off"
+msgstr "Kapat"
+
+#. STRINGS.ACTIONS.TURNON
+msgctxt "STRINGS.ACTIONS.TURNON"
+msgid "Turn On"
+msgstr "Aç"
+
+#. STRINGS.ACTIONS.UNEQUIP.GENERIC
+msgctxt "STRINGS.ACTIONS.UNEQUIP.GENERIC"
+msgid "Unequip"
+msgstr "Çıkar"
+
+#. STRINGS.ACTIONS.UNEQUIP.HEAVY
+msgctxt "STRINGS.ACTIONS.UNEQUIP.HEAVY"
+msgid "Drop"
+msgstr "Bırak"
+
+#. STRINGS.ACTIONS.UNHITCH
+msgctxt "STRINGS.ACTIONS.UNHITCH"
+msgid "Unhitch from"
+msgstr "Bağı Çöz:"
+
+#. STRINGS.ACTIONS.UNLOAD_GYM
+msgctxt "STRINGS.ACTIONS.UNLOAD_GYM"
+msgid "Unload"
+msgstr "Boşalt"
+
+#. STRINGS.ACTIONS.UNLOAD_WINCH
+msgctxt "STRINGS.ACTIONS.UNLOAD_WINCH"
+msgid "Drop Overboard"
+msgstr "Denize At"
+
+#. STRINGS.ACTIONS.UNLOCK.GENERIC
+msgctxt "STRINGS.ACTIONS.UNLOCK.GENERIC"
+msgid "Unlock"
+msgstr "Kilidi Aç"
+
+#. STRINGS.ACTIONS.UNLOCK.LOCK
+msgctxt "STRINGS.ACTIONS.UNLOCK.LOCK"
+msgid "Lock"
+msgstr "Kilitle"
+
+#. STRINGS.ACTIONS.UNPIN
+msgctxt "STRINGS.ACTIONS.UNPIN"
+msgid "Unstick"
+msgstr "Söküp Al"
+
+#. STRINGS.ACTIONS.UNSADDLE
+msgctxt "STRINGS.ACTIONS.UNSADDLE"
+msgid "Unsaddle"
+msgstr "Eyeri Çıkar"
+
+#. STRINGS.ACTIONS.UNWRAP
+msgctxt "STRINGS.ACTIONS.UNWRAP"
+msgid "Unwrap"
+msgstr "Aç"
+
+#. STRINGS.ACTIONS.UPGRADE.GENERIC
+msgctxt "STRINGS.ACTIONS.UPGRADE.GENERIC"
+msgid "Upgrade"
+msgstr "Yükselt"
+
+#. STRINGS.ACTIONS.UPGRADE.WATERPLANT
+msgctxt "STRINGS.ACTIONS.UPGRADE.WATERPLANT"
+msgid "Plant"
+msgstr "Dik"
+
+#. STRINGS.ACTIONS.USEDOOR.CLOSE
+msgctxt "STRINGS.ACTIONS.USEDOOR.CLOSE"
+msgid "Close"
+msgstr "Kapat"
+
+#. STRINGS.ACTIONS.USEDOOR.OPEN
+msgctxt "STRINGS.ACTIONS.USEDOOR.OPEN"
+msgid "Open"
+msgstr "Aç"
+
+#. STRINGS.ACTIONS.USEEQUIPPEDITEM.GENERIC
+msgctxt "STRINGS.ACTIONS.USEEQUIPPEDITEM.GENERIC"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.USEEQUIPPEDITEM.WX78_DRONE_ZAP_REMOTE
+msgctxt "STRINGS.ACTIONS.USEEQUIPPEDITEM.WX78_DRONE_ZAP_REMOTE"
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#. STRINGS.ACTIONS.USEITEM
+msgctxt "STRINGS.ACTIONS.USEITEM"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.USEITEMON.BEEF_BELL
+msgctxt "STRINGS.ACTIONS.USEITEMON.BEEF_BELL"
+msgid "Bond"
+msgstr "Bağ Kur"
+
+#. STRINGS.ACTIONS.USEITEMON.GEARS
+msgctxt "STRINGS.ACTIONS.USEITEMON.GEARS"
+msgid "Repair"
+msgstr "Onar"
+
+#. STRINGS.ACTIONS.USEITEMON.GENERIC
+msgctxt "STRINGS.ACTIONS.USEITEMON.GENERIC"
+msgid "Use On"
+msgstr "Üzerine Kullan"
+
+#. STRINGS.ACTIONS.USEITEMON.GESTALT_POSSESS
+msgctxt "STRINGS.ACTIONS.USEITEMON.GESTALT_POSSESS"
+msgid "Transfer Gestalt"
+msgstr "Gestalt Aktar"
+
+#. STRINGS.ACTIONS.USEITEMON.KITCOON_NAMETAG
+msgctxt "STRINGS.ACTIONS.USEITEMON.KITCOON_NAMETAG"
+msgid "Name"
+msgstr "İsim Ver"
+
+#. STRINGS.ACTIONS.USEITEMON.SHADOW_BEEF_BELL
+msgctxt "STRINGS.ACTIONS.USEITEMON.SHADOW_BEEF_BELL"
+msgid "Bind"
+msgstr "Bağla"
+
+#. STRINGS.ACTIONS.USEITEMON.SLINGSHOTMODKIT
+msgctxt "STRINGS.ACTIONS.USEITEMON.SLINGSHOTMODKIT"
+msgid "Mod"
+msgstr "Modifiye Et"
+
+#. STRINGS.ACTIONS.USEITEMON.SOCKET_DEFAULT
+msgctxt "STRINGS.ACTIONS.USEITEMON.SOCKET_DEFAULT"
+msgid "Socket"
+msgstr "Yuvala"
+
+#. STRINGS.ACTIONS.USEITEMON.SOCKET_GESTALTTRAPPER
+msgctxt "STRINGS.ACTIONS.USEITEMON.SOCKET_GESTALTTRAPPER"
+msgid "Install"
+msgstr "Tak"
+
+#. STRINGS.ACTIONS.USEITEMON.SOCKET_SHADOW
+msgctxt "STRINGS.ACTIONS.USEITEMON.SOCKET_SHADOW"
+msgid "Implant"
+msgstr "Yerleştir"
+
+#. STRINGS.ACTIONS.USEITEMON.WAGDRONE_PARTS
+msgctxt "STRINGS.ACTIONS.USEITEMON.WAGDRONE_PARTS"
+msgid "Repair"
+msgstr "Onar"
+
+#. STRINGS.ACTIONS.USEKLAUSSACKKEY
+msgctxt "STRINGS.ACTIONS.USEKLAUSSACKKEY"
+msgid "Unlock"
+msgstr "Kilidi Aç"
+
+#. STRINGS.ACTIONS.USEMAGICTOOL
+msgctxt "STRINGS.ACTIONS.USEMAGICTOOL"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.USESPELLBOOK.GENERIC
+msgctxt "STRINGS.ACTIONS.USESPELLBOOK.GENERIC"
+msgid "Read"
+msgstr "Oku"
+
+#. STRINGS.ACTIONS.USESPELLBOOK.GHOSTTALK
+msgctxt "STRINGS.ACTIONS.USESPELLBOOK.GHOSTTALK"
+msgid "Whisper"
+msgstr "Fısılda"
+
+#. STRINGS.ACTIONS.USESPELLBOOK.PYROKINESIS
+msgctxt "STRINGS.ACTIONS.USESPELLBOOK.PYROKINESIS"
+msgid "Stoke Embers"
+msgstr "Korları Körükle"
+
+#. STRINGS.ACTIONS.USESPELLBOOK.REMOTE
+msgctxt "STRINGS.ACTIONS.USESPELLBOOK.REMOTE"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.USESPELLBOOK.WOBY
+msgctxt "STRINGS.ACTIONS.USESPELLBOOK.WOBY"
+msgid "Woby Actions"
+msgstr "Woby Eylemleri"
+
+#. STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.GENERIC
+msgctxt "STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.GENERIC"
+msgid "Use"
+msgstr "Kullan"
+
+#. STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.LOAD_GYM
+msgctxt "STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.LOAD_GYM"
+msgid "Load Gym"
+msgstr "Spor Salonuna Yükle"
+
+#. STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.LOAD_WINCH
+msgctxt "STRINGS.ACTIONS.USE_HEAVY_OBSTACLE.LOAD_WINCH"
+msgid "Load Winch"
+msgstr "Vinçe Yükle"
+
+#. STRINGS.ACTIONS.USE_WEREFORM_SKILL.BEAVER
+msgctxt "STRINGS.ACTIONS.USE_WEREFORM_SKILL.BEAVER"
+msgid "Tail Slap"
+msgstr "Kuyruk Vuruşu"
+
+#. STRINGS.ACTIONS.USE_WEREFORM_SKILL.GOOSE
+msgctxt "STRINGS.ACTIONS.USE_WEREFORM_SKILL.GOOSE"
+msgid "Takeoff"
+msgstr "Havalan"
+
+#. STRINGS.ACTIONS.USE_WINCH
+msgctxt "STRINGS.ACTIONS.USE_WINCH"
+msgid "Drop"
+msgstr "Bırak"
+
+#. STRINGS.ACTIONS.WALKTO
+msgctxt "STRINGS.ACTIONS.WALKTO"
+msgid "Walk To"
+msgstr "Şuraya Yürü"
+
+#. STRINGS.ACTIONS.WAX
+msgctxt "STRINGS.ACTIONS.WAX"
+msgid "Wax"
+msgstr "Mumla"
+
+#. STRINGS.ACTIONS.WEIGH_ITEM
+msgctxt "STRINGS.ACTIONS.WEIGH_ITEM"
+msgid "Weigh"
+msgstr "Tart"
+
+#. STRINGS.ACTIONS.WHISTLE
+msgctxt "STRINGS.ACTIONS.WHISTLE"
+msgid "Call Woby"
+msgstr "Woby'yi Çağır"
+
+#. STRINGS.ACTIONS.WINTERSFEAST_FEAST
+msgctxt "STRINGS.ACTIONS.WINTERSFEAST_FEAST"
+msgid "Feast"
+msgstr "Şölen Yap"
+
+#. STRINGS.ACTIONS.WRAPBUNDLE
+msgctxt "STRINGS.ACTIONS.WRAPBUNDLE"
+msgid "Wrap"
+msgstr "Sar"
+
+#. STRINGS.ACTIONS.WRITE
+msgctxt "STRINGS.ACTIONS.WRITE"
+msgid "Write On"
+msgstr "Üzerine Yaz"
+
+#. STRINGS.ACTIONS.YOTB_SEW
+msgctxt "STRINGS.ACTIONS.YOTB_SEW"
+msgid "Sew"
+msgstr "Dik"
+
+#. STRINGS.ACTIONS.YOTB_STARTCONTEST
+msgctxt "STRINGS.ACTIONS.YOTB_STARTCONTEST"
+msgid "Start the Contest"
+msgstr "Yarışmayı Başlat"
+
+#. STRINGS.ACTIONS.YOTB_UNLOCKSKIN
+msgctxt "STRINGS.ACTIONS.YOTB_UNLOCKSKIN"
+msgid "Learn Costume"
+msgstr "Kostüm Öğren"
+
+#. STRINGS.ANTIADDICTION.EXIT_SOON
+msgctxt "STRINGS.ANTIADDICTION.EXIT_SOON"
+msgid "Your time for today is up. Please exit."
+msgstr "Bugünkü süren doldu. Lütfen çıkış yap."
+
+#. STRINGS.ANTIADDICTION.HOUR_1
+msgctxt "STRINGS.ANTIADDICTION.HOUR_1"
+msgid "You've played for one hour."
+msgstr "Bir saattir oynuyorsun."
+
+#. STRINGS.ANTIADDICTION.HOUR_2
+msgctxt "STRINGS.ANTIADDICTION.HOUR_2"
+msgid "You've played for two hours."
+msgstr "İki saattir oynuyorsun."
+
+#. STRINGS.ANTIADDICTION.HOUR_3
+msgctxt "STRINGS.ANTIADDICTION.HOUR_3"
+msgid "You've played for three hours."
+msgstr "Üç saattir oynuyorsun."
+
+#. STRINGS.ANTIADDICTION.HOUR_4
+msgctxt "STRINGS.ANTIADDICTION.HOUR_4"
+msgid "You've played for four hours."
+msgstr "Dört saattir oynuyorsun."
+
+#. STRINGS.ANTIADDICTION.HOUR_5
+msgctxt "STRINGS.ANTIADDICTION.HOUR_5"
+msgid "You've played for five hours."
+msgstr "Beş saattir oynuyorsun."
+
+#. STRINGS.ANTIADDICTION.HOUR_X
+msgctxt "STRINGS.ANTIADDICTION.HOUR_X"
+msgid "You've played for several hours."
+msgstr "Birkaç saattir oynuyorsun."
+
+#. STRINGS.ARCHIVE_RUNE_STATUE.LINE_1
+msgctxt "STRINGS.ARCHIVE_RUNE_STATUE.LINE_1"
+msgid "\"We remain faithful to Alter, as Alter remains faithful to us. Ever watching, knowing, waiting.\""
+msgstr "\"Alter bize sadık kaldıkça biz de Alter'a sadık kalırız. Daima izleyen, bilen, bekleyen.\""
+
+#. STRINGS.ARCHIVE_RUNE_STATUE.LINE_2
+msgctxt "STRINGS.ARCHIVE_RUNE_STATUE.LINE_2"
+msgid "\"Alter, Glorious Moon in the cold night sky. Cast your Life-giving Light on us forever.\""
+msgstr "\"Alter, soğuk gece göğünün Şanlı Ay'ı. Hayat veren Işığını üzerimize sonsuza dek saç.\""
+
+#. STRINGS.ARCHIVE_RUNE_STATUE.LINE_3
+msgctxt "STRINGS.ARCHIVE_RUNE_STATUE.LINE_3"
+msgid "\"Mighty Alter, the source of our strength, our sole provider. We are loyal to none but You.\""
+msgstr "\"Yüce Alter, gücümüzün kaynağı, tek sağlayıcımız. Senden başka kimseye sadakatimiz yok.\""
+
+#. STRINGS.ARCHIVE_RUNE_STATUE.LINE_4
+msgctxt "STRINGS.ARCHIVE_RUNE_STATUE.LINE_4"
+msgid "\"Alter is our Champion. Alter is the Champion. The Champion is Alter.\""
+msgstr "\"Alter, Şampiyonumuzdur. Alter, Şampiyondur. Şampiyon, Alter'dır.\""
+
+#. STRINGS.ARCHIVE_RUNE_STATUE.LINE_5
+msgctxt "STRINGS.ARCHIVE_RUNE_STATUE.LINE_5"
+msgid "\"Alter is good. Alter shall not forsake us. Alter shall return.\""
+msgstr "\"Alter iyidir. Alter bizi terk etmeyecek. Alter geri dönecek.\""
+
+#. STRINGS.ATRIUM_OVERGROWTH.LINE_1
+msgctxt "STRINGS.ATRIUM_OVERGROWTH.LINE_1"
+msgid "\"The unknown hath been made known. The abyss revealed as refuge.\""
+msgstr "\"Bilinmeyen bilinir kılındı. Uçurum sığınak olarak ifşa edildi.\""
+
+#. STRINGS.ATRIUM_OVERGROWTH.LINE_2
+msgctxt "STRINGS.ATRIUM_OVERGROWTH.LINE_2"
+msgid "\"Dread twisted into devotion. Trembling into gratitude.\""
+msgstr "\"Korku, adanmışlığa büküldü. Titreyiş, şükrana dönüştü.\""
+
+#. STRINGS.ATRIUM_OVERGROWTH.LINE_3
+msgctxt "STRINGS.ATRIUM_OVERGROWTH.LINE_3"
+msgid "\"Loyalty unending. We kneel before the undying. The unaltering.\""
+msgstr "\"Sonsuz sadakat. Ölmeyenin önünde diz çökeriz. Değişmeyenin.\""
+
+#. STRINGS.ATRIUM_OVERGROWTH.LINE_4
+msgctxt "STRINGS.ATRIUM_OVERGROWTH.LINE_4"
+msgid "\"Thou art called by manifold names in myriad realms.\""
+msgstr "\"Sayısız diyarda nice adla anılırsın.\""
+
+#. STRINGS.ATRIUM_OVERGROWTH.LINE_5
+msgctxt "STRINGS.ATRIUM_OVERGROWTH.LINE_5"
+msgid "\"To us, Thou art Shrouden. Many and one. Beyond all time. Beyond all realms.\""
+msgstr "\"Bize göre Sen, Shrouden'sin. Çok ve tek. Tüm zamanın ötesinde. Tüm diyarların ötesinde.\""
+
+#. STRINGS.BALATRO.BUTTON_CHOOSE
+msgctxt "STRINGS.BALATRO.BUTTON_CHOOSE"
+msgid "CHOOSE"
+msgstr "SEÇ"
+
+#. STRINGS.BALATRO.BUTTON_CLOSE
+msgctxt "STRINGS.BALATRO.BUTTON_CLOSE"
+msgid "BACK"
+msgstr "GERİ"
+
+#. STRINGS.BALATRO.BUTTON_DEAL
+msgctxt "STRINGS.BALATRO.BUTTON_DEAL"
+msgid "DEAL"
+msgstr "DAĞIT"
+
+#. STRINGS.BALATRO.BUTTON_DISCARD
+msgctxt "STRINGS.BALATRO.BUTTON_DISCARD"
+msgid "DISCARD"
+msgstr "AT"
+
+#. STRINGS.BALATRO.BUTTON_NOTES
+msgctxt "STRINGS.BALATRO.BUTTON_NOTES"
+msgid "NOTES"
+msgstr "NOTLAR"
+
+#. STRINGS.BALATRO.BUTTON_SKIP
+msgctxt "STRINGS.BALATRO.BUTTON_SKIP"
+msgid "SKIP"
+msgstr "ATLA"
+
+#. STRINGS.BALATRO.BUTTON_UNDISCARD
+msgctxt "STRINGS.BALATRO.BUTTON_UNDISCARD"
+msgid "UNDO DISCARD"
+msgstr "ATIŞI GERİ AL"
+
+#. STRINGS.BALATRO.CHIPS
+msgctxt "STRINGS.BALATRO.CHIPS"
+msgid "CHIPS"
+msgstr "FİŞ"
+
+#. STRINGS.BALATRO.CHOOSE_JOKER
+msgctxt "STRINGS.BALATRO.CHOOSE_JOKER"
+msgid "CHOOSE {joker}"
+msgstr "{joker} SEÇ"
+
+#. STRINGS.BALATRO.HANDS.FLUSH
+msgctxt "STRINGS.BALATRO.HANDS.FLUSH"
+msgid "Flush"
+msgstr "Floş"
+
+#. STRINGS.BALATRO.HANDS.FOUROFAKIND
+msgctxt "STRINGS.BALATRO.HANDS.FOUROFAKIND"
+msgid "Four of a Kind"
+msgstr "Kare"
+
+#. STRINGS.BALATRO.HANDS.FULLHOUSE
+msgctxt "STRINGS.BALATRO.HANDS.FULLHOUSE"
+msgid "Full House"
+msgstr "Full"
+
+#. STRINGS.BALATRO.HANDS.HIGHCARD
+msgctxt "STRINGS.BALATRO.HANDS.HIGHCARD"
+msgid "High Card"
+msgstr "Yüksek Kart"
+
+#. STRINGS.BALATRO.HANDS.PAIR
+msgctxt "STRINGS.BALATRO.HANDS.PAIR"
+msgid "Pair"
+msgstr "Çift"
+
+#. STRINGS.BALATRO.HANDS.ROYALFLUSH
+msgctxt "STRINGS.BALATRO.HANDS.ROYALFLUSH"
+msgid "Royal Flush"
+msgstr "Royal Floş"
+
+#. STRINGS.BALATRO.HANDS.STRAIT
+msgctxt "STRINGS.BALATRO.HANDS.STRAIT"
+msgid "Straight"
+msgstr "Streyt"
+
+#. STRINGS.BALATRO.HANDS.STRAITFLUSH
+msgctxt "STRINGS.BALATRO.HANDS.STRAITFLUSH"
+msgid "Straight Flush"
+msgstr "Streyt Floş"
+
+#. STRINGS.BALATRO.HANDS.THREEOFKIND
+msgctxt "STRINGS.BALATRO.HANDS.THREEOFKIND"
+msgid "Three of a Kind"
+msgstr "Üçlü"
+
+#. STRINGS.BALATRO.HANDS.TWOPAIR
+msgctxt "STRINGS.BALATRO.HANDS.TWOPAIR"
+msgid "Two Pair"
+msgstr "İki Çift"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.1
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.1"
+msgid "YOU'D BE A FOOL TO MISS THIS GAME!"
+msgstr "BU OYUNU KAÇIRMAK JOKERLİK OLUR!"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.10
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.10"
+msgid "COME ON, LIVE A LITTLE!"
+msgstr "HADİ AMA, BİRAZ YAŞA!"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.11
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.11"
+msgid "WHAT COULD GO WRONG?"
+msgstr "NE TERS GİDEBİLİR Kİ?"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.12
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.12"
+msgid "IT'S JUST A GAME!"
+msgstr "SADECE BİR OYUN!"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.2
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.2"
+msgid "YOU KNOW WHAT THEY SAY, THE HOUSE ALWAYS WINS!"
+msgstr "BİLİRSİN, KAZINO HEP KAZANIR!"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.3
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.3"
+msgid "I'M LITERALLY A FOOL, WHAT'S YOUR EXCUSE?"
+msgstr "BEN HARFİ HARFİNE BİR JOKERİM, SENİN BAHANEN NE?"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.4
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.4"
+msgid "PLAY A FEW HANDS, LIVE A LITTLE!"
+msgstr "BİRKAÇ EL OYNA, BİRAZ YAŞA!"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.5
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.5"
+msgid "WHAT HARM COULD A LITTLE GAME DO?"
+msgstr "KÜÇÜK BİR OYUNUN NE ZARARI OLABİLİR?"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.6
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.6"
+msgid "A FEW ROUNDS NEVER HURT ANYBODY!"
+msgstr "BİRKAÇ TUR KİMSEYE ZARAR VERMEZ!"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.7
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.7"
+msgid "YOU FEELING LUCKY?"
+msgstr "ŞANSLI HİSSEDİYOR MUSUN?"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.8
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.8"
+msgid "YOU LOOK LIKE A REAL WINNER!"
+msgstr "GERÇEK BİR KAZANANA BENZİYORSUN!"
+
+#. STRINGS.BALATRO.JIMBO_BECKON.9
+msgctxt "STRINGS.BALATRO.JIMBO_BECKON.9"
+msgid "GIVE IT A TRY, IT'S EASY!"
+msgstr "BİR DENE, KOLAY!"
+
+#. STRINGS.BALATRO.JIMBO_CARDS
+msgctxt "STRINGS.BALATRO.JIMBO_CARDS"
+msgid "ALSO, HAVE THESE.."
+msgstr "AYRICA, BUNLARI AL.."
+
+#. STRINGS.BALATRO.JIMBO_CHIPCOUNT
+msgctxt "STRINGS.BALATRO.JIMBO_CHIPCOUNT"
+msgid "{chips} CHIPS"
+msgstr "{chips} FİŞ"
+
+#. STRINGS.BALATRO.JIMBO_CHOOSE_JOKER
+msgctxt "STRINGS.BALATRO.JIMBO_CHOOSE_JOKER"
+msgid "HI, CHOOSE YOUR JOKER."
+msgstr "MERHABA, JOKERİNİ SEÇ."
+
+#. STRINGS.BALATRO.JIMBO_CLOSED
+msgctxt "STRINGS.BALATRO.JIMBO_CLOSED"
+msgid "OK, BYE."
+msgstr "TAMAM, GÜLE GÜLE."
+
+#. STRINGS.BALATRO.JIMBO_DISCARD1
+msgctxt "STRINGS.BALATRO.JIMBO_DISCARD1"
+msgid "ANY FINAL DISCARDS?"
+msgstr "SON ATIŞLAR?"
+
+#. STRINGS.BALATRO.JIMBO_DISCARD2
+msgctxt "STRINGS.BALATRO.JIMBO_DISCARD2"
+msgid "LET'S SEE HOW YOU DID."
+msgstr "BAKALIM NE YAPTIN."
+
+#. STRINGS.BALATRO.JIMBO_FINALSCORE
+msgctxt "STRINGS.BALATRO.JIMBO_FINALSCORE"
+msgid "FOR A FINAL SCORE OF.."
+msgstr "TOPLAM SKORLA.."
+
+#. STRINGS.BALATRO.JIMBO_HANDMULT
+msgctxt "STRINGS.BALATRO.JIMBO_HANDMULT"
+msgid "{hand} IS {mult} MULT."
+msgstr "{hand} {mult} ÇARPAN."
+
+#. STRINGS.BALATRO.JIMBO_NO_REWARD
+msgctxt "STRINGS.BALATRO.JIMBO_NO_REWARD"
+msgid "MAYBE GO FISH IS MORE YOUR SPEED..."
+msgstr "BELKİ TOMBALA SANA DAHA UYGUNDUR..."
+
+#. STRINGS.BALATRO.JIMBO_REWARD_1
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_1"
+msgid "FOR THAT PERFORMANCE, YOU GET {reward}!"
+msgstr "BU PERFORMANSA {reward} ALIRSIN!"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_2
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_2"
+msgid "YOU DID OK. HAVE THIS {reward}."
+msgstr "FENA DEĞİL. AL ŞU {reward}."
+
+#. STRINGS.BALATRO.JIMBO_REWARD_3
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_3"
+msgid "PRETTY GOOD, YOU GET {reward}."
+msgstr "OLDUKÇA İYİ, {reward} KAZANDIN."
+
+#. STRINGS.BALATRO.JIMBO_REWARD_4
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_4"
+msgid "GREAT! ENJOY {reward}!"
+msgstr "HARİKA! {reward} TADINI ÇIKAR!"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_5
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_5"
+msgid "WOW! HERE'S SOME {reward}!"
+msgstr "VAY! İŞTE BİRAZ {reward}!"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_6
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_6"
+msgid "FANTASTIC! SOME {reward} FOR YOU!"
+msgstr "MUHTEŞEM! SANA BİRAZ {reward}!"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_7
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_7"
+msgid "AMAZING! ENJOY YOUR {reward}!"
+msgstr "İNANILMAZ! {reward} TADINI ÇIKAR!"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_8
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_8"
+msgid "TRUE ROYALTY! YOU REALLY EARNED THIS {reward}!"
+msgstr "GERÇEK SOYLU! BU {reward}'I HAK ETTİN!"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_9
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_9"
+msgid "TSK TSK, TRYING TO SNEAK AWAY?"
+msgstr "TIKK TIKK, KAÇMAYA MI ÇALIŞIYORSUN?"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_TYPES.BANANAS
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_TYPES.BANANAS"
+msgid "BANANAS"
+msgstr "MUZ"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_TYPES.BEES
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_TYPES.BEES"
+msgid "BEES"
+msgstr "ARI"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_TYPES.GOLD
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_TYPES.GOLD"
+msgid "GOLD"
+msgstr "ALTIN"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_TYPES.HOUNDS
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_TYPES.HOUNDS"
+msgid "HOUNDS"
+msgstr "KÖPEK"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_TYPES.RESOURCES
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_TYPES.RESOURCES"
+msgid "SUPPLIES"
+msgstr "MALZEME"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_TYPES.SPIDERS
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_TYPES.SPIDERS"
+msgid "SPIDERS"
+msgstr "ÖRÜMCEK"
+
+#. STRINGS.BALATRO.JIMBO_REWARD_TYPES.TREASURE
+msgctxt "STRINGS.BALATRO.JIMBO_REWARD_TYPES.TREASURE"
+msgid "TREASURE"
+msgstr "HAZİNE"
+
+#. STRINGS.BALATRO.JIMBO_SCORE
+msgctxt "STRINGS.BALATRO.JIMBO_SCORE"
+msgid "{score}!"
+msgstr "{score}!"
+
+#. STRINGS.BALATRO.JIMBO_START
+msgctxt "STRINGS.BALATRO.JIMBO_START"
+msgid "CHOOSE CARDS TO DISCARD."
+msgstr "ATILACAK KARTLARI SEÇ."
+
+#. STRINGS.BALATRO.JOKER_MAXWELL
+msgctxt "STRINGS.BALATRO.JOKER_MAXWELL"
+msgid "Each heart discarded\n+1 mult"
+msgstr "Atılan her kupa\n+1 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WALTER
+msgctxt "STRINGS.BALATRO.JOKER_WALTER"
+msgid "For each different suit\nin discard +15 chips"
+msgstr "Atışta her farklı tip için\n+15 fiş"
+
+#. STRINGS.BALATRO.JOKER_WANDA
+msgctxt "STRINGS.BALATRO.JOKER_WANDA"
+msgid "Start with 80 chips\nEach discard -15 chips"
+msgstr "80 fişle başla\nHer atış -15 fiş"
+
+#. STRINGS.BALATRO.JOKER_WARLY
+msgctxt "STRINGS.BALATRO.JOKER_WARLY"
+msgid "Hand contains a heart, a club\na diamond and a spade +4 mult"
+msgstr "El bir kupa, bir sinek\nbir karo ve bir maça içerir +4 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WEBBER
+msgctxt "STRINGS.BALATRO.JOKER_WEBBER"
+msgid "Each Heart or Diamond replaced\nby a club or spade +2 mult"
+msgstr "Her Kupa veya Karo, sinek\nveya maçayla değiştirilirse +2 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WENDY
+msgctxt "STRINGS.BALATRO.JOKER_WENDY"
+msgid "Each discard that becomes\nthe same suit +5 chips +2 mult"
+msgstr "Aynı tipe dönüşen her atış\n+5 fiş +2 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WES
+msgctxt "STRINGS.BALATRO.JOKER_WES"
+msgid "Hand is worse after discard\n+30 chips"
+msgstr "Atıştan sonra el daha kötü\n+30 fiş"
+
+#. STRINGS.BALATRO.JOKER_WICKERBOTTOM
+msgctxt "STRINGS.BALATRO.JOKER_WICKERBOTTOM"
+msgid "Each Queen in hand\n+1 mult"
+msgstr "Eldeki her Kız\n+1 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WIGFRID
+msgctxt "STRINGS.BALATRO.JOKER_WIGFRID"
+msgid "Each Spade in hand\n+25 chips"
+msgstr "Eldeki her Maça\n+25 fiş"
+
+#. STRINGS.BALATRO.JOKER_WILLOW
+msgctxt "STRINGS.BALATRO.JOKER_WILLOW"
+msgid "Each face card discarded\n+20 chips"
+msgstr "Atılan her resimli kart\n+20 fiş"
+
+#. STRINGS.BALATRO.JOKER_WILSON
+msgctxt "STRINGS.BALATRO.JOKER_WILSON"
+msgid "Each pair in hand\n+3 mult"
+msgstr "Eldeki her çift\n+3 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WINONA
+msgctxt "STRINGS.BALATRO.JOKER_WINONA"
+msgid "Each heart kept\n+1 mult"
+msgstr "Tutulan her kupa\n+1 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WOLFGANG
+msgctxt "STRINGS.BALATRO.JOKER_WOLFGANG"
+msgid "Each King in hand\n+25 chips"
+msgstr "Eldeki her Papaz\n+25 fiş"
+
+#. STRINGS.BALATRO.JOKER_WOODIE
+msgctxt "STRINGS.BALATRO.JOKER_WOODIE"
+msgid "Each card discarded\n+7 chips"
+msgstr "Atılan her kart\n+7 fiş"
+
+#. STRINGS.BALATRO.JOKER_WORMWOOD
+msgctxt "STRINGS.BALATRO.JOKER_WORMWOOD"
+msgid "Each club kept\n+15 chips"
+msgstr "Tutulan her sinek\n+15 fiş"
+
+#. STRINGS.BALATRO.JOKER_WORTOX
+msgctxt "STRINGS.BALATRO.JOKER_WORTOX"
+msgid "Each heart discarded +15 chips\nEach heart in hand -11 chips +1 mult"
+msgstr "Atılan her kupa +15 fiş\nEldeki her kupa -11 fiş +1 çarpan"
+
+#. STRINGS.BALATRO.JOKER_WURT
+msgctxt "STRINGS.BALATRO.JOKER_WURT"
+msgid "Each face card kept\n+10 chips per face card"
+msgstr "Tutulan her resimli kart\nresimli kart başına +10 fiş"
+
+#. STRINGS.BALATRO.JOKER_WX78
+msgctxt "STRINGS.BALATRO.JOKER_WX78"
+msgid "Each heart kept once\nthen discarded +2 mult"
+msgstr "Bir kez tutulup\nsonra atılan her kupa +2 çarpan"
+
+#. STRINGS.BALATRO.MULT
+msgctxt "STRINGS.BALATRO.MULT"
+msgid "MULT"
+msgstr "ÇARPAN"
+
+#. STRINGS.BALATRO.NOTES_HANDS
+msgctxt "STRINGS.BALATRO.NOTES_HANDS"
+msgid "HANDS"
+msgstr "ELLER"
+
+#. STRINGS.BALATRO.NOTES_MULT
+msgctxt "STRINGS.BALATRO.NOTES_MULT"
+msgid "MULT"
+msgstr "ÇARPAN"
+
+#. STRINGS.BALATRO.NOTES_RANKS
+msgctxt "STRINGS.BALATRO.NOTES_RANKS"
+msgid "RANKS"
+msgstr "RÜTBELER"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.1
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.1"
+msgid "Annabeef"
+msgstr "Annabızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.10
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.10"
+msgid "Beefinand"
+msgstr "Ferdinandbızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.11
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.11"
+msgid "Wellington"
+msgstr "Wellington"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.12
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.12"
+msgid "Bradbeef"
+msgstr "Bradbızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.13
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.13"
+msgid "Beefany"
+msgstr "Bızofany"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.14
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.14"
+msgid "Harry"
+msgstr "Harry"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.15
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.15"
+msgid "Hoofrey"
+msgstr "Toynakfrey"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.16
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.16"
+msgid "Beeftholomew"
+msgstr "Bartolobızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.17
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.17"
+msgid "Guineveal"
+msgstr "Danavera"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.18
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.18"
+msgid "Patty O'Beef"
+msgstr "Patty O'Bızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.19
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.19"
+msgid "Beeferella"
+msgstr "Sinderbızonella"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.2
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.2"
+msgid "Beefy"
+msgstr "Bızoncuk"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.3
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.3"
+msgid "Beefssie"
+msgstr "Bızonsi"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.4
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.4"
+msgid "Betsbeef"
+msgstr "Betsbızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.5
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.5"
+msgid "Beefa"
+msgstr "Bıza"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.6
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.6"
+msgid "Daisbeef"
+msgstr "Daisybızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.7
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.7"
+msgid "Dixbeef"
+msgstr "Dixbızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.8
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.8"
+msgid "Gertbeef"
+msgstr "Gertbızon"
+
+#. STRINGS.BEEFALONAMING.BEEFNAMES.9
+msgctxt "STRINGS.BEEFALONAMING.BEEFNAMES.9"
+msgid "Beefgus"
+msgstr "Angusbızon"
+
+#. STRINGS.BEEFALONAMING.MENU.ACCEPT
+msgctxt "STRINGS.BEEFALONAMING.MENU.ACCEPT"
+msgid "Done"
+msgstr "Tamam"
+
+#. STRINGS.BEEFALONAMING.MENU.CANCEL
+msgctxt "STRINGS.BEEFALONAMING.MENU.CANCEL"
+msgid "Cancel"
+msgstr "İptal"
+
+#. STRINGS.BEEFALONAMING.MENU.RANDOM
+msgctxt "STRINGS.BEEFALONAMING.MENU.RANDOM"
+msgid "Random"
+msgstr "Rastgele"
+
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
 msgid "Cancel"

@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-28 (Oturum 4 ✅ — Faz 2 UI %100 tamam!)
+**Son güncelleme:** 2026-04-28 (Oturum 5 ✅ — Faz 3 başladı, ACTIONS+lore blokları)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 4.439 / 85.706 msgid (%5.18)
+**Şu ana kadar çevrilen toplam:** 5.048 / 85.706 msgid (%5.89)
 
 ---
 
@@ -73,6 +73,23 @@
 | `0784` | 39 | WXP_DETAILS sonu (LAB_MILESTONE: Timsahkomutanlar/Horultaplumbağalar/Yabansavaşçısı/Gergedankardeşler) + Quagmire milestones + XB1_USER_DIALOG (Xbox kontrolcü) + **XPUTILS** = **UI SON BATCH — FAZ 2 %100 TAMAM** ✅ | ✅ |
 
 ---
+
+## Faz 3 — STRINGS.ACTIONS + küçük lore blokları (devam ediyor)
+
+### ✅ Oturum 5 — 2026-04-28 (8 batch / 609 string)
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0001` | 200 | STRINGS.ACTIONS başlangıcı (A-G): Saldır/İncele/Kuşan/İnşa Et/Hücum Et/Ele Geçir + tüm CASTAOE büyüleri (Lava Arena/Maxwell/Wathgrithr) + DEPLOY/DROP/EAT/EQUIP + GIVE.QUAGMIRE_ALTAR pun (Snackrifice → Atıştırmalık Adak) | ✅ |
+| `0002` | 200 | STRINGS.ACTIONS devamı (G-T): GIVE/HAMMER/HARVEST/HAUNT/HEAL/INVESTIGATE/JUMPIN/LIFT/LOOKAT/Examine→İncele + OCEAN_FISHING tam + OPEN_CRAFTING (Şurada Döv/Sun/Heykel Yap) + Quagmire/Boat/Slaughter ironik kibar öldürme (Politely Butcher → Nazikçe Doğra) | ✅ |
+| `0003` | 90 | STRINGS.ACTIONS sonu (T-Y): TAPTREE/TEACH/TELEPORT/TILL/UNLOCK/USEDOOR/USEITEMON tam + USESPELLBOOK + WEREFORM (Kunduz/Kaz) + WHISTLE Woby + WRAPBUNDLE/WRITE/YOTB | ✅ |
+| `0004` | 7 | STRINGS.ANTIADDICTION (Çin bölgesi anti-bağımlılık uyarıları, saat sayacı) | ✅ |
+| `0005` | 5 | STRINGS.ARCHIVE_RUNE_STATUE (Kadim Arşivler rün heykelleri Alter ilahileri) | ✅ |
+| `0006` | 5 | STRINGS.ATRIUM_OVERGROWTH (Atriyum bitki örtüsü Shrouden ilahileri) | ✅ |
+| `0007` | 80 | STRINGS.BALATRO (Klei cross-promo kart oyunu — Jimbo joker karakteri, 18 karakter joker özel etkisi, poker el türleri: Floş/Kare/Streyt) | ✅ |
+| `0008` | 22 | STRINGS.BEEFALONAMING (Bızonsığır rastgele isim üreteci — Beef→Bızon portmanto: Annabızon/Toynakfrey/Sinderbızonella/Danavera) | ✅ |
+
+**Faz 3 ilk dilim:** ACTIONS tam tamam (490 string), küçük lore blokları (124 string) → 609 string yeni.
 
 ## Faz 3+ — sonraki büyük bloklar (özet)
 
