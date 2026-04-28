@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-28 (Oturum 7 ✅ — Faz 3 devam, CARNIVAL_CROWKID tam + CARNIVAL_HOST tam + CAST)
+**Son güncelleme:** 2026-04-28 (Oturum 8 ✅ — Faz 3 Seçenek B: CHARACTER_* karakter kartları + STRINGS.NAMES başlangıcı)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 5.312 / 85.706 msgid (%6.20)
+**Şu ana kadar çevrilen toplam:** 5.756 / 85.706 msgid (%6.72)
 
 ---
 
@@ -116,36 +116,50 @@
 
 **Faz 3 toplam:** Oturum 5 (609) + Oturum 6 (161) + Oturum 7 (103) = 873 string.
 
-## 🎯 Sıradaki Oturum (8) — Karar Noktası
+### ✅ Oturum 8 — 2026-04-28 (10 batch / 444 string) — SEÇENEK B YOLA ÇIKILDI
 
-> Oturum 7 sonu CAST tamamlandı. **Bir sonraki batch (0060) STRINGS.CHARACTERS başlıyor** — bu Faz 5 işi.
+**Aydın'ın kararı:** Seçenek B (item öncelikli) — CHARACTERS uzun bloğu (0060-0373) atlandı, item-related bloklara geçildi.
 
-### ⚠️ KRİTİK: batch_0060+ — STRINGS.CHARACTERS başlıyor (~62.645 string, ~313 batch)
-**Aydın'ın kararı bekleniyor:** Faz numaraları ile alfabetik batch sıralama uyuşmuyor.
-- Alfabetik: CHARACTERS (60-373) → COOKBOOK → INV_DESC → ... → NAMES → RECIPE_DESC → ...
-- Faz mantığı: Faz 3 = NAMES/RECIPE_DESC/INV_DESC/COOKBOOK öncelik; Faz 5 = CHARACTERS
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0374` | 19 | **STRINGS.CHARACTER_ABOUTME** — 19 karakter hakkında 1 cümle özet (3. tekil anlatıcı; "Wilson hakikaten bir bilim insanı..."). Karakter persona'sı GEREKMEZ — narator anlatımı | ✅ |
+| `0375` | 112 | **STRINGS.CHARACTER_BIOS** — Doğum günü tarihleri (TR formata: "31 Mart"), En sevdiği yemek, uzun lore paragrafları (Walter Constant'a düşüşü, Wanda zaman çatlağı, Warly Maman, Wigfrid Valkyrie rolü, Maxwell Codex Umbra, Webber giriş hikayesi, Wendy Abigail, Wes mim trajikomedi, Wickerbottom librarian-spy, Willow Bernie+ateş, Wilson radyo+makine, Winona Charlie arayışı, Wolfgang sirk, Woodie kuzeyli sakal+Lucy+were-formlar, Wormwood lunar köken, Wortox Krampus dostluğu, Wurt küçük Merm, WX-78 binary "too late"). 16 karakter × 3-4 alan | ✅ |
+| `0376` | 22 | **STRINGS.CHARACTER_DESCRIPTIONS** — bullet list "perks & quirks". Werebeaver=Kunduzkurt, Weremoose=Kurttos, Weregoose=Kurtkaz | ✅ |
+| `0377` | 7 | **STRINGS.CHARACTER_DETAILS** — UI etiketleri: "Yetenekler ve Tuhaflıklar", "Söz", "Eli boş", "Constant'a Girerken Yanında", "Hayatta Kalma Şansı", "Animasyon Filmi Oynat" | ✅ |
+| `0378` | 21 | **STRINGS.CHARACTER_NAMES** — 17 karakter özel isimleri korundu (Wilson P. Higgsbury, Bayan Wickerbottom, vb.); Random=Rastgele, Unknown=Bilinmeyen | ✅ |
+| `0379` | 20 | **STRINGS.CHARACTER_QUOTES** — Karakter alıntıları, KISMİ persona: Wigfrid umlaut "Tüm dünyä bir sahnedir. Bänim için!", WX-78 BÜYÜK HARF "EMPATİ MODÜLÜ YANIT VERMİYOR", Wurt yarım Türkçe "Mermler ko-nu-kse-verlikleriyle ünlü", Wonkey "Uuk UUK!" | ✅ |
+| `0380` | 21 | **STRINGS.CHARACTER_SURVIVABILITY** — risk seviyesi: Slim=Düşük, Grim=Vahim, None=Yok, Unknown=Bilinmiyor | ✅ |
+| `0381` | 19 | **STRINGS.CHARACTER_TITLES** — Karakter unvanları: Korkusuz/Zaman Bekçisi/Aşçı/Performans Sanatçısı/Kuklacı/Hazmedilmez/Yaslı/Sessiz/Kütüphaneci/Ateş Uşağı/Centilmen Bilim İnsanı/Tamirci Hanım/Güçlü Adam/Lanetli/Oduncu/Yalnız/Ruh Aç/Mini Mini/Ruhsuz Otomaton | ✅ |
+| `0382` | 3 | **STRINGS.COOKINGRECIPECARD_DESC** — 3 placeholder (yer tutucu) format string | ✅ |
+| `0578` | 200 | **STRINGS.NAMES (1/15) BAŞLANGIÇ** — A-B item isimleri: Abigail/Karıncaaslanı/Bızonsığır/Yarasalisk/Mekanik Şah/Arıların Kraliçesi/Ayıger... 30+ yeni item glossary terimi (Birchnut=Huşfındığı, Sproutrock=Filiztaşı, Brightshade=Aydıngölge, Werebeaver=Kunduzkurt). Atriyum lore (Sequitor, Ancient Sentrypede), W.A.R.B.I.S./Forge BEETLETAUR=Cehennemi Domuzgöz | ✅ |
 
-**Seçenek A (numaralı sıra):** batch_0060'tan başlayıp CHARACTERS'a doğrudan gir → Faz 5'e erken geç. Persona disiplini için `docs/character-voices.md` zorunlu okuma. Wilson akademik, Wendy melankolik, WX-78 BÜYÜK HARF, Wormwood yarım Türkçe, Wortox kafiyeli — 17 karakter ayrı persona prompt.
+**Faz 3 toplam:** Oturum 5+6+7+8 = 873 + 444 = **1.317 string** (Faz 3'ün ~%26'sı tahmini)
 
-**Seçenek B (faz öncelikli):** batch_0060-0373 CHARACTERS'ı atla, sırayla COOKBOOK/INV_DESC/NAMES/RECIPE_DESC/PLANTREGISTRY batch'lerini bul (numarayla aramak gerekiyor) — Faz 3'ü tamamla, sonra Faz 5'e dön.
+## 🎯 Sıradaki Oturum (9) — Yol Haritası (Seçenek B devam)
 
-**Tavsiye (Claude'dan):** Item glossary'si CHARACTERS persona'sı için besleyici (Wilson "Cut Grass" derse Türkçe adını bilmek lazım) → **Seçenek B mantıklı**. Ama nihai karar Aydın'da.
+### NAMES devam: 14 batch daha (~2.600 string, ~5-7 oturum)
+- `0579` STRINGS.NAMES (B-C) — BLOWDART_LAVA sonrası
+- `0580` STRINGS.NAMES (C-D)
+- `0581` STRINGS.NAMES
+- `0582-0592` STRINGS.NAMES devam (toplam 14 batch kaldı, her biri ~200 string)
 
-### Hızlı başlangıç: Aydın "B devam" derse
-Aşağıdaki batch numaralarını `pipeline/batches/pending/` içinde aramak lazım (alfabetik POT extraction olduğundan numara aralıkları tahmini):
-- COOKBOOK ~ batch 0374-0390 civarı (Warly tarif kitabı pun'ları)
-- INV_DESC ~ batch 0440-0480 civarı (envanter hover açıklamaları)
-- NAMES ~ batch 0480-0560 civarı (~2.802 item ismi — **EN GÖRÜNÜR KISIM**)
-- RECIPE_DESC ~ batch 0560-0600 civarı (~956 tarif açıklaması)
-- PLANTREGISTRY ~ batch 0640-0680 civarı (Wickerbottom -W bitki kayıt)
+### NAMES sonrası
+- `0593` STRINGS.NAME_DETAIL_EXTENTION (1 batch, ek detay)
+- `0594` STRINGS.NIGHTMARE_OVERGROWTH (1 batch, lore)
+- `0595` STRINGS.PIGNAMES (1 batch, domuz isimleri)
+- `0596-0631` PIG_* talkers (PIG_GUARD/PIG_TALK_*)
+- `0632` STRINGS.PLAYING_CARD_NAMES (Balatro)
+- `0633` STRINGS.PLAYS (Stage Play repertoire)
+- `0635` STRINGS.PYROMANCY (Willow ateş büyüleri)
+- `0636-0639` STRINGS.QUAGMIRE_* (Boğaz lore)
+- `0650-0654` **STRINGS.RECIPE_DESC** (5 batch, ~956 tarif açıklaması) ⭐⭐
+- `0655-0658` STRINGS.SCRAPBOOK (Faz 4)
+- `0659-0683` SELECT/SET/SHADOW/SHARD/SHARKBOI/SIGNS/SKILLTREE bloklar
+- `0684-0723` SKIN_DESCRIPTIONS + SKIN_NAMES (Faz 6)
+- `0733-0736` STAGEACTOR (Faz 4)
 
-Numara aralıklarını teyit için: `ls pipeline/batches/pending/ | grep -E "(COOKBOOK|INV_DESC|NAMES|RECIPE)"` — ama dosya adları batch_NNNN.json formatında olduğundan içeriği sample'la (head -1) `category` alanına bakmak gerek.
-
-### Hızlı başlangıç: Aydın "A devam" derse
-- `docs/character-voices.md` zorunlu oku → 17 karakter persona
-- batch_0060.json oku → category=CHARACTERS.<KARAKTER> görür
-- Karakter karakter ilerle (büyüklük: ~2.000-7.000 string per karakter)
-- Wilson en uzun (referans tonu); önerilen ilk: Wilson; sonra Wickerbottom (akademik), Maxwell (alaycı), Wendy (melankolik), Willow, Wolfgang, Webber, Winona, Walter, Warly, Wanda, Wormwood, Wortox, WX-78, Wurt, Wigfrid, Woodie
+### Faz 5 (CHARACTERS) sonra dönülecek
+Item glossary tamamlandığında batch_0060'a dönüp 17 karakter speech çevirisine başla. Persona disiplini için `docs/character-voices.md` zorunlu.
 
 ## Faz 3+ — sonraki büyük bloklar (özet)
 

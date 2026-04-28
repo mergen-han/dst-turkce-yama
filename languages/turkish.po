@@ -4368,6 +4368,2226 @@ msgctxt "STRINGS.CAST.VISIONIST"
 msgid "The Visionist"
 msgstr "Görücü"
 
+#. STRINGS.CHARACTER_ABOUTME.walter
+msgctxt "STRINGS.CHARACTER_ABOUTME.walter"
+msgid "Walter is an odd but cheerful boy, whose ability to assess danger leaves something to be desired."
+msgstr "Walter tuhaf ama neşeli bir oğlan, fakat tehlikeyi değerlendirme yeteneği biraz arzulananın gerisinde."
+
+#. STRINGS.CHARACTER_ABOUTME.wanda
+msgctxt "STRINGS.CHARACTER_ABOUTME.wanda"
+msgid "Wanda is a skilled clockmaker who will stop at nothing to outrun her future."
+msgstr "Wanda yetenekli bir saat ustası, geleceğinden kaçmak için hiçbir şeyden çekinmez."
+
+#. STRINGS.CHARACTER_ABOUTME.warly
+msgctxt "STRINGS.CHARACTER_ABOUTME.warly"
+msgid "To Warly, cooking is a language through which to express love and gratitude to those he holds dear."
+msgstr "Warly için yemek pişirmek, sevdiklerine sevgi ve şükran ifade ettiği bir dildir."
+
+#. STRINGS.CHARACTER_ABOUTME.wathgrithr
+msgctxt "STRINGS.CHARACTER_ABOUTME.wathgrithr"
+msgid "Whoever Wigfrid was before her titular role has been lost to time, and the power of method acting."
+msgstr "Wigfrid'in unutulmaz rolünden önce kim olduğu, zaman ve metot oyunculuğunun gücüne karışıp kaybolmuştur."
+
+#. STRINGS.CHARACTER_ABOUTME.waxwell
+msgctxt "STRINGS.CHARACTER_ABOUTME.waxwell"
+msgid "Formerly the Nightmare King, lately Maxwell finds himself reacquainted with life among the commonfolk."
+msgstr "Eski Kabuslar Kralı Maxwell, son zamanlarda kendini sıradan halk arasındaki yaşama yeniden alışırken buluyor."
+
+#. STRINGS.CHARACTER_ABOUTME.webber
+msgctxt "STRINGS.CHARACTER_ABOUTME.webber"
+msgid "Webber is a polite young monster who cares deeply for all his friends, human or otherwise."
+msgstr "Webber, insan ya da değil, tüm dostlarını yürekten önemseyen kibar bir genç canavardır."
+
+#. STRINGS.CHARACTER_ABOUTME.wendy
+msgctxt "STRINGS.CHARACTER_ABOUTME.wendy"
+msgid "Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself."
+msgstr "Wendy, kız kardeş bağı ölümün ötesine geçecek kadar güçlü olan kasvetli bir genç hanımdır."
+
+#. STRINGS.CHARACTER_ABOUTME.wes
+msgctxt "STRINGS.CHARACTER_ABOUTME.wes"
+msgid "Wes is a mime of many thoughts, but few words."
+msgstr "Wes çok düşünen ama az konuşan bir mim sanatçısıdır."
+
+#. STRINGS.CHARACTER_ABOUTME.wickerbottom
+msgctxt "STRINGS.CHARACTER_ABOUTME.wickerbottom"
+msgid "A woman of curious mind and stern air, Wickerbottom thrives on the lifelong pursuit of knowledge."
+msgstr "Meraklı bir zihne ve sert bir havaya sahip Wickerbottom, ömür boyu süren bilgi arayışıyla yaşar."
+
+#. STRINGS.CHARACTER_ABOUTME.willow
+msgctxt "STRINGS.CHARACTER_ABOUTME.willow"
+msgid "Willow is a candid woman whose penchant for fire often gets her into more than a little trouble."
+msgstr "Willow, ateşe olan düşkünlüğü onu sık sık başına az olmayan bela getiren açık sözlü bir kadındır."
+
+#. STRINGS.CHARACTER_ABOUTME.wilson
+msgctxt "STRINGS.CHARACTER_ABOUTME.wilson"
+msgid "At heart Wilson is truly a man of science. It's not in his nature to resist the call of the unknown."
+msgstr "Yüreğinde Wilson hakikaten bir bilim insanıdır. Bilinmeyenin çağrısına direnmek doğasında yoktur."
+
+#. STRINGS.CHARACTER_ABOUTME.winona
+msgctxt "STRINGS.CHARACTER_ABOUTME.winona"
+msgid "Winona is a former assembly line worker with a boisterous attitude and love of all things mechanical."
+msgstr "Winona, gürültücü bir tutuma ve mekanik her şeye olan sevgiye sahip eski bir montaj hattı işçisidir."
+
+#. STRINGS.CHARACTER_ABOUTME.wolfgang
+msgctxt "STRINGS.CHARACTER_ABOUTME.wolfgang"
+msgid "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias."
+msgstr "Wolfgang, kalbi sayısız fobiyle musallat olmuş, dost canlısı, kaslı bir devdir."
+
+#. STRINGS.CHARACTER_ABOUTME.wonkey
+msgctxt "STRINGS.CHARACTER_ABOUTME.wonkey"
+msgid "This poor soul has fallen victim to the curse of the dreaded Moon Quay pirates."
+msgstr "Bu zavallı ruh, korkulan Ay Quay korsanlarının lanetine kurban düşmüştür."
+
+#. STRINGS.CHARACTER_ABOUTME.woodie
+msgctxt "STRINGS.CHARACTER_ABOUTME.woodie"
+msgid "A gruff, bearded woodsman, Woodie has a soft spot for nature, plaid, and his trusty axe, Lucy."
+msgstr "Asık yüzlü, sakallı bir ormancı olan Woodie'nin doğaya, ekoseye ve sadık baltası Lucy'ye karşı zaafı vardır."
+
+#. STRINGS.CHARACTER_ABOUTME.wormwood
+msgctxt "STRINGS.CHARACTER_ABOUTME.wormwood"
+msgid "An amalgam of vines given sentience by lunar magic, Wormwood searches for friends so he can finally belong."
+msgstr "Ay büyüsüyle bilinç kazandırılmış asma yığını Wormwood, sonunda bir yere ait olabilmek için dostlar arar."
+
+#. STRINGS.CHARACTER_ABOUTME.wortox
+msgctxt "STRINGS.CHARACTER_ABOUTME.wortox"
+msgid "Wortox is a mischievous imp whose levity masks a deep well of guilt. He has taken many souls in his time."
+msgstr "Wortox, hafifliğinin altında derin bir suçluluk kuyusu gizleyen yaramaz bir şeytancıktır. Zamanında pek çok ruh almıştır."
+
+#. STRINGS.CHARACTER_ABOUTME.wurt
+msgctxt "STRINGS.CHARACTER_ABOUTME.wurt"
+msgid "Wurt is a curious young Merm trying to expand her horizons... as long as those horizons don't extend into Pig territory."
+msgstr "Wurt, ufkunu genişletmeye çalışan meraklı bir genç Merm'dir... tabii o ufuklar Domuz topraklarına uzanmadığı sürece."
+
+#. STRINGS.CHARACTER_ABOUTME.wx78
+msgctxt "STRINGS.CHARACTER_ABOUTME.wx78"
+msgid "One might assume WX's callous nature hides a sensitive inner soul. One would assume incorrectly."
+msgstr "Birisi WX'in katı tabiatının altında hassas bir iç ruh sakladığını varsayabilir. Yanlış varsaymış olur."
+
+#. STRINGS.CHARACTER_BIOS.walter.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.walter.1.desc"
+msgid "March 31"
+msgstr "31 Mart"
+
+#. STRINGS.CHARACTER_BIOS.walter.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.walter.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.walter.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.walter.2.desc"
+msgid "Trail Mix"
+msgstr "Yol Karışımı"
+
+#. STRINGS.CHARACTER_BIOS.walter.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.walter.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.walter.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.walter.3.desc"
+msgid "The only thing that could ever rival Walter's love for the great outdoors was his fascination with monsters and mystery. Nothing captured his interest more than a spooky story heard over the radio or a local legend about an elusive cryptid.\nIt was that pursuit of the unknown that eventually led him to the Constant. While searching for a man who Walter believed would have answers to his questions about a mysterious creature rumored to live in the woods, he instead came upon an abandoned cabin. The owner seemed to have left hastily, leaving all their belongings behind... including an odd radio that miraculously still seemed to be working. With curiosity getting the better of him he investigated the radio further, springing a trap that had lain dormant for years...\nNow finding himself trapped in the Constant, Walter has befriended another lost soul - a scruffy dog named Woby. Though much about her remains a mystery, Walter has vowed to one day return her to her rightful home (after all, returning lost dogs is the Pinetree Pioneer thing to do)."
+msgstr "Walter'ın doğa sevgisine rakip olabilecek tek şey, canavarlara ve gizemlere duyduğu hayranlıktı. Ne radyodan duyulan ürkütücü bir hikâye, ne de yakalanamayan bir kriptide dair yerel bir efsane onun ilgisini bundan daha çok çekemezdi.\nOnu sonunda Constant'a sürükleyen şey de bilinmeyene olan bu merakıydı. Ormanda yaşadığı söylenen gizemli bir yaratık hakkındaki sorularına yanıt bulacağına inandığı bir adamı ararken, bunun yerine terk edilmiş bir kulübeyle karşılaştı. Sahibi, tüm eşyalarını geride bırakarak aceleyle ayrılmış gibi görünüyordu... mucize eseri hâlâ çalışıyor görünen tuhaf bir radyo dahil. Merakına yenik düşüp radyoyu daha yakından incelerken, yıllardır uyuklayan bir tuzağı tetikledi...\nKendini Constant'ta tuzağa düşmüş bulan Walter, şimdi başka bir kayıp ruhla — Woby adında pasaklı bir köpekle — dost olmuştur. Onun hakkında çok şey hâlâ bir gizem olsa da, Walter bir gün onu asıl evine geri götüreceğine yemin etmiştir (ne de olsa kayıp köpekleri eve götürmek bir Çamağacı Öncüsü'nün yapacağı şeydir)."
+
+#. STRINGS.CHARACTER_BIOS.walter.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.walter.3.title"
+msgid "Constant Companion"
+msgstr "Constant Yoldaşı"
+
+#. STRINGS.CHARACTER_BIOS.wanda.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wanda.1.desc"
+msgid "August 8"
+msgstr "8 Ağustos"
+
+#. STRINGS.CHARACTER_BIOS.wanda.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wanda.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wanda.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wanda.2.desc"
+msgid "Taffy"
+msgstr "Şekerleme"
+
+#. STRINGS.CHARACTER_BIOS.wanda.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wanda.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wanda.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wanda.3.desc"
+msgid "An enigmatic woman of... well, fluctuating age, Wanda was torn from the world she knew after accidentally creating a fracture in time and space, pulling her from her own timeline into the land of the Constant. Though she avoids divulging many details of her past with the other Survivors, she seems to have an odd familiarity with them, as though she's run into them before... or perhaps, later?"
+msgstr "Esrarengiz bir kadın olan ve... şey, yaşı dalgalanan Wanda, kendi zaman çizgisinden Constant diyarına çeken bir zaman ve mekân çatlağını yanlışlıkla yaratmasının ardından bildiği dünyadan koparıldı. Geçmişine dair pek çok ayrıntıyı diğer Sağ Kalanlardan saklasa da, onlara karşı tuhaf bir aşinalığı varmış gibi görünüyor, sanki onlarla daha önce karşılaşmış... ya da belki daha sonra?"
+
+#. STRINGS.CHARACTER_BIOS.wanda.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wanda.3.title"
+msgid "Long Shadows"
+msgstr "Uzun Gölgeler"
+
+#. STRINGS.CHARACTER_BIOS.warly.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.warly.1.desc"
+msgid "July 25"
+msgstr "25 Temmuz"
+
+#. STRINGS.CHARACTER_BIOS.warly.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.warly.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.warly.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.warly.2.desc"
+msgid "Warly could never pick a favorite, a connoisseur of great food must always be expanding his palate."
+msgstr "Warly bir favori seçmeyi asla beceremez, lezzetli yemekten anlayan biri damak zevkini hep genişletiyor olmalı."
+
+#. STRINGS.CHARACTER_BIOS.warly.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.warly.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.warly.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.warly.3.desc"
+msgid "Warly left a promising career as a sous chef in Paris to return home and care for his aging mother Angeline, whose memory had begun to deteriorate. His world soon revolved around telling her stories about her life, playing her favorite music, cooking the recipes she had taught him when he was young... all in the hopes of catching that spark of recognition in her eyes. As time went on and Angeline's moments of clarity became fewer and farther in-between, Warly became more desperate, willing to try anything to bring back his beloved Maman...\nThat was when he first started hearing the voice on the radio."
+msgstr "Warly, hafızası bozulmaya başlayan yaşlı annesi Angeline'a bakmak için Paris'teki umut vaat eden sous chef kariyerini bırakıp evine döndü. Dünyası kısa süre sonra ona hayatından hikâyeler anlatmak, en sevdiği müziği çalmak, gençken kendisine öğrettiği tarifleri pişirmek etrafında dönmeye başladı... hepsi annesinin gözündeki o tanıma kıvılcımını yakalama umuduyla. Zaman geçtikçe Angeline'ın berrak anları azaldıkça ve seyrekleştikçe, Warly sevgili Maman'ını geri getirmek için her şeyi denemeye razı oldu, gittikçe daha çaresiz kaldı...\nİşte tam o sırada radyodaki sesi ilk kez duymaya başladı."
+
+#. STRINGS.CHARACTER_BIOS.warly.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.warly.3.title"
+msgid "Taste of Home"
+msgstr "Yuva Tadı"
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.1.desc"
+msgid "July 23"
+msgstr "23 Temmuz"
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.2.desc"
+msgid "Turkey Dinner"
+msgstr "Hindili Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.3.desc"
+msgid "Wigfrid always knew she was meant for the stage. Her debut performance was an instant sensation, launching her from obscurity to overnight stardom. Fans delighted in her portrayal of a noble and fearsome Valkyrie warrior, and she in turn took great pains to fully embody the role. She was perfect for it... perhaps too perfect. Every part she played afterward seemed to fall flat, never again achieving that magical quality that had once drawn audiences to her performances like bees to honey. As Wigfrid's stardom slowly began to fade, she retreated to the memories of her glory days, losing herself in her fantasies...\nUntil one day, she was lost entirely."
+msgstr "Wigfrid sahneye çıkmak için yaratıldığını her zaman biliyordu. İlk performansı anında sansasyon yarattı, onu silinmişlikten bir gecede yıldızlığa fırlattı. Hayranlar, onun asil ve korkutucu Valkyrie savaşçısı portresine bayıldı; o da rolü tamamen benimsemek için büyük çaba sarf etti. Bu rol için kusursuzdu... belki fazla kusursuzdu. Sonradan oynadığı her rol sönük kaldı, izleyicileri arıların bal etrafında toplandığı gibi performanslarına çeken o sihirli niteliği bir daha yakalayamadı. Wigfrid'in yıldızlığı yavaş yavaş soluklaştıkça, görkemli günlerinin anılarına çekildi, kendini hayallerinde kaybetti...\nTa ki bir gün, tamamen kaybolana dek."
+
+#. STRINGS.CHARACTER_BIOS.wathgrithr.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wathgrithr.3.title"
+msgid "The Curtain Calls"
+msgstr "Perde Kapanıyor"
+
+#. STRINGS.CHARACTER_BIOS.waxwell.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.1.desc"
+msgid "October 22"
+msgstr "22 Ekim"
+
+#. STRINGS.CHARACTER_BIOS.waxwell.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.waxwell.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.2.desc"
+msgid "Lobster Dinner"
+msgstr "Istakoz Yemeği"
+
+#. STRINGS.CHARACTER_BIOS.waxwell.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.waxwell.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.3.desc"
+msgid "The former king of the Nightmare Throne and an egomaniac to boot, Maxwell (who earned his name from his former stage persona \"The Amazing Maxwell\") was once the naive and unimposing \"William Carter\", a penniless man from London who dreamt of being a world-renowned magician. When fate put William in possession of the Codex Umbra, he felt true power for the first time in his life. Casting off his old, meek ways and fully embracing his new persona as a charismatic master of dark magic, Maxwell achieved fame and success, but still found himself hungering for more. As he delved deeper and deeper into his magical tome, immersing himself in its secrets, the dark knowledge within addled his mind and clouded his heart. In his final performance, Maxwell lost control of the shadow magic he'd used so brazenly and both he and his stage assistant Charlie were pulled into the Constant. There he would remain for what seemed like an eternity, tethered to the Nightmare Throne and compelled to ensnare more victims in the Constant's trap.\nHe is still baffled by the thought that someone he tricked into the Constant could find it in their heart to set him free... well, baffled and annoyed really. He never liked owing a favor."
+msgstr "Eski Kabus Tahtı kralı ve üstüne üstlük bir egomanyak olan Maxwell (ismini eski sahne adı \"Şahane Maxwell\"den almıştır) bir zamanlar saf ve etkisiz \"William Carter\"dı; dünyaca ünlü bir sihirbaz olmayı hayal eden, beş parasız bir Londralı. Kader William'ın eline Codex Umbra'yı verdiğinde, hayatında ilk kez gerçek gücü hissetti. Eski, uysal halini bir kenara fırlatıp karanlık büyünün karizmatik ustası olarak yeni kimliğine tamamen büründü; Maxwell şöhret ve başarıya kavuştu, ama yine de daha fazlasına aç olduğunu fark etti. Büyülü kitabının derinliklerine indikçe, sırlarına gömüldükçe, içindeki karanlık bilgi zihnini bulandırdı, kalbini kararttı. Son gösterisinde Maxwell, böylesine pervasızca kullandığı gölge büyüsünün kontrolünü kaybetti ve hem o hem de sahne asistanı Charlie Constant'a çekildi. Orada sonsuzluk gibi gelecek bir süre kalacak, Kabus Tahtı'na bağlı olacak ve Constant'ın tuzağına başka kurbanlar düşürmeye zorlanacaktı.\nConstant'a kandırarak çektiği birinin onu serbest bırakacak kadar yüreğinde yer bulması fikri onu hâlâ şaşırtıyor... aslında şaşırtıyor ve sinirlendiriyor. Borçlu kalmaktan hiç hoşlanmazdı."
+
+#. STRINGS.CHARACTER_BIOS.waxwell.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.waxwell.3.title"
+msgid "The Nightmare King"
+msgstr "Kabusların Kralı"
+
+#. STRINGS.CHARACTER_BIOS.webber.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.webber.1.desc"
+msgid "April 30"
+msgstr "30 Nisan"
+
+#. STRINGS.CHARACTER_BIOS.webber.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.webber.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.webber.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.webber.2.desc"
+msgid "Ice Cream"
+msgstr "Dondurma"
+
+#. STRINGS.CHARACTER_BIOS.webber.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.webber.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.webber.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.webber.3.desc"
+msgid "Once upon a time, there was a young boy who lived with his family on a small farmstead. Though they lived humbly, the boy's home was filled with love, and he grew up happy and kind. The boy might have lived contentedly for the rest of his days if not for the sudden arrival of an old aquaintance, who came to the house beseeching the boy's father for his expertise on a strange and secretive project..."
+msgstr "Bir varmış bir yokmuş, küçük bir çiftlikte ailesiyle yaşayan bir oğlan çocuğu varmış. Mütevazı yaşasalar da, oğlanın evi sevgiyle doluymuş ve mutlu, kibar bir çocuk olarak büyümüş. Tuhaf ve gizli bir proje için oğlanın babasının uzmanlığını dilemek üzere eve gelen eski bir tanıdığın ansızın ziyareti olmasaydı, çocuk geri kalan günlerini huzur içinde yaşayabilirdi..."
+
+#. STRINGS.CHARACTER_BIOS.webber.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.webber.3.title"
+msgid "Along Came a Spider"
+msgstr "Derken Bir Örümcek Geldi"
+
+#. STRINGS.CHARACTER_BIOS.wendy.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.1.desc"
+msgid "November 11"
+msgstr "11 Kasım"
+
+#. STRINGS.CHARACTER_BIOS.wendy.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wendy.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.2.desc"
+msgid "Banana Pop"
+msgstr "Muz Çubuk"
+
+#. STRINGS.CHARACTER_BIOS.wendy.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wendy.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.3.desc"
+msgid "Wendy's tale of woe began with the untimely loss of her dear sister Abigail. Unable to accept the thought of life without her twin, Wendy began turning to the occult in the hopes of finding some way to communicate with the other side. After much trial and error, seance candles burned down to nubs and spirit boards thrown away in frustration, Wendy was nearly ready to give up and fall into despair... until finally, there was a sign. A ragtime tune might seem like a strange message to send from the great beyond, but Wendy was desperate to grab hold of anything that might bring her closer to her sister. And sure enough, a voice would soon tell her exactly what she needed to do..."
+msgstr "Wendy'nin acı dolu öyküsü, sevgili kız kardeşi Abigail'i vakitsiz kaybetmesiyle başladı. İkizi olmadan yaşam fikrini kabullenemeyen Wendy, öbür tarafla iletişim kurmanın bir yolunu bulma umuduyla okültizme yöneldi. Pek çok denemeden, dibi göründüğü ruh çağırma mumlarından ve hüsranla bir kenara fırlatılan ruh tahtalarından sonra, Wendy neredeyse pes edip umutsuzluğa kapılmak üzereydi... ta ki sonunda bir işaret gelene kadar. Bir ragtime ezgisi öbür dünyadan gönderilmek için tuhaf bir mesaj gibi görünebilirdi, ama Wendy onu kız kardeşine yaklaştırabilecek herhangi bir şeye sıkıca tutunmaya çaresizdi. Ve elbette, bir ses ona yapması gerekeni az sonra söyleyecekti..."
+
+#. STRINGS.CHARACTER_BIOS.wendy.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wendy.3.title"
+msgid "Wish You Were Here"
+msgstr "Keşke Yanımda Olsan"
+
+#. STRINGS.CHARACTER_BIOS.wes.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wes.1.desc"
+msgid "April 16"
+msgstr "16 Nisan"
+
+#. STRINGS.CHARACTER_BIOS.wes.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wes.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wes.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wes.2.desc"
+msgid "Fresh Fruit Crepes"
+msgstr "Taze Meyveli Krep"
+
+#. STRINGS.CHARACTER_BIOS.wes.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wes.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wes.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wes.3.desc"
+msgid "Despite a life plagued by terrible luck, Wes has never been one to utter so much as a word of complaint. Rather than dwell on his own troubles, he has instead dedicated his life to making others smile... even if it's at his own expense.\nHis journey to the Constant itself was nothing if not a tragic comedy of errors. After a series of snowballing missteps, Wes found himself accidentally taking the place of a stranger caught in the grip of a shadowy portal bound for the Constant. His unexpected arrival infuriated the Nightmare King, who quickly exacted his vengeance on the poor mime for interfering with his plans. Wes was banished to his own private prison, far from sight, where he would remain until he was rescued by the Constant's other Survivors (being the kind soul that he is, Wes holds no grudge against Maxwell... though he does continue to give him the silent treatment.)\nHad Wes known what fate awaited him on his last day on Earth, he likely wouldn't have done anything differently. In truth, there is a part of him that is happy to be in the Constant with the other Survivors - for who could be in greater need of cheering up than those poor souls?"
+msgstr "Hayatı korkunç bir şanssızlıkla dolu olmasına rağmen, Wes asla şikâyet sözü etmemiştir. Kendi dertlerine takılmak yerine, hayatını başkalarını güldürmeye adamıştır... bu kendi pahasına olsa bile.\nConstant'a yolculuğu da trajikomik bir hata zinciriydi. Kartopu gibi büyüyen bir dizi yanlış adımdan sonra, Wes kendini Constant'a giden gölgeli bir portalin pençesine yakalanan bir yabancının yerine kazara geçmiş buldu. Beklenmedik gelişi, planlarına müdahale ettiği için zavallı mim sanatçısından çabucak öcünü alan Kabuslar Kralı'nı çileden çıkardı. Wes, kendi özel hapishanesine, görüş alanından uzağa sürgün edildi; orada Constant'ın diğer Sağ Kalanları tarafından kurtarılana dek kalacaktı (kibar bir ruh olduğu için Wes, Maxwell'e kin tutmaz... yine de ona suskunluk muamelesi yapmaya devam eder.)\nDünyadaki son gününde kendisini bekleyen kaderi bilseydi, muhtemelen farklı bir şey yapmazdı. Aslında bir parçası diğer Sağ Kalanlarla Constant'ta olmaktan mutludur — çünkü o zavallı ruhlardan daha çok neşelendirilmeye kim muhtaç olabilir ki?"
+
+#. STRINGS.CHARACTER_BIOS.wes.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wes.3.title"
+msgid "C'est La Vie"
+msgstr "C'est La Vie"
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.1.desc"
+msgid "December 6"
+msgstr "6 Aralık"
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.2.desc"
+msgid "Surf 'n' Turf"
+msgstr "Deniz ve Kara"
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.desc"
+msgid "When people meet Ms. Wickerbottom, most assume that what you see is what you get. She certainly looks every bit the typical librarian that she claims to be, as at home amongst the bookstacks as any creature in their native habitat. Nobody would raise an eyebrow at such a person being well-versed in a wide range of subjects. Who would spare a second thought if, upon further inquiry, her knowledge rivaled that of experts? And obviously, no one would think of questioning what a librarian might be involved in after hours, when the library doors are closed to the public..."
+msgstr "İnsanlar Bayan Wickerbottom'la tanıştığında, çoğu gördüklerinin gerçek olduğunu varsayar. Kendisi de iddia ettiği gibi tipik bir kütüphaneci görünümündedir; kitap raflarının arasında, herhangi bir yaratığın doğal yaşam alanında olduğu kadar evindedir. Böyle birinin geniş bir yelpazede uzman olmasına kimse şaşırmaz. Daha derin bir araştırmada bilgisinin uzmanlarınkiyle yarıştığını öğrense, kim ikinci kez düşünür? Ve belli ki, kütüphane kapıları halka kapandıktan sonra mesai dışında bir kütüphanecinin neyle uğraşabileceğini sorgulamak kimsenin aklına gelmezdi..."
+
+#. STRINGS.CHARACTER_BIOS.wickerbottom.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wickerbottom.3.title"
+msgid "One For the Books"
+msgstr "Tarihe Geçer"
+
+#. STRINGS.CHARACTER_BIOS.willow.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.willow.1.desc"
+msgid "May 7"
+msgstr "7 Mayıs"
+
+#. STRINGS.CHARACTER_BIOS.willow.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.willow.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.willow.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.willow.2.desc"
+msgid "Spicy Chili"
+msgstr "Acı Chili"
+
+#. STRINGS.CHARACTER_BIOS.willow.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.willow.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.willow.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.willow.3.desc"
+msgid "Willow always regarded being brought to the Constant as a new beginning. It allowed her to leave everything behind, after all. Orphaned at a young age and forced to live in a children's home with cruel caregivers, she found her nights plagued by shadowy visions of terrible creatures... creatures that could only be held at bay by her faithful teddy bear Bernie. But when Bernie was taken away as punishment for what her caregivers saw as unfit behavior, Willow was left to fend for herself when the shadows came for her. That's when she learned that nothing holds back the darkness like a roaring flame. Nothing is more comforting than watching your troubles light up and crumble to ash...\nIt wouldn't be the last time Willow burned it all down to start anew."
+msgstr "Willow, Constant'a getirilmesini her zaman yeni bir başlangıç olarak görmüştür. Sonuçta her şeyi geride bırakmasını sağladı. Küçük yaşta yetim kalan ve zalim bakıcılarla bir çocuk yurdunda yaşamaya zorlanan Willow'un geceleri korkunç yaratıkların gölgeli görüntüleriyle bunalıyordu... bu yaratıkları yalnızca sadık oyuncak ayısı Bernie uzak tutabiliyordu. Ama bakıcılarının uygunsuz bulduğu davranışı yüzünden ceza olarak Bernie elinden alındığında, gölgeler peşine düştüğünde Willow kendi başının çaresine bakmak zorunda kaldı. İşte o zaman, kükreyen bir alev kadar hiçbir şeyin karanlığı geri tutamayacağını öğrendi. Sıkıntılarının alev alıp küle dönüşmesini izlemekten daha rahatlatıcı bir şey yoktu...\nWillow'un yeniden başlamak için her şeyi yakıp kül etmesi son olmayacaktı."
+
+#. STRINGS.CHARACTER_BIOS.willow.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.willow.3.title"
+msgid "From the Ashes"
+msgstr "Küllerden"
+
+#. STRINGS.CHARACTER_BIOS.wilson.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.1.desc"
+msgid "April 23"
+msgstr "23 Nisan"
+
+#. STRINGS.CHARACTER_BIOS.wilson.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wilson.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.2.desc"
+msgid "Bacon and Eggs"
+msgstr "Pastırma ve Yumurta"
+
+#. STRINGS.CHARACTER_BIOS.wilson.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wilson.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.3.desc"
+msgid "While toiling away in his home laboratory late one night, Wilson was startled to hear a voice on the radio speaking directly to him. At first he feared he'd gone mad from too many late nights of experiments and accidentally-inhaled chemical fumes, but the voice assured him that it was no mere figment of the imagination. In fact, the voice had a proposition for him: if Wilson would build a machine according to their specifications, then he would be rewarded with secret knowledge, the likes of which no one had ever seen. Casting aside his better judgement (after all, what harm could come from making a vague bargain with a mysterious disembodied voice?) Wilson threw himself into constructing the machine. When at long last it was finally completed, the gentleman scientist had a moment of hesitation... a moment that might have saved him from his impending fate, had he been just a bit stronger of will. But at the voice's insistence, Wilson flipped the switch and activated his creation... and was never seen again.\nWell, at least not in this world."
+msgstr "Bir gece geç saatlerde ev laboratuvarında çalışırken, Wilson radyodan kendisine doğrudan seslenen bir sesi duyup irkildi. İlk başta, deneylerin uzun gecelerinden ve yanlışlıkla solunan kimyasal buharlardan dolayı çıldırdığını sanıp korktu, ama ses onu yalnızca bir hayal ürünü olmadığına ikna etti. Aslında sesin ona bir teklifi vardı: eğer Wilson onların özelliklerine göre bir makine yaparsa, kimsenin daha önce görmediği gizli bilgiyle ödüllendirilecekti. Sağduyusunu bir kenara fırlatan Wilson (sonuçta esrarengiz, bedensiz bir sesle muğlak bir pazarlığa girmenin ne zararı olabilir ki?) kendini makineyi inşa etmeye verdi. Nihayet tamamlandığında, centilmen bilim insanı bir an tereddüt etti... iradesi biraz daha güçlü olsaydı, onu yaklaşan kaderinden kurtarabilecek bir an. Ama sesin ısrarı üzerine Wilson düğmeyi çevirip yaratısını çalıştırdı... ve bir daha asla görülmedi.\nYani, en azından bu dünyada görülmedi."
+
+#. STRINGS.CHARACTER_BIOS.wilson.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wilson.3.title"
+msgid "Secret Knowledge"
+msgstr "Gizli Bilgi"
+
+#. STRINGS.CHARACTER_BIOS.winona.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.winona.1.desc"
+msgid "September 13"
+msgstr "13 Eylül"
+
+#. STRINGS.CHARACTER_BIOS.winona.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.winona.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.winona.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.winona.2.desc"
+msgid "Vegetable Stinger"
+msgstr "İğneli Sebze"
+
+#. STRINGS.CHARACTER_BIOS.winona.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.winona.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.winona.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.winona.3.desc"
+msgid "There is nothing Winona wouldn't do for her family. When her younger sister Charlie disappeared under mysterious circumstances, Winona refused to let the case grow cold and dedicated herself to finding her. For over a decade she tracked down every clue, followed every lead, poked, prodded, and questioned anyone who might have a connection to the case, until all the loose strings started to come together. There was a radio factory, founded by a peculiar old man whose genius was only matched by his secretiveness, that might hold the answers she had sought for so long. Shortly after securing employment at the factory, the building was destroyed in an accident caused by a malfunctioning portal. Having caught sight of someone getting caught in the portal and vanishing, Winona hastily repaired it in the hopes of rescuing them, only to come face to face with her missing sister. Unfortunately, Charlie seemed to be held under the sway of a shadowy influence, and she dragged Winona into the Constant."
+msgstr "Winona'nın ailesi için yapmayacağı hiçbir şey yoktu. Küçük kız kardeşi Charlie esrarengiz koşullarda kaybolduğunda, Winona davanın soğumasına izin vermedi ve kendini onu bulmaya adadı. On yılı aşkın süre her ipucunun peşine düştü, her ipi takip etti; davayla bağlantısı olabilecek herkesi dürtüp sorguladı, ta ki tüm gevşek uçlar birleşmeye başlayana kadar. Dehası ancak gizliliğiyle yarışan tuhaf bir yaşlı adam tarafından kurulan bir radyo fabrikası vardı ki, uzun süredir aradığı yanıtları içinde tutuyor olabilirdi. Fabrikada işe başladıktan kısa süre sonra, arızalı bir portalin yol açtığı bir kazada bina yıkıldı. Birinin portala kapılıp yok olduğunu görür görmez, Winona onu kurtarma umuduyla portali aceleyle tamir etti, ama yalnızca kayıp kız kardeşiyle yüz yüze geldi. Ne yazık ki Charlie gölgeli bir etkinin sürüklemesi altında görünüyordu ve Winona'yı Constant'a sürükledi."
+
+#. STRINGS.CHARACTER_BIOS.winona.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.winona.3.title"
+msgid "Next of Kin"
+msgstr "Yakın Akraba"
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.1.desc"
+msgid "October 2"
+msgstr "2 Ekim"
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.2.desc"
+msgid "Roasted Potato"
+msgstr "Kızarmış Patates"
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.3.desc"
+msgid "Prior to his time in the Constant, Wolfgang's life revolved around the single-minded pursuit of one goal: to become the strongest man there ever was. His quest would lead him across Europe and eventually even across the Atlantic to America, where his feats of muscular prowess caught the attention of Misters Abernethy & Parker, who invited him to headline in their newly-formed traveling circus. Wolfgang quickly found himself caught up in the pageantry of circus life, and his attention began to shift to finding ways to make his show more spectacular. Fearing his own strength wouldn't be enough to keep impressing the crowds, he started employing a bit of stage trickery, with each new act becoming more unbelievable than the last. As his act grew more outlandish, the risk of being exposed as a fraud grew, and as he suffered one embarrassing mistake after another his once unshakable confidence in his abilities was slowly chipped away.\nUntil one day, a chance encounter gave him a taste of the ultimate strength he had craved for so long..."
+msgstr "Constant'a gelmeden önce, Wolfgang'ın hayatı tek bir hedefin tek hedefli peşine düşmesiyle dönerdi: gelmiş geçmiş en güçlü adam olmak. Bu arayışı onu Avrupa'nın bir ucundan diğerine, sonunda Atlantik'i aşıp Amerika'ya kadar götürdü; burada kas gücüyle yaptığı işler Bay Abernethy ve Bay Parker'ın dikkatini çekti; bu beyler de yeni kurdukları gezici sirklerinin baş gösterisinde yer alması için onu davet etti. Wolfgang kısa sürede kendini sirk hayatının görkemine kaptırdı ve dikkati gösterisini daha muhteşem kılma yollarını aramaya kaydı. Kendi gücünün kalabalıkları etkilemeye yetmeyeceğinden korkmaya başlayınca, biraz sahne hilesine başvurdu; her yeni numara bir öncekinden daha inanılmaz oldu. Numarası giderek tuhaflaştıkça, sahtekâr olarak ifşa olma riski de büyüdü; üst üste utanç verici hatalar yaptıkça, yeteneklerine olan bir zamanlar sarsılmaz inancı yavaş yavaş eridi.\nTa ki bir gün, beklenmedik bir karşılaşma ona uzun süredir arzuladığı en üst düzey gücün tadını verene kadar..."
+
+#. STRINGS.CHARACTER_BIOS.wolfgang.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wolfgang.3.title"
+msgid "The Incredible Strongman"
+msgstr "İnanılmaz Güçlü Adam"
+
+#. STRINGS.CHARACTER_BIOS.wonkey.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wonkey.1.desc"
+msgid "Bananas"
+msgstr "Muz"
+
+#. STRINGS.CHARACTER_BIOS.wonkey.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wonkey.1.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.woodie.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.1.desc"
+msgid "September 12"
+msgstr "12 Eylül"
+
+#. STRINGS.CHARACTER_BIOS.woodie.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.woodie.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.2.desc"
+msgid "Honey Nuggets"
+msgstr "Bal Topları"
+
+#. STRINGS.CHARACTER_BIOS.woodie.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.woodie.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.3.desc"
+msgid "Hailing from the pine-covered mountains of the great white north, Woodie is an unassuming yet strangely mysterious man who keeps his past close to the vest (or in his case, the flannel). He is never seen without his signature bushy beard or trusty axe Lucy, who herself is a bit of an enigma. The other Survivors are not quite sure whether Woodie is simply mad, or if there might be something else to the seemingly inanimate object. Sometimes they swear they can hear a jovial female voice speaking to Woodie when no one else is around..."
+msgstr "Büyük beyaz kuzeyin çam kaplı dağlarından gelen Woodie, alçakgönüllü ama tuhaf bir biçimde gizemli bir adamdır; geçmişini yakasının altında (ya da onun durumunda flanelinin altında) saklar. Onu, ne sembolü haline gelen gür sakalı ne de sadık baltası Lucy olmadan göremezsiniz; ki Lucy de başlı başına bir muammadır. Diğer Sağ Kalanlar Woodie'nin sadece deli mi olduğundan, yoksa görünüşte cansız olan o nesnenin başka bir şey mi olduğundan tam emin değildir. Bazen Woodie'yle konuşan neşeli bir kadın sesini, etrafta kimse yokken duyduklarına yemin ederler..."
+
+#. STRINGS.CHARACTER_BIOS.woodie.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.3.title"
+msgid "A Mysterious Past"
+msgstr "Esrarengiz Bir Geçmiş"
+
+#. STRINGS.CHARACTER_BIOS.woodie.4.desc
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.4.desc"
+msgid "As the power of the moon has grown, so too have the effects of Woodie's curse. Woodie soon found that his form would shift into not only the Werebeaver, but a Weremoose and Weregoose as well. As his changing forms became more unpredictable, Woodie resolved to find a way to have more control over his curse. Using every bit of knowledge he'd gained from his time in the Constant (and some additional tips from Ms. Wickerbottom) he soon discovered that his transformations could in fact be controlled. By fashioning representations of each of the three beasts and consuming them only when he wanted to invoke that form, Woodie now feels more comfortable in his own skin than he has in quite a while."
+msgstr "Ay'ın gücü büyüdükçe, Woodie'nin lanetinin etkileri de büyüdü. Woodie, formunun yalnızca Kunduzkurda değil, aynı zamanda Kurttos ve Kurtkaz'a da dönüştüğünü kısa sürede fark etti. Değişen formları daha öngörülemez hale geldikçe, Woodie laneti üzerinde daha fazla kontrol sahibi olmanın bir yolunu bulmaya karar verdi. Constant'taki zamanında edindiği her bir bilgi parçacığını (ve Bayan Wickerbottom'dan aldığı ek ipuçlarını) kullanarak, dönüşümlerinin aslında kontrol edilebileceğini kısa sürede keşfetti. Üç canavarın her birinin temsillerini yapıp, yalnızca o formu çağırmak istediğinde tüketerek Woodie şimdi uzun zamandır olduğundan daha rahat hissediyor."
+
+#. STRINGS.CHARACTER_BIOS.woodie.4.title
+msgctxt "STRINGS.CHARACTER_BIOS.woodie.4.title"
+msgid "Tree's a Crowd"
+msgstr "Üç Ağaç Bir Kalabalık"
+
+#. STRINGS.CHARACTER_BIOS.wormwood.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.1.desc"
+msgid "June 6"
+msgstr "6 Haziran"
+
+#. STRINGS.CHARACTER_BIOS.wormwood.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wormwood.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.2.desc"
+msgid "Cooked Banana"
+msgstr "Pişmiş Muz"
+
+#. STRINGS.CHARACTER_BIOS.wormwood.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wormwood.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.3.desc"
+msgid "Though the circumstances of his creation were unusual at best, Wormwood came into this world full of optimism and curiosity, ready to make new friends and see all that life had to offer. But as time wore on and he experienced the cold sting of rejection, he came to learn what the moon above had always known: Wormwood the Lonesome does not belong here."
+msgstr "Yaratılış koşulları en hafif ifadeyle alışılmadık olsa da, Wormwood bu dünyaya iyimserlik ve merakla dolu olarak geldi; yeni dostlar edinmeye ve hayatın sunduğu her şeyi görmeye hazırdı. Ama zaman geçtikçe ve reddedilmenin soğuk ısırığını tattıkça, yukarıdaki ay'ın hep bildiği şeyi öğrendi: Yalnız Wormwood buraya ait değil."
+
+#. STRINGS.CHARACTER_BIOS.wormwood.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wormwood.3.title"
+msgid "Lunar Roots"
+msgstr "Ay Kökleri"
+
+#. STRINGS.CHARACTER_BIOS.wortox.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.1.desc"
+msgid "March 28"
+msgstr "28 Mart"
+
+#. STRINGS.CHARACTER_BIOS.wortox.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wortox.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.2.desc"
+msgid "Wortox is not particularly interested in mortal food, but he does enjoy a Pomegranate now and then."
+msgstr "Wortox ölümlü yemeklere pek ilgi duymaz, ama arada bir Nardan keyif alır."
+
+#. STRINGS.CHARACTER_BIOS.wortox.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wortox.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.3.desc"
+msgid "Wortox learned the hard way that one should always be mindful of the company they keep. Once a playful imp without a care in the world, Wortox spent his days helping a Krampus make mischief throughout the Constant. While the pair of rascals revelled in their roguery for a time, Wortox slowly began to see a darkness in the Krampus' heart, and the malice in his pranks. Not wishing for any real harm to come to anyone, the little imp finally put his cloven foot down, but in trying to stop his fiendish friend he unwittingly awakened a terrible power in himself..."
+msgstr "Wortox, kişinin bir arada olduğu kişilere her zaman dikkat etmesi gerektiğini zor yoldan öğrendi. Bir zamanlar dünya umurunda olmayan oyuncu bir şeytancık olan Wortox, günlerini Constant boyunca yaramazlık yapan bir Krampus'a yardım ederek geçirdi. İki çapkın bir süre eğlencelerine doyamasa da, Wortox yavaş yavaş Krampus'un kalbinde bir karanlığı, şakalarındaki kötülüğü görmeye başladı. Kimseye gerçekten zarar gelmesini istemeyen küçük şeytancık sonunda yarık ayağını yere vurdu; ama şeytani dostunu durdurmaya çalışırken farkında olmadan içinde korkunç bir güç uyandırdı..."
+
+#. STRINGS.CHARACTER_BIOS.wortox.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wortox.3.title"
+msgid "Possessions"
+msgstr "Sahiplenmeler"
+
+#. STRINGS.CHARACTER_BIOS.wurt.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.1.desc"
+msgid "October 17"
+msgstr "17 Ekim"
+
+#. STRINGS.CHARACTER_BIOS.wurt.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.1.title"
+msgid "Birthday"
+msgstr "Doğum Günü"
+
+#. STRINGS.CHARACTER_BIOS.wurt.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.2.desc"
+msgid "Durian"
+msgstr "Durian"
+
+#. STRINGS.CHARACTER_BIOS.wurt.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wurt.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.3.desc"
+msgid "Wurt is a little Merm girl who wants to bring her people back to their former glory (if they did indeed ever have a former glory... the evidence is a bit shaky on that front). A bit more open-minded than other Merms, she has taken to following the Survivors around and learning more about them. She is particularly fascinated by books with pretty pictures inside and an amazing thing the humans call \"candy\". Though she enjoys living in the swamp and being around other Merms, being the smallest and the youngest often makes her feel quite isolated, and she is enjoying the novelty of having some friends closer to her own age amongst the Survivors."
+msgstr "Wurt, halkını eski şanına geri döndürmek isteyen küçük bir Merm kızıdır (gerçekten eski bir şanları var idiyse... bu konudaki kanıtlar biraz şüpheli). Diğer Merm'lerden biraz daha açık görüşlü olan Wurt, Sağ Kalanları takip etmeye ve onlar hakkında daha fazla şey öğrenmeye başlamıştır. Özellikle güzel resimleri olan kitaplara ve insanların \"şeker\" dediği harika şeye hayrandır. Bataklıkta yaşamaktan ve diğer Merm'lerle birlikte olmaktan keyif alsa da, en küçük ve en genç olmak ona çoğu zaman kendini oldukça yalnız hissettirir; Sağ Kalanlar arasında kendi yaşına yakın bazı dostları olmasının yeniliğinden zevk almaktadır."
+
+#. STRINGS.CHARACTER_BIOS.wurt.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wurt.3.title"
+msgid "A New Chapter"
+msgstr "Yeni Bir Bölüm"
+
+#. STRINGS.CHARACTER_BIOS.wx78.1.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.1.desc"
+msgid "November 28"
+msgstr "28 Kasım"
+
+#. STRINGS.CHARACTER_BIOS.wx78.1.title
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.1.title"
+msgid "Buildday"
+msgstr "Yapılış Günü"
+
+#. STRINGS.CHARACTER_BIOS.wx78.2.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.2.desc"
+msgid "Butter Muffin"
+msgstr "Tereyağlı Muffin"
+
+#. STRINGS.CHARACTER_BIOS.wx78.2.title
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.2.title"
+msgid "Favorite Food"
+msgstr "En Sevdiği Yemek"
+
+#. STRINGS.CHARACTER_BIOS.wx78.3.desc
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.desc"
+msgid "WX-78 was the result of an unorthodox experiment helmed by { [LoadEmpathyModLibraryExW().......ERROR_DATA_PATH_NOT_FOUND] } and Robert Wagstaff. The experiment turned out to be a [RESOUNDING SUCCESS], but Wagstaff was [A SHORT-SIGHTED FOOL, AFRAID OF PROGRESS] and decided to put a stop to further tests. Adamant that the process that created them could still be perfected, WX refused to give up, continuing their experiments in secret. When Wagstaff finally discovered what they had been doing, there was a heated argument and01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
+msgstr "WX-78, { [LoadEmpathyModLibraryExW().......ERROR_DATA_PATH_NOT_FOUND] } ve Robert Wagstaff tarafından yürütülen alışılmadık bir deneyin sonucuydu. Deneyin [GÜRÜLTÜLÜ BİR BAŞARI] olduğu kanıtlandı, ama Wagstaff [İLERLEMEDEN KORKAN, KISA GÖRÜŞLÜ BİR APTAL] idi ve daha fazla testin önüne geçmeye karar verdi. Onları yaratan sürecin hâlâ mükemmelleştirilebileceğine emin olan WX, vazgeçmeyi reddetti ve deneylerini gizlice sürdürdü. Wagstaff sonunda ne yaptıklarını keşfettiğinde, kızgın bir tartışma yaşandı ve01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101"
+
+#. STRINGS.CHARACTER_BIOS.wx78.3.title
+msgctxt "STRINGS.CHARACTER_BIOS.wx78.3.title"
+msgid "Disconnect"
+msgstr "Bağlantı Kopması"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.random
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.random"
+msgid "Anybody could be under that hat"
+msgstr "O şapkanın altında kim olduğu belli değil"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.walter
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.walter"
+msgid "*Not afraid of anything, except getting hurt \n*Good with a slingshot \n*Has a four-legged friend \n*Allergic to bees \n*Has no interest in fashion"
+msgstr "*Hiçbir şeyden korkmaz, yaralanmaktan başka \n*Sapanla iyidir \n*Dört bacaklı bir dostu vardır \n*Arılara alerjiktir \n*Modaya ilgisi yoktur"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wanda
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wanda"
+msgid "*Has excellent time management skills \n*Only as old as she feels \n*In a constant race against the clock"
+msgstr "*Mükemmel zaman yönetimi becerisine sahiptir \n*Hissettiği kadar yaşlıdır \n*Saatle hiç bitmeyen bir yarış içindedir"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.warly
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.warly"
+msgid "*Has his own line of custom portable cookware \n*Can spice things up \n*Has an insatiable appetite \n*Only eats gourmet food"
+msgstr "*Kendine özel taşınabilir mutfak takımı vardır \n*Ortalığı baharatlandırabilir \n*Doymak bilmez bir iştahı vardır \n*Sadece gurme yemek yer"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Excels in battle \n*Absorbs the power of fallen foes \n*Performs well under pressure \n*Only eats meat"
+msgstr "*Savaşta üstündür \n*Düşen düşmanların gücünü emer \n*Baskı altında iyi performans gösterir \n*Sadece et yer"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Is dapper, but frail \n*Can split his mind into pieces \n*Draws power from shadowy equipment \n*Was once the king of the world"
+msgstr "*Şıktır ama narin \n*Aklını parçalara ayırabilir \n*Gölgeli ekipmandan güç çeker \n*Bir zamanlar dünyanın kralıydı"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.webber
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.webber"
+msgid "*Is a monster \n*Can befriend spiders \n*Grows a silky smooth beard"
+msgstr "*Bir canavardır \n*Örümceklerle dost olabilir \n*İpeksi pürüzsüz bir sakal uzatır"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wendy
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Is haunted by her twin sister \n*Feels comfortable in the dark \n*Dabbles in Ectoherbology \n*Doesn't hit very hard"
+msgstr "*İkiz kız kardeşi tarafından musallat olunmuştur \n*Karanlıkta rahat eder \n*Hayalet Bitkibilimi ile uğraşır \n*Pek sert vurmaz"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wes
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wes"
+msgid "*Can't talk \n*Practices balloonomancy \n*Is not a skilled fighter or worker \n*Has trouble staying alive"
+msgstr "*Konuşamaz \n*Balon büyücülüğü yapar \n*Yetenekli bir savaşçı ya da işçi değildir \n*Hayatta kalmakta zorlanır"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Knows many things \n*Self-publishes books \n*Suffers from insomnia \n*Has a delicate stomach"
+msgstr "*Pek çok şey bilir \n*Kendi kitaplarını yayımlar \n*Uykusuzluk çeker \n*Hassas bir midesi vardır"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.willow
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.willow"
+msgid "*Has a fondness for fire, but hates the cold \n*Protected by her cuddly bear, Bernie\n*Has a reliable lighter"
+msgstr "*Ateşe düşkündür ama soğuktan nefret eder \n*Sevimli ayısı Bernie tarafından korunur\n*Güvenilir bir çakmağı vardır"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wilson
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wilson"
+msgid "\n*Grows a magnificent beard"
+msgstr "\n*Muhteşem bir sakal uzatır"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.winona
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.winona"
+msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Invents her own gadgets"
+msgstr "*Yetenekli bir inşaatçıdır\n*Karanlıktan bir bedava vuruş yer\n*Kendi alet edevatını icat eder"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Works hard to grow mighty \n*Becomes wimpy without regular exercise \n*Can carry heavy objects with ease \n*Is afraid of monsters and the dark"
+msgstr "*Güçlenmek için sıkı çalışır \n*Düzenli antrenman yapmazsa cılızlaşır \n*Ağır eşyaları kolayca taşır \n*Canavarlardan ve karanlıktan korkar"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wonkey
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wonkey"
+msgid "*Whoever they were, they're a monkey now"
+msgstr "*Kim olursa olsun, artık bir maymun"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.woodie
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Is thankful for bountiful harvests"
+msgstr "*Sevimli bir baltası vardır... \n*Ve ormanla savaş halinde \n*Kunduzkurt lanetinden muzdarip! \n*Bir de Kurttos ve Kurtkaz var... \n*Bereketli hasatlara şükran duyar"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving at the correct time"
+msgstr "*Sevimli bir baltası vardır... \n*Ve ormanla savaş halinde \n*Kunduzkurt lanetinden muzdarip! \n*Bir de Kurttos ve Kurtkaz var... \n*Şükran Günü'nü doğru zamanda kutlar"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Has a lovely axe... \n*And is at war with the forest \n*Suffers from the curse of the Werebeaver! \n*And the Weremoose and the Weregoose... \n*Celebrates Thanksgiving too early"
+msgstr "*Sevimli bir baltası vardır... \n*Ve ormanla savaş halinde \n*Kunduzkurt lanetinden muzdarip! \n*Bir de Kurttos ve Kurtkaz var... \n*Şükran Günü'nü çok erken kutlar"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*Plants relate to him \n*Saddened when plants are killed \n*Has a Green Thumb \n*Food fills his stomach, but not his heart"
+msgstr "*Bitkiler onu kendinden sayar \n*Bitkiler öldürüldüğünde üzülür \n*Yeşil bir başparmağı vardır \n*Yemek midesini doldurur ama kalbini doyurmaz"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wortox
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wortox"
+msgid "*Is an imp \n*Can hop through time and space \n*Less nourished by physical food"
+msgstr "*Bir şeytancıktır \n*Zaman ve mekânda zıplayabilir \n*Fiziksel yiyeceklerden daha az beslenir"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wurt
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wurt"
+msgid "*At home in the swamp \n*Has big plans for Merm-kind \n*Is a vegetarian"
+msgstr "*Bataklıkta evindedir \n*Merm-soyu için büyük planları vardır \n*Vejetaryendir"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.wx78
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Can upgrade with circuits \n*Not a picky eater \n*Is charged by lightning, but damaged by water"
+msgstr "*Devrelerle yükseltilebilir \n*Yiyecek konusunda seçici değildir \n*Yıldırımla şarj olur, suyla hasar görür"
+
+#. STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.CHARACTER_DESCRIPTION_TITLE"
+msgid "Perks & Quirks"
+msgstr "Yetenekler ve Tuhaflıklar"
+
+#. STRINGS.CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.CHARACTER_QUOTE_TITLE"
+msgid "Quote"
+msgstr "Söz"
+
+#. STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_NONE
+msgctxt "STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_NONE"
+msgid "Nothing in hand"
+msgstr "Eli boş"
+
+#. STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.STARTING_ITEMS_TITLE"
+msgid "Enters the Constant With"
+msgstr "Constant'a Girerken Yanında"
+
+#. STRINGS.CHARACTER_DETAILS.STAT_UNKNOW
+msgctxt "STRINGS.CHARACTER_DETAILS.STAT_UNKNOW"
+msgid "?"
+msgstr "?"
+
+#. STRINGS.CHARACTER_DETAILS.SURVIVABILITY_TITLE
+msgctxt "STRINGS.CHARACTER_DETAILS.SURVIVABILITY_TITLE"
+msgid "Odds of Survival"
+msgstr "Hayatta Kalma Şansı"
+
+#. STRINGS.CHARACTER_DETAILS.VIDEO_BUTTON
+msgctxt "STRINGS.CHARACTER_DETAILS.VIDEO_BUTTON"
+msgid "Play Animated Short"
+msgstr "Animasyon Filmi Oynat"
+
+#. STRINGS.CHARACTER_NAMES.random
+msgctxt "STRINGS.CHARACTER_NAMES.random"
+msgid "Random"
+msgstr "Rastgele"
+
+#. STRINGS.CHARACTER_NAMES.unknown
+msgctxt "STRINGS.CHARACTER_NAMES.unknown"
+msgid "The Unknown"
+msgstr "Bilinmeyen"
+
+#. STRINGS.CHARACTER_NAMES.walter
+msgctxt "STRINGS.CHARACTER_NAMES.walter"
+msgid "Walter"
+msgstr "Walter"
+
+#. STRINGS.CHARACTER_NAMES.wanda
+msgctxt "STRINGS.CHARACTER_NAMES.wanda"
+msgid "Wanda"
+msgstr "Wanda"
+
+#. STRINGS.CHARACTER_NAMES.warly
+msgctxt "STRINGS.CHARACTER_NAMES.warly"
+msgid "Warly"
+msgstr "Warly"
+
+#. STRINGS.CHARACTER_NAMES.wathgrithr
+msgctxt "STRINGS.CHARACTER_NAMES.wathgrithr"
+msgid "Wigfrid"
+msgstr "Wigfrid"
+
+#. STRINGS.CHARACTER_NAMES.waxwell
+msgctxt "STRINGS.CHARACTER_NAMES.waxwell"
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#. STRINGS.CHARACTER_NAMES.webber
+msgctxt "STRINGS.CHARACTER_NAMES.webber"
+msgid "Webber"
+msgstr "Webber"
+
+#. STRINGS.CHARACTER_NAMES.wendy
+msgctxt "STRINGS.CHARACTER_NAMES.wendy"
+msgid "Wendy"
+msgstr "Wendy"
+
+#. STRINGS.CHARACTER_NAMES.wes
+msgctxt "STRINGS.CHARACTER_NAMES.wes"
+msgid "Wes"
+msgstr "Wes"
+
+#. STRINGS.CHARACTER_NAMES.wickerbottom
+msgctxt "STRINGS.CHARACTER_NAMES.wickerbottom"
+msgid "Ms. Wickerbottom"
+msgstr "Bayan Wickerbottom"
+
+#. STRINGS.CHARACTER_NAMES.willow
+msgctxt "STRINGS.CHARACTER_NAMES.willow"
+msgid "Willow"
+msgstr "Willow"
+
+#. STRINGS.CHARACTER_NAMES.wilson
+msgctxt "STRINGS.CHARACTER_NAMES.wilson"
+msgid "Wilson P. Higgsbury"
+msgstr "Wilson P. Higgsbury"
+
+#. STRINGS.CHARACTER_NAMES.winona
+msgctxt "STRINGS.CHARACTER_NAMES.winona"
+msgid "Winona"
+msgstr "Winona"
+
+#. STRINGS.CHARACTER_NAMES.wolfgang
+msgctxt "STRINGS.CHARACTER_NAMES.wolfgang"
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#. STRINGS.CHARACTER_NAMES.wonkey
+msgctxt "STRINGS.CHARACTER_NAMES.wonkey"
+msgid "Wonkey"
+msgstr "Wonkey"
+
+#. STRINGS.CHARACTER_NAMES.woodie
+msgctxt "STRINGS.CHARACTER_NAMES.woodie"
+msgid "Woodie"
+msgstr "Woodie"
+
+#. STRINGS.CHARACTER_NAMES.wormwood
+msgctxt "STRINGS.CHARACTER_NAMES.wormwood"
+msgid "Wormwood"
+msgstr "Wormwood"
+
+#. STRINGS.CHARACTER_NAMES.wortox
+msgctxt "STRINGS.CHARACTER_NAMES.wortox"
+msgid "Wortox"
+msgstr "Wortox"
+
+#. STRINGS.CHARACTER_NAMES.wurt
+msgctxt "STRINGS.CHARACTER_NAMES.wurt"
+msgid "Wurt"
+msgstr "Wurt"
+
+#. STRINGS.CHARACTER_NAMES.wx78
+msgctxt "STRINGS.CHARACTER_NAMES.wx78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. STRINGS.CHARACTER_QUOTES.random
+msgctxt "STRINGS.CHARACTER_QUOTES.random"
+msgid "Anybody could be under that hat."
+msgstr "O şapkanın altında kim olduğu belli değil."
+
+#. STRINGS.CHARACTER_QUOTES.walter
+msgctxt "STRINGS.CHARACTER_QUOTES.walter"
+msgid "\"A Pinetree Pioneer is always prepared!\""
+msgstr "\"Bir Çamağacı Öncüsü her daim hazırlıklıdır!\""
+
+#. STRINGS.CHARACTER_QUOTES.wanda
+msgctxt "STRINGS.CHARACTER_QUOTES.wanda"
+msgid "\"Time! I just need more time!\""
+msgstr "\"Zaman! Tek ihtiyacım daha fazla zaman!\""
+
+#. STRINGS.CHARACTER_QUOTES.warly
+msgctxt "STRINGS.CHARACTER_QUOTES.warly"
+msgid "\"Nothing worthwhile is ever done on an empty stomach!\""
+msgstr "\"Aç karna değerli hiçbir iş yapılmaz!\""
+
+#. STRINGS.CHARACTER_QUOTES.wathgrithr
+msgctxt "STRINGS.CHARACTER_QUOTES.wathgrithr"
+msgid "\"All the wörld's a stage. För me!\""
+msgstr "\"Tüm dünyä bir sahnedir. Bänim için!\""
+
+#. STRINGS.CHARACTER_QUOTES.waxwell
+msgctxt "STRINGS.CHARACTER_QUOTES.waxwell"
+msgid "\"Freedom suits me.\""
+msgstr "\"Özgürlük bana yakıştı.\""
+
+#. STRINGS.CHARACTER_QUOTES.webber
+msgctxt "STRINGS.CHARACTER_QUOTES.webber"
+msgid "\"We're always together, and never alone!\""
+msgstr "\"Hep beraberiz, asla yalnız değiliz!\""
+
+#. STRINGS.CHARACTER_QUOTES.wendy
+msgctxt "STRINGS.CHARACTER_QUOTES.wendy"
+msgid "\"Abigail? Come back! I'm not done playing with you.\""
+msgstr "\"Abigail? Geri dön! Seninle oynamayı bitirmedim.\""
+
+#. STRINGS.CHARACTER_QUOTES.wes
+msgctxt "STRINGS.CHARACTER_QUOTES.wes"
+msgid "..."
+msgstr "..."
+
+#. STRINGS.CHARACTER_QUOTES.wickerbottom
+msgctxt "STRINGS.CHARACTER_QUOTES.wickerbottom"
+msgid "\"Shhhh! No talking!\""
+msgstr "\"Şişşşt! Konuşmak yasak!\""
+
+#. STRINGS.CHARACTER_QUOTES.willow
+msgctxt "STRINGS.CHARACTER_QUOTES.willow"
+msgid "\"All will bathe in the prettiest of flames.\""
+msgstr "\"Hepsi en güzel alevlerin içinde yıkanacak.\""
+
+#. STRINGS.CHARACTER_QUOTES.wilson
+msgctxt "STRINGS.CHARACTER_QUOTES.wilson"
+msgid "\"I'll conquer this world with the power of my MIND!\""
+msgstr "\"Bu dünyayı ZİHNİMİN gücüyle fethedeceğim!\""
+
+#. STRINGS.CHARACTER_QUOTES.winona
+msgctxt "STRINGS.CHARACTER_QUOTES.winona"
+msgid "\"Anything can be fixed with hard work and elbow grease.\""
+msgstr "\"Çalışkanlık ve dirsek çürütmekle her şey onarılır.\""
+
+#. STRINGS.CHARACTER_QUOTES.wolfgang
+msgctxt "STRINGS.CHARACTER_QUOTES.wolfgang"
+msgid "\"I am mighty! No one is mightier!\""
+msgstr "\"Ben kudretli! Kimse benden kudretli değil!\""
+
+#. STRINGS.CHARACTER_QUOTES.wonkey
+msgctxt "STRINGS.CHARACTER_QUOTES.wonkey"
+msgid "\"Ook OOK!\""
+msgstr "\"Uuk UUK!\""
+
+#. STRINGS.CHARACTER_QUOTES.woodie
+msgctxt "STRINGS.CHARACTER_QUOTES.woodie"
+msgid "\"That's a nice lookin' tree, eh? Not for long.\""
+msgstr "\"Hoş bir ağaç, ha? Uzun sürmez.\""
+
+#. STRINGS.CHARACTER_QUOTES.wormwood
+msgctxt "STRINGS.CHARACTER_QUOTES.wormwood"
+msgid "\"Hello friend?\""
+msgstr "\"Selam dost?\""
+
+#. STRINGS.CHARACTER_QUOTES.wortox
+msgctxt "STRINGS.CHARACTER_QUOTES.wortox"
+msgid "\"Pardon me if I don't shake your hand.\""
+msgstr "\"Bağışla beni, sıkmazsam elini.\""
+
+#. STRINGS.CHARACTER_QUOTES.wurt
+msgctxt "STRINGS.CHARACTER_QUOTES.wurt"
+msgid "\"Mermfolk known for hos-per-tality, florp.\""
+msgstr "\"Mermler ko-nu-kse-verlikleriyle ünlü, florp.\""
+
+#. STRINGS.CHARACTER_QUOTES.wx78
+msgctxt "STRINGS.CHARACTER_QUOTES.wx78"
+msgid "\"EMPATHY MODULE NOT RESPONDING\""
+msgstr "\"EMPATİ MODÜLÜ YANIT VERMİYOR\""
+
+#. STRINGS.CHARACTER_SURVIVABILITY.default
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.default"
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.random
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.random"
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.walter
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.walter"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wanda
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wanda"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.warly
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.warly"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wathgrithr
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wathgrithr"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.waxwell
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.waxwell"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.webber
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.webber"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wendy
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wendy"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wes
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wes"
+msgid "None"
+msgstr "Yok"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wickerbottom
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wickerbottom"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.willow
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.willow"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wilson
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wilson"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.winona
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.winona"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wolfgang
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wolfgang"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wonkey
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wonkey"
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.woodie
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.woodie"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wormwood
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wormwood"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wortox
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wortox"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wurt
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wurt"
+msgid "Slim"
+msgstr "Düşük"
+
+#. STRINGS.CHARACTER_SURVIVABILITY.wx78
+msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wx78"
+msgid "Grim"
+msgstr "Vahim"
+
+#. STRINGS.CHARACTER_TITLES.walter
+msgctxt "STRINGS.CHARACTER_TITLES.walter"
+msgid "The Fearless"
+msgstr "Korkusuz"
+
+#. STRINGS.CHARACTER_TITLES.wanda
+msgctxt "STRINGS.CHARACTER_TITLES.wanda"
+msgid "The Timekeeper"
+msgstr "Zaman Bekçisi"
+
+#. STRINGS.CHARACTER_TITLES.warly
+msgctxt "STRINGS.CHARACTER_TITLES.warly"
+msgid "The Culinarian"
+msgstr "Aşçı"
+
+#. STRINGS.CHARACTER_TITLES.wathgrithr
+msgctxt "STRINGS.CHARACTER_TITLES.wathgrithr"
+msgid "The Performance Artist"
+msgstr "Performans Sanatçısı"
+
+#. STRINGS.CHARACTER_TITLES.waxwell
+msgctxt "STRINGS.CHARACTER_TITLES.waxwell"
+msgid "The Puppet Master"
+msgstr "Kuklacı"
+
+#. STRINGS.CHARACTER_TITLES.webber
+msgctxt "STRINGS.CHARACTER_TITLES.webber"
+msgid "The Indigestible"
+msgstr "Hazmedilmez"
+
+#. STRINGS.CHARACTER_TITLES.wendy
+msgctxt "STRINGS.CHARACTER_TITLES.wendy"
+msgid "The Bereaved"
+msgstr "Yaslı"
+
+#. STRINGS.CHARACTER_TITLES.wes
+msgctxt "STRINGS.CHARACTER_TITLES.wes"
+msgid "The Silent"
+msgstr "Sessiz"
+
+#. STRINGS.CHARACTER_TITLES.wickerbottom
+msgctxt "STRINGS.CHARACTER_TITLES.wickerbottom"
+msgid "The Librarian"
+msgstr "Kütüphaneci"
+
+#. STRINGS.CHARACTER_TITLES.willow
+msgctxt "STRINGS.CHARACTER_TITLES.willow"
+msgid "The Firestarter"
+msgstr "Ateş Uşağı"
+
+#. STRINGS.CHARACTER_TITLES.wilson
+msgctxt "STRINGS.CHARACTER_TITLES.wilson"
+msgid "The Gentleman Scientist"
+msgstr "Centilmen Bilim İnsanı"
+
+#. STRINGS.CHARACTER_TITLES.winona
+msgctxt "STRINGS.CHARACTER_TITLES.winona"
+msgid "The Handywoman"
+msgstr "Tamirci Hanım"
+
+#. STRINGS.CHARACTER_TITLES.wolfgang
+msgctxt "STRINGS.CHARACTER_TITLES.wolfgang"
+msgid "The Strongman"
+msgstr "Güçlü Adam"
+
+#. STRINGS.CHARACTER_TITLES.wonkey
+msgctxt "STRINGS.CHARACTER_TITLES.wonkey"
+msgid "The Accursed"
+msgstr "Lanetli"
+
+#. STRINGS.CHARACTER_TITLES.woodie
+msgctxt "STRINGS.CHARACTER_TITLES.woodie"
+msgid "The Lumberjack"
+msgstr "Oduncu"
+
+#. STRINGS.CHARACTER_TITLES.wormwood
+msgctxt "STRINGS.CHARACTER_TITLES.wormwood"
+msgid "The Lonesome"
+msgstr "Yalnız"
+
+#. STRINGS.CHARACTER_TITLES.wortox
+msgctxt "STRINGS.CHARACTER_TITLES.wortox"
+msgid "The Soul Starved"
+msgstr "Ruh Aç"
+
+#. STRINGS.CHARACTER_TITLES.wurt
+msgctxt "STRINGS.CHARACTER_TITLES.wurt"
+msgid "The Half-Pint"
+msgstr "Mini Mini"
+
+#. STRINGS.CHARACTER_TITLES.wx78
+msgctxt "STRINGS.CHARACTER_TITLES.wx78"
+msgid "The Soulless Automaton"
+msgstr "Ruhsuz Otomaton"
+
+#. STRINGS.COOKINGRECIPECARD_DESC.BASE
+msgctxt "STRINGS.COOKINGRECIPECARD_DESC.BASE"
+msgid "{name}:\n{ingredients}."
+msgstr "{name}:\n{ingredients}."
+
+#. STRINGS.COOKINGRECIPECARD_DESC.INGREDIENTS_FIRST
+msgctxt "STRINGS.COOKINGRECIPECARD_DESC.INGREDIENTS_FIRST"
+msgid "{num}x {ing}"
+msgstr "{num}x {ing}"
+
+#. STRINGS.COOKINGRECIPECARD_DESC.INGREDIENTS_MORE
+msgctxt "STRINGS.COOKINGRECIPECARD_DESC.INGREDIENTS_MORE"
+msgid ", {num}x {ing}"
+msgstr ", {num}x {ing}"
+
+#. STRINGS.NAMES.ABIGAIL
+msgctxt "STRINGS.NAMES.ABIGAIL"
+msgid "Abigail"
+msgstr "Abigail"
+
+#. STRINGS.NAMES.ABIGAIL_FLOWER
+msgctxt "STRINGS.NAMES.ABIGAIL_FLOWER"
+msgid "Abigail's Flower"
+msgstr "Abigail'in Çiçeği"
+
+#. STRINGS.NAMES.ABYSSPILLAR_MINION
+msgctxt "STRINGS.NAMES.ABYSSPILLAR_MINION"
+msgid "Sequitor"
+msgstr "Sequitor"
+
+#. STRINGS.NAMES.ABYSSPILLAR_TRIAL
+msgctxt "STRINGS.NAMES.ABYSSPILLAR_TRIAL"
+msgid "Lever"
+msgstr "Kol"
+
+#. STRINGS.NAMES.ACCOMPLISHMENT_SHRINE
+msgctxt "STRINGS.NAMES.ACCOMPLISHMENT_SHRINE"
+msgid "Accomploshrine"
+msgstr "Başarıkonak"
+
+#. STRINGS.NAMES.ACIDRAIN
+msgctxt "STRINGS.NAMES.ACIDRAIN"
+msgid "Acid Rain"
+msgstr "Asit Yağmuru"
+
+#. STRINGS.NAMES.ACORN
+msgctxt "STRINGS.NAMES.ACORN"
+msgid "Birchnut"
+msgstr "Huşfındığı"
+
+#. STRINGS.NAMES.ACORN_COOKED
+msgctxt "STRINGS.NAMES.ACORN_COOKED"
+msgid "Roasted Birchnut"
+msgstr "Kavrulmuş Huşfındığı"
+
+#. STRINGS.NAMES.ACORN_SAPLING
+msgctxt "STRINGS.NAMES.ACORN_SAPLING"
+msgid "Birchnut Sapling"
+msgstr "Huşfındığı Fidanı"
+
+#. STRINGS.NAMES.ADVENTURE_PORTAL
+msgctxt "STRINGS.NAMES.ADVENTURE_PORTAL"
+msgid "Maxwell's Door"
+msgstr "Maxwell'in Kapısı"
+
+#. STRINGS.NAMES.ALTERGUARDIANHAT
+msgctxt "STRINGS.NAMES.ALTERGUARDIANHAT"
+msgid "Enlightened Crown"
+msgstr "Aydınlanmış Taç"
+
+#. STRINGS.NAMES.ALTERGUARDIANHATSHARD
+msgctxt "STRINGS.NAMES.ALTERGUARDIANHATSHARD"
+msgid "Enlightened Shard"
+msgstr "Aydınlanmış Parça"
+
+#. STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE
+msgctxt "STRINGS.NAMES.ALTERGUARDIANHAT_PROJECTILE"
+msgid "Minor Gestalt"
+msgstr "Küçük Gestalt"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_CONTAINED
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_CONTAINED"
+msgid "Lunar Essence Extractor"
+msgstr "Ay Özü Çıkarıcı"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE1
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE1"
+msgid "Celestial Champion"
+msgstr "Semavi Şampiyon"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT"
+msgid "Celestial Revenant"
+msgstr "Semavi Hortlak"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT_GESTALT
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE1_LUNARRIFT_GESTALT"
+msgid "Pure Gestalt"
+msgstr "Saf Gestalt"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE2
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE2"
+msgid "Celestial Champion"
+msgstr "Semavi Şampiyon"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE2SPIKE
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE2SPIKE"
+msgid "Moonglass Spike"
+msgstr "Aycam Sivrisi"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3"
+msgid "Celestial Champion"
+msgstr "Semavi Şampiyon"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEAD
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEAD"
+msgid "Defeated Celestial Champion"
+msgstr "Yenilmiş Semavi Şampiyon"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEADORB
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3DEADORB"
+msgid "Celestial Champion"
+msgstr "Semavi Şampiyon"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE3TRAP
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE3TRAP"
+msgid "Enlightening Snare"
+msgstr "Aydınlatıcı Kapan"
+
+#. STRINGS.NAMES.ALTERGUARDIAN_PHASE4_LUNARRIFT
+msgctxt "STRINGS.NAMES.ALTERGUARDIAN_PHASE4_LUNARRIFT"
+msgid "Celestial Scion"
+msgstr "Semavi Halef"
+
+#. STRINGS.NAMES.AMULET
+msgctxt "STRINGS.NAMES.AMULET"
+msgid "Life Giving Amulet"
+msgstr "Can Verici Tılsım"
+
+#. STRINGS.NAMES.ANCHOR
+msgctxt "STRINGS.NAMES.ANCHOR"
+msgid "Anchor"
+msgstr "Çapa"
+
+#. STRINGS.NAMES.ANCHOR_ITEM
+msgctxt "STRINGS.NAMES.ANCHOR_ITEM"
+msgid "Anchor Kit"
+msgstr "Çapa Kiti"
+
+#. STRINGS.NAMES.ANCHOR_SKETCH
+msgctxt "STRINGS.NAMES.ANCHOR_SKETCH"
+msgid "\"Moon\" Sketch"
+msgstr "\"Ay\" Eskizi"
+
+#. STRINGS.NAMES.ANCIENTFRUIT_GEM
+msgctxt "STRINGS.NAMES.ANCIENTFRUIT_GEM"
+msgid "Geode Fruit"
+msgstr "Jeod Meyve"
+
+#. STRINGS.NAMES.ANCIENTFRUIT_NIGHTVISION
+msgctxt "STRINGS.NAMES.ANCIENTFRUIT_NIGHTVISION"
+msgid "Nightberry"
+msgstr "Geceyemiş"
+
+#. STRINGS.NAMES.ANCIENTFRUIT_NIGHTVISION_COOKED
+msgctxt "STRINGS.NAMES.ANCIENTFRUIT_NIGHTVISION_COOKED"
+msgid "Cooked Nightberry"
+msgstr "Pişmiş Geceyemiş"
+
+#. STRINGS.NAMES.ANCIENTTREE_GEM
+msgctxt "STRINGS.NAMES.ANCIENTTREE_GEM"
+msgid "Sproutrock"
+msgstr "Filiztaşı"
+
+#. STRINGS.NAMES.ANCIENTTREE_GEM_SAPLING
+msgctxt "STRINGS.NAMES.ANCIENTTREE_GEM_SAPLING"
+msgid "Young Sproutrock"
+msgstr "Genç Filiztaşı"
+
+#. STRINGS.NAMES.ANCIENTTREE_GEM_SAPLING_ITEM
+msgctxt "STRINGS.NAMES.ANCIENTTREE_GEM_SAPLING_ITEM"
+msgid "Sproutrock Sapling"
+msgstr "Filiztaşı Fidanı"
+
+#. STRINGS.NAMES.ANCIENTTREE_NIGHTVISION
+msgctxt "STRINGS.NAMES.ANCIENTTREE_NIGHTVISION"
+msgid "Gloomthorn"
+msgstr "Kasvetdiken"
+
+#. STRINGS.NAMES.ANCIENTTREE_NIGHTVISION_SAPLING
+msgctxt "STRINGS.NAMES.ANCIENTTREE_NIGHTVISION_SAPLING"
+msgid "Young Gloomthorn"
+msgstr "Genç Kasvetdiken"
+
+#. STRINGS.NAMES.ANCIENTTREE_NIGHTVISION_SAPLING_ITEM
+msgctxt "STRINGS.NAMES.ANCIENTTREE_NIGHTVISION_SAPLING_ITEM"
+msgid "Gloomthorn Sapling"
+msgstr "Kasvetdiken Fidanı"
+
+#. STRINGS.NAMES.ANCIENTTREE_SEED
+msgctxt "STRINGS.NAMES.ANCIENTTREE_SEED"
+msgid "Surprising Seed"
+msgstr "Şaşırtıcı Tohum"
+
+#. STRINGS.NAMES.ANCIENTTREE_SEED_PLANTED
+msgctxt "STRINGS.NAMES.ANCIENTTREE_SEED_PLANTED"
+msgid "Planted Surprising Seed"
+msgstr "Dikilmiş Şaşırtıcı Tohum"
+
+#. STRINGS.NAMES.ANCIENT_ALTAR
+msgctxt "STRINGS.NAMES.ANCIENT_ALTAR"
+msgid "Ancient Pseudoscience Station"
+msgstr "Kadim Sözdebilim İstasyonu"
+
+#. STRINGS.NAMES.ANCIENT_ALTAR_BROKEN
+msgctxt "STRINGS.NAMES.ANCIENT_ALTAR_BROKEN"
+msgid "Broken Ancient Pseudoscience Station"
+msgstr "Kırık Kadim Sözdebilim İstasyonu"
+
+#. STRINGS.NAMES.ANCIENT_HUSK
+msgctxt "STRINGS.NAMES.ANCIENT_HUSK"
+msgid "Ancient Remains"
+msgstr "Kadim Kalıntılar"
+
+#. STRINGS.NAMES.ANCIENT_STATUE
+msgctxt "STRINGS.NAMES.ANCIENT_STATUE"
+msgid "Ancient Statue"
+msgstr "Kadim Heykel"
+
+#. STRINGS.NAMES.ANIMAL_TRACK
+msgctxt "STRINGS.NAMES.ANIMAL_TRACK"
+msgid "Animal Track"
+msgstr "Hayvan İzi"
+
+#. STRINGS.NAMES.ANTCHOVIES
+msgctxt "STRINGS.NAMES.ANTCHOVIES"
+msgid "Ant-Chovy"
+msgstr "Karıncamsı"
+
+#. STRINGS.NAMES.ANTLION
+msgctxt "STRINGS.NAMES.ANTLION"
+msgid "Antlion"
+msgstr "Karıncaaslanı"
+
+#. STRINGS.NAMES.ANTLIONHAT
+msgctxt "STRINGS.NAMES.ANTLIONHAT"
+msgid "Turf-Raiser Helm"
+msgstr "Toprak Kaldırıcı Miğfer"
+
+#. STRINGS.NAMES.ANTLIONTRINKET
+msgctxt "STRINGS.NAMES.ANTLIONTRINKET"
+msgid "Beach Toy"
+msgstr "Kumsal Oyuncağı"
+
+#. STRINGS.NAMES.ANTLION_SINKHOLE
+msgctxt "STRINGS.NAMES.ANTLION_SINKHOLE"
+msgid "Sinkhole"
+msgstr "Çukur"
+
+#. STRINGS.NAMES.ARCHIVE_CENTIPEDE
+msgctxt "STRINGS.NAMES.ARCHIVE_CENTIPEDE"
+msgid "Ancient Sentrypede"
+msgstr "Kadim Nöbetçikırkayak"
+
+#. STRINGS.NAMES.ARCHIVE_CENTIPEDE_HUSK
+msgctxt "STRINGS.NAMES.ARCHIVE_CENTIPEDE_HUSK"
+msgid "Sentrypede Husk"
+msgstr "Nöbetçikırkayak Kabuğu"
+
+#. STRINGS.NAMES.ARCHIVE_COOKPOT
+msgctxt "STRINGS.NAMES.ARCHIVE_COOKPOT"
+msgid "Ancient Kiln"
+msgstr "Kadim Fırın"
+
+#. STRINGS.NAMES.ARCHIVE_LOCKBOX
+msgctxt "STRINGS.NAMES.ARCHIVE_LOCKBOX"
+msgid "Distilled Knowledge"
+msgstr "Damıtılmış Bilgi"
+
+#. STRINGS.NAMES.ARCHIVE_LOCKBOX_DISPENCER
+msgctxt "STRINGS.NAMES.ARCHIVE_LOCKBOX_DISPENCER"
+msgid "Fountain of Knowledge"
+msgstr "Bilgi Çeşmesi"
+
+#. STRINGS.NAMES.ARCHIVE_MOON_STATUE
+msgctxt "STRINGS.NAMES.ARCHIVE_MOON_STATUE"
+msgid "Ancient Moon Statue"
+msgstr "Kadim Ay Heykeli"
+
+#. STRINGS.NAMES.ARCHIVE_ORCHESTRINA_MAIN
+msgctxt "STRINGS.NAMES.ARCHIVE_ORCHESTRINA_MAIN"
+msgid "Ancient Orchestrina"
+msgstr "Kadim Orkestrina"
+
+#. STRINGS.NAMES.ARCHIVE_PORTAL
+msgctxt "STRINGS.NAMES.ARCHIVE_PORTAL"
+msgid "Sealed Portal"
+msgstr "Mühürlü Portal"
+
+#. STRINGS.NAMES.ARCHIVE_RESONATOR
+msgctxt "STRINGS.NAMES.ARCHIVE_RESONATOR"
+msgid "Astral Detector"
+msgstr "Astral Algılayıcı"
+
+#. STRINGS.NAMES.ARCHIVE_RESONATOR_ITEM
+msgctxt "STRINGS.NAMES.ARCHIVE_RESONATOR_ITEM"
+msgid "Astral Detector"
+msgstr "Astral Algılayıcı"
+
+#. STRINGS.NAMES.ARCHIVE_RUNE_STATUE
+msgctxt "STRINGS.NAMES.ARCHIVE_RUNE_STATUE"
+msgid "Ancient Lunarune Stone"
+msgstr "Kadim Aysi Rün Taşı"
+
+#. STRINGS.NAMES.ARCHIVE_SECURITY_DESK
+msgctxt "STRINGS.NAMES.ARCHIVE_SECURITY_DESK"
+msgid "Ancient Guard Post"
+msgstr "Kadim Nöbet Yeri"
+
+#. STRINGS.NAMES.ARCHIVE_SWITCH
+msgctxt "STRINGS.NAMES.ARCHIVE_SWITCH"
+msgid "Ornate Pedestal"
+msgstr "Süslü Kaide"
+
+#. STRINGS.NAMES.ARMORDRAGONFLY
+msgctxt "STRINGS.NAMES.ARMORDRAGONFLY"
+msgid "Scalemail"
+msgstr "Pul Zırh"
+
+#. STRINGS.NAMES.ARMORDREADSTONE
+msgctxt "STRINGS.NAMES.ARMORDREADSTONE"
+msgid "Dreadstone Armor"
+msgstr "Dehşettaşı Zırhı"
+
+#. STRINGS.NAMES.ARMORGRASS
+msgctxt "STRINGS.NAMES.ARMORGRASS"
+msgid "Grass Suit"
+msgstr "Çayır Zırh"
+
+#. STRINGS.NAMES.ARMORMARBLE
+msgctxt "STRINGS.NAMES.ARMORMARBLE"
+msgid "Marble Suit"
+msgstr "Mermer Zırh"
+
+#. STRINGS.NAMES.ARMORRUINS
+msgctxt "STRINGS.NAMES.ARMORRUINS"
+msgid "Thulecite Suit"
+msgstr "Tuleçit Zırh"
+
+#. STRINGS.NAMES.ARMORSKELETON
+msgctxt "STRINGS.NAMES.ARMORSKELETON"
+msgid "Bone Armor"
+msgstr "Kemik Zırh"
+
+#. STRINGS.NAMES.ARMORSLURPER
+msgctxt "STRINGS.NAMES.ARMORSLURPER"
+msgid "Belt of Hunger"
+msgstr "Açlık Kemeri"
+
+#. STRINGS.NAMES.ARMORSNURTLESHELL
+msgctxt "STRINGS.NAMES.ARMORSNURTLESHELL"
+msgid "Snurtle Shell Armor"
+msgstr "Snurtle Kabuk Zırhı"
+
+#. STRINGS.NAMES.ARMORWAGPUNK
+msgctxt "STRINGS.NAMES.ARMORWAGPUNK"
+msgid "W.A.R.B.I.S. Armor"
+msgstr "W.A.R.B.I.S. Zırhı"
+
+#. STRINGS.NAMES.ARMORWOOD
+msgctxt "STRINGS.NAMES.ARMORWOOD"
+msgid "Log Suit"
+msgstr "Kütük Zırh"
+
+#. STRINGS.NAMES.ARMOR_BRAMBLE
+msgctxt "STRINGS.NAMES.ARMOR_BRAMBLE"
+msgid "Bramble Husk"
+msgstr "Diken Zırhı"
+
+#. STRINGS.NAMES.ARMOR_CARROTLURE
+msgctxt "STRINGS.NAMES.ARMOR_CARROTLURE"
+msgid "Coat of Carrots"
+msgstr "Havuçlu Mont"
+
+#. STRINGS.NAMES.ARMOR_LUNARPLANT
+msgctxt "STRINGS.NAMES.ARMOR_LUNARPLANT"
+msgid "Brightshade Armor"
+msgstr "Aydıngölge Zırhı"
+
+#. STRINGS.NAMES.ARMOR_LUNARPLANT_HUSK
+msgctxt "STRINGS.NAMES.ARMOR_LUNARPLANT_HUSK"
+msgid "Brambleshade Armor"
+msgstr "Dikengölge Zırhı"
+
+#. STRINGS.NAMES.ARMOR_SANITY
+msgctxt "STRINGS.NAMES.ARMOR_SANITY"
+msgid "Night Armor"
+msgstr "Gece Zırh"
+
+#. STRINGS.NAMES.ARMOR_VOIDCLOTH
+msgctxt "STRINGS.NAMES.ARMOR_VOIDCLOTH"
+msgid "Void Robe"
+msgstr "Boşluk Cüppesi"
+
+#. STRINGS.NAMES.ARMOR_YOTH_KNIGHT
+msgctxt "STRINGS.NAMES.ARMOR_YOTH_KNIGHT"
+msgid "Gilded Knight's Chest Plate"
+msgstr "Yaldızlı Şövalye Göğüs Plakası"
+
+#. STRINGS.NAMES.ARROWSIGN_PANEL
+msgctxt "STRINGS.NAMES.ARROWSIGN_PANEL"
+msgid "Directional Sign"
+msgstr "Yön Tabelası"
+
+#. STRINGS.NAMES.ARROWSIGN_POST
+msgctxt "STRINGS.NAMES.ARROWSIGN_POST"
+msgid "Directional Sign"
+msgstr "Yön Tabelası"
+
+#. STRINGS.NAMES.ASH
+msgctxt "STRINGS.NAMES.ASH"
+msgid "Ashes"
+msgstr "Kül"
+
+#. STRINGS.NAMES.ASH_REMAINS
+msgctxt "STRINGS.NAMES.ASH_REMAINS"
+msgid "Ashes of %s"
+msgstr "%s'in Külleri"
+
+#. STRINGS.NAMES.ASPARAGUS
+msgctxt "STRINGS.NAMES.ASPARAGUS"
+msgid "Asparagus"
+msgstr "Kuşkonmaz"
+
+#. STRINGS.NAMES.ASPARAGUSSOUP
+msgctxt "STRINGS.NAMES.ASPARAGUSSOUP"
+msgid "Asparagus Soup"
+msgstr "Kuşkonmaz Çorbası"
+
+#. STRINGS.NAMES.ASPARAGUS_COOKED
+msgctxt "STRINGS.NAMES.ASPARAGUS_COOKED"
+msgid "Roasted Asparagus"
+msgstr "Kızarmış Kuşkonmaz"
+
+#. STRINGS.NAMES.ASPARAGUS_OVERSIZED
+msgctxt "STRINGS.NAMES.ASPARAGUS_OVERSIZED"
+msgid "Giant Asparagus"
+msgstr "Dev Kuşkonmaz"
+
+#. STRINGS.NAMES.ASPARAGUS_OVERSIZED_ROTTEN
+msgctxt "STRINGS.NAMES.ASPARAGUS_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Asparagus"
+msgstr "Dev Çürük Kuşkonmaz"
+
+#. STRINGS.NAMES.ASPARAGUS_SEEDS
+msgctxt "STRINGS.NAMES.ASPARAGUS_SEEDS"
+msgid "Tubular Seeds"
+msgstr "Tüp Tohumlar"
+
+#. STRINGS.NAMES.ATRIUM_GATE
+msgctxt "STRINGS.NAMES.ATRIUM_GATE"
+msgid "Ancient Gateway"
+msgstr "Kadim Geçit"
+
+#. STRINGS.NAMES.ATRIUM_KEY
+msgctxt "STRINGS.NAMES.ATRIUM_KEY"
+msgid "Ancient Key"
+msgstr "Kadim Anahtar"
+
+#. STRINGS.NAMES.ATRIUM_LIGHT
+msgctxt "STRINGS.NAMES.ATRIUM_LIGHT"
+msgid "Ancient Beacon"
+msgstr "Kadim Fener"
+
+#. STRINGS.NAMES.ATRIUM_OVERGROWTH
+msgctxt "STRINGS.NAMES.ATRIUM_OVERGROWTH"
+msgid "Ancient Obelisk"
+msgstr "Kadim Dikilitaş"
+
+#. STRINGS.NAMES.ATRIUM_RUBBLE
+msgctxt "STRINGS.NAMES.ATRIUM_RUBBLE"
+msgid "Ancient Mural"
+msgstr "Kadim Duvar Resmi"
+
+#. STRINGS.NAMES.ATRIUM_STATUE
+msgctxt "STRINGS.NAMES.ATRIUM_STATUE"
+msgid "Ancient Statue"
+msgstr "Kadim Heykel"
+
+#. STRINGS.NAMES.AXE
+msgctxt "STRINGS.NAMES.AXE"
+msgid "Axe"
+msgstr "Balta"
+
+#. STRINGS.NAMES.BABYBEEFALO
+msgctxt "STRINGS.NAMES.BABYBEEFALO"
+msgid "Baby Beefalo"
+msgstr "Bebek Bızonsığır"
+
+#. STRINGS.NAMES.BACKPACK
+msgctxt "STRINGS.NAMES.BACKPACK"
+msgid "Backpack"
+msgstr "Sırt Çantası"
+
+#. STRINGS.NAMES.BACONEGGS
+msgctxt "STRINGS.NAMES.BACONEGGS"
+msgid "Bacon and Eggs"
+msgstr "Pastırma ve Yumurta"
+
+#. STRINGS.NAMES.BALATRO_MACHINE
+msgctxt "STRINGS.NAMES.BALATRO_MACHINE"
+msgid "JIMBO"
+msgstr "JIMBO"
+
+#. STRINGS.NAMES.BALLOON
+msgctxt "STRINGS.NAMES.BALLOON"
+msgid "Balloon"
+msgstr "Balon"
+
+#. STRINGS.NAMES.BALLOONHAT
+msgctxt "STRINGS.NAMES.BALLOONHAT"
+msgid "Balloon Hat"
+msgstr "Balon Şapka"
+
+#. STRINGS.NAMES.BALLOONPARTY
+msgctxt "STRINGS.NAMES.BALLOONPARTY"
+msgid "Party Balloon"
+msgstr "Parti Balonu"
+
+#. STRINGS.NAMES.BALLOONSPEED
+msgctxt "STRINGS.NAMES.BALLOONSPEED"
+msgid "Speedy Balloon"
+msgstr "Hızlı Balon"
+
+#. STRINGS.NAMES.BALLOONS_EMPTY
+msgctxt "STRINGS.NAMES.BALLOONS_EMPTY"
+msgid "Pile o' Balloons"
+msgstr "Balon Yığını"
+
+#. STRINGS.NAMES.BALLOONVEST
+msgctxt "STRINGS.NAMES.BALLOONVEST"
+msgid "Inflatable Vest"
+msgstr "Şişme Yelek"
+
+#. STRINGS.NAMES.BANANABUSH
+msgctxt "STRINGS.NAMES.BANANABUSH"
+msgid "Banana Bush"
+msgstr "Muz Çalısı"
+
+#. STRINGS.NAMES.BANANAJUICE
+msgctxt "STRINGS.NAMES.BANANAJUICE"
+msgid "Banana Shake"
+msgstr "Muzlu Şekerleme"
+
+#. STRINGS.NAMES.BANANAPOP
+msgctxt "STRINGS.NAMES.BANANAPOP"
+msgid "Banana Pop"
+msgstr "Muz Çubuk"
+
+#. STRINGS.NAMES.BANDAGE
+msgctxt "STRINGS.NAMES.BANDAGE"
+msgid "Honey Poultice"
+msgstr "Ballı Lapa"
+
+#. STRINGS.NAMES.BANDAGE_BUTTERFLYWINGS
+msgctxt "STRINGS.NAMES.BANDAGE_BUTTERFLYWINGS"
+msgid "Flutter Strip"
+msgstr "Kanat Şeridi"
+
+#. STRINGS.NAMES.BARNACLE
+msgctxt "STRINGS.NAMES.BARNACLE"
+msgid "Barnacles"
+msgstr "Midye"
+
+#. STRINGS.NAMES.BARNACLEPITA
+msgctxt "STRINGS.NAMES.BARNACLEPITA"
+msgid "Barnacle Pita"
+msgstr "Midye Pidesi"
+
+#. STRINGS.NAMES.BARNACLESTUFFEDFISHHEAD
+msgctxt "STRINGS.NAMES.BARNACLESTUFFEDFISHHEAD"
+msgid "Stuffed Fish Heads"
+msgstr "Doldurulmuş Balık Başları"
+
+#. STRINGS.NAMES.BARNACLESUSHI
+msgctxt "STRINGS.NAMES.BARNACLESUSHI"
+msgid "Barnacle Nigiri"
+msgstr "Midye Nigirisi"
+
+#. STRINGS.NAMES.BARNACLE_COOKED
+msgctxt "STRINGS.NAMES.BARNACLE_COOKED"
+msgid "Cooked Barnacles"
+msgstr "Pişmiş Midye"
+
+#. STRINGS.NAMES.BARNACLINGUINE
+msgctxt "STRINGS.NAMES.BARNACLINGUINE"
+msgid "Barnacle Linguine"
+msgstr "Midyeli Linguine"
+
+#. STRINGS.NAMES.BASALT
+msgctxt "STRINGS.NAMES.BASALT"
+msgid "Basalt"
+msgstr "Bazalt"
+
+#. STRINGS.NAMES.BASALT_PILLAR
+msgctxt "STRINGS.NAMES.BASALT_PILLAR"
+msgid "Basalt Pillar"
+msgstr "Bazalt Sütun"
+
+#. STRINGS.NAMES.BAT
+msgctxt "STRINGS.NAMES.BAT"
+msgid "Batilisk"
+msgstr "Yarasalisk"
+
+#. STRINGS.NAMES.BATBAT
+msgctxt "STRINGS.NAMES.BATBAT"
+msgid "Bat Bat"
+msgstr "Yarasa Sopa"
+
+#. STRINGS.NAMES.BATCAVE
+msgctxt "STRINGS.NAMES.BATCAVE"
+msgid "Bat Cave"
+msgstr "Yarasa Mağarası"
+
+#. STRINGS.NAMES.BATHBOMB
+msgctxt "STRINGS.NAMES.BATHBOMB"
+msgid "Bath Bomb"
+msgstr "Banyo Topu"
+
+#. STRINGS.NAMES.BATHBOMB_BLUEPRINT
+msgctxt "STRINGS.NAMES.BATHBOMB_BLUEPRINT"
+msgid "Bath Bomb Blueprint"
+msgstr "Banyo Topu Planı"
+
+#. STRINGS.NAMES.BATNOSE
+msgctxt "STRINGS.NAMES.BATNOSE"
+msgid "Naked Nostrils"
+msgstr "Çıplak Burunlar"
+
+#. STRINGS.NAMES.BATNOSEHAT
+msgctxt "STRINGS.NAMES.BATNOSEHAT"
+msgid "Milkmade Hat"
+msgstr "Sütlü Şapka"
+
+#. STRINGS.NAMES.BATNOSE_COOKED
+msgctxt "STRINGS.NAMES.BATNOSE_COOKED"
+msgid "Charred Nostrils"
+msgstr "Yanık Burunlar"
+
+#. STRINGS.NAMES.BATTLESONG_CONTAINER
+msgctxt "STRINGS.NAMES.BATTLESONG_CONTAINER"
+msgid "Battle Call Canister"
+msgstr "Savaş Çağrı Şişesi"
+
+#. STRINGS.NAMES.BATTLESONG_DURABILITY
+msgctxt "STRINGS.NAMES.BATTLESONG_DURABILITY"
+msgid "Weaponized Warble"
+msgstr "Silahlandırılmış Trill"
+
+#. STRINGS.NAMES.BATTLESONG_FIRERESISTANCE
+msgctxt "STRINGS.NAMES.BATTLESONG_FIRERESISTANCE"
+msgid "Fireproof Falsetto"
+msgstr "Yangın Geçirmez Falsetto"
+
+#. STRINGS.NAMES.BATTLESONG_HEALTHGAIN
+msgctxt "STRINGS.NAMES.BATTLESONG_HEALTHGAIN"
+msgid "Heartrending Ballad"
+msgstr "Yürek Burkan Balad"
+
+#. STRINGS.NAMES.BATTLESONG_INSTANT_PANIC
+msgctxt "STRINGS.NAMES.BATTLESONG_INSTANT_PANIC"
+msgid "Startling Soliloquy"
+msgstr "Ürkütücü Monolog"
+
+#. STRINGS.NAMES.BATTLESONG_INSTANT_REVIVE
+msgctxt "STRINGS.NAMES.BATTLESONG_INSTANT_REVIVE"
+msgid "Warrior's Reprise"
+msgstr "Savaşçının Nakaratı"
+
+#. STRINGS.NAMES.BATTLESONG_INSTANT_TAUNT
+msgctxt "STRINGS.NAMES.BATTLESONG_INSTANT_TAUNT"
+msgid "Rude Interlude"
+msgstr "Kaba Interlüd"
+
+#. STRINGS.NAMES.BATTLESONG_LUNARALIGNED
+msgctxt "STRINGS.NAMES.BATTLESONG_LUNARALIGNED"
+msgid "Enlightened Lullaby"
+msgstr "Aydınlanmış Ninni"
+
+#. STRINGS.NAMES.BATTLESONG_SANITYAURA
+msgctxt "STRINGS.NAMES.BATTLESONG_SANITYAURA"
+msgid "Bel Canto of Courage"
+msgstr "Cesaretin Bel Canto'su"
+
+#. STRINGS.NAMES.BATTLESONG_SANITYGAIN
+msgctxt "STRINGS.NAMES.BATTLESONG_SANITYGAIN"
+msgid "Clear Minded Cadenza"
+msgstr "Berrak Akıl Kadansı"
+
+#. STRINGS.NAMES.BATTLESONG_SHADOWALIGNED
+msgctxt "STRINGS.NAMES.BATTLESONG_SHADOWALIGNED"
+msgid "Dark Lament"
+msgstr "Karanlık Ağıt"
+
+#. STRINGS.NAMES.BATWING
+msgctxt "STRINGS.NAMES.BATWING"
+msgid "Batilisk Wing"
+msgstr "Yarasalisk Kanadı"
+
+#. STRINGS.NAMES.BATWING_COOKED
+msgctxt "STRINGS.NAMES.BATWING_COOKED"
+msgid "Cooked Batilisk Wing"
+msgstr "Pişmiş Yarasalisk Kanadı"
+
+#. STRINGS.NAMES.BEARDHAIR
+msgctxt "STRINGS.NAMES.BEARDHAIR"
+msgid "Beard Hair"
+msgstr "Sakal Kılı"
+
+#. STRINGS.NAMES.BEARGER
+msgctxt "STRINGS.NAMES.BEARGER"
+msgid "Bearger"
+msgstr "Ayıger"
+
+#. STRINGS.NAMES.BEARGERFUR_SACK
+msgctxt "STRINGS.NAMES.BEARGERFUR_SACK"
+msgid "Polar Bearger Bin"
+msgstr "Kutup Ayıger Sandığı"
+
+#. STRINGS.NAMES.BEARGERVEST
+msgctxt "STRINGS.NAMES.BEARGERVEST"
+msgid "Hibearnation Vest"
+msgstr "Kışayuyku Yeleği"
+
+#. STRINGS.NAMES.BEARGER_FUR
+msgctxt "STRINGS.NAMES.BEARGER_FUR"
+msgid "Thick Fur"
+msgstr "Kalın Kürk"
+
+#. STRINGS.NAMES.BEAST_BLUEPRINT
+msgctxt "STRINGS.NAMES.BEAST_BLUEPRINT"
+msgid "Lucky Beast Costume Pattern"
+msgstr "Şanslı Canavar Kostüm Deseni"
+
+#. STRINGS.NAMES.BEDROLL_FURRY
+msgctxt "STRINGS.NAMES.BEDROLL_FURRY"
+msgid "Fur Roll"
+msgstr "Kürk Yatak"
+
+#. STRINGS.NAMES.BEDROLL_STRAW
+msgctxt "STRINGS.NAMES.BEDROLL_STRAW"
+msgid "Straw Roll"
+msgstr "Saman Yatak"
+
+#. STRINGS.NAMES.BEE
+msgctxt "STRINGS.NAMES.BEE"
+msgid "Bee"
+msgstr "Arı"
+
+#. STRINGS.NAMES.BEEBOX
+msgctxt "STRINGS.NAMES.BEEBOX"
+msgid "Bee Box"
+msgstr "Arı Kutusu"
+
+#. STRINGS.NAMES.BEEBOX_HERMIT
+msgctxt "STRINGS.NAMES.BEEBOX_HERMIT"
+msgid "Bee Box"
+msgstr "Arı Kutusu"
+
+#. STRINGS.NAMES.BEEFALO
+msgctxt "STRINGS.NAMES.BEEFALO"
+msgid "Beefalo"
+msgstr "Bızonsığır"
+
+#. STRINGS.NAMES.BEEFALOFEED
+msgctxt "STRINGS.NAMES.BEEFALOFEED"
+msgid "Steamed Twigs"
+msgstr "Buğulanmış Çubuk"
+
+#. STRINGS.NAMES.BEEFALOHAT
+msgctxt "STRINGS.NAMES.BEEFALOHAT"
+msgid "Beefalo Hat"
+msgstr "Bızonsığır Şapka"
+
+#. STRINGS.NAMES.BEEFALOTREAT
+msgctxt "STRINGS.NAMES.BEEFALOTREAT"
+msgid "Beefalo Treats"
+msgstr "Bızonsığır Çerezleri"
+
+#. STRINGS.NAMES.BEEFALOWOOL
+msgctxt "STRINGS.NAMES.BEEFALOWOOL"
+msgid "Beefalo Wool"
+msgstr "Bızonsığır Yünü"
+
+#. STRINGS.NAMES.BEEFALO_BUDDY_NAME
+msgctxt "STRINGS.NAMES.BEEFALO_BUDDY_NAME"
+msgid "{buddy}'s Beefalo"
+msgstr "{buddy}'in Bızonsığırı"
+
+#. STRINGS.NAMES.BEEFALO_DOMESTIC
+msgctxt "STRINGS.NAMES.BEEFALO_DOMESTIC"
+msgid "Domesticated Beefalo"
+msgstr "Evcilleştirilmiş Bızonsığır"
+
+#. STRINGS.NAMES.BEEFALO_GROOMER
+msgctxt "STRINGS.NAMES.BEEFALO_GROOMER"
+msgid "Beefalo Grooming Station"
+msgstr "Bızonsığır Bakım İstasyonu"
+
+#. STRINGS.NAMES.BEEFALO_GROOMER_ITEM
+msgctxt "STRINGS.NAMES.BEEFALO_GROOMER_ITEM"
+msgid "Grooming Station Kit"
+msgstr "Bakım İstasyonu Kiti"
+
+#. STRINGS.NAMES.BEEF_BELL
+msgctxt "STRINGS.NAMES.BEEF_BELL"
+msgid "Beefalo Bell"
+msgstr "Bızonsığır Çanı"
+
+#. STRINGS.NAMES.BEEGUARD
+msgctxt "STRINGS.NAMES.BEEGUARD"
+msgid "Grumble Bee"
+msgstr "Hırlayan Arı"
+
+#. STRINGS.NAMES.BEEHAT
+msgctxt "STRINGS.NAMES.BEEHAT"
+msgid "Beekeeper Hat"
+msgstr "Arıcı Şapka"
+
+#. STRINGS.NAMES.BEEHIVE
+msgctxt "STRINGS.NAMES.BEEHIVE"
+msgid "Beehive"
+msgstr "Arı Kovanı"
+
+#. STRINGS.NAMES.BEEMINE
+msgctxt "STRINGS.NAMES.BEEMINE"
+msgid "Bee Mine"
+msgstr "Arı Mayını"
+
+#. STRINGS.NAMES.BEEMINE_MAXWELL
+msgctxt "STRINGS.NAMES.BEEMINE_MAXWELL"
+msgid "Maxwell's Mosquito Trap"
+msgstr "Maxwell'in Sivrisinek Tuzağı"
+
+#. STRINGS.NAMES.BEEQUEEN
+msgctxt "STRINGS.NAMES.BEEQUEEN"
+msgid "Bee Queen"
+msgstr "Arıların Kraliçesi"
+
+#. STRINGS.NAMES.BEEQUEENHIVE
+msgctxt "STRINGS.NAMES.BEEQUEENHIVE"
+msgid "Honey Patch"
+msgstr "Bal Yaması"
+
+#. STRINGS.NAMES.BEEQUEENHIVEGROWING
+msgctxt "STRINGS.NAMES.BEEQUEENHIVEGROWING"
+msgid "Somewhat Gigantic Beehive"
+msgstr "Biraz Devasa Arı Kovanı"
+
+#. STRINGS.NAMES.BEEQUEENHIVEGROWN
+msgctxt "STRINGS.NAMES.BEEQUEENHIVEGROWN"
+msgid "Gigantic Beehive"
+msgstr "Devasa Arı Kovanı"
+
+#. STRINGS.NAMES.BEESWAX
+msgctxt "STRINGS.NAMES.BEESWAX"
+msgid "Beeswax"
+msgstr "Bal Mumu"
+
+#. STRINGS.NAMES.BEESWAX_SPRAY
+msgctxt "STRINGS.NAMES.BEESWAX_SPRAY"
+msgid "Embalming Spritz"
+msgstr "Mumyalama Spreyi"
+
+#. STRINGS.NAMES.BEETLETAUR
+msgctxt "STRINGS.NAMES.BEETLETAUR"
+msgid "Infernal Swineclops"
+msgstr "Cehennemi Domuzgöz"
+
+#. STRINGS.NAMES.BELL
+msgctxt "STRINGS.NAMES.BELL"
+msgid "Old Bell"
+msgstr "Eski Çan"
+
+#. STRINGS.NAMES.BERNIE_ACTIVE
+msgctxt "STRINGS.NAMES.BERNIE_ACTIVE"
+msgid "Bernie"
+msgstr "Bernie"
+
+#. STRINGS.NAMES.BERNIE_BIG
+msgctxt "STRINGS.NAMES.BERNIE_BIG"
+msgid "BERNIE!"
+msgstr "BERNIE!"
+
+#. STRINGS.NAMES.BERNIE_INACTIVE
+msgctxt "STRINGS.NAMES.BERNIE_INACTIVE"
+msgid "Bernie"
+msgstr "Bernie"
+
+#. STRINGS.NAMES.BERRIES
+msgctxt "STRINGS.NAMES.BERRIES"
+msgid "Berries"
+msgstr "Meyveler"
+
+#. STRINGS.NAMES.BERRIES_COOKED
+msgctxt "STRINGS.NAMES.BERRIES_COOKED"
+msgid "Roasted Berries"
+msgstr "Kızarmış Meyveler"
+
+#. STRINGS.NAMES.BERRIES_JUICY
+msgctxt "STRINGS.NAMES.BERRIES_JUICY"
+msgid "Juicy Berries"
+msgstr "Sulu Meyveler"
+
+#. STRINGS.NAMES.BERRIES_JUICY_COOKED
+msgctxt "STRINGS.NAMES.BERRIES_JUICY_COOKED"
+msgid "Roasted Juicy Berries"
+msgstr "Kızarmış Sulu Meyveler"
+
+#. STRINGS.NAMES.BERRYBUSH
+msgctxt "STRINGS.NAMES.BERRYBUSH"
+msgid "Berry Bush"
+msgstr "Meyve Çalısı"
+
+#. STRINGS.NAMES.BERRYBUSH2
+msgctxt "STRINGS.NAMES.BERRYBUSH2"
+msgid "Berry Bush"
+msgstr "Meyve Çalısı"
+
+#. STRINGS.NAMES.BERRYBUSH_JUICY
+msgctxt "STRINGS.NAMES.BERRYBUSH_JUICY"
+msgid "Juicy Berry Bush"
+msgstr "Sulu Meyve Çalısı"
+
+#. STRINGS.NAMES.BERRYSAUCE
+msgctxt "STRINGS.NAMES.BERRYSAUCE"
+msgid "Merry Berrysauce"
+msgstr "Neşeli Meyve Sosu"
+
+#. STRINGS.NAMES.BIBINGKA
+msgctxt "STRINGS.NAMES.BIBINGKA"
+msgid "Bibingka"
+msgstr "Bibingka"
+
+#. STRINGS.NAMES.BIGFOOT
+msgctxt "STRINGS.NAMES.BIGFOOT"
+msgid "Biiigfoot"
+msgstr "Kooocaayak"
+
+#. STRINGS.NAMES.BIGSHADOWTENTACLE
+msgctxt "STRINGS.NAMES.BIGSHADOWTENTACLE"
+msgid "Guardian Shadow Tentacle"
+msgstr "Muhafız Gölge Dokunaç"
+
+#. STRINGS.NAMES.BIRCHNUTDRAKE
+msgctxt "STRINGS.NAMES.BIRCHNUTDRAKE"
+msgid "Birchnutter"
+msgstr "Tohumcuk"
+
+#. STRINGS.NAMES.BIRDCAGE
+msgctxt "STRINGS.NAMES.BIRDCAGE"
+msgid "Birdcage"
+msgstr "Kuş Kafesi"
+
+#. STRINGS.NAMES.BIRDTRAP
+msgctxt "STRINGS.NAMES.BIRDTRAP"
+msgid "Bird Trap"
+msgstr "Kuş Tuzağı"
+
+#. STRINGS.NAMES.BIRD_EGG
+msgctxt "STRINGS.NAMES.BIRD_EGG"
+msgid "Egg"
+msgstr "Yumurta"
+
+#. STRINGS.NAMES.BIRD_EGG_COOKED
+msgctxt "STRINGS.NAMES.BIRD_EGG_COOKED"
+msgid "Cooked Egg"
+msgstr "Pişmiş Yumurta"
+
+#. STRINGS.NAMES.BIRD_MUTANT
+msgctxt "STRINGS.NAMES.BIRD_MUTANT"
+msgid "Moonblind Crow"
+msgstr "Aykörü Karga"
+
+#. STRINGS.NAMES.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.NAMES.BIRD_MUTANT_SPITTER"
+msgid "Misshapen Bird"
+msgstr "Şekilsiz Kuş"
+
+#. STRINGS.NAMES.BISHOP
+msgctxt "STRINGS.NAMES.BISHOP"
+msgid "Clockwork Bishop"
+msgstr "Mekanik Şah"
+
+#. STRINGS.NAMES.BISHOP_NIGHTMARE
+msgctxt "STRINGS.NAMES.BISHOP_NIGHTMARE"
+msgid "Damaged Bishop"
+msgstr "Hasarlı Şah"
+
+#. STRINGS.NAMES.BLACKFLAG
+msgctxt "STRINGS.NAMES.BLACKFLAG"
+msgid "Black Flag"
+msgstr "Siyah Bayrak"
+
+#. STRINGS.NAMES.BLOWDART_FIRE
+msgctxt "STRINGS.NAMES.BLOWDART_FIRE"
+msgid "Fire Dart"
+msgstr "Ateş Oku"
+
+#. STRINGS.NAMES.BLOWDART_LAVA
+msgctxt "STRINGS.NAMES.BLOWDART_LAVA"
+msgid "Darts"
+msgstr "Oklar"
+
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
 msgid "Cancel"
