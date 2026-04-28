@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-28 (Oturum 9 ✅ — Faz 3 Seçenek B: STRINGS.NAMES devam, 600 item ismi)
+**Son güncelleme:** 2026-04-28 (Oturum 10 ✅ — Faz 3 Seçenek B: STRINGS.NAMES devam, 600 item ismi)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 6.356 / 85.706 msgid (%7.42)
+**Şu ana kadar çevrilen toplam:** 6.956 / 85.706 msgid (%8.12)
 
 ---
 
@@ -147,11 +147,23 @@
 
 **Faz 3 toplam:** Oturum 5+6+7+8+9 = 873 + 444 + 600 = **1.917 string** (Faz 3'ün ~%38'i tahmini)
 
-## 🎯 Sıradaki Oturum (10) — Yol Haritası (Seçenek B devam)
+### ✅ Oturum 10 — 2026-04-28 (3 batch / 600 string) — STRINGS.NAMES F-M
 
-### NAMES devam: 11 batch daha (~2.000 string, ~4-5 oturum)
-- `0582` STRINGS.NAMES (F-G) — FISHINGROD sonrası
-- `0583-0592` STRINGS.NAMES devam (toplam 11 batch kaldı, her biri ~200 string)
+**Aydın'ın "devam" komutu:** Seçenek B devam — 3 NAMES batch (F-M arası ~600 item ismi).
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0582` | 200 | **STRINGS.NAMES (5/15)** F-H: Çiğ Balık/Balık Bifteği/Balık Pastırması, Çiçek/Solmuş Çiçek serisi, **Forget-Me-Lots→Unutma-Beni-ler** (Klei multiplicity pun), **Asparagazpacho→Kuşkonmazpacho**, **Icker→Yapışkak** (Atriyum jel), **Saladmander→Salatamender** (glossary), **Mourning Glory→Yas Çiçeği**, Ghostly Elixir serisi tam (Vigor Mortis Latince korunur), Halloween 14 şeker + 9 iksir + 6 deney + 6 süs + 4 zırh, **Ham Bat→Jambon Sopa**, Briar Wolf→Çalı Kurdu, **Crabby Hermit→Huysuz Münzevi** (Pearl), Pearl ekosistemi başlangıcı (Çay Dükkanı/Kaplıca/Çay tarifleri) | ✅ |
+| `0583` | 200 | **STRINGS.NAMES (6/15)** H-L: Hermit/Pearl tam (Bohça/Sallanır Sandalye/İnci/Yer), Hot Spring, **Howlitzer→Ulutop** (howl+howitzer pun), **Long Pig→Uzun Domuz** (kanibalist eufemizm), Hutch (özel), Buz/Buz Sandığı/Buz Asası, **Inspectacles→İnceleme Gözlüğü** (inspect+spectacles pun), Ipekak Şurubu, **Mimicreep→Sinsimimik**, Kitcoon Nursery+9 biyom Yavrukoon, Klaus+Pascal/Desdemona/Fermin/Warren (4 atlı, özel), KNOWN_*_SEEDS 15 tohum (Domarot/Şalgam dahil), Koalafant, Krampus, **Lavaarena Forge zırh seti tam** (~25 zırh/silah/miğfer; Steadfast/Silken/Jagged tonlamaları), Lavae/Lava lore, **Treeguard→Ağaçmuhafız**, **Crustashine→Kabukparlak**, Volt Goat=Şimşek Keçisi, Lucy the Axe→Balta Lucy, Bright-Eyed Frog, **Brightshade Helm→Aydıngölge Miğfer**, **Ryftstal→Yarkristal** (rift+crystal), **Lunaform Burst→Aybiçim Patlaması**, Deadly Brightshade=Ölümcül Aydıngölge | ✅ |
+| `0584` | 200 | **STRINGS.NAMES (7/15)** L-M: **Brightsmithy→Aydındemirhane** (lunar forge), Tuzakbitki, Lutefisk (İskandinav), Mad Scientist Lab, Malbatross→Malbatros tam, **Mandrake→Adamotu** (klasik), Marble (mermer) serisi tam, **Stage play maske seti tam** (Visionist/Elytra/Artificer/Halfwit/Sage/Toady + 8 karakter maskesi), Mast (gemi direği)+Lightning Conductor+Winged Sail+Dragonfly Wing Mast, Maxwell tam (Kafa/Işık/Anahtar/Kabus Kilidi/Gramofon/Taht), **Merm ekosistemi tam** (Mermhane=Armermry, **Florpkale=Flort-ifications** Wurt florp+fortifications pun, Kraftsmerm=Craftsmerm, Lunar/Shadow Merm, Royal-In-Progress, Slightly Less Shoddy Tool=Klei dark humor), Miasma=Miyazma, Friend-O-Matic→Dost-O-Matik, Milky Whites=Sütlü Beyazlar, **Moggles→Köstgözlük** (mole+goggles), Splumonkey ekosistemi (Pirate Bandana, Kaptan Üç Köşeli Şapka, Moon Quay), Moon items derinlik (Moonglass=Aycam, Moonrock=Aykayası, Celestial Altar=Semavi Sunak/Sanctum=Mabet/Tribute=Sunu serisi tam, **Astroggles→Astrgözlük**, **Moongleam→Aypırıltı**), Moose1/2=Tos/Kaz (glossary), Moqueca | ✅ |
+
+**Faz 3 toplam:** Oturum 5+6+7+8+9+10 = 1.917 + 600 = **2.517 string** (Faz 3'ün ~%50'si tahmini)
+
+## 🎯 Sıradaki Oturum (11) — Yol Haritası (Seçenek B devam)
+
+### NAMES devam: 8 batch daha (~1.400 string, ~3-4 oturum)
+- `0585` STRINGS.NAMES (M-N) — MOQUECA sonrası
+- `0586-0592` STRINGS.NAMES devam (toplam 8 batch kaldı, her biri ~200 string)
 
 ### NAMES sonrası
 - `0593` STRINGS.NAME_DETAIL_EXTENTION (1 batch, ek detay)
