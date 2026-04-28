@@ -19598,6 +19598,1436 @@ msgctxt "STRINGS.NAMES.YOT_CATCOONSHRINE"
 msgid "Catcoon Shrine"
 msgstr "Kedikoon Tapıncağı"
 
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY"
+msgid "90% Protection\n-15% Move Speed\nKnockback Resistance"
+msgstr "%90 Koruma\n%-15 Hareket Hızı\nGeri İtilme Direnci"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY"
+msgid "85% Protection"
+msgstr "%85 Koruma"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT"
+msgid "50% Protection\n+5% Faster Cooldown"
+msgstr "%50 Koruma\n%+5 Hızlı Bekleme"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED"
+msgid "60% Protection\n+10% Move Speed"
+msgstr "%60 Koruma\n%+10 Hareket Hızı"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM"
+msgid "75% Protection"
+msgstr "%75 Koruma"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER"
+msgid "75% Protection\n+10% Physical Damage"
+msgstr "%75 Koruma\n%+10 Fiziksel Hasar"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER"
+msgid "75% Protection\n+10% Faster Cooldown"
+msgstr "%75 Koruma\n%+10 Hızlı Bekleme"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER"
+msgid "80% Protection\n+50 Max Health\n+20% Physical Damage"
+msgstr "%80 Koruma\n+50 Azami Can\n%+20 Fiziksel Hasar"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY"
+msgid "90% Protection\n+100 Max Health\nKnockback Resistance"
+msgstr "%90 Koruma\n+100 Azami Can\nGeri İtilme Direnci"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY"
+msgid "80% Protection\n+75 Max Health\nCompanion Buff"
+msgstr "%80 Koruma\n+75 Azami Can\nYoldaş Güçlendirici"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER"
+msgid "80% Protection\n+50 Max Health\n+15% Faster Cooldown"
+msgstr "%80 Koruma\n+50 Azami Can\n%+15 Hızlı Bekleme"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT"
+msgid "+15% Physical Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "%+15 Fiziksel Hasar\n%+10 Hızlı Bekleme\n%+10 Hareket Hızı"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT"
+msgid "+25% Magic Damage\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "%+25 Sihir Hasarı\n%+10 Hızlı Bekleme\n%+10 Hareket Hızı"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT"
+msgid "+20% Move Speed"
+msgstr "%+20 Hareket Hızı"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGFLOWERHAT"
+msgid "+25% Healing Received"
+msgstr "%+25 Alınan İyileştirme"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT"
+msgid "+2 HP/s (80% HP Max)\n+10% Faster Cooldown\n+10% Move Speed"
+msgstr "+2 Can/sn (Azami %80 Can)\n%+10 Hızlı Bekleme\n%+10 Hareket Hızı"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT"
+msgid "+10% Physical Damage"
+msgstr "%+10 Fiziksel Hasar"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_RECHARGERHAT"
+msgid "+10% Faster Cooldown"
+msgstr "%+10 Hızlı Bekleme"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_STRONGDAMAGERHAT"
+msgid "+15% Physical Damage"
+msgstr "%+15 Fiziksel Hasar"
+
+#. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT
+msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_TIARAFLOWERPETALSHAT"
+msgid "+20% Healing Dealt"
+msgstr "%+20 Verilen İyileştirme"
+
+#. STRINGS.NIGHTMARE_OVERGROWTH.LINE_1
+msgctxt "STRINGS.NIGHTMARE_OVERGROWTH.LINE_1"
+msgid "\"Forsaken wretches of the one who turned away.\""
+msgstr "\"Yüzünü çevirenin terk ettiği zavallılar.\""
+
+#. STRINGS.NIGHTMARE_OVERGROWTH.LINE_2
+msgctxt "STRINGS.NIGHTMARE_OVERGROWTH.LINE_2"
+msgid "\"Orphans cast upon the barren expanse. Lost in the wake of neglect.\""
+msgstr "\"Çorak enginliğe atılmış öksüzler. İhmalin uyandırdığı dalgada kayıp.\""
+
+#. STRINGS.NIGHTMARE_OVERGROWTH.LINE_3
+msgctxt "STRINGS.NIGHTMARE_OVERGROWTH.LINE_3"
+msgid "\"From desolation were we drawn. Into the veiled embrace of Them.\""
+msgstr "\"Issızlıktan çekildik. Onların perdeli kucağına.\""
+
+#. STRINGS.NIGHTMARE_OVERGROWTH.LINE_4
+msgctxt "STRINGS.NIGHTMARE_OVERGROWTH.LINE_4"
+msgid "\"No longer doth the shadow stir terror within our hearts.\""
+msgstr "\"Artık gölge yüreklerimizde dehşet uyandırmaz.\""
+
+#. STRINGS.NIGHTMARE_OVERGROWTH.LINE_5
+msgctxt "STRINGS.NIGHTMARE_OVERGROWTH.LINE_5"
+msgid "\"For dark is become our shield. Our sustenance. Our solace.\""
+msgstr "\"Zira karanlık kalkanımız oldu. Geçimimiz. Tesellimiz.\""
+
+#. STRINGS.PIGNAMES.1
+msgctxt "STRINGS.PIGNAMES.1"
+msgid "Augustus"
+msgstr "Augustus"
+
+#. STRINGS.PIGNAMES.10
+msgctxt "STRINGS.PIGNAMES.10"
+msgid "Titus"
+msgstr "Titus"
+
+#. STRINGS.PIGNAMES.100
+msgctxt "STRINGS.PIGNAMES.100"
+msgid "Hugo"
+msgstr "Hugo"
+
+#. STRINGS.PIGNAMES.101
+msgctxt "STRINGS.PIGNAMES.101"
+msgid "Moon Pie"
+msgstr "Ay Pastası"
+
+#. STRINGS.PIGNAMES.102
+msgctxt "STRINGS.PIGNAMES.102"
+msgid "Bagel"
+msgstr "Bagel"
+
+#. STRINGS.PIGNAMES.103
+msgctxt "STRINGS.PIGNAMES.103"
+msgid "Biscuit"
+msgstr "Bisküvi"
+
+#. STRINGS.PIGNAMES.104
+msgctxt "STRINGS.PIGNAMES.104"
+msgid "Bacon"
+msgstr "Pastırma"
+
+#. STRINGS.PIGNAMES.105
+msgctxt "STRINGS.PIGNAMES.105"
+msgid "Hamilton"
+msgstr "Hamilton"
+
+#. STRINGS.PIGNAMES.106
+msgctxt "STRINGS.PIGNAMES.106"
+msgid "Hamms"
+msgstr "Hamms"
+
+#. STRINGS.PIGNAMES.107
+msgctxt "STRINGS.PIGNAMES.107"
+msgid "Mr.P"
+msgstr "Bay D"
+
+#. STRINGS.PIGNAMES.108
+msgctxt "STRINGS.PIGNAMES.108"
+msgid "Brownie"
+msgstr "Brownie"
+
+#. STRINGS.PIGNAMES.109
+msgctxt "STRINGS.PIGNAMES.109"
+msgid "Butters"
+msgstr "Tereyağ"
+
+#. STRINGS.PIGNAMES.11
+msgctxt "STRINGS.PIGNAMES.11"
+msgid "Domitian"
+msgstr "Domitian"
+
+#. STRINGS.PIGNAMES.110
+msgctxt "STRINGS.PIGNAMES.110"
+msgid "Tuna"
+msgstr "Ton"
+
+#. STRINGS.PIGNAMES.111
+msgctxt "STRINGS.PIGNAMES.111"
+msgid "Clover"
+msgstr "Yonca"
+
+#. STRINGS.PIGNAMES.112
+msgctxt "STRINGS.PIGNAMES.112"
+msgid "Coco"
+msgstr "Koko"
+
+#. STRINGS.PIGNAMES.113
+msgctxt "STRINGS.PIGNAMES.113"
+msgid "Custard"
+msgstr "Krema"
+
+#. STRINGS.PIGNAMES.114
+msgctxt "STRINGS.PIGNAMES.114"
+msgid "Dumpling"
+msgstr "Mantı"
+
+#. STRINGS.PIGNAMES.115
+msgctxt "STRINGS.PIGNAMES.115"
+msgid "Eggy"
+msgstr "Yumurtacık"
+
+#. STRINGS.PIGNAMES.116
+msgctxt "STRINGS.PIGNAMES.116"
+msgid "Kiwi"
+msgstr "Kivi"
+
+#. STRINGS.PIGNAMES.117
+msgctxt "STRINGS.PIGNAMES.117"
+msgid "Weiner"
+msgstr "Sosis"
+
+#. STRINGS.PIGNAMES.118
+msgctxt "STRINGS.PIGNAMES.118"
+msgid "Waffle"
+msgstr "Vafıl"
+
+#. STRINGS.PIGNAMES.119
+msgctxt "STRINGS.PIGNAMES.119"
+msgid "Twinkie"
+msgstr "Twinkie"
+
+#. STRINGS.PIGNAMES.12
+msgctxt "STRINGS.PIGNAMES.12"
+msgid "Nerva"
+msgstr "Nerva"
+
+#. STRINGS.PIGNAMES.120
+msgctxt "STRINGS.PIGNAMES.120"
+msgid "Truffle"
+msgstr "Trüf"
+
+#. STRINGS.PIGNAMES.121
+msgctxt "STRINGS.PIGNAMES.121"
+msgid "Tater"
+msgstr "Patatesçik"
+
+#. STRINGS.PIGNAMES.122
+msgctxt "STRINGS.PIGNAMES.122"
+msgid "Cheddar"
+msgstr "Çedar"
+
+#. STRINGS.PIGNAMES.123
+msgctxt "STRINGS.PIGNAMES.123"
+msgid "Pumpkin"
+msgstr "Bal Kabağı"
+
+#. STRINGS.PIGNAMES.124
+msgctxt "STRINGS.PIGNAMES.124"
+msgid "Oatey"
+msgstr "Yulafçık"
+
+#. STRINGS.PIGNAMES.125
+msgctxt "STRINGS.PIGNAMES.125"
+msgid "Oinkey"
+msgstr "Hor Hor"
+
+#. STRINGS.PIGNAMES.126
+msgctxt "STRINGS.PIGNAMES.126"
+msgid "Nacho"
+msgstr "Naço"
+
+#. STRINGS.PIGNAMES.127
+msgctxt "STRINGS.PIGNAMES.127"
+msgid "Puffin"
+msgstr "Deniz Papağanı"
+
+#. STRINGS.PIGNAMES.128
+msgctxt "STRINGS.PIGNAMES.128"
+msgid "Doughnut"
+msgstr "Donat"
+
+#. STRINGS.PIGNAMES.129
+msgctxt "STRINGS.PIGNAMES.129"
+msgid "Cabbage"
+msgstr "Lahana"
+
+#. STRINGS.PIGNAMES.13
+msgctxt "STRINGS.PIGNAMES.13"
+msgid "Trajan"
+msgstr "Trajan"
+
+#. STRINGS.PIGNAMES.130
+msgctxt "STRINGS.PIGNAMES.130"
+msgid "Porky"
+msgstr "Domuzcuk"
+
+#. STRINGS.PIGNAMES.131
+msgctxt "STRINGS.PIGNAMES.131"
+msgid "Porkins"
+msgstr "Porkins"
+
+#. STRINGS.PIGNAMES.132
+msgctxt "STRINGS.PIGNAMES.132"
+msgid "Porkbun"
+msgstr "Domuzlu Bao"
+
+#. STRINGS.PIGNAMES.133
+msgctxt "STRINGS.PIGNAMES.133"
+msgid "Pepper"
+msgstr "Biber"
+
+#. STRINGS.PIGNAMES.134
+msgctxt "STRINGS.PIGNAMES.134"
+msgid "Gouda"
+msgstr "Gouda"
+
+#. STRINGS.PIGNAMES.135
+msgctxt "STRINGS.PIGNAMES.135"
+msgid "Eggbert"
+msgstr "Yumurtbert"
+
+#. STRINGS.PIGNAMES.136
+msgctxt "STRINGS.PIGNAMES.136"
+msgid "Chip"
+msgstr "Cips"
+
+#. STRINGS.PIGNAMES.137
+msgctxt "STRINGS.PIGNAMES.137"
+msgid "Berry"
+msgstr "Meyvecik"
+
+#. STRINGS.PIGNAMES.138
+msgctxt "STRINGS.PIGNAMES.138"
+msgid "Crabby"
+msgstr "Huysuzcuk"
+
+#. STRINGS.PIGNAMES.139
+msgctxt "STRINGS.PIGNAMES.139"
+msgid "Reuben"
+msgstr "Reuben"
+
+#. STRINGS.PIGNAMES.14
+msgctxt "STRINGS.PIGNAMES.14"
+msgid "Hadrian"
+msgstr "Hadrian"
+
+#. STRINGS.PIGNAMES.140
+msgctxt "STRINGS.PIGNAMES.140"
+msgid "Barley"
+msgstr "Arpa"
+
+#. STRINGS.PIGNAMES.141
+msgctxt "STRINGS.PIGNAMES.141"
+msgid "Olive"
+msgstr "Zeytin"
+
+#. STRINGS.PIGNAMES.142
+msgctxt "STRINGS.PIGNAMES.142"
+msgid "Pickles"
+msgstr "Turşu"
+
+#. STRINGS.PIGNAMES.143
+msgctxt "STRINGS.PIGNAMES.143"
+msgid "Wiggles"
+msgstr "Kıvrılan"
+
+#. STRINGS.PIGNAMES.144
+msgctxt "STRINGS.PIGNAMES.144"
+msgid "Jerky"
+msgstr "Pastırma"
+
+#. STRINGS.PIGNAMES.145
+msgctxt "STRINGS.PIGNAMES.145"
+msgid "Smelly"
+msgstr "Kokuşmuş"
+
+#. STRINGS.PIGNAMES.146
+msgctxt "STRINGS.PIGNAMES.146"
+msgid "Salty"
+msgstr "Tuzlu"
+
+#. STRINGS.PIGNAMES.15
+msgctxt "STRINGS.PIGNAMES.15"
+msgid "Antonius"
+msgstr "Antonius"
+
+#. STRINGS.PIGNAMES.16
+msgctxt "STRINGS.PIGNAMES.16"
+msgid "Lucius"
+msgstr "Lucius"
+
+#. STRINGS.PIGNAMES.17
+msgctxt "STRINGS.PIGNAMES.17"
+msgid "Marcus"
+msgstr "Marcus"
+
+#. STRINGS.PIGNAMES.18
+msgctxt "STRINGS.PIGNAMES.18"
+msgid "Commodus"
+msgstr "Commodus"
+
+#. STRINGS.PIGNAMES.19
+msgctxt "STRINGS.PIGNAMES.19"
+msgid "Pertinax"
+msgstr "Pertinax"
+
+#. STRINGS.PIGNAMES.2
+msgctxt "STRINGS.PIGNAMES.2"
+msgid "Tiberius"
+msgstr "Tiberius"
+
+#. STRINGS.PIGNAMES.20
+msgctxt "STRINGS.PIGNAMES.20"
+msgid "Didius"
+msgstr "Didius"
+
+#. STRINGS.PIGNAMES.21
+msgctxt "STRINGS.PIGNAMES.21"
+msgid "Septmius"
+msgstr "Septmius"
+
+#. STRINGS.PIGNAMES.22
+msgctxt "STRINGS.PIGNAMES.22"
+msgid "Caracalla"
+msgstr "Caracalla"
+
+#. STRINGS.PIGNAMES.23
+msgctxt "STRINGS.PIGNAMES.23"
+msgid "Geta"
+msgstr "Geta"
+
+#. STRINGS.PIGNAMES.24
+msgctxt "STRINGS.PIGNAMES.24"
+msgid "Marcrinus"
+msgstr "Marcrinus"
+
+#. STRINGS.PIGNAMES.25
+msgctxt "STRINGS.PIGNAMES.25"
+msgid "Elagabalus"
+msgstr "Elagabalus"
+
+#. STRINGS.PIGNAMES.26
+msgctxt "STRINGS.PIGNAMES.26"
+msgid "Severus"
+msgstr "Severus"
+
+#. STRINGS.PIGNAMES.27
+msgctxt "STRINGS.PIGNAMES.27"
+msgid "Maximinus"
+msgstr "Maximinus"
+
+#. STRINGS.PIGNAMES.28
+msgctxt "STRINGS.PIGNAMES.28"
+msgid "Gordian"
+msgstr "Gordian"
+
+#. STRINGS.PIGNAMES.29
+msgctxt "STRINGS.PIGNAMES.29"
+msgid "Pupienus"
+msgstr "Pupienus"
+
+#. STRINGS.PIGNAMES.3
+msgctxt "STRINGS.PIGNAMES.3"
+msgid "Caligula"
+msgstr "Caligula"
+
+#. STRINGS.PIGNAMES.30
+msgctxt "STRINGS.PIGNAMES.30"
+msgid "Balbinus"
+msgstr "Balbinus"
+
+#. STRINGS.PIGNAMES.31
+msgctxt "STRINGS.PIGNAMES.31"
+msgid "Philip"
+msgstr "Philip"
+
+#. STRINGS.PIGNAMES.32
+msgctxt "STRINGS.PIGNAMES.32"
+msgid "Hostilian"
+msgstr "Hostilian"
+
+#. STRINGS.PIGNAMES.33
+msgctxt "STRINGS.PIGNAMES.33"
+msgid "Trebonianus"
+msgstr "Trebonianus"
+
+#. STRINGS.PIGNAMES.34
+msgctxt "STRINGS.PIGNAMES.34"
+msgid "Aemilian"
+msgstr "Aemilian"
+
+#. STRINGS.PIGNAMES.35
+msgctxt "STRINGS.PIGNAMES.35"
+msgid "Valerian"
+msgstr "Valerian"
+
+#. STRINGS.PIGNAMES.36
+msgctxt "STRINGS.PIGNAMES.36"
+msgid "Gallienus"
+msgstr "Gallienus"
+
+#. STRINGS.PIGNAMES.37
+msgctxt "STRINGS.PIGNAMES.37"
+msgid "Quintillus"
+msgstr "Quintillus"
+
+#. STRINGS.PIGNAMES.38
+msgctxt "STRINGS.PIGNAMES.38"
+msgid "Aurelian"
+msgstr "Aurelian"
+
+#. STRINGS.PIGNAMES.39
+msgctxt "STRINGS.PIGNAMES.39"
+msgid "Tacitus"
+msgstr "Tacitus"
+
+#. STRINGS.PIGNAMES.4
+msgctxt "STRINGS.PIGNAMES.4"
+msgid "Claudius"
+msgstr "Claudius"
+
+#. STRINGS.PIGNAMES.40
+msgctxt "STRINGS.PIGNAMES.40"
+msgid "Florian"
+msgstr "Florian"
+
+#. STRINGS.PIGNAMES.41
+msgctxt "STRINGS.PIGNAMES.41"
+msgid "Probus"
+msgstr "Probus"
+
+#. STRINGS.PIGNAMES.42
+msgctxt "STRINGS.PIGNAMES.42"
+msgid "Carus"
+msgstr "Carus"
+
+#. STRINGS.PIGNAMES.43
+msgctxt "STRINGS.PIGNAMES.43"
+msgid "Numerian"
+msgstr "Numerian"
+
+#. STRINGS.PIGNAMES.44
+msgctxt "STRINGS.PIGNAMES.44"
+msgid "Carinus"
+msgstr "Carinus"
+
+#. STRINGS.PIGNAMES.45
+msgctxt "STRINGS.PIGNAMES.45"
+msgid "Diocletian"
+msgstr "Diocletian"
+
+#. STRINGS.PIGNAMES.46
+msgctxt "STRINGS.PIGNAMES.46"
+msgid "Maximian"
+msgstr "Maximian"
+
+#. STRINGS.PIGNAMES.47
+msgctxt "STRINGS.PIGNAMES.47"
+msgid "Constantius"
+msgstr "Constantius"
+
+#. STRINGS.PIGNAMES.48
+msgctxt "STRINGS.PIGNAMES.48"
+msgid "Galerius"
+msgstr "Galerius"
+
+#. STRINGS.PIGNAMES.49
+msgctxt "STRINGS.PIGNAMES.49"
+msgid "Constantine"
+msgstr "Constantine"
+
+#. STRINGS.PIGNAMES.5
+msgctxt "STRINGS.PIGNAMES.5"
+msgid "Nero"
+msgstr "Nero"
+
+#. STRINGS.PIGNAMES.50
+msgctxt "STRINGS.PIGNAMES.50"
+msgid "Maxentius"
+msgstr "Maxentius"
+
+#. STRINGS.PIGNAMES.51
+msgctxt "STRINGS.PIGNAMES.51"
+msgid "Licinius"
+msgstr "Licinius"
+
+#. STRINGS.PIGNAMES.52
+msgctxt "STRINGS.PIGNAMES.52"
+msgid "Constans"
+msgstr "Constans"
+
+#. STRINGS.PIGNAMES.53
+msgctxt "STRINGS.PIGNAMES.53"
+msgid "Vetriano"
+msgstr "Vetriano"
+
+#. STRINGS.PIGNAMES.54
+msgctxt "STRINGS.PIGNAMES.54"
+msgid "Julian"
+msgstr "Julian"
+
+#. STRINGS.PIGNAMES.55
+msgctxt "STRINGS.PIGNAMES.55"
+msgid "Jovian"
+msgstr "Jovian"
+
+#. STRINGS.PIGNAMES.56
+msgctxt "STRINGS.PIGNAMES.56"
+msgid "Valentinian"
+msgstr "Valentinian"
+
+#. STRINGS.PIGNAMES.57
+msgctxt "STRINGS.PIGNAMES.57"
+msgid "Valens"
+msgstr "Valens"
+
+#. STRINGS.PIGNAMES.58
+msgctxt "STRINGS.PIGNAMES.58"
+msgid "Gratian"
+msgstr "Gratian"
+
+#. STRINGS.PIGNAMES.59
+msgctxt "STRINGS.PIGNAMES.59"
+msgid "Theodosius"
+msgstr "Theodosius"
+
+#. STRINGS.PIGNAMES.6
+msgctxt "STRINGS.PIGNAMES.6"
+msgid "Galba"
+msgstr "Galba"
+
+#. STRINGS.PIGNAMES.60
+msgctxt "STRINGS.PIGNAMES.60"
+msgid "Arcadius"
+msgstr "Arcadius"
+
+#. STRINGS.PIGNAMES.61
+msgctxt "STRINGS.PIGNAMES.61"
+msgid "Honorius"
+msgstr "Honorius"
+
+#. STRINGS.PIGNAMES.62
+msgctxt "STRINGS.PIGNAMES.62"
+msgid "Joannes"
+msgstr "Joannes"
+
+#. STRINGS.PIGNAMES.63
+msgctxt "STRINGS.PIGNAMES.63"
+msgid "Marcian"
+msgstr "Marcian"
+
+#. STRINGS.PIGNAMES.64
+msgctxt "STRINGS.PIGNAMES.64"
+msgid "Petronius"
+msgstr "Petronius"
+
+#. STRINGS.PIGNAMES.65
+msgctxt "STRINGS.PIGNAMES.65"
+msgid "Avitus"
+msgstr "Avitus"
+
+#. STRINGS.PIGNAMES.66
+msgctxt "STRINGS.PIGNAMES.66"
+msgid "Majorian"
+msgstr "Majorian"
+
+#. STRINGS.PIGNAMES.67
+msgctxt "STRINGS.PIGNAMES.67"
+msgid "Libius"
+msgstr "Libius"
+
+#. STRINGS.PIGNAMES.68
+msgctxt "STRINGS.PIGNAMES.68"
+msgid "Anthemius"
+msgstr "Anthemius"
+
+#. STRINGS.PIGNAMES.69
+msgctxt "STRINGS.PIGNAMES.69"
+msgid "Olybrius"
+msgstr "Olybrius"
+
+#. STRINGS.PIGNAMES.7
+msgctxt "STRINGS.PIGNAMES.7"
+msgid "Otho"
+msgstr "Otho"
+
+#. STRINGS.PIGNAMES.70
+msgctxt "STRINGS.PIGNAMES.70"
+msgid "Glycerius"
+msgstr "Glycerius"
+
+#. STRINGS.PIGNAMES.71
+msgctxt "STRINGS.PIGNAMES.71"
+msgid "Julius"
+msgstr "Julius"
+
+#. STRINGS.PIGNAMES.72
+msgctxt "STRINGS.PIGNAMES.72"
+msgid "Romulus"
+msgstr "Romulus"
+
+#. STRINGS.PIGNAMES.73
+msgctxt "STRINGS.PIGNAMES.73"
+msgid "Leo"
+msgstr "Leo"
+
+#. STRINGS.PIGNAMES.74
+msgctxt "STRINGS.PIGNAMES.74"
+msgid "Zeno"
+msgstr "Zeno"
+
+#. STRINGS.PIGNAMES.75
+msgctxt "STRINGS.PIGNAMES.75"
+msgid "Basiliscus"
+msgstr "Basiliscus"
+
+#. STRINGS.PIGNAMES.76
+msgctxt "STRINGS.PIGNAMES.76"
+msgid "Anatasius"
+msgstr "Anatasius"
+
+#. STRINGS.PIGNAMES.77
+msgctxt "STRINGS.PIGNAMES.77"
+msgid "Justin"
+msgstr "Justin"
+
+#. STRINGS.PIGNAMES.78
+msgctxt "STRINGS.PIGNAMES.78"
+msgid "Justinian"
+msgstr "Justinian"
+
+#. STRINGS.PIGNAMES.79
+msgctxt "STRINGS.PIGNAMES.79"
+msgid "Maurice"
+msgstr "Maurice"
+
+#. STRINGS.PIGNAMES.8
+msgctxt "STRINGS.PIGNAMES.8"
+msgid "Vitellius"
+msgstr "Vitellius"
+
+#. STRINGS.PIGNAMES.80
+msgctxt "STRINGS.PIGNAMES.80"
+msgid "Mickey"
+msgstr "Mickey"
+
+#. STRINGS.PIGNAMES.81
+msgctxt "STRINGS.PIGNAMES.81"
+msgid "Cheeky Chris"
+msgstr "Cheeky Chris"
+
+#. STRINGS.PIGNAMES.82
+msgctxt "STRINGS.PIGNAMES.82"
+msgid "Kevin"
+msgstr "Kevin"
+
+#. STRINGS.PIGNAMES.83
+msgctxt "STRINGS.PIGNAMES.83"
+msgid "Ju-lian"
+msgstr "Ju-lian"
+
+#. STRINGS.PIGNAMES.84
+msgctxt "STRINGS.PIGNAMES.84"
+msgid "Alia"
+msgstr "Alia"
+
+#. STRINGS.PIGNAMES.85
+msgctxt "STRINGS.PIGNAMES.85"
+msgid "Tatham"
+msgstr "Tatham"
+
+#. STRINGS.PIGNAMES.86
+msgctxt "STRINGS.PIGNAMES.86"
+msgid "Brook"
+msgstr "Brook"
+
+#. STRINGS.PIGNAMES.87
+msgctxt "STRINGS.PIGNAMES.87"
+msgid "Matt"
+msgstr "Matt"
+
+#. STRINGS.PIGNAMES.88
+msgctxt "STRINGS.PIGNAMES.88"
+msgid "Alex"
+msgstr "Alex"
+
+#. STRINGS.PIGNAMES.89
+msgctxt "STRINGS.PIGNAMES.89"
+msgid "Kris"
+msgstr "Kris"
+
+#. STRINGS.PIGNAMES.9
+msgctxt "STRINGS.PIGNAMES.9"
+msgid "Vespasian"
+msgstr "Vespasian"
+
+#. STRINGS.PIGNAMES.90
+msgctxt "STRINGS.PIGNAMES.90"
+msgid "Kelly"
+msgstr "Kelly"
+
+#. STRINGS.PIGNAMES.91
+msgctxt "STRINGS.PIGNAMES.91"
+msgid "Eugene"
+msgstr "Eugene"
+
+#. STRINGS.PIGNAMES.92
+msgctxt "STRINGS.PIGNAMES.92"
+msgid "Graham"
+msgstr "Graham"
+
+#. STRINGS.PIGNAMES.93
+msgctxt "STRINGS.PIGNAMES.93"
+msgid "Jamie"
+msgstr "Jamie"
+
+#. STRINGS.PIGNAMES.94
+msgctxt "STRINGS.PIGNAMES.94"
+msgid "Jeff"
+msgstr "Jeff"
+
+#. STRINGS.PIGNAMES.95
+msgctxt "STRINGS.PIGNAMES.95"
+msgid "Joe"
+msgstr "Joe"
+
+#. STRINGS.PIGNAMES.96
+msgctxt "STRINGS.PIGNAMES.96"
+msgid "Corey"
+msgstr "Corey"
+
+#. STRINGS.PIGNAMES.97
+msgctxt "STRINGS.PIGNAMES.97"
+msgid "Bryce"
+msgstr "Bryce"
+
+#. STRINGS.PIGNAMES.98
+msgctxt "STRINGS.PIGNAMES.98"
+msgid "Bug"
+msgstr "Bug"
+
+#. STRINGS.PIGNAMES.99
+msgctxt "STRINGS.PIGNAMES.99"
+msgid "Seth"
+msgstr "Seth"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD0
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD0"
+msgid "Playing Card"
+msgstr "Oyun Kartı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD101
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD101"
+msgid "Ace of Spades"
+msgstr "Maça Ası"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD102
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD102"
+msgid "Two of Spades"
+msgstr "Maça İkilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD103
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD103"
+msgid "Three of Spades"
+msgstr "Maça Üçlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD104
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD104"
+msgid "Four of Spades"
+msgstr "Maça Dörtlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD105
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD105"
+msgid "Five of Spades"
+msgstr "Maça Beşlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD106
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD106"
+msgid "Six of Spades"
+msgstr "Maça Altılısı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD107
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD107"
+msgid "Seven of Spades"
+msgstr "Maça Yedilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD108
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD108"
+msgid "Eight of Spades"
+msgstr "Maça Sekizlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD109
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD109"
+msgid "Nine of Spades"
+msgstr "Maça Dokuzlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD110
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD110"
+msgid "Ten of Spades"
+msgstr "Maça Onlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD111
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD111"
+msgid "Jack of Spades"
+msgstr "Maça Valesi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD112
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD112"
+msgid "Queen of Spades"
+msgstr "Maça Kızı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD113
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD113"
+msgid "King of Spades"
+msgstr "Maça Papazı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD201
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD201"
+msgid "Ace of Diamonds"
+msgstr "Karo Ası"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD202
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD202"
+msgid "Two of Diamonds"
+msgstr "Karo İkilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD203
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD203"
+msgid "Three of Diamonds"
+msgstr "Karo Üçlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD204
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD204"
+msgid "Four of Diamonds"
+msgstr "Karo Dörtlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD205
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD205"
+msgid "Five of Diamonds"
+msgstr "Karo Beşlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD206
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD206"
+msgid "Six of Diamonds"
+msgstr "Karo Altılısı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD207
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD207"
+msgid "Seven of Diamonds"
+msgstr "Karo Yedilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD208
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD208"
+msgid "Eight of Diamonds"
+msgstr "Karo Sekizlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD209
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD209"
+msgid "Nine of Diamonds"
+msgstr "Karo Dokuzlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD210
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD210"
+msgid "Ten of Diamonds"
+msgstr "Karo Onlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD211
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD211"
+msgid "Jack of Diamonds"
+msgstr "Karo Valesi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD212
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD212"
+msgid "Queen of Diamonds"
+msgstr "Karo Kızı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD213
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD213"
+msgid "King of Diamonds"
+msgstr "Karo Papazı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD301
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD301"
+msgid "Ace of Clubs"
+msgstr "Sinek Ası"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD302
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD302"
+msgid "Two of Clubs"
+msgstr "Sinek İkilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD303
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD303"
+msgid "Three of Clubs"
+msgstr "Sinek Üçlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD304
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD304"
+msgid "Four of Clubs"
+msgstr "Sinek Dörtlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD305
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD305"
+msgid "Five of Clubs"
+msgstr "Sinek Beşlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD306
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD306"
+msgid "Six of Clubs"
+msgstr "Sinek Altılısı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD307
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD307"
+msgid "Seven of Clubs"
+msgstr "Sinek Yedilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD308
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD308"
+msgid "Eight of Clubs"
+msgstr "Sinek Sekizlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD309
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD309"
+msgid "Nine of Clubs"
+msgstr "Sinek Dokuzlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD310
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD310"
+msgid "Ten of Clubs"
+msgstr "Sinek Onlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD311
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD311"
+msgid "Jack of Clubs"
+msgstr "Sinek Valesi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD312
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD312"
+msgid "Queen of Clubs"
+msgstr "Sinek Kızı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD313
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD313"
+msgid "King of Clubs"
+msgstr "Sinek Papazı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD401
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD401"
+msgid "Ace of Hearts"
+msgstr "Kupa Ası"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD402
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD402"
+msgid "Two of Hearts"
+msgstr "Kupa İkilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD403
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD403"
+msgid "Three of Hearts"
+msgstr "Kupa Üçlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD404
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD404"
+msgid "Four of Hearts"
+msgstr "Kupa Dörtlüsü"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD405
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD405"
+msgid "Five of Hearts"
+msgstr "Kupa Beşlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD406
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD406"
+msgid "Six of Hearts"
+msgstr "Kupa Altılısı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD407
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD407"
+msgid "Seven of Hearts"
+msgstr "Kupa Yedilisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD408
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD408"
+msgid "Eight of Hearts"
+msgstr "Kupa Sekizlisi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD409
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD409"
+msgid "Nine of Hearts"
+msgstr "Kupa Dokuzlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD410
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD410"
+msgid "Ten of Hearts"
+msgstr "Kupa Onlusu"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD411
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD411"
+msgid "Jack of Hearts"
+msgstr "Kupa Valesi"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD412
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD412"
+msgid "Queen of Hearts"
+msgstr "Kupa Kızı"
+
+#. STRINGS.PLAYING_CARD_NAMES.CARD413
+msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD413"
+msgid "King of Hearts"
+msgstr "Kupa Papazı"
+
+#. STRINGS.PLAYS.THEPRINCESS
+msgctxt "STRINGS.PLAYS.THEPRINCESS"
+msgid "My Knights Four and I"
+msgstr "Dört Şövalyem ve Ben"
+
+#. STRINGS.PLAYS.THEVAULT
+msgctxt "STRINGS.PLAYS.THEVAULT"
+msgid "A Task Complete"
+msgstr "Bir Görev Tamamlandı"
+
+#. STRINGS.PLAYS.THEVEIL
+msgctxt "STRINGS.PLAYS.THEVEIL"
+msgid "The Pall"
+msgstr "Kasvet Örtüsü"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.1
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.1"
+msgid "Act 1 - Scene 1"
+msgstr "1. Perde - 1. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.10
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.10"
+msgid "- The Reunion -"
+msgstr "- Buluşma -"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.2
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.2"
+msgid "Act 1 - Scene 2"
+msgstr "1. Perde - 2. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.3
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.3"
+msgid "Act 1 - Scene 3"
+msgstr "1. Perde - 3. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.4
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.4"
+msgid "Act 2 - Scene 1"
+msgstr "2. Perde - 1. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.5
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.5"
+msgid "Act 2 - Scene 2"
+msgstr "2. Perde - 2. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.6
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.6"
+msgid "Act 2 - Scene 3"
+msgstr "2. Perde - 3. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.7
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.7"
+msgid "Act 3 - Scene 1"
+msgstr "3. Perde - 1. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.8
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.8"
+msgid "Act 3 - Scene 2"
+msgstr "3. Perde - 2. Sahne"
+
+#. STRINGS.PLAYS.THE_ENCHANTED_DOLL.9
+msgctxt "STRINGS.PLAYS.THE_ENCHANTED_DOLL.9"
+msgid "Act 3 - Scene 3"
+msgstr "3. Perde - 3. Sahne"
+
+#. STRINGS.PSN
+msgctxt "STRINGS.PSN"
+msgid "PlayStation™Network"
+msgstr "PlayStation™Network"
+
+#. STRINGS.PYROMANCY.FIRE_BALL
+msgctxt "STRINGS.PYROMANCY.FIRE_BALL"
+msgid "Fire Ball (2 Embers)"
+msgstr "Ateş Topu (2 Köz)"
+
+#. STRINGS.PYROMANCY.FIRE_BURST
+msgctxt "STRINGS.PYROMANCY.FIRE_BURST"
+msgid "Combustion (4 Embers)"
+msgstr "Tutuşma (4 Köz)"
+
+#. STRINGS.PYROMANCY.FIRE_FRENZY
+msgctxt "STRINGS.PYROMANCY.FIRE_FRENZY"
+msgid "Burning Frenzy (2 Embers)"
+msgstr "Yanan Çılgınlık (2 Köz)"
+
+#. STRINGS.PYROMANCY.FIRE_THROW
+msgctxt "STRINGS.PYROMANCY.FIRE_THROW"
+msgid "Flame Cast (1 Embers)"
+msgstr "Alev Atışı (1 Köz)"
+
+#. STRINGS.PYROMANCY.LUNAR_FIRE
+msgctxt "STRINGS.PYROMANCY.LUNAR_FIRE"
+msgid "Lunar Flame (5 Embers)"
+msgstr "Ay Alevi (5 Köz)"
+
+#. STRINGS.PYROMANCY.SHADOW_FIRE
+msgctxt "STRINGS.PYROMANCY.SHADOW_FIRE"
+msgid "Shadow Fire (5 Embers)"
+msgstr "Gölge Ateş (5 Köz)"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.random
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.random"
+msgid "\nSelect a random survivor"
+msgstr "\nRastgele bir hayatta kalan seç"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.walter
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.walter"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*YERTUTUCU\n\n\n\nUzmanlık:\nYERTUTUCU"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wanda
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wanda"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*YERTUTUCU\n\n\n\nUzmanlık:\nYERTUTUCU"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.warly
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.warly"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*YERTUTUCU\n\n\n\nUzmanlık:\nYERTUTUCU"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wathgrithr
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wathgrithr"
+msgid "*Harvests an extra meat when slaughtering Beefalo\n\n\n*Expertise:\nGathering"
+msgstr "*Bızonsığır kestiğinde fazladan bir et alır\n\n\n*Uzmanlık:\nToplama"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.waxwell
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.waxwell"
+msgid "*Summons a Shadow Logger\n\n\n\n*Expertise:\nGathering"
+msgstr "*Bir Gölge Oduncu çağırır\n\n\n\n*Uzmanlık:\nToplama"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.webber
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.webber"
+msgid "*Sows seeds and harvests plants much more quickly\n\n\n*Expertise:\nFarming"
+msgstr "*Tohum eker ve bitkileri çok daha hızlı toplar\n\n\n*Uzmanlık:\nTarım"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wendy
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wendy"
+msgid "*Improves nearby Grill efficiency\n\n\n\n*Expertise:\nCooking"
+msgstr "*Yakındaki Izgaranın verimini artırır\n\n\n\n*Uzmanlık:\nPişirme"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wes
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wes"
+msgid "*Expert haggler\n\n\n\n*Expertise:\nShopping"
+msgstr "*Uzman pazarlıkçı\n\n\n\n*Uzmanlık:\nAlışveriş"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wickerbottom
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wickerbottom"
+msgid "*Has just the book for the occasion\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nFarming"
+msgstr "*Olaya tam uygun kitabı yanında bulundurur\n*Yiyeceği inceleyerek Kemiren'in canının çekip çekmediğini belirler\n\n*Uzmanlık:\nTarım"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.willow
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.willow"
+msgid "*Logs burn longer on the fire\n\n\n\n*Expertise:\nCooking"
+msgstr "*Kütükler ateşte daha uzun yanar\n\n\n\n*Uzmanlık:\nPişirme"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wilson"
+msgid "*Improves nearby Cookpot efficiency\n*Inspects food to determine if it matches the Gnaw's craving\n\n*Expertise:\nCooking"
+msgstr "*Yakındaki Tencerenin verimini artırır\n*Yiyeceği inceleyerek Kemiren'in canının çekip çekmediğini belirler\n\n*Uzmanlık:\nPişirme"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.winona
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.winona"
+msgid "*Performs most actions slightly faster\n\n\n\n*Expertise:\nFarming"
+msgstr "*Çoğu eylemi biraz daha hızlı yapar\n\n\n\n*Uzmanlık:\nTarım"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wolfgang
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wolfgang"
+msgid "*Improves nearby Oven efficiency\n\n\n\n*Expertise:\nCooking"
+msgstr "*Yakındaki Fırının verimini artırır\n\n\n\n*Uzmanlık:\nPişirme"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wonkey
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wonkey"
+msgid "PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "YERTUTUCU\n\n\n\nUzmanlık:\nYERTUTUCU"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "*Odunu daha hızlı keser\n\n\n\n*Uzmanlık:\nToplama"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_canada
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_canada"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "*Odunu daha hızlı keser\n\n\n\n*Uzmanlık:\nToplama"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_us
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.woodie_us"
+msgid "*Chops wood more quickly\n\n\n\n*Expertise:\nGathering"
+msgstr "*Odunu daha hızlı keser\n\n\n\n*Uzmanlık:\nToplama"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wormwood
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wormwood"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*YERTUTUCU\n\n\n\nUzmanlık:\nYERTUTUCU"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wortox"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*YERTUTUCU\n\n\n\nUzmanlık:\nYERTUTUCU"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wurt
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wurt"
+msgid "*PLACEHOLDER\n\n\n\nExpertise:\nPLACEHOLDER"
+msgstr "*YERTUTUCU\n\n\n\nUzmanlık:\nYERTUTUCU"
+
+#. STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wx78
+msgctxt "STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS.wx78"
+msgid "*Enhanced robotic runspeed\n\n\n\n*Expertise:\nGathering"
+msgstr "*Geliştirilmiş robotik koşma hızı\n\n\n\n*Uzmanlık:\nToplama"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_BUY.1
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.1"
+msgid "THANK-YOU. NOW LET ELDER REST."
+msgstr "TEŞEKKÜRLER. ŞİMDİ YAŞLIYI DİNLENDİR."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_BUY.2
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.2"
+msgid "YES. YOU GOOD GOAT."
+msgstr "EVET. SEN İYİ KEÇİ."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_BUY.3
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.3"
+msgid "MAYBE NOW WE FIX HOUSES"
+msgstr "BELKİ ŞİMDİ EVLERİ ONARIRIZ"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_BUY.4
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.4"
+msgid "THANK-YOU"
+msgstr "TEŞEKKÜRLER"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_BUY.5
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.5"
+msgid "ELDER'S EYE FEEL HEAVY"
+msgstr "YAŞLININ GÖZLERİ AĞIRLAŞIYOR"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_BUY.6
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.6"
+msgid "GOOD LUCK. WITH GNAW."
+msgstr "BOL ŞANS. KEMİREN İLE."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_BUY.7
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_BUY.7"
+msgid "THANK-YOU, LITTLE GOAT."
+msgstr "TEŞEKKÜRLER, KÜÇÜK KEÇİ."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_GREETING.1
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_GREETING.1"
+msgid "HRF? YOU TRADE? SUPPLIES?"
+msgstr "HRF? TAKAS YAPAR? MALZEME?"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_GREETING.2
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_GREETING.2"
+msgid "HRF? SLEEP... GIVE ELDER NIGHTMARES"
+msgstr "HRF? UYKU... YAŞLIYA KARABASAN VERİYOR"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_GREETING.3
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_GREETING.3"
+msgid "HRF! OUR HOMES DESTROYED"
+msgstr "HRF! EVLERİMİZ YIKILDI"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_GREETING.4
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_GREETING.4"
+msgid "HRF! GNAW MAD AT PIGS"
+msgstr "HRF! KEMİREN DOMUZLARA KIZGIN"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_GREETING.5
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_GREETING.5"
+msgid "HRF! MOST GOATS NO HELP TO PIGS"
+msgstr "HRF! KEÇİLERİN ÇOĞU DOMUZLARA YARDIM ETMEZ"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_GREETING.6
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_GREETING.6"
+msgid "HRF! WE NEED FIX HOUSES"
+msgstr "HRF! EVLERİ ONARMAMIZ LAZIM"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_GREETING.7
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_GREETING.7"
+msgid "HRF? ...WHAT LITTLE PIGS DO IF ELDER GONE?"
+msgstr "HRF? ...YAŞLI GİDERSE KÜÇÜK DOMUZLAR NE YAPAR?"
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.1
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.1"
+msgid "...HRUMPF..."
+msgstr "...HRMFFF..."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.2
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.2"
+msgid "(SNORT) ...s...scales..."
+msgstr "(HORLAMA) ...p...pullar..."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.3
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.3"
+msgid "...p...plague..."
+msgstr "...v...veba..."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.4
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.4"
+msgid "...zzzZZzzz..."
+msgstr "...zzzZZzzz..."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.5
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.5"
+msgid "...g-GNAW..."
+msgstr "...k-KEMİREN..."
+
+#. STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.6
+msgctxt "STRINGS.QUAGMIRE_ELDER_TALK_SLEEP.6"
+msgid "...s-sky..."
+msgstr "...g-gök..."
+
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
 msgid "Cancel"

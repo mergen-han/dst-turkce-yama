@@ -28,9 +28,19 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 | 8 | Logo + Workshop varlıkları | ⬜ |
 | 9 | v1.0 yayın | ⬜ |
 
-**Toplam:** **8.358 / 85.706 msgid çevrildi (%9.75)** · 12 oturum tamamlandı (2026-04-26 → 2026-04-29). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
+**Toplam:** **8.644 / 85.706 msgid çevrildi (%10.09)** ⭐ %10 EŞİĞİ AŞILDI · 13 oturum tamamlandı (2026-04-26 → 2026-04-29). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
 
-### Son oturumda eklenen Türkçe içerik (Oturum 12 — NAMES BİTTİ! ⭐)
+### Son oturumda eklenen Türkçe içerik (Oturum 13 — Lore + sahne oyunu temizliği)
+
+- 🏷️ **286 string / 11 batch** — küçük lore + sahne oyunu + Quagmire blokları temizlendi.
+- 🃏 **Balatro 52 oyun kartı tam** — Maça/Karo/Sinek/Kupa × As/2-10/Vale/Kız/Papaz tutarlı.
+- 🎭 **Sahne oyunu repertoire tam** — Dört Şövalyem ve Ben (YOTH), Bir Görev Tamamlandı (Maxwell itirafı), Kasvet Örtüsü, Büyülü Bebek (9 sahne + Buluşma finalı).
+- 🔥 **Willow Pyromancy ateş büyüleri tam** — Ateş Topu, Tutuşma=Combustion, Yanan Çılgınlık, Alev Atışı, Ay Alevi=Lunar Flame, Gölge Ateş=Shadow Fire (Embers=Köz birim).
+- 🐷 **PIGNAMES tam (146 isim)** — 79 Roma imparatoru ve 20 Klei dev ekibi korundu, 47 yemek/şirin domuz ismi yerelleştirildi (Pastırma=Bacon, Mantı=Dumpling, Hor Hor=Oinkey, Domuzlu Bao=Porkbun, Yumurtbert=Eggbert).
+- 🐐 **Quagmire (Boğaz) tam** — Yaşlı Keçi'nin BÜYÜK HARF konuşmaları (BUY/GREETING/SLEEP), 16 karakter Boğaz yetenekleri (Wickerbottom: "Olaya tam uygun kitabı yanında bulundurur, Yiyeceği inceleyerek Kemiren'in canının çekip çekmediğini belirler").
+- 🌫️ **Atriyum gotik ilahi** — Nightmare Overgrowth 5 satırlık eski Türkçe karanlık şiir: "Yüzünü çevirenin terk ettiği zavallılar... Karanlık bizim kalkanımız oldu. Geçimimiz. Tesellimiz."
+
+### Önceki oturum (Oturum 12 — NAMES BİTTİ! ⭐)
 
 - 🏷️ **802 item ismi (S-Y aralığı) — STRINGS.NAMES TAMAMEN TAMAMLANDI (15/15)** — toplam 2.802 item ismi, NAMES sıfır kaldı.
 - 🎬 **Shadow ekosistemi tam** (Maxwell void cloth zırhı: Karbumeranj=Gloomerang gloom+boomerang pun, Karemsiye=Umbralla umbra+brella pun, Gölge Orakçısı=Shadow Reaper, Boşluk Başlığı=Void Cowl), **Karabasan Köleler 6 form** (Mega Yıkım+Mürekkep Yıkımı + Allegiance: Dalga/Titrek/Hırıltı/Sırıtış/Çığlık + Boşluk Maskesi=Void Masque + Tenebrau Müjdecisi Latince).
@@ -105,4 +115,4 @@ Yanlış çeviri / eksik metin / bug için **Issues** sekmesi. PR rehberi `CONTR
 
 ---
 
-**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.8.0-faz3`
+**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.8.1-faz3`

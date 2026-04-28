@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 12 ✅ — Faz 3 Seçenek B: STRINGS.NAMES TAMAMLANDI! 802 item ismi, NAMES 15/15 ⭐)
+**Son güncelleme:** 2026-04-29 (Oturum 13 ✅ — Faz 3 küçük lore blokları: 11 batch / 286 string — %10 EŞİĞİ AŞILDI ⭐)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 8.358 / 85.706 msgid (%9.75)
+**Şu ana kadar çevrilen toplam:** 8.644 / 85.706 msgid (%10.09) ⭐ %10 EŞİĞİ AŞILDI
 
 ---
 
@@ -185,9 +185,35 @@
 
 **Faz 3 toplam:** Oturum 5+6+7+8+9+10+11+12 = 3.117 + 802 = **3.919 string** (Faz 3'ün ~%78'i tahmini, NAMES 15/15 ⭐)
 
-## 🎯 Sıradaki Oturum (13) — Yol Haritası (NAMES sonrası item lore)
+### ✅ Oturum 13 — 2026-04-29 (11 batch / 286 string) — Küçük lore blokları temizlendi
 
-### Doğrudan item lore blokları (küçük batch'ler)
+**Aydın'ın "devam" komutu:** NAMES sonrası küçük lore + sahne oyunu + Quagmire blokları temizlendi.
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0593` | 20 | **STRINGS.NAME_DETAIL_EXTENTION** — Lavaarena Forge zırh stat detayları (Koruma %/Hareket Hızı %/Hızlı Bekleme %/Geri İtilme Direnci/Yoldaş Güçlendirici/Fiziksel-Sihir Hasar/Alınan-Verilen İyileştirme). 11 zırh + 8 şapka stat satırı | ✅ |
+| `0594` | 5 | **STRINGS.NIGHTMARE_OVERGROWTH** — Atriyum karanlık ilahi 5 satır (gotik şiir, Maxwell-tarzı eski Türkçe: "Yüzünü çevirenin terk ettiği zavallılar... Karanlık bizim kalkanımız oldu. Geçimimiz. Tesellimiz.") | ✅ |
+| `0595` | 146 | **STRINGS.PIGNAMES** tam — 79 Roma imparatoru (Augustus/Tiberius/Caligula/Nero/Vespasian/Titus/Trajan/Hadrian/Marcus/Commodus/Caracalla/Diocletian/Constantine/Justinian vs.) **özel isim korunur**, 20 Klei dev ekibi (Mickey/Cheeky Chris/Kevin/Ju-lian/Alia/Tatham/Brook/Matt/Alex/Kris/Kelly/Eugene/Graham/Jamie/Jeff/Joe/Corey/Bryce/Bug/Seth) korunur, 47 yemek/şirin domuz ismi (Hugo/Ay Pastası/Bagel/Bisküvi/Pastırma/Hamilton/Brownie/Tereyağ=Butters/Ton/Yonca/Krema/Mantı=Dumpling/Yumurtacık/Vafıl/Trüf/Patatesçik/Çedar/Bal Kabağı/Yulafçık/Hor Hor=Oinkey/Domuzlu Bao=Porkbun/Yumurtbert/Cips/Meyvecik/Huysuzcuk=Crabby/Arpa/Zeytin/Turşu/Kıvrılan=Wiggles/Pastırma/Kokuşmuş/Tuzlu) | ✅ |
+| `0632` | 53 | **STRINGS.PLAYING_CARD_NAMES** — Balatro 52 oyun kartı tam (As/2-10/Vale/Kız/Papaz × Maça/Karo/Sinek/Kupa) + Generic Oyun Kartı | ✅ |
+| `0633` | 13 | **STRINGS.PLAYS** — Stage play repertoire: **Dört Şövalyem ve Ben** (My Knights Four and I, YOTH), **Bir Görev Tamamlandı** (Maxwell itirafı), **Kasvet Örtüsü** (The Pall glossary), **Büyülü Bebek** (Enchanted Doll) Act 1-3 Scene 1-3 + **Buluşma** finalı (Türkçe tiyatro: "1. Perde - 2. Sahne") | ✅ |
+| `0634` | 1 | **STRINGS.PSN** — PlayStation™Network marka korunur | ✅ |
+| `0635` | 6 | **STRINGS.PYROMANCY** — Willow ateş büyüleri tam: **Ateş Topu** (2 Köz), **Tutuşma=Combustion** (4 Köz), **Yanan Çılgınlık=Burning Frenzy** (2 Köz), **Alev Atışı=Flame Cast** (1 Köz), **Ay Alevi=Lunar Flame** (5 Köz), **Gölge Ateş=Shadow Fire** (5 Köz). Embers=Köz birim tutarlı | ✅ |
+| `0636` | 22 | **STRINGS.QUAGMIRE_CHARACTER_DESCRIPTIONS** — Boğaz etkinliği karakter özellikleri: Wigfrid (Bızonsığır kestiğinde fazladan et—Toplama), Maxwell (Gölge Oduncu çağırır—Toplama), Webber (Tohum eker hızlı—Tarım), Wendy (Izgara verimi—Pişirme), Wes (Uzman pazarlıkçı—Alışveriş), Wickerbottom (Olay kitabı + Yiyeceği inceler Kemiren'in canının çekip çekmediğini—Tarım), Willow (Kütükler uzun yanar—Pişirme), Wilson (Tencere verimi—Pişirme), Winona (Hızlı eylem—Tarım), Wolfgang (Fırın verimi—Pişirme), Woodie (Hızlı odun kesim—Toplama), WX-78 (Robotik koşma hızı—Toplama). PLACEHOLDER'lar Türkçe YERTUTUCU. Random=Rastgele bir hayatta kalan seç | ✅ |
+| `0637` | 7 | **STRINGS.QUAGMIRE_ELDER_TALK_BUY** — Yaşlı Keçi BÜYÜK HARF (WX-78 tarzı): "TEŞEKKÜRLER. ŞİMDİ YAŞLIYI DİNLENDİR.", "EVET. SEN İYİ KEÇİ.", "BELKİ ŞİMDİ EVLERİ ONARIRIZ", "BOL ŞANS. KEMİREN İLE.", "TEŞEKKÜRLER, KÜÇÜK KEÇİ." | ✅ |
+| `0638` | 7 | **STRINGS.QUAGMIRE_ELDER_TALK_GREETING** — Yaşlı Keçi karşılama BÜYÜK HARF: "HRF? TAKAS YAPAR? MALZEME?", "HRF? UYKU... YAŞLIYA KARABASAN VERİYOR", "HRF! KEMİREN DOMUZLARA KIZGIN", "HRF! KEÇİLERİN ÇOĞU DOMUZLARA YARDIM ETMEZ", "HRF? ...YAŞLI GİDERSE KÜÇÜK DOMUZLAR NE YAPAR?". HRF keçi sesi korunur | ✅ |
+| `0639` | 6 | **STRINGS.QUAGMIRE_ELDER_TALK_SLEEP** — Yaşlı Keçi uyku mırıltı: "...HRMFFF...", "(HORLAMA) ...p...pullar...", "...v...veba...", "...zzzZZzzz...", "...k-KEMİREN...", "...g-gök..." (kıyamet öncesi rüya parçaları) | ✅ |
+
+**Faz 3 toplam:** Oturum 5-13 = 3.919 + 286 = **4.205 string** (Faz 3'ün ~%84'ü tahmini)
+
+## 🎯 Sıradaki Oturum (14) — Yol Haritası
+
+### **EN YÜKSEK ÖNCELİK:** RECIPE_DESC ⭐⭐⭐
+- `0650-0654` STRINGS.RECIPE_DESC (5 batch, ~956 tarif açıklaması) — yemek ve eşya tariflerinin tek satırlık özetleri (yemek lezzet/etki/bozulma süresi)
+
+### Sonra büyük PIG_TALK serileri
+- `0596-0631` STRINGS.PIG_TALK_* (36 batch, Domuz konuşmaları — Pig King servants/guards/elites)
+
+### Faz 3 finali
 - `0593` STRINGS.NAME_DETAIL_EXTENTION (1 batch, ek detay)
 - `0594` STRINGS.NIGHTMARE_OVERGROWTH (1 batch, lore)
 - `0595` STRINGS.PIGNAMES (1 batch, domuz isimleri)
