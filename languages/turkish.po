@@ -15588,6 +15588,4016 @@ msgctxt "STRINGS.NAMES.SANDSPIKE"
 msgid "Sand Spike"
 msgstr "Kum Sivrisi"
 
+#. STRINGS.NAMES.SANITYROCK
+msgctxt "STRINGS.NAMES.SANITYROCK"
+msgid "Obelisk"
+msgstr "Obelisk"
+
+#. STRINGS.NAMES.SAPLING
+msgctxt "STRINGS.NAMES.SAPLING"
+msgid "Sapling"
+msgstr "Fidan"
+
+#. STRINGS.NAMES.SCANDATA
+msgctxt "STRINGS.NAMES.SCANDATA"
+msgid "Bio Data"
+msgstr "Biyo Veri"
+
+#. STRINGS.NAMES.SCARECROW
+msgctxt "STRINGS.NAMES.SCARECROW"
+msgid "Friendly Scarecrow"
+msgstr "Dost Korkuluk"
+
+#. STRINGS.NAMES.SCORCHED_SKELETON
+msgctxt "STRINGS.NAMES.SCORCHED_SKELETON"
+msgid "Crispy Skeleton"
+msgstr "Çıtır İskelet"
+
+#. STRINGS.NAMES.SCRAPBOOK_PAGE
+msgctxt "STRINGS.NAMES.SCRAPBOOK_PAGE"
+msgid "Lost Scrapbook Page"
+msgstr "Kayıp Karalama Sayfası"
+
+#. STRINGS.NAMES.SCRAPBOOK_PAGE_FMT
+msgctxt "STRINGS.NAMES.SCRAPBOOK_PAGE_FMT"
+msgid "{name} Scrapbook Page"
+msgstr "{name} Karalama Sayfası"
+
+#. STRINGS.NAMES.SCRAPHAT
+msgctxt "STRINGS.NAMES.SCRAPHAT"
+msgid "Scrappy Chapauldron"
+msgstr "Hurdacı Şapauldron"
+
+#. STRINGS.NAMES.SCRAP_MONOCLEHAT
+msgctxt "STRINGS.NAMES.SCRAP_MONOCLEHAT"
+msgid "Horizon Expandinator"
+msgstr "Ufuk Genişletici"
+
+#. STRINGS.NAMES.SCULPTINGTABLE
+msgctxt "STRINGS.NAMES.SCULPTINGTABLE"
+msgid "Potter's Wheel"
+msgstr "Çömlekçi Çarkı"
+
+#. STRINGS.NAMES.SCULPTING_MATERIAL
+msgctxt "STRINGS.NAMES.SCULPTING_MATERIAL"
+msgid "Sculpting Block"
+msgstr "Heykel Taşı"
+
+#. STRINGS.NAMES.SCULPTURE_BISHOPBODY
+msgctxt "STRINGS.NAMES.SCULPTURE_BISHOPBODY"
+msgid "Marble Sculpture"
+msgstr "Mermer Heykel"
+
+#. STRINGS.NAMES.SCULPTURE_BISHOPHEAD
+msgctxt "STRINGS.NAMES.SCULPTURE_BISHOPHEAD"
+msgid "Suspicious Marble"
+msgstr "Şüpheli Mermer"
+
+#. STRINGS.NAMES.SCULPTURE_KNIGHTBODY
+msgctxt "STRINGS.NAMES.SCULPTURE_KNIGHTBODY"
+msgid "Marble Sculpture"
+msgstr "Mermer Heykel"
+
+#. STRINGS.NAMES.SCULPTURE_KNIGHTHEAD
+msgctxt "STRINGS.NAMES.SCULPTURE_KNIGHTHEAD"
+msgid "Suspicious Marble"
+msgstr "Şüpheli Mermer"
+
+#. STRINGS.NAMES.SCULPTURE_ROOKBODY
+msgctxt "STRINGS.NAMES.SCULPTURE_ROOKBODY"
+msgid "Marble Sculpture"
+msgstr "Mermer Heykel"
+
+#. STRINGS.NAMES.SCULPTURE_ROOKNOSE
+msgctxt "STRINGS.NAMES.SCULPTURE_ROOKNOSE"
+msgid "Suspicious Marble"
+msgstr "Şüpheli Mermer"
+
+#. STRINGS.NAMES.SEACOCOON
+msgctxt "STRINGS.NAMES.SEACOCOON"
+msgid "Sea Cocoon"
+msgstr "Deniz Kozası"
+
+#. STRINGS.NAMES.SEACOCOON_TOP
+msgctxt "STRINGS.NAMES.SEACOCOON_TOP"
+msgid "Sea Cocoon"
+msgstr "Deniz Kozası"
+
+#. STRINGS.NAMES.SEAFARING_PROTOTYPER
+msgctxt "STRINGS.NAMES.SEAFARING_PROTOTYPER"
+msgid "Think Tank"
+msgstr "Beyin Takımı"
+
+#. STRINGS.NAMES.SEAFOODGUMBO
+msgctxt "STRINGS.NAMES.SEAFOODGUMBO"
+msgid "Seafood Gumbo"
+msgstr "Deniz Mahsulü Gambo"
+
+#. STRINGS.NAMES.SEASTACK
+msgctxt "STRINGS.NAMES.SEASTACK"
+msgid "Sea Stack"
+msgstr "Deniz Kayası"
+
+#. STRINGS.NAMES.SECURITY_PULSE_CAGE
+msgctxt "STRINGS.NAMES.SECURITY_PULSE_CAGE"
+msgid "Spark Ark"
+msgstr "Kıvılcım Kasası"
+
+#. STRINGS.NAMES.SECURITY_PULSE_CAGE_FULL
+msgctxt "STRINGS.NAMES.SECURITY_PULSE_CAGE_FULL"
+msgid "Spark Ark"
+msgstr "Kıvılcım Kasası"
+
+#. STRINGS.NAMES.SEEDPOUCH
+msgctxt "STRINGS.NAMES.SEEDPOUCH"
+msgid "Seed Pack-It"
+msgstr "Tohum Paket-le"
+
+#. STRINGS.NAMES.SEEDS
+msgctxt "STRINGS.NAMES.SEEDS"
+msgid "Seeds"
+msgstr "Tohumlar"
+
+#. STRINGS.NAMES.SEEDS_COOKED
+msgctxt "STRINGS.NAMES.SEEDS_COOKED"
+msgid "Toasted Seeds"
+msgstr "Kavrulmuş Tohumlar"
+
+#. STRINGS.NAMES.SENTRYWARD
+msgctxt "STRINGS.NAMES.SENTRYWARD"
+msgid "Ocuvigil"
+msgstr "Gözcübekçi"
+
+#. STRINGS.NAMES.SEWING_KIT
+msgctxt "STRINGS.NAMES.SEWING_KIT"
+msgid "Sewing Kit"
+msgstr "Dikiş Kiti"
+
+#. STRINGS.NAMES.SEWING_MANNEQUIN
+msgctxt "STRINGS.NAMES.SEWING_MANNEQUIN"
+msgid "Mannequin"
+msgstr "Manken"
+
+#. STRINGS.NAMES.SEWING_TAPE
+msgctxt "STRINGS.NAMES.SEWING_TAPE"
+msgid "Trusty Tape"
+msgstr "Sadık Bant"
+
+#. STRINGS.NAMES.SHADOWCHANNELER
+msgctxt "STRINGS.NAMES.SHADOWCHANNELER"
+msgid "Unseen Hand"
+msgstr "Görünmez El"
+
+#. STRINGS.NAMES.SHADOWDANCER
+msgctxt "STRINGS.NAMES.SHADOWDANCER"
+msgid "Shadow Dancer"
+msgstr "Gölge Dansçı"
+
+#. STRINGS.NAMES.SHADOWDIGGER_BUILDER
+msgctxt "STRINGS.NAMES.SHADOWDIGGER_BUILDER"
+msgid "Shadow Digger"
+msgstr "Gölge Kazıcı"
+
+#. STRINGS.NAMES.SHADOWDUELIST_BUILDER
+msgctxt "STRINGS.NAMES.SHADOWDUELIST_BUILDER"
+msgid "Shadow Duelist"
+msgstr "Gölge Düellocu"
+
+#. STRINGS.NAMES.SHADOWHAND
+msgctxt "STRINGS.NAMES.SHADOWHAND"
+msgid "Shadow Hand"
+msgstr "Gölge El"
+
+#. STRINGS.NAMES.SHADOWHEART
+msgctxt "STRINGS.NAMES.SHADOWHEART"
+msgid "Shadow Atrium"
+msgstr "Gölge Atriyum"
+
+#. STRINGS.NAMES.SHADOWHEART_INFUSED
+msgctxt "STRINGS.NAMES.SHADOWHEART_INFUSED"
+msgid "Possessed Shadow Atrium"
+msgstr "Ele Geçirilmiş Gölge Atriyum"
+
+#. STRINGS.NAMES.SHADOWLUMBER_BUILDER
+msgctxt "STRINGS.NAMES.SHADOWLUMBER_BUILDER"
+msgid "Shadow Logger"
+msgstr "Gölge Oduncu"
+
+#. STRINGS.NAMES.SHADOWMETEOR
+msgctxt "STRINGS.NAMES.SHADOWMETEOR"
+msgid "Meteor"
+msgstr "Meteor"
+
+#. STRINGS.NAMES.SHADOWMINER_BUILDER
+msgctxt "STRINGS.NAMES.SHADOWMINER_BUILDER"
+msgid "Shadow Miner"
+msgstr "Gölge Madenci"
+
+#. STRINGS.NAMES.SHADOWRIFT_PORTAL
+msgctxt "STRINGS.NAMES.SHADOWRIFT_PORTAL"
+msgid "Rift"
+msgstr "Yarık"
+
+#. STRINGS.NAMES.SHADOWTENTACLE
+msgctxt "STRINGS.NAMES.SHADOWTENTACLE"
+msgid "Shadow Tentacle"
+msgstr "Gölge Dokunaç"
+
+#. STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE"
+msgid "Mega Blight"
+msgstr "Mega Yıkım"
+
+#. STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE_ALLEGIANCE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_CENTIPEDE_ALLEGIANCE"
+msgid "Ripple"
+msgstr "Dalga"
+
+#. STRINGS.NAMES.SHADOWTHRALL_HANDS
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_HANDS"
+msgid "Ink Blight"
+msgstr "Mürekkep Yıkımı"
+
+#. STRINGS.NAMES.SHADOWTHRALL_HANDS_ALLEGIANCE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_HANDS_ALLEGIANCE"
+msgid "Jitters"
+msgstr "Titrek"
+
+#. STRINGS.NAMES.SHADOWTHRALL_HORNS
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_HORNS"
+msgid "Ink Blight"
+msgstr "Mürekkep Yıkımı"
+
+#. STRINGS.NAMES.SHADOWTHRALL_HORNS_ALLEGIANCE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_HORNS_ALLEGIANCE"
+msgid "Rasp"
+msgstr "Hırıltı"
+
+#. STRINGS.NAMES.SHADOWTHRALL_MOUTH
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_MOUTH"
+msgid "Ink Blight"
+msgstr "Mürekkep Yıkımı"
+
+#. STRINGS.NAMES.SHADOWTHRALL_MOUTH_ALLEGIANCE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_MOUTH_ALLEGIANCE"
+msgid "Rictus"
+msgstr "Sırıtış"
+
+#. STRINGS.NAMES.SHADOWTHRALL_PARASITE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_PARASITE"
+msgid "Void Masque"
+msgstr "Boşluk Maskesi"
+
+#. STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE"
+msgid "Herald of Tenebrau"
+msgstr "Tenebrau Müjdecisi"
+
+#. STRINGS.NAMES.SHADOWTHRALL_WINGS
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_WINGS"
+msgid "Ink Blight"
+msgstr "Mürekkep Yıkımı"
+
+#. STRINGS.NAMES.SHADOWTHRALL_WINGS_ALLEGIANCE
+msgctxt "STRINGS.NAMES.SHADOWTHRALL_WINGS_ALLEGIANCE"
+msgid "Shriek"
+msgstr "Çığlık"
+
+#. STRINGS.NAMES.SHADOWWAXWELL
+msgctxt "STRINGS.NAMES.SHADOWWAXWELL"
+msgid "Shadow"
+msgstr "Gölge"
+
+#. STRINGS.NAMES.SHADOW_BATTLEAXE
+msgctxt "STRINGS.NAMES.SHADOW_BATTLEAXE"
+msgid "Shadow Maul"
+msgstr "Gölge Tokmak"
+
+#. STRINGS.NAMES.SHADOW_BEEF_BELL
+msgctxt "STRINGS.NAMES.SHADOW_BEEF_BELL"
+msgid "Beefalo Gloom Bell"
+msgstr "Bızonsığır Kasvet Çanı"
+
+#. STRINGS.NAMES.SHADOW_BISHOP
+msgctxt "STRINGS.NAMES.SHADOW_BISHOP"
+msgid "Shadow Bishop"
+msgstr "Gölge Şah"
+
+#. STRINGS.NAMES.SHADOW_FORGE
+msgctxt "STRINGS.NAMES.SHADOW_FORGE"
+msgid "Shadowcraft Plinth"
+msgstr "Gölge Sanat Kaidesi"
+
+#. STRINGS.NAMES.SHADOW_FORGE_KIT
+msgctxt "STRINGS.NAMES.SHADOW_FORGE_KIT"
+msgid "Shadowcraft Plinth Kit"
+msgstr "Gölge Sanat Kaidesi Kiti"
+
+#. STRINGS.NAMES.SHADOW_HEART_VEIN
+msgctxt "STRINGS.NAMES.SHADOW_HEART_VEIN"
+msgid "Shadow Atrium Tendril"
+msgstr "Gölge Atriyum Sülüğü"
+
+#. STRINGS.NAMES.SHADOW_KNIGHT
+msgctxt "STRINGS.NAMES.SHADOW_KNIGHT"
+msgid "Shadow Knight"
+msgstr "Gölge At"
+
+#. STRINGS.NAMES.SHADOW_LEECH
+msgctxt "STRINGS.NAMES.SHADOW_LEECH"
+msgid "Parasitic Shadeling"
+msgstr "Asalak Gölgecik"
+
+#. STRINGS.NAMES.SHADOW_ROOK
+msgctxt "STRINGS.NAMES.SHADOW_ROOK"
+msgid "Shadow Rook"
+msgstr "Gölge Kale"
+
+#. STRINGS.NAMES.SHALLOW_GRAVE
+msgctxt "STRINGS.NAMES.SHALLOW_GRAVE"
+msgid "Shallow Grave"
+msgstr "Sığ Mezar"
+
+#. STRINGS.NAMES.SHALLOW_GRAVE_PLAYER
+msgctxt "STRINGS.NAMES.SHALLOW_GRAVE_PLAYER"
+msgid "Shallow Grave"
+msgstr "Sığ Mezar"
+
+#. STRINGS.NAMES.SHARK
+msgctxt "STRINGS.NAMES.SHARK"
+msgid "Rockjaw"
+msgstr "Kayaçene"
+
+#. STRINGS.NAMES.SHARKBOI
+msgctxt "STRINGS.NAMES.SHARKBOI"
+msgid "Frostjaw"
+msgstr "Buzçene"
+
+#. STRINGS.NAMES.SHARKBOI_ICESPIKE
+msgctxt "STRINGS.NAMES.SHARKBOI_ICESPIKE"
+msgid "Ice"
+msgstr "Buz"
+
+#. STRINGS.NAMES.SHELLWEAVER
+msgctxt "STRINGS.NAMES.SHELLWEAVER"
+msgid "Combriner"
+msgstr "Kabukörgücü"
+
+#. STRINGS.NAMES.SHELL_CLUSTER
+msgctxt "STRINGS.NAMES.SHELL_CLUSTER"
+msgid "Shell Cluster"
+msgstr "Kabuk Kümesi"
+
+#. STRINGS.NAMES.SHENANIGANS
+msgctxt "STRINGS.NAMES.SHENANIGANS"
+msgid "Shenanigans"
+msgstr "Maskaralık"
+
+#. STRINGS.NAMES.SHIELDOFTERROR
+msgctxt "STRINGS.NAMES.SHIELDOFTERROR"
+msgid "Shield of Terror"
+msgstr "Dehşet Kalkanı"
+
+#. STRINGS.NAMES.SHOVEL
+msgctxt "STRINGS.NAMES.SHOVEL"
+msgid "Shovel"
+msgstr "Kürek"
+
+#. STRINGS.NAMES.SHOVEL_LUNARPLANT
+msgctxt "STRINGS.NAMES.SHOVEL_LUNARPLANT"
+msgid "Brightshade Shoevel"
+msgstr "Aydıngölge Kürek"
+
+#. STRINGS.NAMES.SHROOMBAIT
+msgctxt "STRINGS.NAMES.SHROOMBAIT"
+msgid "Stuffed Night Cap"
+msgstr "Doldurulmuş Gece Kepi"
+
+#. STRINGS.NAMES.SHROOMCAKE
+msgctxt "STRINGS.NAMES.SHROOMCAKE"
+msgid "Mushy Cake"
+msgstr "Lapamsı Pasta"
+
+#. STRINGS.NAMES.SHROOM_SKIN
+msgctxt "STRINGS.NAMES.SHROOM_SKIN"
+msgid "Shroom Skin"
+msgstr "Mantar Postu"
+
+#. STRINGS.NAMES.SIESTAHUT
+msgctxt "STRINGS.NAMES.SIESTAHUT"
+msgid "Siesta Lean-to"
+msgstr "Siesta Çardağı"
+
+#. STRINGS.NAMES.SILK
+msgctxt "STRINGS.NAMES.SILK"
+msgid "Silk"
+msgstr "İpek"
+
+#. STRINGS.NAMES.SINGINGSHELL_OCTAVE3
+msgctxt "STRINGS.NAMES.SINGINGSHELL_OCTAVE3"
+msgid "Baritone Shell Bell"
+msgstr "Bariton Kabuk Çanı"
+
+#. STRINGS.NAMES.SINGINGSHELL_OCTAVE4
+msgctxt "STRINGS.NAMES.SINGINGSHELL_OCTAVE4"
+msgid "Alto Shell Bell"
+msgstr "Alto Kabuk Çanı"
+
+#. STRINGS.NAMES.SINGINGSHELL_OCTAVE5
+msgctxt "STRINGS.NAMES.SINGINGSHELL_OCTAVE5"
+msgid "Soprano Shell Bell"
+msgstr "Soprano Kabuk Çanı"
+
+#. STRINGS.NAMES.SINKHOLE
+msgctxt "STRINGS.NAMES.SINKHOLE"
+msgid "Basalt"
+msgstr "Bazalt"
+
+#. STRINGS.NAMES.SISTURN
+msgctxt "STRINGS.NAMES.SISTURN"
+msgid "Sisturn"
+msgstr "Sisturn"
+
+#. STRINGS.NAMES.SKELETON
+msgctxt "STRINGS.NAMES.SKELETON"
+msgid "Skeleton"
+msgstr "İskelet"
+
+#. STRINGS.NAMES.SKELETONHAT
+msgctxt "STRINGS.NAMES.SKELETONHAT"
+msgid "Bone Helm"
+msgstr "Kemik Miğfer"
+
+#. STRINGS.NAMES.SKELETON_NOTPLAYER
+msgctxt "STRINGS.NAMES.SKELETON_NOTPLAYER"
+msgid "Skeleton"
+msgstr "İskelet"
+
+#. STRINGS.NAMES.SKELETON_PLAYER
+msgctxt "STRINGS.NAMES.SKELETON_PLAYER"
+msgid "Skeleton"
+msgstr "İskelet"
+
+#. STRINGS.NAMES.SKETCH
+msgctxt "STRINGS.NAMES.SKETCH"
+msgid "{item} Sketch"
+msgstr "{item} Taslağı"
+
+#. STRINGS.NAMES.SKETCH_SCRAPBOOK
+msgctxt "STRINGS.NAMES.SKETCH_SCRAPBOOK"
+msgid "Sketch"
+msgstr "Taslak"
+
+#. STRINGS.NAMES.SKULLCHEST
+msgctxt "STRINGS.NAMES.SKULLCHEST"
+msgid "Skullchest"
+msgstr "Kafatası Sandık"
+
+#. STRINGS.NAMES.SLEEPBOMB
+msgctxt "STRINGS.NAMES.SLEEPBOMB"
+msgid "Napsack"
+msgstr "Şekerleme Çuvalı"
+
+#. STRINGS.NAMES.SLINGSHOT
+msgctxt "STRINGS.NAMES.SLINGSHOT"
+msgid "Trusty Slingshot"
+msgstr "Sadık Sapan"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_CONTAINER
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_CONTAINER"
+msgid "Ammo Pouch"
+msgstr "Mermi Kesesi"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_DREADSTONE
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_DREADSTONE"
+msgid "Dread Pebbles"
+msgstr "Korku Çakılları"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_FREEZE
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_FREEZE"
+msgid "Freeze Rounds"
+msgstr "Donduru Mermi"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_GELBLOB
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_GELBLOB"
+msgid "Ickies"
+msgstr "Cıvıkışlar"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_GOLD
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_GOLD"
+msgid "Gold Rounds"
+msgstr "Altın Mermi"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_GUNPOWDER
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_GUNPOWDER"
+msgid "Kablooies"
+msgstr "Patlamalar"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_HONEY
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_HONEY"
+msgid "Stickies"
+msgstr "Yapışkanlar"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_HORRORFUEL
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_HORRORFUEL"
+msgid "Pure Horror Rounds"
+msgstr "Saf Dehşet Mermisi"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_HORRORFUEL_DEBUFF_FX
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_HORRORFUEL_DEBUFF_FX"
+msgid "Swarming Horror"
+msgstr "Sürüleyen Dehşet"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_LUNARPLANTHUSK
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_LUNARPLANTHUSK"
+msgid "Brightshade Husk Rounds"
+msgstr "Aydıngölge Kabuk Mermisi"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_MARBLE
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_MARBLE"
+msgid "Marbles"
+msgstr "Bilye"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_MOONGLASS
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_MOONGLASS"
+msgid "Moonshots"
+msgstr "Ay Atışları"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_POOP
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_POOP"
+msgid "Poop Pellets"
+msgstr "Kaka Topakları"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_PUREBRILLIANCE
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_PUREBRILLIANCE"
+msgid "Pure Brilliance Rounds"
+msgstr "Saf Parıltı Mermisi"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_PUREBRILLIANCE_DEBUFF
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_PUREBRILLIANCE_DEBUFF"
+msgid "Flash of Brilliance"
+msgstr "Parıltı Şimşeği"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_ROCK
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_ROCK"
+msgid "Pebbles"
+msgstr "Çakıllar"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_SCRAPFEATHER
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_SCRAPFEATHER"
+msgid "Shockscrap Shots"
+msgstr "Şok Hurda Atışları"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_SLOW
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_SLOW"
+msgid "Slow-Down Rounds"
+msgstr "Yavaşlatıcı Mermi"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_STINGER
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_STINGER"
+msgid "Stinger Zingers"
+msgstr "İğneli Zıngırlar"
+
+#. STRINGS.NAMES.SLINGSHOTAMMO_THULECITE
+msgctxt "STRINGS.NAMES.SLINGSHOTAMMO_THULECITE"
+msgid "Cursed Rounds"
+msgstr "Lanetli Mermi"
+
+#. STRINGS.NAMES.SLINGSHOTMODKIT
+msgctxt "STRINGS.NAMES.SLINGSHOTMODKIT"
+msgid "Slingshot Field Kit"
+msgstr "Sapan Saha Kiti"
+
+#. STRINGS.NAMES.SLINGSHOT_BAND_MIMIC
+msgctxt "STRINGS.NAMES.SLINGSHOT_BAND_MIMIC"
+msgid "Possessed Slingshot Band"
+msgstr "Ele Geçirilmiş Sapan Lastiği"
+
+#. STRINGS.NAMES.SLINGSHOT_BAND_PIGSKIN
+msgctxt "STRINGS.NAMES.SLINGSHOT_BAND_PIGSKIN"
+msgid "Pig Skin Slingshot Band"
+msgstr "Domuz Postu Sapan Lastiği"
+
+#. STRINGS.NAMES.SLINGSHOT_BAND_TENTACLE
+msgctxt "STRINGS.NAMES.SLINGSHOT_BAND_TENTACLE"
+msgid "Flailing Slingshot Band"
+msgstr "Çırpınan Sapan Lastiği"
+
+#. STRINGS.NAMES.SLINGSHOT_FMT
+msgctxt "STRINGS.NAMES.SLINGSHOT_FMT"
+msgid "{name}'s Slingshot"
+msgstr "{name}'in Sapanı"
+
+#. STRINGS.NAMES.SLINGSHOT_FRAME_BONE
+msgctxt "STRINGS.NAMES.SLINGSHOT_FRAME_BONE"
+msgid "Bony Slingshot Frame"
+msgstr "Kemiksi Sapan Çerçevesi"
+
+#. STRINGS.NAMES.SLINGSHOT_FRAME_GEMS
+msgctxt "STRINGS.NAMES.SLINGSHOT_FRAME_GEMS"
+msgid "Thulecite Slingshot Frame"
+msgstr "Thulesit Sapan Çerçevesi"
+
+#. STRINGS.NAMES.SLINGSHOT_FRAME_WAGPUNK
+msgctxt "STRINGS.NAMES.SLINGSHOT_FRAME_WAGPUNK"
+msgid "Scrappier Slingshot Frame"
+msgstr "Daha Hurdacı Sapan Çerçevesi"
+
+#. STRINGS.NAMES.SLINGSHOT_FRAME_WAGPUNK_0
+msgctxt "STRINGS.NAMES.SLINGSHOT_FRAME_WAGPUNK_0"
+msgid "Scrappy Slingshot Frame"
+msgstr "Hurdacı Sapan Çerçevesi"
+
+#. STRINGS.NAMES.SLINGSHOT_HANDLE_JELLY
+msgctxt "STRINGS.NAMES.SLINGSHOT_HANDLE_JELLY"
+msgid "Slingshot Jelly Grip"
+msgstr "Sapan Jeli Tutamacı"
+
+#. STRINGS.NAMES.SLINGSHOT_HANDLE_SILK
+msgctxt "STRINGS.NAMES.SLINGSHOT_HANDLE_SILK"
+msgid "Slingshot Grip Tape"
+msgstr "Sapan Tutamak Bandı"
+
+#. STRINGS.NAMES.SLINGSHOT_HANDLE_STICKY
+msgctxt "STRINGS.NAMES.SLINGSHOT_HANDLE_STICKY"
+msgid "Slingshot Sticky Grip"
+msgstr "Sapan Yapışkan Tutamacı"
+
+#. STRINGS.NAMES.SLINGSHOT_HANDLE_VOIDCLOTH
+msgctxt "STRINGS.NAMES.SLINGSHOT_HANDLE_VOIDCLOTH"
+msgid "Slingshot Void Wrap"
+msgstr "Sapan Boşluk Sargısı"
+
+#. STRINGS.NAMES.SLOW_FARMPLOT
+msgctxt "STRINGS.NAMES.SLOW_FARMPLOT"
+msgid "Basic Farm"
+msgstr "Temel Tarla"
+
+#. STRINGS.NAMES.SLURPER
+msgctxt "STRINGS.NAMES.SLURPER"
+msgid "Slurper"
+msgstr "Yalaçek"
+
+#. STRINGS.NAMES.SLURPER_PELT
+msgctxt "STRINGS.NAMES.SLURPER_PELT"
+msgid "Slurper Pelt"
+msgstr "Yalaçek Postu"
+
+#. STRINGS.NAMES.SLURTLE
+msgctxt "STRINGS.NAMES.SLURTLE"
+msgid "Slurtle"
+msgstr "Salyangurp"
+
+#. STRINGS.NAMES.SLURTLEHAT
+msgctxt "STRINGS.NAMES.SLURTLEHAT"
+msgid "Shelmet"
+msgstr "Kabukmiğfer"
+
+#. STRINGS.NAMES.SLURTLEHOLE
+msgctxt "STRINGS.NAMES.SLURTLEHOLE"
+msgid "Slurtle Mound"
+msgstr "Salyangurp Höyüğü"
+
+#. STRINGS.NAMES.SLURTLESLIME
+msgctxt "STRINGS.NAMES.SLURTLESLIME"
+msgid "Slurtle Slime"
+msgstr "Salyangurp Sümüğü"
+
+#. STRINGS.NAMES.SLURTLE_SHELLPIECES
+msgctxt "STRINGS.NAMES.SLURTLE_SHELLPIECES"
+msgid "Broken Shell"
+msgstr "Kırık Kabuk"
+
+#. STRINGS.NAMES.SMALLBIRD
+msgctxt "STRINGS.NAMES.SMALLBIRD"
+msgid "Smallbird"
+msgstr "Küçükkuş"
+
+#. STRINGS.NAMES.SMALLGHOST
+msgctxt "STRINGS.NAMES.SMALLGHOST"
+msgid "Pipspook"
+msgstr "Cıvılcuk"
+
+#. STRINGS.NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE
+msgctxt "STRINGS.NAMES.SMALLGUARD_ALTERGUARDIAN_PROJECTILE"
+msgid "Minor Gestalt"
+msgstr "Küçük Geştalt"
+
+#. STRINGS.NAMES.SMALLMEAT
+msgctxt "STRINGS.NAMES.SMALLMEAT"
+msgid "Morsel"
+msgstr "Lokma"
+
+#. STRINGS.NAMES.SMALLMEAT_DRIED
+msgctxt "STRINGS.NAMES.SMALLMEAT_DRIED"
+msgid "Small Jerky"
+msgstr "Küçük Pastırma"
+
+#. STRINGS.NAMES.SNAPPER
+msgctxt "STRINGS.NAMES.SNAPPER"
+msgid "Crocommander"
+msgstr "Timsahkomutan"
+
+#. STRINGS.NAMES.SNOWBALL_ITEM
+msgctxt "STRINGS.NAMES.SNOWBALL_ITEM"
+msgid "Snowball"
+msgstr "Kar Topu"
+
+#. STRINGS.NAMES.SNOWBALL_LARGE
+msgctxt "STRINGS.NAMES.SNOWBALL_LARGE"
+msgid "Large Snowball"
+msgstr "Büyük Kar Topu"
+
+#. STRINGS.NAMES.SNOWMAN
+msgctxt "STRINGS.NAMES.SNOWMAN"
+msgid "Snowman"
+msgstr "Kardan Adam"
+
+#. STRINGS.NAMES.SNURTLE
+msgctxt "STRINGS.NAMES.SNURTLE"
+msgid "Snurtle"
+msgstr "Sarsalyo"
+
+#. STRINGS.NAMES.SOIL_AMENDER
+msgctxt "STRINGS.NAMES.SOIL_AMENDER"
+msgid "Growth Formula Starter"
+msgstr "Büyüme Formülü Başlatıcı"
+
+#. STRINGS.NAMES.SOIL_AMENDER_FERMENTED
+msgctxt "STRINGS.NAMES.SOIL_AMENDER_FERMENTED"
+msgid "Super Growth Formula"
+msgstr "Süper Büyüme Formülü"
+
+#. STRINGS.NAMES.SOIL_AMENDER_FRESH
+msgctxt "STRINGS.NAMES.SOIL_AMENDER_FRESH"
+msgid "Growth Formula Starter"
+msgstr "Büyüme Formülü Başlatıcı"
+
+#. STRINGS.NAMES.SOIL_AMENDER_SPOILED
+msgctxt "STRINGS.NAMES.SOIL_AMENDER_SPOILED"
+msgid "Fermented Growth Formula"
+msgstr "Mayalanmış Büyüme Formülü"
+
+#. STRINGS.NAMES.SOIL_AMENDER_STALE
+msgctxt "STRINGS.NAMES.SOIL_AMENDER_STALE"
+msgid "Fermenting Growth Formula"
+msgstr "Mayalanan Büyüme Formülü"
+
+#. STRINGS.NAMES.SPAT
+msgctxt "STRINGS.NAMES.SPAT"
+msgid "Ewecus"
+msgstr "Koyuncuk"
+
+#. STRINGS.NAMES.SPEAR
+msgctxt "STRINGS.NAMES.SPEAR"
+msgid "Spear"
+msgstr "Mızrak"
+
+#. STRINGS.NAMES.SPEAR_GUNGNIR
+msgctxt "STRINGS.NAMES.SPEAR_GUNGNIR"
+msgid "Pith Pike"
+msgstr "Özlü Kargı"
+
+#. STRINGS.NAMES.SPEAR_LANCE
+msgctxt "STRINGS.NAMES.SPEAR_LANCE"
+msgid "Spiral Spear"
+msgstr "Sarmal Mızrak"
+
+#. STRINGS.NAMES.SPEAR_WATHGRITHR
+msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR"
+msgid "Battle Spear"
+msgstr "Savaş Mızrağı"
+
+#. STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING
+msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING"
+msgid "Elding Spear"
+msgstr "Elding Mızrak"
+
+#. STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING_CHARGED
+msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR_LIGHTNING_CHARGED"
+msgid "Charged Elding Spear"
+msgstr "Şarjlı Elding Mızrak"
+
+#. STRINGS.NAMES.SPICEPACK
+msgctxt "STRINGS.NAMES.SPICEPACK"
+msgid "Chef Pouch"
+msgstr "Şef Kese"
+
+#. STRINGS.NAMES.SPICE_CHILI
+msgctxt "STRINGS.NAMES.SPICE_CHILI"
+msgid "Chili Flakes"
+msgstr "Pul Biber"
+
+#. STRINGS.NAMES.SPICE_CHILI_FOOD
+msgctxt "STRINGS.NAMES.SPICE_CHILI_FOOD"
+msgid "Spicy {food}"
+msgstr "Acılı {food}"
+
+#. STRINGS.NAMES.SPICE_GARLIC
+msgctxt "STRINGS.NAMES.SPICE_GARLIC"
+msgid "Garlic Powder"
+msgstr "Sarımsak Tozu"
+
+#. STRINGS.NAMES.SPICE_GARLIC_FOOD
+msgctxt "STRINGS.NAMES.SPICE_GARLIC_FOOD"
+msgid "Garlic {food}"
+msgstr "Sarımsaklı {food}"
+
+#. STRINGS.NAMES.SPICE_SALT
+msgctxt "STRINGS.NAMES.SPICE_SALT"
+msgid "Seasoning Salt"
+msgstr "Çeşni Tuzu"
+
+#. STRINGS.NAMES.SPICE_SALT_FOOD
+msgctxt "STRINGS.NAMES.SPICE_SALT_FOOD"
+msgid "Salty {food}"
+msgstr "Tuzlu {food}"
+
+#. STRINGS.NAMES.SPICE_SUGAR
+msgctxt "STRINGS.NAMES.SPICE_SUGAR"
+msgid "Honey Crystals"
+msgstr "Bal Kristalleri"
+
+#. STRINGS.NAMES.SPICE_SUGAR_FOOD
+msgctxt "STRINGS.NAMES.SPICE_SUGAR_FOOD"
+msgid "Sweet {food}"
+msgstr "Tatlı {food}"
+
+#. STRINGS.NAMES.SPIDER
+msgctxt "STRINGS.NAMES.SPIDER"
+msgid "Spider"
+msgstr "Örümcek"
+
+#. STRINGS.NAMES.SPIDERDEN
+msgctxt "STRINGS.NAMES.SPIDERDEN"
+msgid "Spider Den"
+msgstr "Örümcek İni"
+
+#. STRINGS.NAMES.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.NAMES.SPIDERDEN_BEDAZZLER"
+msgid "Den Decorating Set"
+msgstr "İn Süsleme Seti"
+
+#. STRINGS.NAMES.SPIDEREGGSACK
+msgctxt "STRINGS.NAMES.SPIDEREGGSACK"
+msgid "Spider Eggs"
+msgstr "Örümcek Yumurtaları"
+
+#. STRINGS.NAMES.SPIDERGLAND
+msgctxt "STRINGS.NAMES.SPIDERGLAND"
+msgid "Spider Gland"
+msgstr "Örümcek Bezi"
+
+#. STRINGS.NAMES.SPIDERHAT
+msgctxt "STRINGS.NAMES.SPIDERHAT"
+msgid "Spiderhat"
+msgstr "Örümcek Şapkası"
+
+#. STRINGS.NAMES.SPIDERHOLE
+msgctxt "STRINGS.NAMES.SPIDERHOLE"
+msgid "Spilagmite"
+msgstr "Örümşit"
+
+#. STRINGS.NAMES.SPIDERQUEEN
+msgctxt "STRINGS.NAMES.SPIDERQUEEN"
+msgid "Spider Queen"
+msgstr "Örümcek Kraliçesi"
+
+#. STRINGS.NAMES.SPIDER_DROPPER
+msgctxt "STRINGS.NAMES.SPIDER_DROPPER"
+msgid "Dangling Depth Dweller"
+msgstr "Sallanan Derinlik Sakini"
+
+#. STRINGS.NAMES.SPIDER_HEALER
+msgctxt "STRINGS.NAMES.SPIDER_HEALER"
+msgid "Nurse Spider"
+msgstr "Hemşire Örümcek"
+
+#. STRINGS.NAMES.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.NAMES.SPIDER_HEALER_ITEM"
+msgid "Healing Glop"
+msgstr "Şifa Sümüğü"
+
+#. STRINGS.NAMES.SPIDER_HIDER
+msgctxt "STRINGS.NAMES.SPIDER_HIDER"
+msgid "Cave Spider"
+msgstr "Mağara Örümceği"
+
+#. STRINGS.NAMES.SPIDER_MOON
+msgctxt "STRINGS.NAMES.SPIDER_MOON"
+msgid "Shattered Spider"
+msgstr "Paramparça Örümcek"
+
+#. STRINGS.NAMES.SPIDER_REPELLENT
+msgctxt "STRINGS.NAMES.SPIDER_REPELLENT"
+msgid "Shoo Box"
+msgstr "Kovala Kutu"
+
+#. STRINGS.NAMES.SPIDER_SPITTER
+msgctxt "STRINGS.NAMES.SPIDER_SPITTER"
+msgid "Spitter"
+msgstr "Tükürükçü"
+
+#. STRINGS.NAMES.SPIDER_WARRIOR
+msgctxt "STRINGS.NAMES.SPIDER_WARRIOR"
+msgid "Spider Warrior"
+msgstr "Örümcek Savaşçı"
+
+#. STRINGS.NAMES.SPIDER_WATER
+msgctxt "STRINGS.NAMES.SPIDER_WATER"
+msgid "Sea Strider"
+msgstr "Deniz Yürüyücü"
+
+#. STRINGS.NAMES.SPIDER_WHISTLE
+msgctxt "STRINGS.NAMES.SPIDER_WHISTLE"
+msgid "Webby Whistle"
+msgstr "Ağsı Düdük"
+
+#. STRINGS.NAMES.SPOILED_FISH
+msgctxt "STRINGS.NAMES.SPOILED_FISH"
+msgid "Spoiled Fish"
+msgstr "Bozuk Balık"
+
+#. STRINGS.NAMES.SPOILED_FISH_SMALL
+msgctxt "STRINGS.NAMES.SPOILED_FISH_SMALL"
+msgid "Spoiled Fish Morsel"
+msgstr "Bozuk Balık Lokması"
+
+#. STRINGS.NAMES.SPOILED_FOOD
+msgctxt "STRINGS.NAMES.SPOILED_FOOD"
+msgid "Rot"
+msgstr "Çürük"
+
+#. STRINGS.NAMES.SPORECLOUD
+msgctxt "STRINGS.NAMES.SPORECLOUD"
+msgid "Spore Cloud"
+msgstr "Spor Bulutu"
+
+#. STRINGS.NAMES.SPORE_MEDIUM
+msgctxt "STRINGS.NAMES.SPORE_MEDIUM"
+msgid "Red Spore"
+msgstr "Kırmızı Spor"
+
+#. STRINGS.NAMES.SPORE_MOON
+msgctxt "STRINGS.NAMES.SPORE_MOON"
+msgid "Lunar Spore"
+msgstr "Ay Sporu"
+
+#. STRINGS.NAMES.SPORE_SMALL
+msgctxt "STRINGS.NAMES.SPORE_SMALL"
+msgid "Green Spore"
+msgstr "Yeşil Spor"
+
+#. STRINGS.NAMES.SPORE_TALL
+msgctxt "STRINGS.NAMES.SPORE_TALL"
+msgid "Blue Spore"
+msgstr "Mavi Spor"
+
+#. STRINGS.NAMES.SQUID
+msgctxt "STRINGS.NAMES.SQUID"
+msgid "Skittersquid"
+msgstr "Tıngır Mürekkep"
+
+#. STRINGS.NAMES.STAFFCOLDLIGHT
+msgctxt "STRINGS.NAMES.STAFFCOLDLIGHT"
+msgid "Polar Light"
+msgstr "Kutup Işığı"
+
+#. STRINGS.NAMES.STAFFLIGHT
+msgctxt "STRINGS.NAMES.STAFFLIGHT"
+msgid "Dwarf Star"
+msgstr "Cüce Yıldız"
+
+#. STRINGS.NAMES.STAFF_LUNARPLANT
+msgctxt "STRINGS.NAMES.STAFF_LUNARPLANT"
+msgid "Brightshade Staff"
+msgstr "Aydıngölge Asası"
+
+#. STRINGS.NAMES.STAFF_TORNADO
+msgctxt "STRINGS.NAMES.STAFF_TORNADO"
+msgid "Weather Pain"
+msgstr "Hava Sancısı"
+
+#. STRINGS.NAMES.STAGEHAND
+msgctxt "STRINGS.NAMES.STAGEHAND"
+msgid "Stagehand"
+msgstr "Sahne Eli"
+
+#. STRINGS.NAMES.STAGEUSHER
+msgctxt "STRINGS.NAMES.STAGEUSHER"
+msgid "Prickly Stagehand"
+msgstr "Dikenli Sahne Eli"
+
+#. STRINGS.NAMES.STALAGMITE
+msgctxt "STRINGS.NAMES.STALAGMITE"
+msgid "Stalagmite"
+msgstr "Damlataşı"
+
+#. STRINGS.NAMES.STALAGMITE_TALL
+msgctxt "STRINGS.NAMES.STALAGMITE_TALL"
+msgid "Stalagmite"
+msgstr "Damlataşı"
+
+#. STRINGS.NAMES.STALKER
+msgctxt "STRINGS.NAMES.STALKER"
+msgid "Reanimated Skeleton"
+msgstr "Diriltilmiş İskelet"
+
+#. STRINGS.NAMES.STALKER_ATRIUM
+msgctxt "STRINGS.NAMES.STALKER_ATRIUM"
+msgid "Ancient Fuelweaver"
+msgstr "Kadim Yakıtdokur"
+
+#. STRINGS.NAMES.STALKER_MINION
+msgctxt "STRINGS.NAMES.STALKER_MINION"
+msgid "Woven Shadow"
+msgstr "Dokunmuş Gölge"
+
+#. STRINGS.NAMES.STASH_MAP
+msgctxt "STRINGS.NAMES.STASH_MAP"
+msgid "Pirate Map"
+msgstr "Korsan Haritası"
+
+#. STRINGS.NAMES.STATUEGLOMMER
+msgctxt "STRINGS.NAMES.STATUEGLOMMER"
+msgid "Glommer's Statue"
+msgstr "Glommer Heykeli"
+
+#. STRINGS.NAMES.STATUEHARP
+msgctxt "STRINGS.NAMES.STATUEHARP"
+msgid "Harp Statue"
+msgstr "Arp Heykeli"
+
+#. STRINGS.NAMES.STATUEHARP_HEDGESPAWNER
+msgctxt "STRINGS.NAMES.STATUEHARP_HEDGESPAWNER"
+msgid "Overgrown Statue"
+msgstr "Otçul Heykel"
+
+#. STRINGS.NAMES.STATUEMAXWELL
+msgctxt "STRINGS.NAMES.STATUEMAXWELL"
+msgid "Maxwell Statue"
+msgstr "Maxwell Heykeli"
+
+#. STRINGS.NAMES.STATUE_MARBLE
+msgctxt "STRINGS.NAMES.STATUE_MARBLE"
+msgid "Marble Sculpture"
+msgstr "Mermer Heykel"
+
+#. STRINGS.NAMES.STEELWOOL
+msgctxt "STRINGS.NAMES.STEELWOOL"
+msgid "Steel Wool"
+msgstr "Çelik Yün"
+
+#. STRINGS.NAMES.STEERINGWHEEL
+msgctxt "STRINGS.NAMES.STEERINGWHEEL"
+msgid "Steering Wheel"
+msgstr "Dümen"
+
+#. STRINGS.NAMES.STEERINGWHEEL_ITEM
+msgctxt "STRINGS.NAMES.STEERINGWHEEL_ITEM"
+msgid "Steering Wheel Kit"
+msgstr "Dümen Kiti"
+
+#. STRINGS.NAMES.STINGER
+msgctxt "STRINGS.NAMES.STINGER"
+msgid "Stinger"
+msgstr "Arı İğnesi"
+
+#. STRINGS.NAMES.STONE_CHAIR
+msgctxt "STRINGS.NAMES.STONE_CHAIR"
+msgid "Stone Chair"
+msgstr "Taş Sandalye"
+
+#. STRINGS.NAMES.STONE_STOOL
+msgctxt "STRINGS.NAMES.STONE_STOOL"
+msgid "Stone Stool"
+msgstr "Taş Tabure"
+
+#. STRINGS.NAMES.STONE_TABLE_ROUND
+msgctxt "STRINGS.NAMES.STONE_TABLE_ROUND"
+msgid "Stone Round Table"
+msgstr "Yuvarlak Taş Masa"
+
+#. STRINGS.NAMES.STONE_TABLE_SQUARE
+msgctxt "STRINGS.NAMES.STONE_TABLE_SQUARE"
+msgid "Stone Square Table"
+msgstr "Kare Taş Masa"
+
+#. STRINGS.NAMES.STORAGE_ROBOT
+msgctxt "STRINGS.NAMES.STORAGE_ROBOT"
+msgid "W.O.B.O.T."
+msgstr "W.O.B.O.T."
+
+#. STRINGS.NAMES.STRAWHAT
+msgctxt "STRINGS.NAMES.STRAWHAT"
+msgid "Straw Hat"
+msgstr "Hasır Şapka"
+
+#. STRINGS.NAMES.STUFFEDEGGPLANT
+msgctxt "STRINGS.NAMES.STUFFEDEGGPLANT"
+msgid "Stuffed Eggplant"
+msgstr "Patlıcan Dolması"
+
+#. STRINGS.NAMES.STUFFING
+msgctxt "STRINGS.NAMES.STUFFING"
+msgid "Stuffing"
+msgstr "Tavuk İçi"
+
+#. STRINGS.NAMES.SUCCULENT_PICKED
+msgctxt "STRINGS.NAMES.SUCCULENT_PICKED"
+msgid "Succulent"
+msgstr "Sukulent"
+
+#. STRINGS.NAMES.SUCCULENT_PICKED_DRIED
+msgctxt "STRINGS.NAMES.SUCCULENT_PICKED_DRIED"
+msgid "Dried Succulent"
+msgstr "Kurutulmuş Sukulent"
+
+#. STRINGS.NAMES.SUCCULENT_PLANT
+msgctxt "STRINGS.NAMES.SUCCULENT_PLANT"
+msgid "Succulent"
+msgstr "Sukulent"
+
+#. STRINGS.NAMES.SUCCULENT_POTTED
+msgctxt "STRINGS.NAMES.SUCCULENT_POTTED"
+msgid "Potted Succulent"
+msgstr "Saksıda Sukulent"
+
+#. STRINGS.NAMES.SUNKENCHEST
+msgctxt "STRINGS.NAMES.SUNKENCHEST"
+msgid "Sunken Chest"
+msgstr "Batık Sandık"
+
+#. STRINGS.NAMES.SUPERTACKLECONTAINER
+msgctxt "STRINGS.NAMES.SUPERTACKLECONTAINER"
+msgid "Spectackler Box"
+msgstr "Göz Alıcı Olta Kutusu"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR"
+msgid "Support Pillar"
+msgstr "Destek Sütunu"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR_BROKEN
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR_BROKEN"
+msgid "Support Pillar Wreckage"
+msgstr "Destek Sütunu Enkazı"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR_COMPLETE
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR_COMPLETE"
+msgid "Reinforced Support Pillar"
+msgstr "Güçlendirilmiş Destek Sütunu"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE"
+msgid "Dreadstone Pillar"
+msgstr "Korkutaş Sütunu"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE_BROKEN
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE_BROKEN"
+msgid "Dreadstone Pillar Wreckage"
+msgstr "Korkutaş Sütunu Enkazı"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE_COMPLETE
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE_COMPLETE"
+msgid "Reinforced Dreadstone Pillar"
+msgstr "Güçlendirilmiş Korkutaş Sütunu"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE_SCAFFOLD
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR_DREADSTONE_SCAFFOLD"
+msgid "Dreadstone Pillar Scaffold"
+msgstr "Korkutaş Sütun İskelesi"
+
+#. STRINGS.NAMES.SUPPORT_PILLAR_SCAFFOLD
+msgctxt "STRINGS.NAMES.SUPPORT_PILLAR_SCAFFOLD"
+msgid "Pillar Scaffold"
+msgstr "Sütun İskelesi"
+
+#. STRINGS.NAMES.SURFNTURF
+msgctxt "STRINGS.NAMES.SURFNTURF"
+msgid "Surf 'n' Turf"
+msgstr "Deniz ve Kara"
+
+#. STRINGS.NAMES.SWEATERVEST
+msgctxt "STRINGS.NAMES.SWEATERVEST"
+msgid "Dapper Vest"
+msgstr "Şık Yelek"
+
+#. STRINGS.NAMES.SWEETPOTATO
+msgctxt "STRINGS.NAMES.SWEETPOTATO"
+msgid "Sweet Potato Casserole"
+msgstr "Tatlı Patates Güveci"
+
+#. STRINGS.NAMES.SWEETTEA
+msgctxt "STRINGS.NAMES.SWEETTEA"
+msgid "Soothing Tea"
+msgstr "Yatıştırıcı Çay"
+
+#. STRINGS.NAMES.SWORD_LUNARPLANT
+msgctxt "STRINGS.NAMES.SWORD_LUNARPLANT"
+msgid "Brightshade Sword"
+msgstr "Aydıngölge Kılıç"
+
+#. STRINGS.NAMES.TABLE_WINTERS_FEAST
+msgctxt "STRINGS.NAMES.TABLE_WINTERS_FEAST"
+msgid "Winter's Feast Table"
+msgstr "Kış Şöleni Masası"
+
+#. STRINGS.NAMES.TACKLECONTAINER
+msgctxt "STRINGS.NAMES.TACKLECONTAINER"
+msgid "Tackle Box"
+msgstr "Olta Kutusu"
+
+#. STRINGS.NAMES.TACKLESKETCH
+msgctxt "STRINGS.NAMES.TACKLESKETCH"
+msgid "{item} Advert"
+msgstr "{item} Reklamı"
+
+#. STRINGS.NAMES.TACKLESKETCH_SCRAPBOOK
+msgctxt "STRINGS.NAMES.TACKLESKETCH_SCRAPBOOK"
+msgid "Advert"
+msgstr "Reklam"
+
+#. STRINGS.NAMES.TACKLESTATION
+msgctxt "STRINGS.NAMES.TACKLESTATION"
+msgid "Tackle Receptacle"
+msgstr "Olta Kabı"
+
+#. STRINGS.NAMES.TAFFY
+msgctxt "STRINGS.NAMES.TAFFY"
+msgid "Taffy"
+msgstr "Şekerleme"
+
+#. STRINGS.NAMES.TALLBIRD
+msgctxt "STRINGS.NAMES.TALLBIRD"
+msgid "Tallbird"
+msgstr "Uzunkuş"
+
+#. STRINGS.NAMES.TALLBIRDEGG
+msgctxt "STRINGS.NAMES.TALLBIRDEGG"
+msgid "Tallbird Egg"
+msgstr "Uzunkuş Yumurtası"
+
+#. STRINGS.NAMES.TALLBIRDEGG_COOKED
+msgctxt "STRINGS.NAMES.TALLBIRDEGG_COOKED"
+msgid "Fried Tallbird Egg"
+msgstr "Kızarmış Uzunkuş Yumurtası"
+
+#. STRINGS.NAMES.TALLBIRDEGG_CRACKED
+msgctxt "STRINGS.NAMES.TALLBIRDEGG_CRACKED"
+msgid "Hatching Tallbird Egg"
+msgstr "Kuluçkadaki Uzunkuş Yumurtası"
+
+#. STRINGS.NAMES.TALLBIRDNEST
+msgctxt "STRINGS.NAMES.TALLBIRDNEST"
+msgid "Tallbird Nest"
+msgstr "Uzunkuş Yuvası"
+
+#. STRINGS.NAMES.TALLEGGS
+msgctxt "STRINGS.NAMES.TALLEGGS"
+msgid "Tall Scotch Eggs"
+msgstr "Uzun İskoç Yumurtası"
+
+#. STRINGS.NAMES.TAMALES
+msgctxt "STRINGS.NAMES.TAMALES"
+msgid "Tamales"
+msgstr "Tamales"
+
+#. STRINGS.NAMES.TEAMLEADER
+msgctxt "STRINGS.NAMES.TEAMLEADER"
+msgid "Team Leader"
+msgstr "Takım Lideri"
+
+#. STRINGS.NAMES.TEENBIRD
+msgctxt "STRINGS.NAMES.TEENBIRD"
+msgid "Smallish Tallbird"
+msgstr "Ufaklık Uzunkuş"
+
+#. STRINGS.NAMES.TELEBASE
+msgctxt "STRINGS.NAMES.TELEBASE"
+msgid "Telelocator Focus"
+msgstr "Telekonum Odağı"
+
+#. STRINGS.NAMES.TELEPORTATO_BASE
+msgctxt "STRINGS.NAMES.TELEPORTATO_BASE"
+msgid "Wooden Thing"
+msgstr "Tahta Şey"
+
+#. STRINGS.NAMES.TELEPORTATO_BOX
+msgctxt "STRINGS.NAMES.TELEPORTATO_BOX"
+msgid "Box Thing"
+msgstr "Kutu Şey"
+
+#. STRINGS.NAMES.TELEPORTATO_CHECKMATE
+msgctxt "STRINGS.NAMES.TELEPORTATO_CHECKMATE"
+msgid "Wooden Thing"
+msgstr "Tahta Şey"
+
+#. STRINGS.NAMES.TELEPORTATO_CRANK
+msgctxt "STRINGS.NAMES.TELEPORTATO_CRANK"
+msgid "Crank Thing"
+msgstr "Krank Şey"
+
+#. STRINGS.NAMES.TELEPORTATO_POTATO
+msgctxt "STRINGS.NAMES.TELEPORTATO_POTATO"
+msgid "Metal Potato Thing"
+msgstr "Metal Patates Şey"
+
+#. STRINGS.NAMES.TELEPORTATO_RING
+msgctxt "STRINGS.NAMES.TELEPORTATO_RING"
+msgid "Ring Thing"
+msgstr "Halka Şey"
+
+#. STRINGS.NAMES.TELESTAFF
+msgctxt "STRINGS.NAMES.TELESTAFF"
+msgid "Telelocator Staff"
+msgstr "Telekonum Asası"
+
+#. STRINGS.NAMES.TEMP_BETA_MSG
+msgctxt "STRINGS.NAMES.TEMP_BETA_MSG"
+msgid "Beta Report"
+msgstr "Beta Raporu"
+
+#. STRINGS.NAMES.TENT
+msgctxt "STRINGS.NAMES.TENT"
+msgid "Tent"
+msgstr "Çadır"
+
+#. STRINGS.NAMES.TENTACLE
+msgctxt "STRINGS.NAMES.TENTACLE"
+msgid "Tentacle"
+msgstr "Dokunaç"
+
+#. STRINGS.NAMES.TENTACLESPIKE
+msgctxt "STRINGS.NAMES.TENTACLESPIKE"
+msgid "Tentacle Spike"
+msgstr "Dokunaç Diken"
+
+#. STRINGS.NAMES.TENTACLESPOTS
+msgctxt "STRINGS.NAMES.TENTACLESPOTS"
+msgid "Tentacle Spots"
+msgstr "Dokunaç Lekeleri"
+
+#. STRINGS.NAMES.TENTACLE_GARDEN
+msgctxt "STRINGS.NAMES.TENTACLE_GARDEN"
+msgid "Big Tentacle"
+msgstr "Büyük Dokunaç"
+
+#. STRINGS.NAMES.TENTACLE_PILLAR
+msgctxt "STRINGS.NAMES.TENTACLE_PILLAR"
+msgid "Big Tentacle"
+msgstr "Büyük Dokunaç"
+
+#. STRINGS.NAMES.TENTACLE_PILLAR_ARM
+msgctxt "STRINGS.NAMES.TENTACLE_PILLAR_ARM"
+msgid "Baby Tentacle"
+msgstr "Yavru Dokunaç"
+
+#. STRINGS.NAMES.TENTACLE_PILLAR_HOLE
+msgctxt "STRINGS.NAMES.TENTACLE_PILLAR_HOLE"
+msgid "Big Slimy Pit"
+msgstr "Büyük Sümüklü Çukur"
+
+#. STRINGS.NAMES.TERRARIUM
+msgctxt "STRINGS.NAMES.TERRARIUM"
+msgid "Terrarium"
+msgstr "Teraryum"
+
+#. STRINGS.NAMES.TERRARIUMCHEST
+msgctxt "STRINGS.NAMES.TERRARIUMCHEST"
+msgid "Conspicuous Chest"
+msgstr "Gözalıcı Sandık"
+
+#. STRINGS.NAMES.TERRORBEAK
+msgctxt "STRINGS.NAMES.TERRORBEAK"
+msgid "Terrorbeak"
+msgstr "Dehşetgaga"
+
+#. STRINGS.NAMES.THULECITE
+msgctxt "STRINGS.NAMES.THULECITE"
+msgid "Thulecite"
+msgstr "Thulesit"
+
+#. STRINGS.NAMES.THULECITEBUGNET
+msgctxt "STRINGS.NAMES.THULECITEBUGNET"
+msgid "Thulecite Bug Net"
+msgstr "Thulesit Böcek Ağı"
+
+#. STRINGS.NAMES.THULECITE_PIECES
+msgctxt "STRINGS.NAMES.THULECITE_PIECES"
+msgid "Thulecite Fragments"
+msgstr "Thulesit Parçaları"
+
+#. STRINGS.NAMES.THURIBLE
+msgctxt "STRINGS.NAMES.THURIBLE"
+msgid "Shadow Thurible"
+msgstr "Gölge Buhurdanı"
+
+#. STRINGS.NAMES.TICOON
+msgctxt "STRINGS.NAMES.TICOON"
+msgid "Ticoon"
+msgstr "Biletkoon"
+
+#. STRINGS.NAMES.TICOON_BUILDER
+msgctxt "STRINGS.NAMES.TICOON_BUILDER"
+msgid "Ticoon"
+msgstr "Biletkoon"
+
+#. STRINGS.NAMES.TILLWEED
+msgctxt "STRINGS.NAMES.TILLWEED"
+msgid "Tillweeds"
+msgstr "Çapaotları"
+
+#. STRINGS.NAMES.TILLWEEDSALVE
+msgctxt "STRINGS.NAMES.TILLWEEDSALVE"
+msgid "Tillweed Salve"
+msgstr "Çapaotu Merhemi"
+
+#. STRINGS.NAMES.TILLWEED_DRIED
+msgctxt "STRINGS.NAMES.TILLWEED_DRIED"
+msgid "Dried Tillweed"
+msgstr "Kurutulmuş Çapaotu"
+
+#. STRINGS.NAMES.TOADSTOOL
+msgctxt "STRINGS.NAMES.TOADSTOOL"
+msgid "Toadstool"
+msgstr "Mantarkurbağa"
+
+#. STRINGS.NAMES.TOADSTOOL_CAP
+msgctxt "STRINGS.NAMES.TOADSTOOL_CAP"
+msgid "Toadstool"
+msgstr "Mantarkurbağa"
+
+#. STRINGS.NAMES.TOADSTOOL_CAP_DARK
+msgctxt "STRINGS.NAMES.TOADSTOOL_CAP_DARK"
+msgid "Misery Toadstool"
+msgstr "Çile Mantarkurbağası"
+
+#. STRINGS.NAMES.TOADSTOOL_DARK
+msgctxt "STRINGS.NAMES.TOADSTOOL_DARK"
+msgid "Misery Toadstool"
+msgstr "Çile Mantarkurbağası"
+
+#. STRINGS.NAMES.TOADSTOOL_HOLE
+msgctxt "STRINGS.NAMES.TOADSTOOL_HOLE"
+msgid "Hole"
+msgstr "Delik"
+
+#. STRINGS.NAMES.TOMATO
+msgctxt "STRINGS.NAMES.TOMATO"
+msgid "Toma Root"
+msgstr "Domarot"
+
+#. STRINGS.NAMES.TOMATO_COOKED
+msgctxt "STRINGS.NAMES.TOMATO_COOKED"
+msgid "Roasted Toma Root"
+msgstr "Kavrulmuş Domarot"
+
+#. STRINGS.NAMES.TOMATO_OVERSIZED
+msgctxt "STRINGS.NAMES.TOMATO_OVERSIZED"
+msgid "Giant Toma Root"
+msgstr "Devasa Domarot"
+
+#. STRINGS.NAMES.TOMATO_OVERSIZED_ROTTEN
+msgctxt "STRINGS.NAMES.TOMATO_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Toma Root"
+msgstr "Devasa Çürük Domarot"
+
+#. STRINGS.NAMES.TOMATO_SEEDS
+msgctxt "STRINGS.NAMES.TOMATO_SEEDS"
+msgid "Spiky Seeds"
+msgstr "Dikenli Tohumlar"
+
+#. STRINGS.NAMES.TOPHAT
+msgctxt "STRINGS.NAMES.TOPHAT"
+msgid "Top Hat"
+msgstr "Silindir Şapka"
+
+#. STRINGS.NAMES.TOPHAT_MAGICIAN
+msgctxt "STRINGS.NAMES.TOPHAT_MAGICIAN"
+msgid "Magician's Top Hat"
+msgstr "Sihirbazın Silindir Şapkası"
+
+#. STRINGS.NAMES.TORCH
+msgctxt "STRINGS.NAMES.TORCH"
+msgid "Torch"
+msgstr "Meşale"
+
+#. STRINGS.NAMES.TORNADO
+msgctxt "STRINGS.NAMES.TORNADO"
+msgid "Tornado"
+msgstr "Hortum"
+
+#. STRINGS.NAMES.TOURTIERE
+msgctxt "STRINGS.NAMES.TOURTIERE"
+msgid "Tourtiere"
+msgstr "Tourtiere"
+
+#. STRINGS.NAMES.TOWNPORTAL
+msgctxt "STRINGS.NAMES.TOWNPORTAL"
+msgid "The Lazy Deserter"
+msgstr "Tembel Asker Kaçağı"
+
+#. STRINGS.NAMES.TOWNPORTALTALISMAN
+msgctxt "STRINGS.NAMES.TOWNPORTALTALISMAN"
+msgid "Desert Stone"
+msgstr "Çöl Taşı"
+
+#. STRINGS.NAMES.TRAILMIX
+msgctxt "STRINGS.NAMES.TRAILMIX"
+msgid "Trail Mix"
+msgstr "Yürüyüş Karışımı"
+
+#. STRINGS.NAMES.TRAILS
+msgctxt "STRINGS.NAMES.TRAILS"
+msgid "Boarilla"
+msgstr "Yabongoril"
+
+#. STRINGS.NAMES.TRAILS1
+msgctxt "STRINGS.NAMES.TRAILS1"
+msgid "Boarilla"
+msgstr "Yabongoril"
+
+#. STRINGS.NAMES.TRAILS2
+msgctxt "STRINGS.NAMES.TRAILS2"
+msgid "Boarilla"
+msgstr "Yabongoril"
+
+#. STRINGS.NAMES.TRANSISTOR
+msgctxt "STRINGS.NAMES.TRANSISTOR"
+msgid "Electrical Doodad"
+msgstr "Elektrikli Cızır"
+
+#. STRINGS.NAMES.TRAP
+msgctxt "STRINGS.NAMES.TRAP"
+msgid "Trap"
+msgstr "Tuzak"
+
+#. STRINGS.NAMES.TRAP_BRAMBLE
+msgctxt "STRINGS.NAMES.TRAP_BRAMBLE"
+msgid "Bramble Trap"
+msgstr "Diken Tuzağı"
+
+#. STRINGS.NAMES.TRAP_STARFISH
+msgctxt "STRINGS.NAMES.TRAP_STARFISH"
+msgid "Anenemy"
+msgstr "Düşmanavar"
+
+#. STRINGS.NAMES.TRAP_TEETH
+msgctxt "STRINGS.NAMES.TRAP_TEETH"
+msgid "Tooth Trap"
+msgstr "Diş Tuzağı"
+
+#. STRINGS.NAMES.TRAP_TEETH_MAXWELL
+msgctxt "STRINGS.NAMES.TRAP_TEETH_MAXWELL"
+msgid "Maxwell's Tooth Trap"
+msgstr "Maxwell'in Diş Tuzağı"
+
+#. STRINGS.NAMES.TREASURECHEST
+msgctxt "STRINGS.NAMES.TREASURECHEST"
+msgid "Chest"
+msgstr "Sandık"
+
+#. STRINGS.NAMES.TREASURECHEST_TRAP
+msgctxt "STRINGS.NAMES.TREASURECHEST_TRAP"
+msgid "Treasure Chest"
+msgstr "Hazine Sandığı"
+
+#. STRINGS.NAMES.TREEGROWTHSOLUTION
+msgctxt "STRINGS.NAMES.TREEGROWTHSOLUTION"
+msgid "Tree Jam"
+msgstr "Ağaç Reçeli"
+
+#. STRINGS.NAMES.TREE_ROCK
+msgctxt "STRINGS.NAMES.TREE_ROCK"
+msgid "Boulderbough"
+msgstr "Kayalık Dal"
+
+#. STRINGS.NAMES.TREE_ROCK_SAPLING
+msgctxt "STRINGS.NAMES.TREE_ROCK_SAPLING"
+msgid "Boulderbough Sapling"
+msgstr "Kayalık Dal Fidanı"
+
+#. STRINGS.NAMES.TREE_ROCK_SEED
+msgctxt "STRINGS.NAMES.TREE_ROCK_SEED"
+msgid "Boulderbough Seed"
+msgstr "Kayalık Dal Tohumu"
+
+#. STRINGS.NAMES.TRIDENT
+msgctxt "STRINGS.NAMES.TRIDENT"
+msgid "Strident Trident"
+msgstr "Tisli Trident"
+
+#. STRINGS.NAMES.TRINKET_1
+msgctxt "STRINGS.NAMES.TRINKET_1"
+msgid "Melty Marbles"
+msgstr "Erimiş Bilye"
+
+#. STRINGS.NAMES.TRINKET_10
+msgctxt "STRINGS.NAMES.TRINKET_10"
+msgid "Second-hand Dentures"
+msgstr "İkinci El Takma Diş"
+
+#. STRINGS.NAMES.TRINKET_11
+msgctxt "STRINGS.NAMES.TRINKET_11"
+msgid "Lying Robot"
+msgstr "Yalancı Robot"
+
+#. STRINGS.NAMES.TRINKET_12
+msgctxt "STRINGS.NAMES.TRINKET_12"
+msgid "Dessicated Tentacle"
+msgstr "Kurumuş Dokunaç"
+
+#. STRINGS.NAMES.TRINKET_13
+msgctxt "STRINGS.NAMES.TRINKET_13"
+msgid "Gnomette"
+msgstr "Cinciket"
+
+#. STRINGS.NAMES.TRINKET_14
+msgctxt "STRINGS.NAMES.TRINKET_14"
+msgid "Leaky Teacup"
+msgstr "Sızdıran Çay Fincanı"
+
+#. STRINGS.NAMES.TRINKET_15
+msgctxt "STRINGS.NAMES.TRINKET_15"
+msgid "White Bishop"
+msgstr "Beyaz Şah"
+
+#. STRINGS.NAMES.TRINKET_16
+msgctxt "STRINGS.NAMES.TRINKET_16"
+msgid "Black Bishop"
+msgstr "Siyah Şah"
+
+#. STRINGS.NAMES.TRINKET_17
+msgctxt "STRINGS.NAMES.TRINKET_17"
+msgid "Bent Spork"
+msgstr "Bükük Çatal-Kaşık"
+
+#. STRINGS.NAMES.TRINKET_18
+msgctxt "STRINGS.NAMES.TRINKET_18"
+msgid "Toy Trojan Horse"
+msgstr "Truva Atı Oyuncağı"
+
+#. STRINGS.NAMES.TRINKET_19
+msgctxt "STRINGS.NAMES.TRINKET_19"
+msgid "Unbalanced Top"
+msgstr "Dengesiz Topaç"
+
+#. STRINGS.NAMES.TRINKET_2
+msgctxt "STRINGS.NAMES.TRINKET_2"
+msgid "Fake Kazoo"
+msgstr "Sahte Kazu"
+
+#. STRINGS.NAMES.TRINKET_20
+msgctxt "STRINGS.NAMES.TRINKET_20"
+msgid "Back Scratcher"
+msgstr "Sırt Kaşıyıcı"
+
+#. STRINGS.NAMES.TRINKET_21
+msgctxt "STRINGS.NAMES.TRINKET_21"
+msgid "Beaten Beater"
+msgstr "Yıpranmış Çırpıcı"
+
+#. STRINGS.NAMES.TRINKET_22
+msgctxt "STRINGS.NAMES.TRINKET_22"
+msgid "Frayed Yarn"
+msgstr "Çözülmüş Yumak"
+
+#. STRINGS.NAMES.TRINKET_23
+msgctxt "STRINGS.NAMES.TRINKET_23"
+msgid "Shoe Horn"
+msgstr "Ayakkabı Çekeceği"
+
+#. STRINGS.NAMES.TRINKET_24
+msgctxt "STRINGS.NAMES.TRINKET_24"
+msgid "Lucky Cat Jar"
+msgstr "Şanslı Kedi Kavanozu"
+
+#. STRINGS.NAMES.TRINKET_25
+msgctxt "STRINGS.NAMES.TRINKET_25"
+msgid "Air Unfreshener"
+msgstr "Hava Bayatlatıcı"
+
+#. STRINGS.NAMES.TRINKET_26
+msgctxt "STRINGS.NAMES.TRINKET_26"
+msgid "Potato Cup"
+msgstr "Patates Kupası"
+
+#. STRINGS.NAMES.TRINKET_27
+msgctxt "STRINGS.NAMES.TRINKET_27"
+msgid "Wire Hanger"
+msgstr "Tel Askı"
+
+#. STRINGS.NAMES.TRINKET_28
+msgctxt "STRINGS.NAMES.TRINKET_28"
+msgid "White Rook"
+msgstr "Beyaz Kale"
+
+#. STRINGS.NAMES.TRINKET_29
+msgctxt "STRINGS.NAMES.TRINKET_29"
+msgid "Black Rook"
+msgstr "Siyah Kale"
+
+#. STRINGS.NAMES.TRINKET_3
+msgctxt "STRINGS.NAMES.TRINKET_3"
+msgid "Gord's Knot"
+msgstr "Gord Düğümü"
+
+#. STRINGS.NAMES.TRINKET_30
+msgctxt "STRINGS.NAMES.TRINKET_30"
+msgid "White Knight"
+msgstr "Beyaz At"
+
+#. STRINGS.NAMES.TRINKET_31
+msgctxt "STRINGS.NAMES.TRINKET_31"
+msgid "Black Knight"
+msgstr "Siyah At"
+
+#. STRINGS.NAMES.TRINKET_32
+msgctxt "STRINGS.NAMES.TRINKET_32"
+msgid "Cubic Zirconia Ball"
+msgstr "Kübik Zirkonyum Top"
+
+#. STRINGS.NAMES.TRINKET_33
+msgctxt "STRINGS.NAMES.TRINKET_33"
+msgid "Spider Ring"
+msgstr "Örümcek Yüzük"
+
+#. STRINGS.NAMES.TRINKET_34
+msgctxt "STRINGS.NAMES.TRINKET_34"
+msgid "Monkey Paw"
+msgstr "Maymun Pençesi"
+
+#. STRINGS.NAMES.TRINKET_35
+msgctxt "STRINGS.NAMES.TRINKET_35"
+msgid "Empty Elixir"
+msgstr "Boş İksir"
+
+#. STRINGS.NAMES.TRINKET_36
+msgctxt "STRINGS.NAMES.TRINKET_36"
+msgid "Faux Fangs"
+msgstr "Sahte Köpek Dişleri"
+
+#. STRINGS.NAMES.TRINKET_37
+msgctxt "STRINGS.NAMES.TRINKET_37"
+msgid "Broken Stake"
+msgstr "Kırık Kazık"
+
+#. STRINGS.NAMES.TRINKET_38
+msgctxt "STRINGS.NAMES.TRINKET_38"
+msgid "Binoculars"
+msgstr "Dürbün"
+
+#. STRINGS.NAMES.TRINKET_39
+msgctxt "STRINGS.NAMES.TRINKET_39"
+msgid "Lone Glove"
+msgstr "Tek Eldiven"
+
+#. STRINGS.NAMES.TRINKET_4
+msgctxt "STRINGS.NAMES.TRINKET_4"
+msgid "Gnome"
+msgstr "Cüce"
+
+#. STRINGS.NAMES.TRINKET_40
+msgctxt "STRINGS.NAMES.TRINKET_40"
+msgid "Snail Scale"
+msgstr "Salyangoz Pulu"
+
+#. STRINGS.NAMES.TRINKET_41
+msgctxt "STRINGS.NAMES.TRINKET_41"
+msgid "Goop Canister"
+msgstr "Sümük Kutusu"
+
+#. STRINGS.NAMES.TRINKET_42
+msgctxt "STRINGS.NAMES.TRINKET_42"
+msgid "Toy Cobra"
+msgstr "Kobra Oyuncağı"
+
+#. STRINGS.NAMES.TRINKET_43
+msgctxt "STRINGS.NAMES.TRINKET_43"
+msgid "Crocodile Toy"
+msgstr "Timsah Oyuncağı"
+
+#. STRINGS.NAMES.TRINKET_44
+msgctxt "STRINGS.NAMES.TRINKET_44"
+msgid "Broken Terrarium"
+msgstr "Kırık Teraryum"
+
+#. STRINGS.NAMES.TRINKET_45
+msgctxt "STRINGS.NAMES.TRINKET_45"
+msgid "Odd Radio"
+msgstr "Tuhaf Radyo"
+
+#. STRINGS.NAMES.TRINKET_46
+msgctxt "STRINGS.NAMES.TRINKET_46"
+msgid "Broken Hairdryer"
+msgstr "Kırık Saç Kurutucu"
+
+#. STRINGS.NAMES.TRINKET_5
+msgctxt "STRINGS.NAMES.TRINKET_5"
+msgid "Tiny Rocketship"
+msgstr "Minik Roket"
+
+#. STRINGS.NAMES.TRINKET_6
+msgctxt "STRINGS.NAMES.TRINKET_6"
+msgid "Frazzled Wires"
+msgstr "Karışık Teller"
+
+#. STRINGS.NAMES.TRINKET_7
+msgctxt "STRINGS.NAMES.TRINKET_7"
+msgid "Ball and Cup"
+msgstr "Top ve Kupa"
+
+#. STRINGS.NAMES.TRINKET_8
+msgctxt "STRINGS.NAMES.TRINKET_8"
+msgid "Hardened Rubber Bung"
+msgstr "Sertleşmiş Lastik Tıpa"
+
+#. STRINGS.NAMES.TRINKET_9
+msgctxt "STRINGS.NAMES.TRINKET_9"
+msgid "Mismatched Buttons"
+msgstr "Uyumsuz Düğmeler"
+
+#. STRINGS.NAMES.TROPHYSCALE_FISH
+msgctxt "STRINGS.NAMES.TROPHYSCALE_FISH"
+msgid "Fish Scale-O-Matic"
+msgstr "Balık Tartı-Matik"
+
+#. STRINGS.NAMES.TROPHYSCALE_OVERSIZEDVEGGIES
+msgctxt "STRINGS.NAMES.TROPHYSCALE_OVERSIZEDVEGGIES"
+msgid "Produce Scale"
+msgstr "Ürün Tartısı"
+
+#. STRINGS.NAMES.TRUNKVEST_SUMMER
+msgctxt "STRINGS.NAMES.TRUNKVEST_SUMMER"
+msgid "Breezy Vest"
+msgstr "Esintili Yelek"
+
+#. STRINGS.NAMES.TRUNKVEST_WINTER
+msgctxt "STRINGS.NAMES.TRUNKVEST_WINTER"
+msgid "Puffy Vest"
+msgstr "Şişme Yelek"
+
+#. STRINGS.NAMES.TRUNK_COOKED
+msgctxt "STRINGS.NAMES.TRUNK_COOKED"
+msgid "Koalefant Trunk Steak"
+msgstr "Koalafant Hortum Bifteği"
+
+#. STRINGS.NAMES.TRUNK_SUMMER
+msgctxt "STRINGS.NAMES.TRUNK_SUMMER"
+msgid "Koalefant Trunk"
+msgstr "Koalafant Hortumu"
+
+#. STRINGS.NAMES.TRUNK_WINTER
+msgctxt "STRINGS.NAMES.TRUNK_WINTER"
+msgid "Winter Koalefant Trunk"
+msgstr "Kış Koalafantının Hortumu"
+
+#. STRINGS.NAMES.TUMBLEWEED
+msgctxt "STRINGS.NAMES.TUMBLEWEED"
+msgid "Tumbleweed"
+msgstr "Yuvarlanan Ot"
+
+#. STRINGS.NAMES.TURFCRAFTINGSTATION
+msgctxt "STRINGS.NAMES.TURFCRAFTINGSTATION"
+msgid "Terra Firma Tamper"
+msgstr "Toprak Sıkıştırıcı"
+
+#. STRINGS.NAMES.TURF_ARCHIVE
+msgctxt "STRINGS.NAMES.TURF_ARCHIVE"
+msgid "Ancient Stonework"
+msgstr "Kadim Taş İşçiliği"
+
+#. STRINGS.NAMES.TURF_BEARD_RUG
+msgctxt "STRINGS.NAMES.TURF_BEARD_RUG"
+msgid "Beard Hair Rug"
+msgstr "Sakal Kılı Halısı"
+
+#. STRINGS.NAMES.TURF_CARPETFLOOR
+msgctxt "STRINGS.NAMES.TURF_CARPETFLOOR"
+msgid "Carpeted Flooring"
+msgstr "Halı Döşeme"
+
+#. STRINGS.NAMES.TURF_CARPETFLOOR2
+msgctxt "STRINGS.NAMES.TURF_CARPETFLOOR2"
+msgid "Lush Carpet"
+msgstr "Lüks Halı"
+
+#. STRINGS.NAMES.TURF_CAVE
+msgctxt "STRINGS.NAMES.TURF_CAVE"
+msgid "Guano Turf"
+msgstr "Guano Çim"
+
+#. STRINGS.NAMES.TURF_CHECKERFLOOR
+msgctxt "STRINGS.NAMES.TURF_CHECKERFLOOR"
+msgid "Checkered Flooring"
+msgstr "Damalı Döşeme"
+
+#. STRINGS.NAMES.TURF_COTL_BRICK
+msgctxt "STRINGS.NAMES.TURF_COTL_BRICK"
+msgid "Brick Flooring"
+msgstr "Tuğla Döşeme"
+
+#. STRINGS.NAMES.TURF_COTL_GOLD
+msgctxt "STRINGS.NAMES.TURF_COTL_GOLD"
+msgid "Gold Flooring"
+msgstr "Altın Döşeme"
+
+#. STRINGS.NAMES.TURF_DECIDUOUS
+msgctxt "STRINGS.NAMES.TURF_DECIDUOUS"
+msgid "Deciduous Turf"
+msgstr "Yaprak Döken Çim"
+
+#. STRINGS.NAMES.TURF_DESERTDIRT
+msgctxt "STRINGS.NAMES.TURF_DESERTDIRT"
+msgid "Sandy Turf"
+msgstr "Kumlu Çim"
+
+#. STRINGS.NAMES.TURF_DIRT
+msgctxt "STRINGS.NAMES.TURF_DIRT"
+msgid "Dirt Turf"
+msgstr "Toprak Çim"
+
+#. STRINGS.NAMES.TURF_DRAGONFLY
+msgctxt "STRINGS.NAMES.TURF_DRAGONFLY"
+msgid "Scaled Flooring"
+msgstr "Pullu Döşeme"
+
+#. STRINGS.NAMES.TURF_FOREST
+msgctxt "STRINGS.NAMES.TURF_FOREST"
+msgid "Forest Turf"
+msgstr "Orman Çim"
+
+#. STRINGS.NAMES.TURF_FUNGUS
+msgctxt "STRINGS.NAMES.TURF_FUNGUS"
+msgid "Fungal Turf"
+msgstr "Mantar Çim"
+
+#. STRINGS.NAMES.TURF_FUNGUS_GREEN
+msgctxt "STRINGS.NAMES.TURF_FUNGUS_GREEN"
+msgid "Fungal Turf"
+msgstr "Mantar Çim"
+
+#. STRINGS.NAMES.TURF_FUNGUS_MOON
+msgctxt "STRINGS.NAMES.TURF_FUNGUS_MOON"
+msgid "Mutated Fungal Turf"
+msgstr "Mutasyonlu Mantar Çim"
+
+#. STRINGS.NAMES.TURF_FUNGUS_RED
+msgctxt "STRINGS.NAMES.TURF_FUNGUS_RED"
+msgid "Fungal Turf"
+msgstr "Mantar Çim"
+
+#. STRINGS.NAMES.TURF_GRASS
+msgctxt "STRINGS.NAMES.TURF_GRASS"
+msgid "Grass Turf"
+msgstr "Çayır Çim"
+
+#. STRINGS.NAMES.TURF_MARSH
+msgctxt "STRINGS.NAMES.TURF_MARSH"
+msgid "Marsh Turf"
+msgstr "Bataklık Çim"
+
+#. STRINGS.NAMES.TURF_METEOR
+msgctxt "STRINGS.NAMES.TURF_METEOR"
+msgid "Moon Crater Turf"
+msgstr "Ay Krateri Çim"
+
+#. STRINGS.NAMES.TURF_METEOR_BLUEPRINT
+msgctxt "STRINGS.NAMES.TURF_METEOR_BLUEPRINT"
+msgid "Crater Turf Blueprint"
+msgstr "Krater Çim Planı"
+
+#. STRINGS.NAMES.TURF_MONKEY_GROUND
+msgctxt "STRINGS.NAMES.TURF_MONKEY_GROUND"
+msgid "Moon Quay Beach Turf"
+msgstr "Ay Quay Plaj Çim"
+
+#. STRINGS.NAMES.TURF_MOSAIC_BLUE
+msgctxt "STRINGS.NAMES.TURF_MOSAIC_BLUE"
+msgid "Blue Mosaic Flooring"
+msgstr "Mavi Mozaik Döşeme"
+
+#. STRINGS.NAMES.TURF_MOSAIC_GREY
+msgctxt "STRINGS.NAMES.TURF_MOSAIC_GREY"
+msgid "Grey Mosaic Flooring"
+msgstr "Gri Mozaik Döşeme"
+
+#. STRINGS.NAMES.TURF_MOSAIC_RED
+msgctxt "STRINGS.NAMES.TURF_MOSAIC_RED"
+msgid "Red Mosaic Flooring"
+msgstr "Kırmızı Mozaik Döşeme"
+
+#. STRINGS.NAMES.TURF_MUD
+msgctxt "STRINGS.NAMES.TURF_MUD"
+msgid "Mud Turf"
+msgstr "Çamur Çim"
+
+#. STRINGS.NAMES.TURF_PEBBLEBEACH
+msgctxt "STRINGS.NAMES.TURF_PEBBLEBEACH"
+msgid "Rocky Beach Turf"
+msgstr "Kayalık Plaj Çim"
+
+#. STRINGS.NAMES.TURF_ROAD
+msgctxt "STRINGS.NAMES.TURF_ROAD"
+msgid "Cobblestones"
+msgstr "Arnavut Kaldırımı"
+
+#. STRINGS.NAMES.TURF_ROCKY
+msgctxt "STRINGS.NAMES.TURF_ROCKY"
+msgid "Rocky Turf"
+msgstr "Taşlık Çim"
+
+#. STRINGS.NAMES.TURF_RUINSBRICK
+msgctxt "STRINGS.NAMES.TURF_RUINSBRICK"
+msgid "Ancient Flooring"
+msgstr "Kadim Döşeme"
+
+#. STRINGS.NAMES.TURF_RUINSBRICK_GLOW
+msgctxt "STRINGS.NAMES.TURF_RUINSBRICK_GLOW"
+msgid "Imitation Ancient Flooring"
+msgstr "Taklit Kadim Döşeme"
+
+#. STRINGS.NAMES.TURF_RUINSTILES
+msgctxt "STRINGS.NAMES.TURF_RUINSTILES"
+msgid "Ancient Tilework"
+msgstr "Kadim Karo"
+
+#. STRINGS.NAMES.TURF_RUINSTILES_GLOW
+msgctxt "STRINGS.NAMES.TURF_RUINSTILES_GLOW"
+msgid "Imitation Ancient Tilework"
+msgstr "Taklit Kadim Karo"
+
+#. STRINGS.NAMES.TURF_RUINSTRIM
+msgctxt "STRINGS.NAMES.TURF_RUINSTRIM"
+msgid "Ancient Brickwork"
+msgstr "Kadim Tuğla İşi"
+
+#. STRINGS.NAMES.TURF_RUINSTRIM_GLOW
+msgctxt "STRINGS.NAMES.TURF_RUINSTRIM_GLOW"
+msgid "Imitation Ancient Brickwork"
+msgstr "Taklit Kadim Tuğla İşi"
+
+#. STRINGS.NAMES.TURF_SAVANNA
+msgctxt "STRINGS.NAMES.TURF_SAVANNA"
+msgid "Savanna Turf"
+msgstr "Savana Çim"
+
+#. STRINGS.NAMES.TURF_SHELLBEACH
+msgctxt "STRINGS.NAMES.TURF_SHELLBEACH"
+msgid "Shell Beach Turf"
+msgstr "Kabuk Plaj Çim"
+
+#. STRINGS.NAMES.TURF_SHELLBEACH_BLUEPRINT
+msgctxt "STRINGS.NAMES.TURF_SHELLBEACH_BLUEPRINT"
+msgid "Shell Turf Blueprint"
+msgstr "Kabuk Çim Planı"
+
+#. STRINGS.NAMES.TURF_SINKHOLE
+msgctxt "STRINGS.NAMES.TURF_SINKHOLE"
+msgid "Slimy Turf"
+msgstr "Sümüklü Çim"
+
+#. STRINGS.NAMES.TURF_UNDERROCK
+msgctxt "STRINGS.NAMES.TURF_UNDERROCK"
+msgid "Cave Rock Turf"
+msgstr "Mağara Kaya Çim"
+
+#. STRINGS.NAMES.TURF_VAULT
+msgctxt "STRINGS.NAMES.TURF_VAULT"
+msgid "Ancient Sanctum Stonework"
+msgstr "Kadim Mabet Taş İşçiliği"
+
+#. STRINGS.NAMES.TURF_VENT
+msgctxt "STRINGS.NAMES.TURF_VENT"
+msgid "Cave Fumarole Turf"
+msgstr "Mağara Volkan Bacası Çim"
+
+#. STRINGS.NAMES.TURF_WOODFLOOR
+msgctxt "STRINGS.NAMES.TURF_WOODFLOOR"
+msgid "Wooden Flooring"
+msgstr "Tahta Döşeme"
+
+#. STRINGS.NAMES.TURKEYDINNER
+msgctxt "STRINGS.NAMES.TURKEYDINNER"
+msgid "Turkey Dinner"
+msgstr "Hindi Yemeği"
+
+#. STRINGS.NAMES.TURNIP
+msgctxt "STRINGS.NAMES.TURNIP"
+msgid "Turnip"
+msgstr "Şalgam"
+
+#. STRINGS.NAMES.TURNIP_COOKED
+msgctxt "STRINGS.NAMES.TURNIP_COOKED"
+msgid "Roasted Turnip"
+msgstr "Kavrulmuş Şalgam"
+
+#. STRINGS.NAMES.TURNIP_SEEDS
+msgctxt "STRINGS.NAMES.TURNIP_SEEDS"
+msgid "Round Seeds"
+msgstr "Yuvarlak Tohumlar"
+
+#. STRINGS.NAMES.TURTILLUS
+msgctxt "STRINGS.NAMES.TURTILLUS"
+msgid "Snortoise"
+msgstr "Horultaplumbağa"
+
+#. STRINGS.NAMES.TWIGGYTREE
+msgctxt "STRINGS.NAMES.TWIGGYTREE"
+msgid "Twiggy Tree"
+msgstr "Çubuksu Ağaç"
+
+#. STRINGS.NAMES.TWIGGY_NUT
+msgctxt "STRINGS.NAMES.TWIGGY_NUT"
+msgid "Twiggy Tree Cone"
+msgstr "Çubuksu Ağaç Kozalağı"
+
+#. STRINGS.NAMES.TWIGGY_NUT_SAPLING
+msgctxt "STRINGS.NAMES.TWIGGY_NUT_SAPLING"
+msgid "Twiggy Sapling"
+msgstr "Çubuksu Fidan"
+
+#. STRINGS.NAMES.TWIGS
+msgctxt "STRINGS.NAMES.TWIGS"
+msgid "Twigs"
+msgstr "Çubuk"
+
+#. STRINGS.NAMES.TWINOFTERROR1
+msgctxt "STRINGS.NAMES.TWINOFTERROR1"
+msgid "Retinazor"
+msgstr "Retinatraş"
+
+#. STRINGS.NAMES.TWINOFTERROR2
+msgctxt "STRINGS.NAMES.TWINOFTERROR2"
+msgid "Spazmatism"
+msgstr "Spazmatizma"
+
+#. STRINGS.NAMES.UMBRELLA
+msgctxt "STRINGS.NAMES.UMBRELLA"
+msgid "Umbrella"
+msgstr "Şemsiye"
+
+#. STRINGS.NAMES.UNAGI
+msgctxt "STRINGS.NAMES.UNAGI"
+msgid "Unagi"
+msgstr "Unagi"
+
+#. STRINGS.NAMES.UNKNOWN
+msgctxt "STRINGS.NAMES.UNKNOWN"
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#. STRINGS.NAMES.VAULTRELIC
+msgctxt "STRINGS.NAMES.VAULTRELIC"
+msgid "Sanctum Relic"
+msgstr "Mabet Eserkalı"
+
+#. STRINGS.NAMES.VAULTRELIC_BOWL
+msgctxt "STRINGS.NAMES.VAULTRELIC_BOWL"
+msgid "Replica Sanctum Bowl"
+msgstr "Mabet Kasesi Replikası"
+
+#. STRINGS.NAMES.VAULTRELIC_BROKEN
+msgctxt "STRINGS.NAMES.VAULTRELIC_BROKEN"
+msgid "Broken Sanctum Relic"
+msgstr "Kırık Mabet Eserkalı"
+
+#. STRINGS.NAMES.VAULTRELIC_PLANTER
+msgctxt "STRINGS.NAMES.VAULTRELIC_PLANTER"
+msgid "Replica Sanctum Planter"
+msgstr "Mabet Saksı Replikası"
+
+#. STRINGS.NAMES.VAULTRELIC_VASE
+msgctxt "STRINGS.NAMES.VAULTRELIC_VASE"
+msgid "Replica Sanctum Vase"
+msgstr "Mabet Vazo Replikası"
+
+#. STRINGS.NAMES.VAULT_CHANDELIER_BROKEN
+msgctxt "STRINGS.NAMES.VAULT_CHANDELIER_BROKEN"
+msgid "Sanctum Lustre"
+msgstr "Mabet Avizesi"
+
+#. STRINGS.NAMES.VAULT_LOBBY_EXIT
+msgctxt "STRINGS.NAMES.VAULT_LOBBY_EXIT"
+msgid "Chasm"
+msgstr "Uçurum"
+
+#. STRINGS.NAMES.VAULT_ORB
+msgctxt "STRINGS.NAMES.VAULT_ORB"
+msgid "Portation Orb"
+msgstr "Taşıma Küresi"
+
+#. STRINGS.NAMES.VAULT_RUNE
+msgctxt "STRINGS.NAMES.VAULT_RUNE"
+msgid "Sanctum Lunarune Stone"
+msgstr "Mabet Aysi Rün Taşı"
+
+#. STRINGS.NAMES.VAULT_STATUE
+msgctxt "STRINGS.NAMES.VAULT_STATUE"
+msgid "Sanctum Statue"
+msgstr "Mabet Heykeli"
+
+#. STRINGS.NAMES.VAULT_TELEPORTER
+msgctxt "STRINGS.NAMES.VAULT_TELEPORTER"
+msgid "Sanctum Waymark"
+msgstr "Mabet Yol İşareti"
+
+#. STRINGS.NAMES.VAULT_TELEPORTER_BROKEN
+msgctxt "STRINGS.NAMES.VAULT_TELEPORTER_BROKEN"
+msgid "Broken Sanctum Waymark"
+msgstr "Kırık Mabet Yol İşareti"
+
+#. STRINGS.NAMES.VAULT_TORCH
+msgctxt "STRINGS.NAMES.VAULT_TORCH"
+msgid "Flummoxing Flame"
+msgstr "Şaşırtıcı Alev"
+
+#. STRINGS.NAMES.VEGGIEOMLET
+msgctxt "STRINGS.NAMES.VEGGIEOMLET"
+msgid "Breakfast Skillet"
+msgstr "Kahvaltı Tavası"
+
+#. STRINGS.NAMES.VEGSTINGER
+msgctxt "STRINGS.NAMES.VEGSTINGER"
+msgid "Vegetable Stinger"
+msgstr "Sebze İğnesi"
+
+#. STRINGS.NAMES.VICTORIAN_BLUEPRINT
+msgctxt "STRINGS.NAMES.VICTORIAN_BLUEPRINT"
+msgid "Victorian Costume Pattern"
+msgstr "Viktoryen Kostüm Deseni"
+
+#. STRINGS.NAMES.VOIDCLOTH
+msgctxt "STRINGS.NAMES.VOIDCLOTH"
+msgid "Dark Tatters"
+msgstr "Kara Paçavralar"
+
+#. STRINGS.NAMES.VOIDCLOTHHAT
+msgctxt "STRINGS.NAMES.VOIDCLOTHHAT"
+msgid "Void Cowl"
+msgstr "Boşluk Başlığı"
+
+#. STRINGS.NAMES.VOIDCLOTH_BOOMERANG
+msgctxt "STRINGS.NAMES.VOIDCLOTH_BOOMERANG"
+msgid "Gloomerang"
+msgstr "Karbumeranj"
+
+#. STRINGS.NAMES.VOIDCLOTH_KIT
+msgctxt "STRINGS.NAMES.VOIDCLOTH_KIT"
+msgid "Void Repair Kit"
+msgstr "Boşluk Tamir Kiti"
+
+#. STRINGS.NAMES.VOIDCLOTH_SCYTHE
+msgctxt "STRINGS.NAMES.VOIDCLOTH_SCYTHE"
+msgid "Shadow Reaper"
+msgstr "Gölge Orakçısı"
+
+#. STRINGS.NAMES.VOIDCLOTH_UMBRELLA
+msgctxt "STRINGS.NAMES.VOIDCLOTH_UMBRELLA"
+msgid "Umbralla"
+msgstr "Karemsiye"
+
+#. STRINGS.NAMES.VOLTGOATJELLY
+msgctxt "STRINGS.NAMES.VOLTGOATJELLY"
+msgid "Volt Goat Chaud-Froid"
+msgstr "Şimşek Keçisi Chaud-Froid"
+
+#. STRINGS.NAMES.WAFFLES
+msgctxt "STRINGS.NAMES.WAFFLES"
+msgid "Waffles"
+msgstr "Vafıl"
+
+#. STRINGS.NAMES.WAGBOSS_MISSILE
+msgctxt "STRINGS.NAMES.WAGBOSS_MISSILE"
+msgid "Thermalock Missile"
+msgstr "Termalkilit Füzesi"
+
+#. STRINGS.NAMES.WAGBOSS_ROBOT
+msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT"
+msgid "W.A.R.B.O.T."
+msgstr "W.A.R.B.O.T."
+
+#. STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE
+msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE"
+msgid "W.A.R.B.O.T. Base"
+msgstr "W.A.R.B.O.T. Üssü"
+
+#. STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT
+msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT"
+msgid "W.A.R.B.O.T. Base Kit"
+msgstr "W.A.R.B.O.T. Üs Kiti"
+
+#. STRINGS.NAMES.WAGBOSS_ROBOT_CREATION_PARTS
+msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_CREATION_PARTS"
+msgid "W.A.R.B.O.T. Parts"
+msgstr "W.A.R.B.O.T. Parçaları"
+
+#. STRINGS.NAMES.WAGBOSS_ROBOT_LEG
+msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_LEG"
+msgid "W.A.R.B.O.T. Leg"
+msgstr "W.A.R.B.O.T. Bacağı"
+
+#. STRINGS.NAMES.WAGBOSS_ROBOT_POSSESSED
+msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_POSSESSED"
+msgid "Enlightened W.A.R.B.O.T."
+msgstr "Aydınlanmış W.A.R.B.O.T."
+
+#. STRINGS.NAMES.WAGBOSS_ROBOT_SECRET
+msgctxt "STRINGS.NAMES.WAGBOSS_ROBOT_SECRET"
+msgid "Undisclosed Construct"
+msgstr "Açıklanmamış Yapı"
+
+#. STRINGS.NAMES.WAGDRONE_BEACON
+msgctxt "STRINGS.NAMES.WAGDRONE_BEACON"
+msgid "Terramite Barrier Post"
+msgstr "Karasırrı Bariyer Direği"
+
+#. STRINGS.NAMES.WAGDRONE_FLYING
+msgctxt "STRINGS.NAMES.WAGDRONE_FLYING"
+msgid "Warbler"
+msgstr "Şakırdak"
+
+#. STRINGS.NAMES.WAGDRONE_PARTS
+msgctxt "STRINGS.NAMES.WAGDRONE_PARTS"
+msgid "Gyroscopic Transduction Core"
+msgstr "Jiroskopik Dönüştürme Çekirdeği"
+
+#. STRINGS.NAMES.WAGDRONE_ROLLING
+msgctxt "STRINGS.NAMES.WAGDRONE_ROLLING"
+msgid "Terramite"
+msgstr "Karasırrı"
+
+#. STRINGS.NAMES.WAGPUNKBITS_KIT
+msgctxt "STRINGS.NAMES.WAGPUNKBITS_KIT"
+msgid "Auto-Mat-O-Chanic"
+msgstr "Otomekanikçi"
+
+#. STRINGS.NAMES.WAGPUNKHAT
+msgctxt "STRINGS.NAMES.WAGPUNKHAT"
+msgid "W.A.R.B.I.S. Head Gear"
+msgstr "W.A.R.B.I.S. Baş Donanımı"
+
+#. STRINGS.NAMES.WAGPUNK_BITS
+msgctxt "STRINGS.NAMES.WAGPUNK_BITS"
+msgid "Scrap"
+msgstr "Hurda"
+
+#. STRINGS.NAMES.WAGPUNK_CAGEWALL
+msgctxt "STRINGS.NAMES.WAGPUNK_CAGEWALL"
+msgid "Kinetoclasmic Field Expandinator"
+msgstr "Kinetoklasmik Alan Genişletici"
+
+#. STRINGS.NAMES.WAGPUNK_FLOOR_KIT
+msgctxt "STRINGS.NAMES.WAGPUNK_FLOOR_KIT"
+msgid "Substrate Extrapolator"
+msgstr "Altyapı Tahminleyicisi"
+
+#. STRINGS.NAMES.WAGPUNK_LEVER
+msgctxt "STRINGS.NAMES.WAGPUNK_LEVER"
+msgid "Fulcronial Selector"
+msgstr "Dayanaksal Seçici"
+
+#. STRINGS.NAMES.WAGPUNK_WORKSTATION
+msgctxt "STRINGS.NAMES.WAGPUNK_WORKSTATION"
+msgid "Notional Fabricator"
+msgstr "Kavramsal Üretici"
+
+#. STRINGS.NAMES.WAGSTAFF_CONTAINMENT_NOTE
+msgctxt "STRINGS.NAMES.WAGSTAFF_CONTAINMENT_NOTE"
+msgid "Research Notes"
+msgstr "Araştırma Notları"
+
+#. STRINGS.NAMES.WAGSTAFF_ELECTRICITY_NOTE
+msgctxt "STRINGS.NAMES.WAGSTAFF_ELECTRICITY_NOTE"
+msgid "Research Notes"
+msgstr "Araştırma Notları"
+
+#. STRINGS.NAMES.WAGSTAFF_ENERGY_NOTE
+msgctxt "STRINGS.NAMES.WAGSTAFF_ENERGY_NOTE"
+msgid "Research Notes"
+msgstr "Araştırma Notları"
+
+#. STRINGS.NAMES.WAGSTAFF_ITEM_1
+msgctxt "STRINGS.NAMES.WAGSTAFF_ITEM_1"
+msgid "Glove"
+msgstr "Eldiven"
+
+#. STRINGS.NAMES.WAGSTAFF_ITEM_2
+msgctxt "STRINGS.NAMES.WAGSTAFF_ITEM_2"
+msgid "Clipboard"
+msgstr "Pano"
+
+#. STRINGS.NAMES.WAGSTAFF_MACHINERY
+msgctxt "STRINGS.NAMES.WAGSTAFF_MACHINERY"
+msgid "Abandoned Junk"
+msgstr "Terk Edilmiş Hurda"
+
+#. STRINGS.NAMES.WAGSTAFF_MATERIALS_NOTE
+msgctxt "STRINGS.NAMES.WAGSTAFF_MATERIALS_NOTE"
+msgid "Research Notes"
+msgstr "Araştırma Notları"
+
+#. STRINGS.NAMES.WAGSTAFF_MUTATIONS_NOTE
+msgctxt "STRINGS.NAMES.WAGSTAFF_MUTATIONS_NOTE"
+msgid "Research Notes"
+msgstr "Araştırma Notları"
+
+#. STRINGS.NAMES.WAGSTAFF_NPC
+msgctxt "STRINGS.NAMES.WAGSTAFF_NPC"
+msgid "Grainy Transmission"
+msgstr "Cızırtılı Yayın"
+
+#. STRINGS.NAMES.WAGSTAFF_NPC_MUTATIONS
+msgctxt "STRINGS.NAMES.WAGSTAFF_NPC_MUTATIONS"
+msgid "Grainy Transmission"
+msgstr "Cızırtılı Yayın"
+
+#. STRINGS.NAMES.WAGSTAFF_NPC_PSTBOSS
+msgctxt "STRINGS.NAMES.WAGSTAFF_NPC_PSTBOSS"
+msgid "Grainy Transmission"
+msgstr "Cızırtılı Yayın"
+
+#. STRINGS.NAMES.WAGSTAFF_NPC_WAGPUNK
+msgctxt "STRINGS.NAMES.WAGSTAFF_NPC_WAGPUNK"
+msgid "Grainy Transmission"
+msgstr "Cızırtılı Yayın"
+
+#. STRINGS.NAMES.WAGSTAFF_NPC_WAGPUNK_ARENA
+msgctxt "STRINGS.NAMES.WAGSTAFF_NPC_WAGPUNK_ARENA"
+msgid "Grainy Transmission"
+msgstr "Cızırtılı Yayın"
+
+#. STRINGS.NAMES.WAGSTAFF_THERMAL_NOTE
+msgctxt "STRINGS.NAMES.WAGSTAFF_THERMAL_NOTE"
+msgid "Research Notes"
+msgstr "Araştırma Notları"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_1
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_1"
+msgid "Reticulating Buffer"
+msgstr "Birleştirici Tampon"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_1_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_1_LAYMAN"
+msgid "Odd Tool"
+msgstr "Tuhaf Alet"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_2
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_2"
+msgid "Widget Deflubber"
+msgstr "Widget Düzeltici"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_2_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_2_LAYMAN"
+msgid "Weird Tool"
+msgstr "Garip Alet"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_3
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_3"
+msgid "Grommet Scriber"
+msgstr "Grommet İşaretleyici"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_3_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_3_LAYMAN"
+msgid "Strange Tool"
+msgstr "Acayip Alet"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_4
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_4"
+msgid "Conceptual Scrubber"
+msgstr "Kavramsal Temizleyici"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_4_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_4_LAYMAN"
+msgid "Funky Tool"
+msgstr "Komik Alet"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_5
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_5"
+msgid "Calibrated Perceiver"
+msgstr "Kalibre Edilmiş Algılayıcı"
+
+#. STRINGS.NAMES.WAGSTAFF_TOOL_5_LAYMAN
+msgctxt "STRINGS.NAMES.WAGSTAFF_TOOL_5_LAYMAN"
+msgid "Bizarre Tool"
+msgstr "Acayip Alet"
+
+#. STRINGS.NAMES.WALKINGPLANK
+msgctxt "STRINGS.NAMES.WALKINGPLANK"
+msgid "Plank"
+msgstr "Kalas"
+
+#. STRINGS.NAMES.WALKINGPLANK_ANCIENT
+msgctxt "STRINGS.NAMES.WALKINGPLANK_ANCIENT"
+msgid "Archaic Plank"
+msgstr "Antika Kalas"
+
+#. STRINGS.NAMES.WALKINGPLANK_GRASS
+msgctxt "STRINGS.NAMES.WALKINGPLANK_GRASS"
+msgid "Plank"
+msgstr "Kalas"
+
+#. STRINGS.NAMES.WALKINGPLANK_YOTD
+msgctxt "STRINGS.NAMES.WALKINGPLANK_YOTD"
+msgid "Scaled Plank"
+msgstr "Pullu Kalas"
+
+#. STRINGS.NAMES.WALKING_STICK
+msgctxt "STRINGS.NAMES.WALKING_STICK"
+msgid "Wooden Walking Stick"
+msgstr "Ahşap Baston"
+
+#. STRINGS.NAMES.WALL_DREADSTONE
+msgctxt "STRINGS.NAMES.WALL_DREADSTONE"
+msgid "Dreadstone Wall"
+msgstr "Korkutaş Duvar"
+
+#. STRINGS.NAMES.WALL_DREADSTONE_ITEM
+msgctxt "STRINGS.NAMES.WALL_DREADSTONE_ITEM"
+msgid "Dreadstone Wall"
+msgstr "Korkutaş Duvar"
+
+#. STRINGS.NAMES.WALL_HAY
+msgctxt "STRINGS.NAMES.WALL_HAY"
+msgid "Hay Wall"
+msgstr "Saman Duvar"
+
+#. STRINGS.NAMES.WALL_HAY_ITEM
+msgctxt "STRINGS.NAMES.WALL_HAY_ITEM"
+msgid "Hay Wall"
+msgstr "Saman Duvar"
+
+#. STRINGS.NAMES.WALL_MOONROCK
+msgctxt "STRINGS.NAMES.WALL_MOONROCK"
+msgid "Moon Rock Wall"
+msgstr "Ay Kayası Duvar"
+
+#. STRINGS.NAMES.WALL_MOONROCK_ITEM
+msgctxt "STRINGS.NAMES.WALL_MOONROCK_ITEM"
+msgid "Moon Rock Wall"
+msgstr "Ay Kayası Duvar"
+
+#. STRINGS.NAMES.WALL_RUINS
+msgctxt "STRINGS.NAMES.WALL_RUINS"
+msgid "Thulecite Wall"
+msgstr "Thulesit Duvar"
+
+#. STRINGS.NAMES.WALL_RUINS_2
+msgctxt "STRINGS.NAMES.WALL_RUINS_2"
+msgid "Archival Thulecite Wall"
+msgstr "Arşiv Thulesit Duvar"
+
+#. STRINGS.NAMES.WALL_RUINS_ITEM
+msgctxt "STRINGS.NAMES.WALL_RUINS_ITEM"
+msgid "Thulecite Wall"
+msgstr "Thulesit Duvar"
+
+#. STRINGS.NAMES.WALL_SCRAP
+msgctxt "STRINGS.NAMES.WALL_SCRAP"
+msgid "Scrap Wall"
+msgstr "Hurda Duvar"
+
+#. STRINGS.NAMES.WALL_SCRAP_ITEM
+msgctxt "STRINGS.NAMES.WALL_SCRAP_ITEM"
+msgid "Scrap Wall"
+msgstr "Hurda Duvar"
+
+#. STRINGS.NAMES.WALL_STONE
+msgctxt "STRINGS.NAMES.WALL_STONE"
+msgid "Stone Wall"
+msgstr "Taş Duvar"
+
+#. STRINGS.NAMES.WALL_STONE_2
+msgctxt "STRINGS.NAMES.WALL_STONE_2"
+msgid "Archival Stone Wall"
+msgstr "Arşiv Taş Duvar"
+
+#. STRINGS.NAMES.WALL_STONE_ITEM
+msgctxt "STRINGS.NAMES.WALL_STONE_ITEM"
+msgid "Stone Wall"
+msgstr "Taş Duvar"
+
+#. STRINGS.NAMES.WALL_WOOD
+msgctxt "STRINGS.NAMES.WALL_WOOD"
+msgid "Wood Wall"
+msgstr "Tahta Duvar"
+
+#. STRINGS.NAMES.WALL_WOOD_ITEM
+msgctxt "STRINGS.NAMES.WALL_WOOD_ITEM"
+msgid "Wood Wall"
+msgstr "Tahta Duvar"
+
+#. STRINGS.NAMES.WALRUS
+msgctxt "STRINGS.NAMES.WALRUS"
+msgid "MacTusk"
+msgstr "MacTusk"
+
+#. STRINGS.NAMES.WALRUSHAT
+msgctxt "STRINGS.NAMES.WALRUSHAT"
+msgid "Tam o' Shanter"
+msgstr "Tam Şapkası"
+
+#. STRINGS.NAMES.WALRUS_CAMP
+msgctxt "STRINGS.NAMES.WALRUS_CAMP"
+msgid "Walrus Camp"
+msgstr "Mors Kampı"
+
+#. STRINGS.NAMES.WALRUS_TUSK
+msgctxt "STRINGS.NAMES.WALRUS_TUSK"
+msgid "Walrus Tusk"
+msgstr "Mors Dişi"
+
+#. STRINGS.NAMES.WALTER
+msgctxt "STRINGS.NAMES.WALTER"
+msgid "Walter"
+msgstr "Walter"
+
+#. STRINGS.NAMES.WALTERHAT
+msgctxt "STRINGS.NAMES.WALTERHAT"
+msgid "Pinetree Pioneer Hat"
+msgstr "Çamağacı Öncüsü Şapkası"
+
+#. STRINGS.NAMES.WANDA
+msgctxt "STRINGS.NAMES.WANDA"
+msgid "Wanda"
+msgstr "Wanda"
+
+#. STRINGS.NAMES.WANDERINGTRADER
+msgctxt "STRINGS.NAMES.WANDERINGTRADER"
+msgid "Odd Beefalo"
+msgstr "Tuhaf Bızonsığır"
+
+#. STRINGS.NAMES.WANDERINGTRADER_REVEALED
+msgctxt "STRINGS.NAMES.WANDERINGTRADER_REVEALED"
+msgid "Wandering Trader"
+msgstr "Gezgin Tüccar"
+
+#. STRINGS.NAMES.WARDROBE
+msgctxt "STRINGS.NAMES.WARDROBE"
+msgid "Wardrobe"
+msgstr "Gardırop"
+
+#. STRINGS.NAMES.WARG
+msgctxt "STRINGS.NAMES.WARG"
+msgid "Varg"
+msgstr "Varg"
+
+#. STRINGS.NAMES.WARGLET
+msgctxt "STRINGS.NAMES.WARGLET"
+msgid "Varglet"
+msgstr "Yavruvarg"
+
+#. STRINGS.NAMES.WARGSHRINE
+msgctxt "STRINGS.NAMES.WARGSHRINE"
+msgid "Varg Shrine"
+msgstr "Varg Tapıncağı"
+
+#. STRINGS.NAMES.WARLY
+msgctxt "STRINGS.NAMES.WARLY"
+msgid "Warly"
+msgstr "Warly"
+
+#. STRINGS.NAMES.WAR_BLUEPRINT
+msgctxt "STRINGS.NAMES.WAR_BLUEPRINT"
+msgid "Warrior Costume Pattern"
+msgstr "Savaşçı Kostüm Deseni"
+
+#. STRINGS.NAMES.WASPHIVE
+msgctxt "STRINGS.NAMES.WASPHIVE"
+msgid "Killer Bee Hive"
+msgstr "Katil Arı Kovanı"
+
+#. STRINGS.NAMES.WATER
+msgctxt "STRINGS.NAMES.WATER"
+msgid "Short Circuit"
+msgstr "Kısa Devre"
+
+#. STRINGS.NAMES.WATERBALLOON
+msgctxt "STRINGS.NAMES.WATERBALLOON"
+msgid "Waterballoon"
+msgstr "Su Balonu"
+
+#. STRINGS.NAMES.WATERINGCAN
+msgctxt "STRINGS.NAMES.WATERINGCAN"
+msgid "Empty Watering Can"
+msgstr "Boş Sulama Kabı"
+
+#. STRINGS.NAMES.WATERINGCAN_NOT_EMPTY
+msgctxt "STRINGS.NAMES.WATERINGCAN_NOT_EMPTY"
+msgid "Watering Can"
+msgstr "Sulama Kabı"
+
+#. STRINGS.NAMES.WATERMELON
+msgctxt "STRINGS.NAMES.WATERMELON"
+msgid "Watermelon"
+msgstr "Karpuz"
+
+#. STRINGS.NAMES.WATERMELONHAT
+msgctxt "STRINGS.NAMES.WATERMELONHAT"
+msgid "Fashion Melon"
+msgstr "Moda Karpuz"
+
+#. STRINGS.NAMES.WATERMELONICLE
+msgctxt "STRINGS.NAMES.WATERMELONICLE"
+msgid "Melonsicle"
+msgstr "Karpuzlu Buz"
+
+#. STRINGS.NAMES.WATERMELON_COOKED
+msgctxt "STRINGS.NAMES.WATERMELON_COOKED"
+msgid "Grilled Watermelon"
+msgstr "Izgara Karpuz"
+
+#. STRINGS.NAMES.WATERMELON_OVERSIZED
+msgctxt "STRINGS.NAMES.WATERMELON_OVERSIZED"
+msgid "Giant Watermelon"
+msgstr "Devasa Karpuz"
+
+#. STRINGS.NAMES.WATERMELON_OVERSIZED_ROTTEN
+msgctxt "STRINGS.NAMES.WATERMELON_OVERSIZED_ROTTEN"
+msgid "Giant Rotting Watermelon"
+msgstr "Devasa Çürük Karpuz"
+
+#. STRINGS.NAMES.WATERMELON_SEEDS
+msgctxt "STRINGS.NAMES.WATERMELON_SEEDS"
+msgid "Square Seeds"
+msgstr "Kare Tohumlar"
+
+#. STRINGS.NAMES.WATERPLANT
+msgctxt "STRINGS.NAMES.WATERPLANT"
+msgid "Sea Weed"
+msgstr "Su Yosunu"
+
+#. STRINGS.NAMES.WATERPLANT_BABY
+msgctxt "STRINGS.NAMES.WATERPLANT_BABY"
+msgid "Sea Sprout"
+msgstr "Deniz Filizi"
+
+#. STRINGS.NAMES.WATERPLANT_BOMB
+msgctxt "STRINGS.NAMES.WATERPLANT_BOMB"
+msgid "Seedshell"
+msgstr "Tohum Kabuğu"
+
+#. STRINGS.NAMES.WATERPLANT_PLANTER
+msgctxt "STRINGS.NAMES.WATERPLANT_PLANTER"
+msgid "Sea Sprout Starter"
+msgstr "Deniz Filizi Başlatıcı"
+
+#. STRINGS.NAMES.WATERPUMP
+msgctxt "STRINGS.NAMES.WATERPUMP"
+msgid "Fire Pump"
+msgstr "Yangın Pompası"
+
+#. STRINGS.NAMES.WATERTREE_PILLAR
+msgctxt "STRINGS.NAMES.WATERTREE_PILLAR"
+msgid "Great Tree Trunk"
+msgstr "Yüce Ağaç Gövdesi"
+
+#. STRINGS.NAMES.WATERTREE_ROOT
+msgctxt "STRINGS.NAMES.WATERTREE_ROOT"
+msgid "Great Tree Root"
+msgstr "Yüce Ağaç Kökü"
+
+#. STRINGS.NAMES.WATER_TURTLE
+msgctxt "STRINGS.NAMES.WATER_TURTLE"
+msgid "Sea Turtle"
+msgstr "Deniz Kaplumbağası"
+
+#. STRINGS.NAMES.WATHGRITHR
+msgctxt "STRINGS.NAMES.WATHGRITHR"
+msgid "Wigfrid"
+msgstr "Wigfrid"
+
+#. STRINGS.NAMES.WATHGRITHRHAT
+msgctxt "STRINGS.NAMES.WATHGRITHRHAT"
+msgid "Battle Helm"
+msgstr "Savaş Miğferi"
+
+#. STRINGS.NAMES.WATHGRITHR_IMPROVEDHAT
+msgctxt "STRINGS.NAMES.WATHGRITHR_IMPROVEDHAT"
+msgid "Commander's Helm"
+msgstr "Komutan Miğferi"
+
+#. STRINGS.NAMES.WATHGRITHR_SHIELD
+msgctxt "STRINGS.NAMES.WATHGRITHR_SHIELD"
+msgid "Battle Rönd"
+msgstr "Savaş Rönd"
+
+#. STRINGS.NAMES.WAVEYJONES
+msgctxt "STRINGS.NAMES.WAVEYJONES"
+msgid "Wavey Jones"
+msgstr "Wavey Jones"
+
+#. STRINGS.NAMES.WAXPAPER
+msgctxt "STRINGS.NAMES.WAXPAPER"
+msgid "Wax Paper"
+msgstr "Yağlı Kağıt"
+
+#. STRINGS.NAMES.WAXWELL
+msgctxt "STRINGS.NAMES.WAXWELL"
+msgid "Maxwell"
+msgstr "Maxwell"
+
+#. STRINGS.NAMES.WAXWELLJOURNAL
+msgctxt "STRINGS.NAMES.WAXWELLJOURNAL"
+msgid "Codex Umbra"
+msgstr "Codex Umbra"
+
+#. STRINGS.NAMES.WAXWELL_SHADOWSTRIKER
+msgctxt "STRINGS.NAMES.WAXWELL_SHADOWSTRIKER"
+msgid "Shadow"
+msgstr "Gölge"
+
+#. STRINGS.NAMES.WEBBER
+msgctxt "STRINGS.NAMES.WEBBER"
+msgid "Webber"
+msgstr "Webber"
+
+#. STRINGS.NAMES.WEBBERSKULL
+msgctxt "STRINGS.NAMES.WEBBERSKULL"
+msgid "Webber's Skull"
+msgstr "Webber'in Kafatası"
+
+#. STRINGS.NAMES.WEBBER_SPIDER_MINION
+msgctxt "STRINGS.NAMES.WEBBER_SPIDER_MINION"
+msgid "Baby Spider"
+msgstr "Yavru Örümcek"
+
+#. STRINGS.NAMES.WEED_FIRENETTLE
+msgctxt "STRINGS.NAMES.WEED_FIRENETTLE"
+msgid "Fire Nettles"
+msgstr "Ateş Isırganı"
+
+#. STRINGS.NAMES.WEED_FORGETMELOTS
+msgctxt "STRINGS.NAMES.WEED_FORGETMELOTS"
+msgid "Forget-Me-Lots"
+msgstr "Unutma-Beni-ler"
+
+#. STRINGS.NAMES.WEED_IVY
+msgctxt "STRINGS.NAMES.WEED_IVY"
+msgid "Spiny Bindweed"
+msgstr "Dikenli Sarmaşık"
+
+#. STRINGS.NAMES.WEED_TILLWEED
+msgctxt "STRINGS.NAMES.WEED_TILLWEED"
+msgid "Tillweed"
+msgstr "Çapaotu"
+
+#. STRINGS.NAMES.WENDY
+msgctxt "STRINGS.NAMES.WENDY"
+msgid "Wendy"
+msgstr "Wendy"
+
+#. STRINGS.NAMES.WENDY_RECIPE_GRAVESTONE
+msgctxt "STRINGS.NAMES.WENDY_RECIPE_GRAVESTONE"
+msgid "Headstone"
+msgstr "Mezar Taşı"
+
+#. STRINGS.NAMES.WENDY_RESURRECTIONGRAVE
+msgctxt "STRINGS.NAMES.WENDY_RESURRECTIONGRAVE"
+msgid "Perennial Altar"
+msgstr "Daimi Sunak"
+
+#. STRINGS.NAMES.WENDY_RESURRECTIONGRAVE_NAMED
+msgctxt "STRINGS.NAMES.WENDY_RESURRECTIONGRAVE_NAMED"
+msgid "{name}'s Perennial Altar"
+msgstr "{name}'in Daimi Sunağı"
+
+#. STRINGS.NAMES.WEREITEM_BEAVER
+msgctxt "STRINGS.NAMES.WEREITEM_BEAVER"
+msgid "Kitschy Beaver Idol"
+msgstr "Ucuz Kunduz Putu"
+
+#. STRINGS.NAMES.WEREITEM_GOOSE
+msgctxt "STRINGS.NAMES.WEREITEM_GOOSE"
+msgid "Kitschy Goose Idol"
+msgstr "Ucuz Kaz Putu"
+
+#. STRINGS.NAMES.WEREITEM_MOOSE
+msgctxt "STRINGS.NAMES.WEREITEM_MOOSE"
+msgid "Kitschy Moose Idol"
+msgstr "Ucuz Tos Putu"
+
+#. STRINGS.NAMES.WES
+msgctxt "STRINGS.NAMES.WES"
+msgid "Wes"
+msgstr "Wes"
+
+#. STRINGS.NAMES.WETGOOP
+msgctxt "STRINGS.NAMES.WETGOOP"
+msgid "Wet Goop"
+msgstr "Islak Sümük"
+
+#. STRINGS.NAMES.WETPAPER
+msgctxt "STRINGS.NAMES.WETPAPER"
+msgid "Paper"
+msgstr "Kağıt"
+
+#. STRINGS.NAMES.WETPOUCH
+msgctxt "STRINGS.NAMES.WETPOUCH"
+msgid "Crumpled Package"
+msgstr "Buruşuk Paket"
+
+#. STRINGS.NAMES.WHIP
+msgctxt "STRINGS.NAMES.WHIP"
+msgid "Tail o' Three Cats"
+msgstr "Üç Kedinin Kuyruğu"
+
+#. STRINGS.NAMES.WICKERBOTTOM
+msgctxt "STRINGS.NAMES.WICKERBOTTOM"
+msgid "Wickerbottom"
+msgstr "Wickerbottom"
+
+#. STRINGS.NAMES.WILLOW
+msgctxt "STRINGS.NAMES.WILLOW"
+msgid "Willow"
+msgstr "Willow"
+
+#. STRINGS.NAMES.WILLOW_EMBER
+msgctxt "STRINGS.NAMES.WILLOW_EMBER"
+msgid "Ethereal Ember"
+msgstr "Gökselce Köz"
+
+#. STRINGS.NAMES.WILSON
+msgctxt "STRINGS.NAMES.WILSON"
+msgid "Wilson"
+msgstr "Wilson"
+
+#. STRINGS.NAMES.WINCH
+msgctxt "STRINGS.NAMES.WINCH"
+msgid "Pinchin' Winch"
+msgstr "Cımbız Vinç"
+
+#. STRINGS.NAMES.WINCH_BLUEPRINT
+msgctxt "STRINGS.NAMES.WINCH_BLUEPRINT"
+msgid "Pinchin' Winch Blueprint"
+msgstr "Cımbız Vinç Planı"
+
+#. STRINGS.NAMES.WINONA
+msgctxt "STRINGS.NAMES.WINONA"
+msgid "Winona"
+msgstr "Winona"
+
+#. STRINGS.NAMES.WINONA_BATTERY_HIGH
+msgctxt "STRINGS.NAMES.WINONA_BATTERY_HIGH"
+msgid "Winona's G.E.M.erator"
+msgstr "Winona'nın G.E.M.eratörü"
+
+#. STRINGS.NAMES.WINONA_BATTERY_LOW
+msgctxt "STRINGS.NAMES.WINONA_BATTERY_LOW"
+msgid "Winona's Generator"
+msgstr "Winona'nın Jeneratörü"
+
+#. STRINGS.NAMES.WINONA_CATAPULT
+msgctxt "STRINGS.NAMES.WINONA_CATAPULT"
+msgid "Winona's Catapult"
+msgstr "Winona'nın Mancınığı"
+
+#. STRINGS.NAMES.WINONA_HOLOTELEBRELLA
+msgctxt "STRINGS.NAMES.WINONA_HOLOTELEBRELLA"
+msgid "Unstable Transmission"
+msgstr "Kararsız İletim"
+
+#. STRINGS.NAMES.WINONA_HOLOTELEPAD
+msgctxt "STRINGS.NAMES.WINONA_HOLOTELEPAD"
+msgid "Unstable Transmission"
+msgstr "Kararsız İletim"
+
+#. STRINGS.NAMES.WINONA_MACHINEPARTS_1
+msgctxt "STRINGS.NAMES.WINONA_MACHINEPARTS_1"
+msgid "Doohickey"
+msgstr "Cızbız"
+
+#. STRINGS.NAMES.WINONA_MACHINEPARTS_2
+msgctxt "STRINGS.NAMES.WINONA_MACHINEPARTS_2"
+msgid "Gizmo"
+msgstr "Mıkıcık"
+
+#. STRINGS.NAMES.WINONA_RECIPESCANNER
+msgctxt "STRINGS.NAMES.WINONA_RECIPESCANNER"
+msgid "Calibrated Perceiver"
+msgstr "Kalibre Edilmiş Algılayıcı"
+
+#. STRINGS.NAMES.WINONA_REMOTE
+msgctxt "STRINGS.NAMES.WINONA_REMOTE"
+msgid "Handy Remote"
+msgstr "Pratik Kumanda"
+
+#. STRINGS.NAMES.WINONA_SPOTLIGHT
+msgctxt "STRINGS.NAMES.WINONA_SPOTLIGHT"
+msgid "Winona's Spotlight"
+msgstr "Winona'nın Spot Işığı"
+
+#. STRINGS.NAMES.WINONA_STORAGE_ROBOT
+msgctxt "STRINGS.NAMES.WINONA_STORAGE_ROBOT"
+msgid "W.I.N.bot"
+msgstr "W.I.N.bot"
+
+#. STRINGS.NAMES.WINONA_TELEBRELLA
+msgctxt "STRINGS.NAMES.WINONA_TELEBRELLA"
+msgid "Portasol"
+msgstr "Portasol"
+
+#. STRINGS.NAMES.WINONA_TELEPORT_PAD_ITEM
+msgctxt "STRINGS.NAMES.WINONA_TELEPORT_PAD_ITEM"
+msgid "Teletransport Station"
+msgstr "Telenakil İstasyonu"
+
+#. STRINGS.NAMES.WINTERCOOKING_BERRYSAUCE
+msgctxt "STRINGS.NAMES.WINTERCOOKING_BERRYSAUCE"
+msgid "Merry Berrysauce"
+msgstr "Şen Meyve Sosu"
+
+#. STRINGS.NAMES.WINTERCOOKING_BIBINGKA
+msgctxt "STRINGS.NAMES.WINTERCOOKING_BIBINGKA"
+msgid "Bibingka"
+msgstr "Bibingka"
+
+#. STRINGS.NAMES.WINTERCOOKING_CABBAGEROLLS
+msgctxt "STRINGS.NAMES.WINTERCOOKING_CABBAGEROLLS"
+msgid "Cabbage Rolls"
+msgstr "Lahana Sarması"
+
+#. STRINGS.NAMES.WINTERCOOKING_FESTIVEFISH
+msgctxt "STRINGS.NAMES.WINTERCOOKING_FESTIVEFISH"
+msgid "Festive Fish Dish"
+msgstr "Festival Balık Yemeği"
+
+#. STRINGS.NAMES.WINTERCOOKING_GRAVY
+msgctxt "STRINGS.NAMES.WINTERCOOKING_GRAVY"
+msgid "Good Gravy"
+msgstr "Güzel Sos"
+
+#. STRINGS.NAMES.WINTERCOOKING_LATKES
+msgctxt "STRINGS.NAMES.WINTERCOOKING_LATKES"
+msgid "Latkes"
+msgstr "Latkes"
+
+#. STRINGS.NAMES.WINTERCOOKING_LUTEFISK
+msgctxt "STRINGS.NAMES.WINTERCOOKING_LUTEFISK"
+msgid "Lutefisk"
+msgstr "Lutefisk"
+
+#. STRINGS.NAMES.WINTERCOOKING_MULLEDDRINK
+msgctxt "STRINGS.NAMES.WINTERCOOKING_MULLEDDRINK"
+msgid "Mulled Punch"
+msgstr "Sıcak Punç"
+
+#. STRINGS.NAMES.WINTERCOOKING_PANETTONE
+msgctxt "STRINGS.NAMES.WINTERCOOKING_PANETTONE"
+msgid "Panettone"
+msgstr "Panettone"
+
+#. STRINGS.NAMES.WINTERCOOKING_PAVLOVA
+msgctxt "STRINGS.NAMES.WINTERCOOKING_PAVLOVA"
+msgid "Pavlova"
+msgstr "Pavlova"
+
+#. STRINGS.NAMES.WINTERCOOKING_PICKLEDHERRING
+msgctxt "STRINGS.NAMES.WINTERCOOKING_PICKLEDHERRING"
+msgid "Pickled Herring"
+msgstr "Salamura Ringa"
+
+#. STRINGS.NAMES.WINTERCOOKING_POLISHCOOKIE
+msgctxt "STRINGS.NAMES.WINTERCOOKING_POLISHCOOKIE"
+msgid "Polish Cookies"
+msgstr "Polonya Kurabiyeleri"
+
+#. STRINGS.NAMES.WINTERCOOKING_PUMPKINPIE
+msgctxt "STRINGS.NAMES.WINTERCOOKING_PUMPKINPIE"
+msgid "Pumpkin Pie"
+msgstr "Bal Kabağı Turtası"
+
+#. STRINGS.NAMES.WINTERCOOKING_ROASTTURKEY
+msgctxt "STRINGS.NAMES.WINTERCOOKING_ROASTTURKEY"
+msgid "Roasted Turkey"
+msgstr "Kavrulmuş Hindi"
+
+#. STRINGS.NAMES.WINTERCOOKING_STUFFING
+msgctxt "STRINGS.NAMES.WINTERCOOKING_STUFFING"
+msgid "Stuffing"
+msgstr "Tavuk İçi"
+
+#. STRINGS.NAMES.WINTERCOOKING_SWEETPOTATO
+msgctxt "STRINGS.NAMES.WINTERCOOKING_SWEETPOTATO"
+msgid "Sweet Potato Casserole"
+msgstr "Tatlı Patates Güveci"
+
+#. STRINGS.NAMES.WINTERCOOKING_TAMALES
+msgctxt "STRINGS.NAMES.WINTERCOOKING_TAMALES"
+msgid "Tamales"
+msgstr "Tamales"
+
+#. STRINGS.NAMES.WINTERCOOKING_TOURTIERE
+msgctxt "STRINGS.NAMES.WINTERCOOKING_TOURTIERE"
+msgid "Tourtiere"
+msgstr "Tourtiere"
+
+#. STRINGS.NAMES.WINTERHAT
+msgctxt "STRINGS.NAMES.WINTERHAT"
+msgid "Winter Hat"
+msgstr "Kış Şapkası"
+
+#. STRINGS.NAMES.WINTEROMETER
+msgctxt "STRINGS.NAMES.WINTEROMETER"
+msgid "Thermal Measurer"
+msgstr "Termal Ölçer"
+
+#. STRINGS.NAMES.WINTERSFEASTFUEL
+msgctxt "STRINGS.NAMES.WINTERSFEASTFUEL"
+msgid "Holiday Cheer"
+msgstr "Yılbaşı Neşesi"
+
+#. STRINGS.NAMES.WINTERSFEASTOVEN
+msgctxt "STRINGS.NAMES.WINTERSFEASTOVEN"
+msgid "Masonry Oven"
+msgstr "Tuğla Fırın"
+
+#. STRINGS.NAMES.WINTER_FOOD1
+msgctxt "STRINGS.NAMES.WINTER_FOOD1"
+msgid "Gingerbread Cookie"
+msgstr "Zencefilli Kurabiye"
+
+#. STRINGS.NAMES.WINTER_FOOD2
+msgctxt "STRINGS.NAMES.WINTER_FOOD2"
+msgid "Sugar Cookie"
+msgstr "Şekerli Kurabiye"
+
+#. STRINGS.NAMES.WINTER_FOOD3
+msgctxt "STRINGS.NAMES.WINTER_FOOD3"
+msgid "Candy Cane"
+msgstr "Şeker Bastonu"
+
+#. STRINGS.NAMES.WINTER_FOOD4
+msgctxt "STRINGS.NAMES.WINTER_FOOD4"
+msgid "Eternal Fruitcake"
+msgstr "Sonsuz Meyveli Kek"
+
+#. STRINGS.NAMES.WINTER_FOOD5
+msgctxt "STRINGS.NAMES.WINTER_FOOD5"
+msgid "Chocolate Log Cake"
+msgstr "Çikolatalı Kütük Pasta"
+
+#. STRINGS.NAMES.WINTER_FOOD6
+msgctxt "STRINGS.NAMES.WINTER_FOOD6"
+msgid "Plum Pudding"
+msgstr "Erikli Puding"
+
+#. STRINGS.NAMES.WINTER_FOOD7
+msgctxt "STRINGS.NAMES.WINTER_FOOD7"
+msgid "Apple Cider"
+msgstr "Elma Şarabı"
+
+#. STRINGS.NAMES.WINTER_FOOD8
+msgctxt "STRINGS.NAMES.WINTER_FOOD8"
+msgid "Hot Cocoa"
+msgstr "Sıcak Kakao"
+
+#. STRINGS.NAMES.WINTER_FOOD9
+msgctxt "STRINGS.NAMES.WINTER_FOOD9"
+msgid "Heavenly Eggnog"
+msgstr "Cennetlik Yumurta Likörü"
+
+#. STRINGS.NAMES.WINTER_ORNAMENT
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENT"
+msgid "Festive Bauble"
+msgstr "Festival Süsü"
+
+#. STRINGS.NAMES.WINTER_ORNAMENTBOSS
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENTBOSS"
+msgid "Magnificent Adornment"
+msgstr "Muhteşem Süs"
+
+#. STRINGS.NAMES.WINTER_ORNAMENTFORGE
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENTFORGE"
+msgid "Champion Adornment"
+msgstr "Şampiyon Süsü"
+
+#. STRINGS.NAMES.WINTER_ORNAMENTGORGE
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENTGORGE"
+msgid "Appeasing Adornment"
+msgstr "Hoşnut Eden Süs"
+
+#. STRINGS.NAMES.WINTER_ORNAMENTLIGHT
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENTLIGHT"
+msgid "Festive Light"
+msgstr "Festival Işığı"
+
+#. STRINGS.NAMES.WINTER_ORNAMENTPEARL
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENTPEARL"
+msgid "Sentimental Adornment"
+msgstr "Duygusal Süs"
+
+#. STRINGS.NAMES.WINTER_ORNAMENT_BOSS_HERMITHOUSE
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENT_BOSS_HERMITHOUSE"
+msgid "Sentimental Adornment"
+msgstr "Duygusal Süs"
+
+#. STRINGS.NAMES.WINTER_ORNAMENT_BOSS_PEARL
+msgctxt "STRINGS.NAMES.WINTER_ORNAMENT_BOSS_PEARL"
+msgid "Sentimental Adornment"
+msgstr "Duygusal Süs"
+
+#. STRINGS.NAMES.WINTER_TREE
+msgctxt "STRINGS.NAMES.WINTER_TREE"
+msgid "Winter's Feast Tree"
+msgstr "Kış Şöleni Ağacı"
+
+#. STRINGS.NAMES.WINTER_TREESTAND
+msgctxt "STRINGS.NAMES.WINTER_TREESTAND"
+msgid "Festive Tree Planter"
+msgstr "Festival Ağaç Saksısı"
+
+#. STRINGS.NAMES.WOBSTER_DEN
+msgctxt "STRINGS.NAMES.WOBSTER_DEN"
+msgid "Wobster Mound"
+msgstr "Wobster Yuvası"
+
+#. STRINGS.NAMES.WOBSTER_MOONGLASS
+msgctxt "STRINGS.NAMES.WOBSTER_MOONGLASS"
+msgid "Lunar Wobster"
+msgstr "Ay Wobster"
+
+#. STRINGS.NAMES.WOBSTER_SHELLER
+msgctxt "STRINGS.NAMES.WOBSTER_SHELLER"
+msgid "Wobster"
+msgstr "Wobster"
+
+#. STRINGS.NAMES.WOBSTER_SHELLER_DEAD
+msgctxt "STRINGS.NAMES.WOBSTER_SHELLER_DEAD"
+msgid "Dead Wobster"
+msgstr "Ölü Wobster"
+
+#. STRINGS.NAMES.WOBSTER_SHELLER_DEAD_COOKED
+msgctxt "STRINGS.NAMES.WOBSTER_SHELLER_DEAD_COOKED"
+msgid "Delicious Wobster"
+msgstr "Lezzetli Wobster"
+
+#. STRINGS.NAMES.WOBSTER_SHELLER_LAND
+msgctxt "STRINGS.NAMES.WOBSTER_SHELLER_LAND"
+msgid "Wobster"
+msgstr "Wobster"
+
+#. STRINGS.NAMES.WOBYBIG
+msgctxt "STRINGS.NAMES.WOBYBIG"
+msgid "Woby"
+msgstr "Woby"
+
+#. STRINGS.NAMES.WOBYSMALL
+msgctxt "STRINGS.NAMES.WOBYSMALL"
+msgid "Woby"
+msgstr "Woby"
+
+#. STRINGS.NAMES.WOBY_TREAT
+msgctxt "STRINGS.NAMES.WOBY_TREAT"
+msgid "Woby Snacks"
+msgstr "Woby Atıştırmalığı"
+
+#. STRINGS.NAMES.WOLFGANG
+msgctxt "STRINGS.NAMES.WOLFGANG"
+msgid "Wolfgang"
+msgstr "Wolfgang"
+
+#. STRINGS.NAMES.WOLFGANG_WHISTLE
+msgctxt "STRINGS.NAMES.WOLFGANG_WHISTLE"
+msgid "Coaching Whistle"
+msgstr "Antrenör Düdüğü"
+
+#. STRINGS.NAMES.WONKEY
+msgctxt "STRINGS.NAMES.WONKEY"
+msgid "Wonkey"
+msgstr "Wonkey"
+
+#. STRINGS.NAMES.WOODCARVEDHAT
+msgctxt "STRINGS.NAMES.WOODCARVEDHAT"
+msgid "Hardwood Hat"
+msgstr "Sert Tahta Şapka"
+
+#. STRINGS.NAMES.WOODIE
+msgctxt "STRINGS.NAMES.WOODIE"
+msgid "Woodie"
+msgstr "Woodie"
+
+#. STRINGS.NAMES.WOOD_CHAIR
+msgctxt "STRINGS.NAMES.WOOD_CHAIR"
+msgid "Wooden Chair"
+msgstr "Tahta Sandalye"
+
+#. STRINGS.NAMES.WOOD_STOOL
+msgctxt "STRINGS.NAMES.WOOD_STOOL"
+msgid "Wooden Stool"
+msgstr "Tahta Tabure"
+
+#. STRINGS.NAMES.WOOD_TABLE_ROUND
+msgctxt "STRINGS.NAMES.WOOD_TABLE_ROUND"
+msgid "Round Wooden Table"
+msgstr "Yuvarlak Tahta Masa"
+
+#. STRINGS.NAMES.WOOD_TABLE_SQUARE
+msgctxt "STRINGS.NAMES.WOOD_TABLE_SQUARE"
+msgid "Square Wooden Table"
+msgstr "Kare Tahta Masa"
+
+#. STRINGS.NAMES.WORLD
+msgctxt "STRINGS.NAMES.WORLD"
+msgid "The World"
+msgstr "Dünya"
+
+#. STRINGS.NAMES.WORM
+msgctxt "STRINGS.NAMES.WORM"
+msgid "Depths Worm"
+msgstr "Derinlik Solucanı"
+
+#. STRINGS.NAMES.WORMHOLE
+msgctxt "STRINGS.NAMES.WORMHOLE"
+msgid "Worm Hole"
+msgstr "Solucan Deliği"
+
+#. STRINGS.NAMES.WORMHOLE_LIMITED
+msgctxt "STRINGS.NAMES.WORMHOLE_LIMITED"
+msgid "Sick Worm Hole"
+msgstr "Hasta Solucan Deliği"
+
+#. STRINGS.NAMES.WORMLIGHT
+msgctxt "STRINGS.NAMES.WORMLIGHT"
+msgid "Glow Berry"
+msgstr "Parlak Meyve"
+
+#. STRINGS.NAMES.WORMLIGHT_LESSER
+msgctxt "STRINGS.NAMES.WORMLIGHT_LESSER"
+msgid "Lesser Glow Berry"
+msgstr "Daha Küçük Parlak Meyve"
+
+#. STRINGS.NAMES.WORMLIGHT_PLANT
+msgctxt "STRINGS.NAMES.WORMLIGHT_PLANT"
+msgid "Mysterious Plant"
+msgstr "Esrarengiz Bitki"
+
+#. STRINGS.NAMES.WORMWOOD
+msgctxt "STRINGS.NAMES.WORMWOOD"
+msgid "Wormwood"
+msgstr "Wormwood"
+
+#. STRINGS.NAMES.WORM_BOSS
+msgctxt "STRINGS.NAMES.WORM_BOSS"
+msgid "Great Depths Worm"
+msgstr "Büyük Derinlik Solucanı"
+
+#. STRINGS.NAMES.WORM_DIRT
+msgctxt "STRINGS.NAMES.WORM_DIRT"
+msgid "Dirt Mound"
+msgstr "Toprak Höyük"
+
+#. STRINGS.NAMES.WORM_PLANT
+msgctxt "STRINGS.NAMES.WORM_PLANT"
+msgid "Mysterious Plant"
+msgstr "Esrarengiz Bitki"
+
+#. STRINGS.NAMES.WORTOX
+msgctxt "STRINGS.NAMES.WORTOX"
+msgid "Wortox"
+msgstr "Wortox"
+
+#. STRINGS.NAMES.WORTOX_DECOY
+msgctxt "STRINGS.NAMES.WORTOX_DECOY"
+msgid "Wortox?"
+msgstr "Wortox?"
+
+#. STRINGS.NAMES.WORTOX_DECOY_FMT
+msgctxt "STRINGS.NAMES.WORTOX_DECOY_FMT"
+msgid "{name}?"
+msgstr "{name}?"
+
+#. STRINGS.NAMES.WORTOX_NABBAG
+msgctxt "STRINGS.NAMES.WORTOX_NABBAG"
+msgid "Knabsack"
+msgstr "Kapçuval"
+
+#. STRINGS.NAMES.WORTOX_REVIVER
+msgctxt "STRINGS.NAMES.WORTOX_REVIVER"
+msgid "Twintailed Heart"
+msgstr "Çift Kuyruklu Yürek"
+
+#. STRINGS.NAMES.WORTOX_REVIVER_FMT
+msgctxt "STRINGS.NAMES.WORTOX_REVIVER_FMT"
+msgid "{name}'s Twintailed Heart"
+msgstr "{name}'in Çift Kuyruklu Yüreği"
+
+#. STRINGS.NAMES.WORTOX_SOUL
+msgctxt "STRINGS.NAMES.WORTOX_SOUL"
+msgid "Soul"
+msgstr "Ruh"
+
+#. STRINGS.NAMES.WORTOX_SOULJAR
+msgctxt "STRINGS.NAMES.WORTOX_SOULJAR"
+msgid "Soul Jar"
+msgstr "Ruh Kavanozu"
+
+#. STRINGS.NAMES.WURT
+msgctxt "STRINGS.NAMES.WURT"
+msgid "Wurt"
+msgstr "Wurt"
+
+#. STRINGS.NAMES.WURT_SWAMPITEM_LUNAR
+msgctxt "STRINGS.NAMES.WURT_SWAMPITEM_LUNAR"
+msgid "Brilliant Mudslinger"
+msgstr "Parlak Çamuratan"
+
+#. STRINGS.NAMES.WURT_SWAMPITEM_SHADOW
+msgctxt "STRINGS.NAMES.WURT_SWAMPITEM_SHADOW"
+msgid "Dreaded Mudslinger"
+msgstr "Korkunç Çamuratan"
+
+#. STRINGS.NAMES.WX78
+msgctxt "STRINGS.NAMES.WX78"
+msgid "WX-78"
+msgstr "WX-78"
+
+#. STRINGS.NAMES.WX78MODULE_BEE
+msgctxt "STRINGS.NAMES.WX78MODULE_BEE"
+msgid "Beanbooster Circuit"
+msgstr "Fasulyepompa Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_COLD
+msgctxt "STRINGS.NAMES.WX78MODULE_COLD"
+msgid "Refrigerant Circuit"
+msgstr "Soğutucu Devre"
+
+#. STRINGS.NAMES.WX78MODULE_DIGESTION
+msgctxt "STRINGS.NAMES.WX78MODULE_DIGESTION"
+msgid "Redigestion Circuit"
+msgstr "Yeniden Sindirim Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_HEAT
+msgctxt "STRINGS.NAMES.WX78MODULE_HEAT"
+msgid "Thermal Circuit"
+msgstr "Termal Devre"
+
+#. STRINGS.NAMES.WX78MODULE_LIGHT
+msgctxt "STRINGS.NAMES.WX78MODULE_LIGHT"
+msgid "Illumination Circuit"
+msgstr "Aydınlatma Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_LIGHT2
+msgctxt "STRINGS.NAMES.WX78MODULE_LIGHT2"
+msgid "Super-Illumination Circuit"
+msgstr "Süper Aydınlatma Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHEALTH"
+msgid "Hardy Circuit"
+msgstr "Dayanıklı Devre"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHEALTH2"
+msgid "Super-Hardy Circuit"
+msgstr "Süper Dayanıklı Devre"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHUNGER"
+msgid "Super-Gastrogain Circuit"
+msgstr "Süper Gastronkazanç Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXHUNGER1"
+msgid "Gastrogain Circuit"
+msgstr "Gastronkazanç Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXSANITY"
+msgid "Super-Processing Circuit"
+msgstr "Süper İşlem Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.NAMES.WX78MODULE_MAXSANITY1"
+msgid "Processing Circuit"
+msgstr "İşlem Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.NAMES.WX78MODULE_MOVESPEED"
+msgid "Acceleration Circuit"
+msgstr "Hızlandırıcı Devre"
+
+#. STRINGS.NAMES.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.NAMES.WX78MODULE_MOVESPEED2"
+msgid "Super-Acceleration Circuit"
+msgstr "Süper Hızlandırıcı Devre"
+
+#. STRINGS.NAMES.WX78MODULE_MUSIC
+msgctxt "STRINGS.NAMES.WX78MODULE_MUSIC"
+msgid "Chorusbox Circuit"
+msgstr "Korokutu Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.NAMES.WX78MODULE_NIGHTVISION"
+msgid "Optoelectronic Circuit"
+msgstr "Optoelektronik Devre"
+
+#. STRINGS.NAMES.WX78MODULE_RADAR
+msgctxt "STRINGS.NAMES.WX78MODULE_RADAR"
+msgid "Rangebooster Circuit"
+msgstr "Menzilpompa Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_SCREECH
+msgctxt "STRINGS.NAMES.WX78MODULE_SCREECH"
+msgid "Sonic-Invoker Circuit"
+msgstr "Sonik Çağırıcı Devre"
+
+#. STRINGS.NAMES.WX78MODULE_SHIELDING
+msgctxt "STRINGS.NAMES.WX78MODULE_SHIELDING"
+msgid "Blocking Circuit"
+msgstr "Bloklama Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_SPIN
+msgctxt "STRINGS.NAMES.WX78MODULE_SPIN"
+msgid "Spin-Cycle Circuit"
+msgstr "Dönüş Devresi"
+
+#. STRINGS.NAMES.WX78MODULE_STACKSIZE
+msgctxt "STRINGS.NAMES.WX78MODULE_STACKSIZE"
+msgid "Spatializer Circuit"
+msgstr "Yer Genişletici Devre"
+
+#. STRINGS.NAMES.WX78MODULE_TASER
+msgctxt "STRINGS.NAMES.WX78MODULE_TASER"
+msgid "Electrification Circuit"
+msgstr "Elektriklendirme Devresi"
+
+#. STRINGS.NAMES.WX78_BACKUPBODY
+msgctxt "STRINGS.NAMES.WX78_BACKUPBODY"
+msgid "Backup Chassis"
+msgstr "Yedek Şasi"
+
+#. STRINGS.NAMES.WX78_BACKUPBODY_FMT
+msgctxt "STRINGS.NAMES.WX78_BACKUPBODY_FMT"
+msgid "{name}'s Backup Chassis"
+msgstr "{name}'in Yedek Şasisi"
+
+#. STRINGS.NAMES.WX78_BACKUPBODY_INVENTORY
+msgctxt "STRINGS.NAMES.WX78_BACKUPBODY_INVENTORY"
+msgid "Backup Chassis"
+msgstr "Yedek Şasi"
+
+#. STRINGS.NAMES.WX78_DRONE_DELIVERY
+msgctxt "STRINGS.NAMES.WX78_DRONE_DELIVERY"
+msgid "Portable Storage Unit"
+msgstr "Taşınabilir Depo Ünitesi"
+
+#. STRINGS.NAMES.WX78_DRONE_SCOUT
+msgctxt "STRINGS.NAMES.WX78_DRONE_SCOUT"
+msgid "Roto-Mapper"
+msgstr "Dönen Haritacı"
+
+#. STRINGS.NAMES.WX78_DRONE_ZAP
+msgctxt "STRINGS.NAMES.WX78_DRONE_ZAP"
+msgid "Zaptrocuter"
+msgstr "Zaptotom"
+
+#. STRINGS.NAMES.WX78_DRONE_ZAP_REMOTE
+msgctxt "STRINGS.NAMES.WX78_DRONE_ZAP_REMOTE"
+msgid "Zaptrocuter Controller"
+msgstr "Zaptotom Kumandası"
+
+#. STRINGS.NAMES.WX78_FOODBRICK
+msgctxt "STRINGS.NAMES.WX78_FOODBRICK"
+msgid "Nutribrick"
+msgstr "Besin Tuğlası"
+
+#. STRINGS.NAMES.WX78_GESTALTTRAPPER
+msgctxt "STRINGS.NAMES.WX78_GESTALTTRAPPER"
+msgid "Spectral Transfer Module"
+msgstr "Hayalet Aktarım Modülü"
+
+#. STRINGS.NAMES.WX78_INVENTORYCONTAINER
+msgctxt "STRINGS.NAMES.WX78_INVENTORYCONTAINER"
+msgid "Collapsed Storage Unit"
+msgstr "Katlanmış Depo Ünitesi"
+
+#. STRINGS.NAMES.WX78_INVENTORYCONTAINER_HELD
+msgctxt "STRINGS.NAMES.WX78_INVENTORYCONTAINER_HELD"
+msgid "Expansive Storage Unit"
+msgstr "Genişleyen Depo Ünitesi"
+
+#. STRINGS.NAMES.WX78_MODULEREMOVER
+msgctxt "STRINGS.NAMES.WX78_MODULEREMOVER"
+msgid "Circuit Extractor"
+msgstr "Devre Çıkarıcı"
+
+#. STRINGS.NAMES.WX78_POSSESSEDBODY
+msgctxt "STRINGS.NAMES.WX78_POSSESSEDBODY"
+msgid "Possessed Chassis"
+msgstr "Ele Geçirilmiş Şasi"
+
+#. STRINGS.NAMES.WX78_POSSESSEDBODY_FMT
+msgctxt "STRINGS.NAMES.WX78_POSSESSEDBODY_FMT"
+msgid "{name}'s Possessed Chassis"
+msgstr "{name}'in Ele Geçirilmiş Şasisi"
+
+#. STRINGS.NAMES.WX78_SCANNER
+msgctxt "STRINGS.NAMES.WX78_SCANNER"
+msgid "Bio Scanalyzer"
+msgstr "Biyo Tarayıcı"
+
+#. STRINGS.NAMES.WX78_SCANNER_ITEM
+msgctxt "STRINGS.NAMES.WX78_SCANNER_ITEM"
+msgid "Bio Scanalyzer"
+msgstr "Biyo Tarayıcı"
+
+#. STRINGS.NAMES.WX78_SCANNER_SUCCEEDED
+msgctxt "STRINGS.NAMES.WX78_SCANNER_SUCCEEDED"
+msgid "Bio Scanalyzer"
+msgstr "Biyo Tarayıcı"
+
+#. STRINGS.NAMES.W_RADIO
+msgctxt "STRINGS.NAMES.W_RADIO"
+msgid "B.U.D.D.Y."
+msgstr "B.U.D.D.Y."
+
+#. STRINGS.NAMES.YELLOWAMULET
+msgctxt "STRINGS.NAMES.YELLOWAMULET"
+msgid "Magiluminescence"
+msgstr "Sihirili Parıltı"
+
+#. STRINGS.NAMES.YELLOWGEM
+msgctxt "STRINGS.NAMES.YELLOWGEM"
+msgid "Yellow Gem"
+msgstr "Sarı Cevher"
+
+#. STRINGS.NAMES.YELLOWMOONEYE
+msgctxt "STRINGS.NAMES.YELLOWMOONEYE"
+msgid "Yellow Moonlens"
+msgstr "Sarı Aymerceği"
+
+#. STRINGS.NAMES.YELLOWSTAFF
+msgctxt "STRINGS.NAMES.YELLOWSTAFF"
+msgid "Star Caller's Staff"
+msgstr "Yıldız Çağırıcısı'nın Asası"
+
+#. STRINGS.NAMES.YOTB_BEEFALOSHRINE
+msgctxt "STRINGS.NAMES.YOTB_BEEFALOSHRINE"
+msgid "Beefalo Shrine"
+msgstr "Bızonsığır Tapıncağı"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_BEAST
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_BEAST"
+msgid "Lucky Beast Beefalo Doll"
+msgstr "Şanslı Canavar Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_DOLL
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_DOLL"
+msgid "Dolled-Up Beefalo Doll"
+msgstr "Süslenmiş Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_FESTIVE
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_FESTIVE"
+msgid "Festive Beefalo Doll"
+msgstr "Festival Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_FORMAL
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_FORMAL"
+msgid "Formal Beefalo Doll"
+msgstr "Resmi Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_ICE
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_ICE"
+msgid "Frostbitten Beefalo Doll"
+msgstr "Donmuş Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_NATURE
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_NATURE"
+msgid "Flowery Beefalo Doll"
+msgstr "Çiçekli Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_ROBOT
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_ROBOT"
+msgid "Ironclad Beefalo Doll"
+msgstr "Demirzırhlı Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_VICTORIAN
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_VICTORIAN"
+msgid "Victorian Beefalo Doll"
+msgstr "Viktoryen Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_BEEFALO_DOLL_WAR
+msgctxt "STRINGS.NAMES.YOTB_BEEFALO_DOLL_WAR"
+msgid "Warrior Beefalo Doll"
+msgstr "Savaşçı Bızonsığır Bebek"
+
+#. STRINGS.NAMES.YOTB_PATTERN_FRAGMENT_1
+msgctxt "STRINGS.NAMES.YOTB_PATTERN_FRAGMENT_1"
+msgid "Fearsome Pattern Scrap"
+msgstr "Korkutucu Desen Parçası"
+
+#. STRINGS.NAMES.YOTB_PATTERN_FRAGMENT_2
+msgctxt "STRINGS.NAMES.YOTB_PATTERN_FRAGMENT_2"
+msgid "Formal Pattern Scrap"
+msgstr "Resmi Desen Parçası"
+
+#. STRINGS.NAMES.YOTB_PATTERN_FRAGMENT_3
+msgctxt "STRINGS.NAMES.YOTB_PATTERN_FRAGMENT_3"
+msgid "Festive Pattern Scrap"
+msgstr "Festival Desen Parçası"
+
+#. STRINGS.NAMES.YOTB_POST
+msgctxt "STRINGS.NAMES.YOTB_POST"
+msgid "Beefalo Stage"
+msgstr "Bızonsığır Sahnesi"
+
+#. STRINGS.NAMES.YOTB_POST_ITEM
+msgctxt "STRINGS.NAMES.YOTB_POST_ITEM"
+msgid "Beefalo Stage"
+msgstr "Bızonsığır Sahnesi"
+
+#. STRINGS.NAMES.YOTB_SEWINGMACHINE
+msgctxt "STRINGS.NAMES.YOTB_SEWINGMACHINE"
+msgid "Sewing Machine"
+msgstr "Dikiş Makinesi"
+
+#. STRINGS.NAMES.YOTB_SEWINGMACHINE_ITEM
+msgctxt "STRINGS.NAMES.YOTB_SEWINGMACHINE_ITEM"
+msgid "Sewing Machine Kit"
+msgstr "Dikiş Makinesi Kiti"
+
+#. STRINGS.NAMES.YOTB_STAGE
+msgctxt "STRINGS.NAMES.YOTB_STAGE"
+msgid "Judge's Booth"
+msgstr "Hakem Kabini"
+
+#. STRINGS.NAMES.YOTB_STAGE_ITEM
+msgctxt "STRINGS.NAMES.YOTB_STAGE_ITEM"
+msgid "Judge's Booth"
+msgstr "Hakem Kabini"
+
+#. STRINGS.NAMES.YOTC_CARRATSHRINE
+msgctxt "STRINGS.NAMES.YOTC_CARRATSHRINE"
+msgid "Carrat Shrine"
+msgstr "Havufare Tapıncağı"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_DIRECTION
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_DIRECTION"
+msgid "Navigation Gym"
+msgstr "Navigasyon Spor Salonu"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_DIRECTION_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_DIRECTION_ITEM"
+msgid "Navigation Gym Kit"
+msgstr "Navigasyon Spor Salonu Kiti"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_REACTION
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_REACTION"
+msgid "Reflex Gym"
+msgstr "Refleks Spor Salonu"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_REACTION_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_REACTION_ITEM"
+msgid "Reflex Gym Kit"
+msgstr "Refleks Spor Salonu Kiti"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_SPEED
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_SPEED"
+msgid "Speed Gym"
+msgstr "Hız Spor Salonu"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_SPEED_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_SPEED_ITEM"
+msgid "Speed Gym Kit"
+msgstr "Hız Spor Salonu Kiti"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_STAMINA
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_STAMINA"
+msgid "Endurance Gym"
+msgstr "Dayanıklılık Spor Salonu"
+
+#. STRINGS.NAMES.YOTC_CARRAT_GYM_STAMINA_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_GYM_STAMINA_ITEM"
+msgid "Endurance Gym Kit"
+msgstr "Dayanıklılık Spor Salonu Kiti"
+
+#. STRINGS.NAMES.YOTC_CARRAT_RACE_CHECKPOINT
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_RACE_CHECKPOINT"
+msgid "Checkpoint"
+msgstr "Kontrol Noktası"
+
+#. STRINGS.NAMES.YOTC_CARRAT_RACE_CHECKPOINT_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_RACE_CHECKPOINT_ITEM"
+msgid "Checkpoint Kit"
+msgstr "Kontrol Noktası Kiti"
+
+#. STRINGS.NAMES.YOTC_CARRAT_RACE_FINISH
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_RACE_FINISH"
+msgid "Finish Line"
+msgstr "Bitiş Çizgisi"
+
+#. STRINGS.NAMES.YOTC_CARRAT_RACE_FINISH_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_RACE_FINISH_ITEM"
+msgid "Finish Line Kit"
+msgstr "Bitiş Çizgisi Kiti"
+
+#. STRINGS.NAMES.YOTC_CARRAT_RACE_START
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_RACE_START"
+msgid "Starting Point"
+msgstr "Başlangıç Noktası"
+
+#. STRINGS.NAMES.YOTC_CARRAT_RACE_START_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_RACE_START_ITEM"
+msgid "Starting Point Kit"
+msgstr "Başlangıç Noktası Kiti"
+
+#. STRINGS.NAMES.YOTC_CARRAT_SCALE
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_SCALE"
+msgid "Carrat Scale"
+msgstr "Havufare Tartısı"
+
+#. STRINGS.NAMES.YOTC_CARRAT_SCALE_ITEM
+msgctxt "STRINGS.NAMES.YOTC_CARRAT_SCALE_ITEM"
+msgid "Carrat Scale Kit"
+msgstr "Havufare Tartısı Kiti"
+
+#. STRINGS.NAMES.YOTC_OWNED_CARRAT
+msgctxt "STRINGS.NAMES.YOTC_OWNED_CARRAT"
+msgid "{trainer}'s Carrat"
+msgstr "{trainer}'ın Havufaresi"
+
+#. STRINGS.NAMES.YOTC_SEEDPACKET
+msgctxt "STRINGS.NAMES.YOTC_SEEDPACKET"
+msgid "Packet of Seeds"
+msgstr "Tohum Paketi"
+
+#. STRINGS.NAMES.YOTC_SEEDPACKET_RARE
+msgctxt "STRINGS.NAMES.YOTC_SEEDPACKET_RARE"
+msgid "Premium Seed Packet"
+msgstr "Premium Tohum Paketi"
+
+#. STRINGS.NAMES.YOTD_ANCHOR
+msgctxt "STRINGS.NAMES.YOTD_ANCHOR"
+msgid "Claw Anchor"
+msgstr "Pençe Çapa"
+
+#. STRINGS.NAMES.YOTD_ANCHOR_ITEM
+msgctxt "STRINGS.NAMES.YOTD_ANCHOR_ITEM"
+msgid "Claw Anchor Kit"
+msgstr "Pençe Çapa Kiti"
+
+#. STRINGS.NAMES.YOTD_DRAGONSHRINE
+msgctxt "STRINGS.NAMES.YOTD_DRAGONSHRINE"
+msgid "Dragonfly Shrine"
+msgstr "Yusufçuk Tapıncağı"
+
+#. STRINGS.NAMES.YOTD_OAR
+msgctxt "STRINGS.NAMES.YOTD_OAR"
+msgid "Claw Oar"
+msgstr "Pençe Kürek"
+
+#. STRINGS.NAMES.YOTD_STEERINGWHEEL
+msgctxt "STRINGS.NAMES.YOTD_STEERINGWHEEL"
+msgid "Dragonfly Boat Wheel"
+msgstr "Yusufçuk Tekne Dümeni"
+
+#. STRINGS.NAMES.YOTD_STEERINGWHEEL_ITEM
+msgctxt "STRINGS.NAMES.YOTD_STEERINGWHEEL_ITEM"
+msgid "Dragonfly Boat Wheel Kit"
+msgstr "Yusufçuk Tekne Dümeni Kiti"
+
+#. STRINGS.NAMES.YOTH_CHAIR_ROCKING
+msgctxt "STRINGS.NAMES.YOTH_CHAIR_ROCKING"
+msgid "Rocking Mare"
+msgstr "Salıncaklı Kısrak"
+
+#. STRINGS.NAMES.YOTH_CHAIR_ROCKING_ITEM
+msgctxt "STRINGS.NAMES.YOTH_CHAIR_ROCKING_ITEM"
+msgid "Rocking Mare Kit"
+msgstr "Salıncaklı Kısrak Kiti"
+
+#. STRINGS.NAMES.YOTH_KNIGHTHAT
+msgctxt "STRINGS.NAMES.YOTH_KNIGHTHAT"
+msgid "Gilded Knight's Helmet"
+msgstr "Yaldızlı Şövalye Miğferi"
+
+#. STRINGS.NAMES.YOTH_KNIGHTSHRINE
+msgctxt "STRINGS.NAMES.YOTH_KNIGHTSHRINE"
+msgid "Clockwork Knight Shrine"
+msgstr "Mekanik At Tapıncağı"
+
+#. STRINGS.NAMES.YOTH_KNIGHTSTICK
+msgctxt "STRINGS.NAMES.YOTH_KNIGHTSTICK"
+msgid "Shtick Horse"
+msgstr "Şaka At"
+
+#. STRINGS.NAMES.YOTH_LANCE
+msgctxt "STRINGS.NAMES.YOTH_LANCE"
+msgid "Joust-a-Dash"
+msgstr "Mızrak-Atılışı"
+
+#. STRINGS.NAMES.YOTP_FOOD1
+msgctxt "STRINGS.NAMES.YOTP_FOOD1"
+msgid "Tribute Roast"
+msgstr "Sunak Kebabı"
+
+#. STRINGS.NAMES.YOTP_FOOD2
+msgctxt "STRINGS.NAMES.YOTP_FOOD2"
+msgid "Eight Treasure Mud Pie"
+msgstr "Sekiz Hazineli Çamur Pasta"
+
+#. STRINGS.NAMES.YOTP_FOOD3
+msgctxt "STRINGS.NAMES.YOTP_FOOD3"
+msgid "Fish Heads on a Stick"
+msgstr "Çubukta Balık Kafaları"
+
+#. STRINGS.NAMES.YOTR_DECOR_1
+msgctxt "STRINGS.NAMES.YOTR_DECOR_1"
+msgid "Short Rabbit Lamp"
+msgstr "Kısa Tavşan Lambası"
+
+#. STRINGS.NAMES.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.NAMES.YOTR_DECOR_1_ITEM"
+msgid "Short Rabbit Lamp"
+msgstr "Kısa Tavşan Lambası"
+
+#. STRINGS.NAMES.YOTR_DECOR_2
+msgctxt "STRINGS.NAMES.YOTR_DECOR_2"
+msgid "Tall Rabbit Lamp"
+msgstr "Uzun Tavşan Lambası"
+
+#. STRINGS.NAMES.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.NAMES.YOTR_DECOR_2_ITEM"
+msgid "Tall Rabbit Lamp"
+msgstr "Uzun Tavşan Lambası"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING"
+msgid "Pillow Fight Pit"
+msgstr "Yastık Dövüşü Çukuru"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_BELL
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_BELL"
+msgid "Pillow Fight Bell"
+msgstr "Yastık Dövüşü Çanı"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_KIT"
+msgid "Pillow Fight Pit Kit"
+msgstr "Yastık Dövüşü Çukur Kiti"
+
+#. STRINGS.NAMES.YOTR_FIGHTRING_TORCH
+msgctxt "STRINGS.NAMES.YOTR_FIGHTRING_TORCH"
+msgid "Bunnyman Torch"
+msgstr "Tavşanadam Meşalesi"
+
+#. STRINGS.NAMES.YOTR_FOOD1
+msgctxt "STRINGS.NAMES.YOTR_FOOD1"
+msgid "Bunny Roll"
+msgstr "Tavşan Rulosu"
+
+#. STRINGS.NAMES.YOTR_FOOD2
+msgctxt "STRINGS.NAMES.YOTR_FOOD2"
+msgid "Moon Cake"
+msgstr "Ay Pastası"
+
+#. STRINGS.NAMES.YOTR_FOOD3
+msgctxt "STRINGS.NAMES.YOTR_FOOD3"
+msgid "Moon Jelly"
+msgstr "Ay Jeli"
+
+#. STRINGS.NAMES.YOTR_FOOD4
+msgctxt "STRINGS.NAMES.YOTR_FOOD4"
+msgid "Skewered Puffs"
+msgstr "Şişlenmiş Puflar"
+
+#. STRINGS.NAMES.YOTR_RABBITSHRINE
+msgctxt "STRINGS.NAMES.YOTR_RABBITSHRINE"
+msgid "Bunnyman Shrine"
+msgstr "Tavşanadam Tapıncağı"
+
+#. STRINGS.NAMES.YOTR_TOKEN
+msgctxt "STRINGS.NAMES.YOTR_TOKEN"
+msgid "Glove of Challenge"
+msgstr "Meydan Okuma Eldiveni"
+
+#. STRINGS.NAMES.YOTS_LANTERN_POST
+msgctxt "STRINGS.NAMES.YOTS_LANTERN_POST"
+msgid "Jubilantern Post"
+msgstr "Jubilemfener Direği"
+
+#. STRINGS.NAMES.YOTS_LANTERN_POST_ITEM
+msgctxt "STRINGS.NAMES.YOTS_LANTERN_POST_ITEM"
+msgid "Jubilantern Post Kit"
+msgstr "Jubilemfener Direği Kiti"
+
+#. STRINGS.NAMES.YOTS_SNAKESHRINE
+msgctxt "STRINGS.NAMES.YOTS_SNAKESHRINE"
+msgid "Depths Worm Shrine"
+msgstr "Derinlik Solucanı Tapıncağı"
+
+#. STRINGS.NAMES.YOTS_WORM
+msgctxt "STRINGS.NAMES.YOTS_WORM"
+msgid "Gilded Depths Worm"
+msgstr "Yaldızlı Derinlik Solucanı"
+
+#. STRINGS.NAMES.YOT_CATCOONSHRINE
+msgctxt "STRINGS.NAMES.YOT_CATCOONSHRINE"
+msgid "Catcoon Shrine"
+msgstr "Kedikoon Tapıncağı"
+
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
 msgid "Cancel"
