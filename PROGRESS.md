@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-28 (Oturum 8 ✅ — Faz 3 Seçenek B: CHARACTER_* karakter kartları + STRINGS.NAMES başlangıcı)
+**Son güncelleme:** 2026-04-28 (Oturum 9 ✅ — Faz 3 Seçenek B: STRINGS.NAMES devam, 600 item ismi)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 5.756 / 85.706 msgid (%6.72)
+**Şu ana kadar çevrilen toplam:** 6.356 / 85.706 msgid (%7.42)
 
 ---
 
@@ -135,13 +135,23 @@
 
 **Faz 3 toplam:** Oturum 5+6+7+8 = 873 + 444 = **1.317 string** (Faz 3'ün ~%26'sı tahmini)
 
-## 🎯 Sıradaki Oturum (9) — Yol Haritası (Seçenek B devam)
+### ✅ Oturum 9 — 2026-04-28 (3 batch / 600 string) — STRINGS.NAMES B-F
 
-### NAMES devam: 14 batch daha (~2.600 string, ~5-7 oturum)
-- `0579` STRINGS.NAMES (B-C) — BLOWDART_LAVA sonrası
-- `0580` STRINGS.NAMES (C-D)
-- `0581` STRINGS.NAMES
-- `0582-0592` STRINGS.NAMES devam (toplam 14 batch kaldı, her biri ~200 string)
+**Aydın'ın "devam" komutu:** Seçenek B devam — 3 NAMES batch (B-F arası ~600 item ismi).
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0579` | 200 | **STRINGS.NAMES (2/15)** B-C: BLOWDART_LAVA2→Erimiş Oklar, Blueprint→Plan, Boards→Tahta, **Boarrior→Büyük Demirhane Yabansavaşçısı**, **Nautopilot→Denizotopilot** (deniz+otopilot pun), Marotter Raft→Denisamur Salı, Bone Bouillon→Kemik Bulyonu, **Lunar Grimoire→Ay Büyü Kitabı**, **Volatile Canary→Patlayıcı Kanarya**, Cawnival/Karganaval mini oyun seti tam (Yumurta Telaşı/Yem için Yaygara/Sepetteki Yumurtalar/Kuş Yuvası Top Bırakma/Yuva Bekçisi/Guguklu Çark), Carnival Vest→Cıvıl Cıvıl Atkı/Pelerin/Pelerincik, **Carrat→Havufare**, **Catcoon→Kedikoon** | ✅ |
+| `0580` | 200 | **STRINGS.NAMES (3/15)** C-C: Cave Banana→Mağara Muzu, Sinkhole→Obruk, **Geothermite→Jeotakar** (geothermal+mite), Fumarole→Volkan Bacası, **Charlie's Beckoning Hand→Çağıran El**, Mockingbird→Alaycı Kuş, Playbill→Oyun Afişi, **Kingly Figure→Kral Heykelciği**, Queenly→Kraliçe, Pawn→Piyon, Rook→Kale, **Knight→At** (satranç), **Hornucopia→Boynuzkopya** (cornucopia pun), Frostjaw→Buzçene, **Possessed Varg→Ele Geçirilmiş Varg**, Celestial Scion→Semavi Veliaht, Great Depths Worm→Büyük Derinlik Solucanı, **Cookie Cutter→Bisküvi Kesici**, Dragon Fruit→Ejderha Meyvesi, Bunch o' Stone→Tomar Taş, Crab Knight→Yengeç Şövalyesi, Yolnumarası heykelcikler (YOTH/YOTS/YOTD) | ✅ |
+| `0581` | 200 | **STRINGS.NAMES (4/15)** C-F: Critter (yavru evciller) tam: Broodling→Yavruşa, Friendly Peeper→Sevimli Gözcü, Kittykit→Kedicik, Ewelet→Kuzucuk, Mothling→Güveşa, Vargling→Yavruvarg, **Cookie Crumbles→Kurabiye Kırıntıları**, **Dreadstone→Korkutaş**, **Dragonfly→Yusufçuk**, Dragonpie→Ejderha Pastası, **Houndius Shootius→Houndius Shootius** (özel, korunur), **Toma Root→Domarot** (Klei pun, doma+rot), **Garden Digamajig→Bahçe Kazgereci** (dig+thingamajig), **Bucket-o-poop→Kakaş Kovası**, **T.I.N.G.L.E. Düğümü** (akronim korunur), **Ice Flingomatic→Buz Fırlatomatik** (fling+omatic pun), **Figatoni→İncironi**, **Figkabab→İncirkebap**, Anenemy Trap→Düşmanavar Tuzağı, Werepig figürünleri tam, **Eyebrella→Gözlemsiye**, Picnic Casket→Piknik Tabutu, Lucky Beast→Şanslı Canavar (YOTH dragon dance kostümü) | ✅ |
+
+**Faz 3 toplam:** Oturum 5+6+7+8+9 = 873 + 444 + 600 = **1.917 string** (Faz 3'ün ~%38'i tahmini)
+
+## 🎯 Sıradaki Oturum (10) — Yol Haritası (Seçenek B devam)
+
+### NAMES devam: 11 batch daha (~2.000 string, ~4-5 oturum)
+- `0582` STRINGS.NAMES (F-G) — FISHINGROD sonrası
+- `0583-0592` STRINGS.NAMES devam (toplam 11 batch kaldı, her biri ~200 string)
 
 ### NAMES sonrası
 - `0593` STRINGS.NAME_DETAIL_EXTENTION (1 batch, ek detay)

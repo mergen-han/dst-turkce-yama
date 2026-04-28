@@ -2,7 +2,7 @@
 
 Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe çeviri modu.
 
-> 🚧 **Geliştirme aşamasında — Faz 3 (item + lore çevirisi).** Faz 2 UI ✅ %100 tamam: ana menü, ayarlar, dünya kurma, sunucu yönetimi, Süs Dolabı, Takas Hanı, Maç Sonu Paneli ve tüm HUD aksiyonları (Saldır/İncele/Kuşan...) tamamen Türkçe. Faz 3'te şu an: ACTIONS, BOARLORD (Forge patron), CARNIVAL_CROWKID + CARNIVAL_HOST (Karganaval), karakter seçim ekranı tüm bilgileri (biyografi/unvan/alıntı) ve item isimlerinin ilk dilimi (A-B) çevrildi. Tam yama (UI + itemler + 17 karakter konuşmaları) v1.0 ile gelecek.
+> 🚧 **Geliştirme aşamasında — Faz 3 (item + lore çevirisi).** Faz 2 UI ✅ %100 tamam: ana menü, ayarlar, dünya kurma, sunucu yönetimi, Süs Dolabı, Takas Hanı, Maç Sonu Paneli ve tüm HUD aksiyonları (Saldır/İncele/Kuşan...) tamamen Türkçe. Faz 3'te şu an: ACTIONS, BOARLORD (Forge patron), CARNIVAL_CROWKID + CARNIVAL_HOST (Karganaval), karakter seçim ekranı tüm bilgileri (biyografi/unvan/alıntı) ve **item isimlerinin 4/15'i çevrildi (~800 item)** — silah/zırh/yemek/balık/dragonfly/dreadstone/chess piece/critter dahil. Tam yama (UI + itemler + 17 karakter konuşmaları) v1.0 ile gelecek.
 
 ## Özellikler
 
@@ -20,7 +20,7 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 | 0 | Mod iskeleti + smoke test | ✅ |
 | 1 | Pipeline + glossary + dokümantasyon | ✅ |
 | 2 | UI çevirisi (4.439 string) | ✅ %100 |
-| 3 | İtem isimleri + tarif/envanter açıklamaları + lore | 🟡 ~%26 (CHARACTER kartları tam, NAMES 1/15) |
+| 3 | İtem isimleri + tarif/envanter açıklamaları + lore | 🟡 ~%38 (CHARACTER kartları tam, NAMES 4/15) |
 | 4 | Bilim/üretim/skill tree/sahne | ⬜ |
 | 5 | 17 karakter konuşmaları (62.645 string) | ⬜ |
 | 6 | Skinler + lore + vinyetler | ⬜ |
@@ -28,13 +28,14 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 | 8 | Logo + Workshop varlıkları | ⬜ |
 | 9 | v1.0 yayın | ⬜ |
 
-**Toplam:** **5.756 / 85.706 msgid çevrildi (%6.72)** · 8 oturum tamamlandı (2026-04-26 → 2026-04-28). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
+**Toplam:** **6.356 / 85.706 msgid çevrildi (%7.42)** · 9 oturum tamamlandı (2026-04-26 → 2026-04-28). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
 
-### Son oturumda eklenen Türkçe içerik (Oturum 8)
+### Son oturumda eklenen Türkçe içerik (Oturum 9)
 
-- 🎭 **Karakter seçim ekranı tüm bilgileri** — 17 karakterin biyografisi (Walter'ın Constant'a düşüşü, Wendy'nin Abigail'i kaybetmesi, Wilson'ın radyo+makine hikayesi, WX-78'in deney lore'u...), doğum günleri, en sevdiği yemekler, "Yetenekler ve Tuhaflıklar", unvanlar (Centilmen Bilim İnsanı / Mini Mini / Ruh Aç / Ruhsuz Otomaton).
-- 🎨 **Karakter alıntıları persona disiplinli** — Wigfrid umlautlu ("Tüm dünyä bir sahnedir. Bänim için!"), WX-78 BÜYÜK HARF ("EMPATİ MODÜLÜ YANIT VERMİYOR"), Wurt yarım Türkçe ("Mermler ko-nu-kse-verlikleriyle ünlü, florp.").
-- 🐾 **200 item ismi (A-B aralığı)** — Karıncaaslanı, Yarasalisk, Bızonsığır, Mekanik Şah, Arıların Kraliçesi, Ayıger, Atriyum öğeleri (Filiztaşı, Kasvetdiken), Lunar zırhlar (Aydıngölge, Dikengölge), Were-formlar (Kunduzkurt/Kurttos/Kurtkaz).
+- 🏷️ **600 item ismi (B-F aralığı)** — Karganaval mini oyun seti (Yumurta Telaşı, Yem için Yaygara, Sepetteki Yumurtalar), CHESSPIECE figürünleri (~50 boss heykelciği), Critter (yavru evciller: Yavruşa, Sevimli Gözcü, Kedicik, Kuzucuk, Güveşa, Civciv, Yavruvarg), tekne ekipmanları (Yusufçuk Tekne, Korsan Yelkenli, Denizotopilot), tarım bitkileri (Domarot, Bahçe Kazgereci, Kakaş Kovası).
+- 🎨 **Yeni Klei pun'ları Türkçe pun'la** — Nautopilot=Denizotopilot (deniz+otopilot), Geothermite=Jeotakar (jeotermal+akar), Hornucopia=Boynuzkopya (boynuz+cornucopia), Frostjaw=Buzçene, Figatoni=İncironi (incir+rigatoni), Figkabab=İncirkebap, Ice Flingomatic=Buz Fırlatomatik, Toma Root=Domarot.
+- 🛡️ **Boss & lore kartı** — Boarrior=Yabansavaşçı, Possessed Varg=Ele Geçirilmiş Varg, Celestial Scion=Semavi Veliaht, Ancient Fuelweaver=Kadim Yakıtdokur, Crystal Deerclops=Kristal Geyikgöz, Volatile Canary=Patlayıcı Kanarya, Dreadstone=Korkutaş.
+- 🔠 **Akronim ve özel isim koruma** — T.I.N.G.L.E. (elektrikli çit), W.A.R.B.O.T., Houndius Shootius (Klei Latince pun) çevrilmedi.
 
 ## Kurulum
 
@@ -64,6 +65,10 @@ Glossary'den örnekler (`docs/glossary.tsv` — 200+ zorunlu terim):
 | Corvus Goodfeather | Corvus İyitüy | Karganaval host |
 | Birchnut / Antlion / Batilisk | Huşfındığı / Karıncaaslanı / Yarasalisk | |
 | Brightshade / Sproutrock | Aydıngölge / Filiztaşı | Ay/Atriyum lore |
+| Nautopilot / Geothermite | Denizotopilot / Jeotakar | deniz+otopilot, jeotermal+akar |
+| Hornucopia / Frostjaw | Boynuzkopya / Buzçene | boynuz+cornucopia, buz+çene |
+| Figatoni / Figkabab | İncironi / İncirkebap | incir+rigatoni, incir+kebap |
+| Toma Root / Dreadstone | Domarot / Korkutaş | tomato+root, dread+stone |
 
 ## Lisans
 
@@ -76,4 +81,4 @@ Yanlış çeviri / eksik metin / bug için **Issues** sekmesi. PR rehberi `CONTR
 
 ---
 
-**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.4.0-faz3`
+**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.5.0-faz3`

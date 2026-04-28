@@ -49,12 +49,12 @@ Her oturum başında bu üç dosyayı oku (Aydın'ın "devam" demesi yetiyor):
 
 **`PROGRESS.md`** dosyasını oku — Faz 3 başlangıç batch'ini bul.
 
-Kabaca özet (Oturum 8 sonu, 2026-04-28):
+Kabaca özet (Oturum 9 sonu, 2026-04-28):
 - ✅ Faz 0+1 tamam (mod iskeleti + pipeline + docs)
 - ✅ **Faz 2 UI %100 tamam** — 4.439/4.439 string PO'da
-- 🟡 **Faz 3 devam (Seçenek B: item öncelikli)** — 1.317 string yapıldı (ACTIONS+lore küçük bloklar+CARNIVAL+CAST+**CHARACTER_kart bilgileri tam (8 blok 240 string)**+**NAMES 1/15 batch (200 item)**)
-- Toplam: **5.756/85.706 (%6.72)**
-- Sıradaki: **batch_0579 STRINGS.NAMES devam** (14 batch daha, ~2.600 item ismi). NAMES tamamlandıktan sonra RECIPE_DESC, PIG/MERM/QUAGMIRE lore blokları, en son Faz 5 CHARACTERS speech
+- 🟡 **Faz 3 devam (Seçenek B: item öncelikli)** — 1.917 string yapıldı (ACTIONS+lore küçük bloklar+CARNIVAL+CAST+**CHARACTER_kart bilgileri tam (8 blok 240 string)**+**NAMES 4/15 batch (800 item)**)
+- Toplam: **6.356/85.706 (%7.42)**
+- Sıradaki: **batch_0582 STRINGS.NAMES devam** (11 batch daha, ~2.000 item ismi). NAMES tamamlandıktan sonra RECIPE_DESC, PIG/MERM/QUAGMIRE lore blokları, en son Faz 5 CHARACTERS speech
 
 ## Faz 2 ✅ tamam (2026-04-28) — In-game tam Türkçe ekranlar
 
@@ -107,10 +107,11 @@ Kabaca özet (Oturum 8 sonu, 2026-04-28):
 | 6 | 2026-04-28 | 0009-0035 | 161 | STRINGS.BOARLORD tam (Forge patron Pugna 7 round dramatik yay) + BROKENITEM + BUNNYMANNAMES (72 Tavşanadam bilim/havuç/element ismi) + CARNIVAL_CROWKID 1-5 (Karganaval Karga Veleti gak-gak banter) |
 | 7 | 2026-04-28 | 0036-0059 | 103 | CARNIVAL_CROWKID kalan tam (DECOR_AMBIENT/PLAYER varyantları, GAME_GOTO, HASGIFT, REFUSEGIFT, SCARED) + CARNIVAL_HOST tam (Corvus Goodfeather=Corvus İyitüy showman pun'ları) + STRINGS.CAST (Atriyum sahne oyunu 16 rolü: Zanaatkâr/Demirci/Joker/Bilge/Görücü vb.) |
 | 8 | 2026-04-28 | 0374-0382 + 0578 | 444 | **SEÇENEK B BAŞLADI**: CHARACTER_* karakter seçim ekranı tüm 8 blok (ABOUTME/BIOS+lore/DESCRIPTIONS/DETAILS/NAMES/QUOTES Wigfrid umlaut+WX-78 büyük harf+Wurt yarım Türkçe/SURVIVABILITY/TITLES) + COOKINGRECIPECARD_DESC + **STRINGS.NAMES batch 1/15** (200 item: Karıncaaslanı/Bızonsığır/Yarasalisk/Mekanik Şah/Arıların Kraliçesi/Ayıger). Werebeaver=Kunduzkurt + Werebeaver/moose/goose serisi. Glossary +30 item terimi |
+| 9 | 2026-04-28 | 0579-0581 | 600 | **STRINGS.NAMES batch 2-4/15** B-F: Boarrior=Yabansavaşçı, Nautopilot=Denizotopilot (deniz+otopilot pun), Geothermite=Jeotakar, Hornucopia=Boynuzkopya (cornucopia pun), Frostjaw=Buzçene, Cookie Cutter=Bisküvi Kesici, Toma Root=Domarot (Klei pun), Garden Digamajig=Bahçe Kazgereci, Bucket-o-poop=Kakaş Kovası, Ice Flingomatic=Buz Fırlatomatik, Figatoni=İncironi, Figkabab=İncirkebap, Dreadstone=Korkutaş, Houndius Shootius (özel korunur), T.I.N.G.L.E./W.A.R.B.O.T. (akronim korunur). Karganaval mini oyun seti tam (Yumurta Telaşı/Yem için Yaygara/Sepetteki Yumurtalar). Critter (yavru) serisi: Yavruşa/Sevimli Gözcü/Kedicik/Kuzucuk/Güveşa/Civciv/Yavruvarg. CHESSPIECE figürünleri tam (~50 boss/mob heykelciği). Glossary +37 yeni terim |
 
 ### Sonraki oturumda devam protokolü
 1. Bu dosyayı (CLAUDE.md) oku
-2. PROGRESS.md son ✅ Oturum altındaki sıradaki ⬜ batch'i bul (şu an: **`batch_0579` — STRINGS.NAMES devam**, 14 batch daha; bkz PROGRESS.md "Sıradaki Oturum 9")
+2. PROGRESS.md son ✅ Oturum altındaki sıradaki ⬜ batch'i bul (şu an: **`batch_0582` — STRINGS.NAMES devam**, 11 batch daha; bkz PROGRESS.md "Sıradaki Oturum 10")
 3. docs/glossary.tsv + docs/style-guide.md tekrar yükle (her oturum başı)
 4. **Seçenek B aktif:** CHARACTERS atlandı (0060-0373), item bloklarına yoğunlaş. Faz 5 CHARACTERS en sona
 5. `pipeline/batches/pending/batch_NNNN.json` Read → çevir → `pipeline/batches/done/batch_NNNN.json` Write
