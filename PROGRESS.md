@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-28 (Oturum 10 ✅ — Faz 3 Seçenek B: STRINGS.NAMES devam, 600 item ismi)
+**Son güncelleme:** 2026-04-28 (Oturum 11 ✅ — Faz 3 Seçenek B: STRINGS.NAMES M-S, 600 item ismi)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 6.956 / 85.706 msgid (%8.12)
+**Şu ana kadar çevrilen toplam:** 7.556 / 85.706 msgid (%8.82)
 
 ---
 
@@ -159,11 +159,23 @@
 
 **Faz 3 toplam:** Oturum 5+6+7+8+9+10 = 1.917 + 600 = **2.517 string** (Faz 3'ün ~%50'si tahmini)
 
-## 🎯 Sıradaki Oturum (11) — Yol Haritası (Seçenek B devam)
+### ✅ Oturum 11 — 2026-04-28 (3 batch / 600 string) — STRINGS.NAMES M-S
 
-### NAMES devam: 8 batch daha (~1.400 string, ~3-4 oturum)
-- `0585` STRINGS.NAMES (M-N) — MOQUECA sonrası
-- `0586-0592` STRINGS.NAMES devam (toplam 8 batch kaldı, her biri ~200 string)
+**Aydın'ın "devam" komutu:** Seçenek B devam — 3 NAMES batch (M-S arası ~600 item ismi).
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0585` | 200 | **STRINGS.NAMES (8/15)** M-P: Sivrisinek seti tam (Skeeter Bomb=Sivrisinek Bombası, **Fertilizzzer=Vızılgübre** zzz vızıltı pun, Blood Shot=Kan Şotu Merm tonik), **Mosling=Tosçuk** (Moose=Tos+küçültme), Sıcak Punç, **Portal Paraphernalia=Geçit Pılı Pırtısı** (P-P alliterasyon), Mantar serisi tam (**Boomshroom=Patmantar**, **Funcap=Şenşapka**, **Glowcap=Parlakşapka**, Mushlight=Mantarışığı, Mushtree=Mantarağaç 4 renk), Mutated Bearger/Bird/Buzzard/Deerclops/Hound/Pengull tam, **Switcherdoodle=Karıştırgıç** (mutator yumurta seti 7 tip; -gıç eki Türkçe), **Permafrost Pengull=Buzul Pengul**, Karabasan serisi tam (Nightmarebeak=Karabasangaga, Karabasan Yakıtı/Sur/Işık/Tılsım), **Grim Galette=Vahim Galette** (Fransızca korunur), Thulesit Madalyon, **Sabah Yıldızı** (Morning Star silah), Kara Kılıç, Karanlık, **Güherçile** (Nitre), Kum Püskürtücü/Öğütücü (Brightsmithy boss silahı), **Premier Gardeneer Hat=Mükemmel Bahçemühendis Şapkası** (gardener+engineer pun), Ocean fishing tam (8 şamandıra+8 yem+5 spinnerbait+4 spoon), Ocean fish 18 tür (**Antchovy=Karıncamsi**, **Sweetish Fish=Tatlısveç Balığı**, **Popperfish=Patbalığı**, **Fallounder=Sonbalkan**, Spittlefish=Tükürük Balığı, Bloomfin Tuna=Çiçekyüzgeçli Tuna), **Terrorclaw=Dehşetpençe** (Atriyum boss), **Knobbly Tree=Tümsekli Ağaç**, Above-Average Tree Trunk=Ortalama Üstü Ağaç Gövdesi (Klei klişe), Ortak Yosun Tabağı (Wurt offering pot), Soğan, **Yanardöner Cevher** (opal), **Tembel Toplayıcı/Kaşif**, **Ay Çağırıcısı'nın Asası**, **Palmcone=Palmiyekozak** seti, **Scorpeon=Akrepon**, **Stuffed Pepper Poppers=Doldurulmuş Patbiberler**, Yutkun seti, Mantı (Pierogi glossary tutarlı), **Aydıngölge Çekici** (Brightshade Smasher), Salamura Ringa, Pig Elite 4 isim (Wade/Ignatius/Dmitri/Sawyer korunur), Domuz seti tam | ✅ |
+| `0586` | 200 | **STRINGS.NAMES (9/15)** P-Q: **Domuzların Kralı** (glossary), Domuz Adam/Tapıncağı/Postu/Meşalesi, **Clout Snout=Yumruk Burun** (Pig King para), Altın Kemer, Çam Kozalağı/Fidanı, Ay Quay Korsan Sancağı, Yaba (Pitchfork), Yapraklı Et (Wormwood), Bahçemühendis Şapkası, Mahsul/Vahşi Mahsul, **4 Playbill (Stage play)**: Büyülü Bebek, Dört Şövalyem ve Ben (YOTH), Bir Görev Tamamlandı (Maxwell itirafı), **Kasvet Örtüsü=The Pall**, **Inthralled Corpse=Boyun Eğdirilmiş Ceset**, **Deadelgänger=Ölüdoppelgänger** (Klei dead+doppelgänger pun), Wanda saat seti tam (**Backtrek/Backstep/Ageless/Rift/Second Chance/Alarming Clock=Korkutucu Çalar Saat**), Polonya Kurabiyeleri, **Polly Roger** (özel; Jolly Roger pun), Nar serisi tam, Gölet/Yılanbalığı/Tatlı Su Balığı/Su Yosunu, Gübre, Taşınabilir 5 alet (Öğütme Değirmeni/Tencere/Kamp Ateşi/Baharat İstasyonu/Çadır), Patates serisi tam (**Şık Sarmal Yumrular** Klei eufemizm), **Powdercake=Barut Pastası** (Klei dark humor), **Powder Monkey=Barut Maymunu**, **Waterfowl Can=Su Kuşu Sulayıcısı**, **Prime Mate=Birinci Maymun** (primate+first mate Klei pun), **Puffin=Deniz Papağanı**, Bal Kabağı serisi tam, **Bright Boxer/Shadow Boxer** punching bag, Saf Parıltı, Karabasan Tılsımı, Mor Cevher, **Kemiren'in Sunağı** (Quagmire), **Quagmire 70 yemek tarifi tam** (Lazanya, Pizza, Köri, Spagetti, Hamburger, Ratatuy, Bruskette, Mantı, Cheesecake, Et Wellington, Yengeç Ravyoli vb.), Yengeç Tuzağı, **Annecik=Mumsy** (anne keçi), Billy (oğlak özel), Keçi Sütü | ✅ |
+| `0587` | 200 | **STRINGS.NAMES (10/15)** Q-S: Quagmire kalan tam (Bog Merm=Bataklık Merm, **Sammy/Pipton** Lucid/Cognizant, Sokak Lambası, Demir Çit, **Kemiren Tapıcısı**, Salmon=Somon, Tuz seti tam, Ağaç Sızıntı Kiti, **Sugarwood Tree=Şekerağacı**, Spotty Shrub=Benekli Çalı, Domarot tutarlı, **Şalgam**, Buğday, Slaughter Tools=Kesim Aletleri), Tavşan ekosistemi tam (**Warren Wreath=Tavşanyuva Çelengi** YOTR pun, Tavşan Kafesi, **Burrowing Horn=Kazıcı Boynuz**, **Rabbit King 3 form**: Wrathful=Öfkeli/Fortuitous=Rastlantısal/Benevolent=İyiliksever, Royal Rabbit Enforcer=Kraliyet Tavşan İcra Memuru), **Short Circuit=Kısa Devre** (RAIN Klei pun!), Yağmurluk/Şapka/Ölçer, Plak (Record), Kırmızı Cevher/Fener/Aymerceği/Kese/Şapka/Mantar/Şenşapka, Sazlık, **Yaz Yeleği=Summer Frest**, **Eserkalı=Relic**, **Bilim Makinesi/Simya Motoru/Gölge Manipülatörü**, **Prestihatitator=Şapksihirbaz** (prestidigitator+hat pun!), Clean Sweeper=Temiz Süpürge (skin tool), Et Heykel + Diriliş Taşı (glossary), **Resurrection Sickness=Diriliş Hastalığı**, **Yürek Tılsımı**, **Gergedankardeş Snapback/Düz Vizör**, Kavrulmuş Hindi, **Kızılkuş/Karkuşu**, **Demirzırhlı Kostüm Deseni**, Rocks/Boulder/Mini Glacier/Lava Pit serisi, **Stone Fruit=Taş Meyve** (Avocado bush) tam, **Mekanik Kale=Clockwork Rook**, Halat, **Mağaracı Köprü Kiti**, **Pembe Gözlükler=Rose-Colored Glasses** (klişe deyim), Çürük Yumurta, Arı Sütü, Moloz, **Thulesit Tacı/Sopası**, **Pusuda Karabasan/Dinlenmiş Dehşet** (Ruins shadeling), Kadim Sandık, Eyer 6 tip tam (**Glossamer=Yaldız Eyeri**), Taze Salsa, **Tuz Yalağı=Salt Lick**, **Salty Dog=Tuzlu Köpek** (eski denizci argosu), Kumdan Kale, Kum Sivrisi (Antlion) | ✅ |
+
+**Faz 3 toplam:** Oturum 5+6+7+8+9+10+11 = 2.517 + 600 = **3.117 string** (Faz 3'ün ~%62'si tahmini)
+
+## 🎯 Sıradaki Oturum (12) — Yol Haritası (Seçenek B devam)
+
+### NAMES devam: 5 batch daha (~1.000 string, ~2-3 oturum)
+- `0588` STRINGS.NAMES (S devam) — SANDSPIKE sonrası: Sapling/Saw/Scarecrow/Sea/Seed/Shell/Shovel/Skeleton...
+- `0589-0592` STRINGS.NAMES devam (toplam 5 batch kaldı, her biri ~200 string)
 
 ### NAMES sonrası
 - `0593` STRINGS.NAME_DETAIL_EXTENTION (1 batch, ek detay)
