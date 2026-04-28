@@ -3853,6 +3853,521 @@ msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE.6"
 msgid "I'm gonna tell my friends to wait until there's more set up."
 msgstr "Arkadaşlarıma daha çok şey hazırlanana kadar beklemelerini söyleyeceğim."
 
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.1"
+msgid "All this Cawnival fun is making me peckish."
+msgstr "Bu Karganaval eğlencesi iştahımı kabarttı."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.2"
+msgid "Those snacks look so good...\nI'm sure they wouldn't mind if I snuck a bite..."
+msgstr "O atıştırmalıklar pek güzel görünüyor...\nBir lokma çalsam aldırış etmezler herhalde..."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK.3"
+msgid "I'm starving after that long trip."
+msgstr "O uzun yolculuktan sonra açlıktan ölüyorum."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.1"
+msgid "Nicely set up."
+msgstr "Güzel hazırlanmış."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.2"
+msgid "It's alright... but it could use some flair."
+msgstr "Fena değil... ama biraz şıklık eksik."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.3"
+msgid "I've seen better Cawnivals."
+msgstr "Daha iyi Karganavallar gördüm."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME.4"
+msgid "The party is just getting started!"
+msgstr "Parti daha yeni başlıyor!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.1"
+msgid "What a fun place, nobody chases us away!"
+msgstr "Ne eğlenceli bir yer, kimse bizi kovalamıyor!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.2"
+msgid "Who was that, with the red fur? He seemed kinda familiar."
+msgstr "Şu kırmızı tüylü olan kimdi? Sanki bir tanıdık geldi."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK.3"
+msgid "I hope we can have the Cawnival here again next year."
+msgstr "Umarım gelecek yıl Karganaval'ı yine burada yaparız."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.1"
+msgid "Wow! It's so festive!"
+msgstr "Vay! Ne kadar şenlikli!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.2"
+msgid "Nicely done."
+msgstr "Güzel iş."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.3"
+msgid "You must be good at these games."
+msgstr "Bu oyunlarda iyi olmalısın."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.4"
+msgid "Have you tried Egg Scramble? It's my favorite game!"
+msgstr "Yumurta Telaşı'nı denedin mi? En sevdiğim oyun!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.5
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.5"
+msgid "I watched someone play Hubbub for Grub, and now I'm hungry..."
+msgstr "Birinin Yem için Yaygara oynadığını izledim, şimdi de karnım acıktı..."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.6
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS.6"
+msgid "Have you won any prizes yet?"
+msgstr "Hiç ödül kazandın mı?"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.1"
+msgid "It's nice to rest our wings a little.\nWe usually can't stay in one place too long."
+msgstr "Kanatlarımızı biraz dinlendirmek güzel.\nGenelde tek bir yerde fazla kalmayız."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.2"
+msgid "Have you seen the lady that watches the Cawnival at night?\nSquawck about creepy."
+msgstr "Geceleri Karganaval'ı izleyen hanımı gördün mü?\nGak desem az gelir, ne ürpertici!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK.3"
+msgid "Are you having fun? I sure am!"
+msgstr "Eğleniyor musun? Ben kesinlikle eğleniyorum!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.1"
+msgid "You should decorate more."
+msgstr "Daha çok süslemen lazım."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.2"
+msgid "Where are the decorations?"
+msgstr "Süslemeler nerede?"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.3"
+msgid "It's not a Cawnival without decorations around the Tree!"
+msgstr "Ağaç'ın etrafında süsleme olmadan Karganaval olmaz!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE.4"
+msgid "This must be your first Cawnival."
+msgstr "İlk Karganaval'ın olmalı."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.1"
+msgid "Hey, mind sharing your snacks?"
+msgstr "Hey, atıştırmalıklarını paylaşır mısın?"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.2"
+msgid "Where are we from? Oh you know, here and there..."
+msgstr "Nerelerden mi geliyoruz? Ah bilirsin işte, oradan buradan..."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK.3"
+msgid "You stay here all year?\nWow, not having wings must be tough."
+msgstr "Bütün yıl burada mı kalıyorsun?\nVay, kanatları olmamak zor olmalı."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.1"
+msgid "You're doing a pretty good job."
+msgstr "Oldukça iyi iş çıkarıyorsun."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.2"
+msgid "I wish there were more decorations around the Cawnival Tree..."
+msgstr "Keşke Karganaval Ağacı'nın etrafında daha çok süsleme olsa..."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.3"
+msgid "I've seen better Cawnivals. Just saying."
+msgstr "Daha iyi Karganavallar gördüm. Söylemiş olayım."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME.4"
+msgid "Gotta say, last year's Cawnival was better..."
+msgstr "İtiraf etmeliyim, geçen yılki Karganaval daha iyiydi..."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.1"
+msgid "So where do YOU come from? Just curious!"
+msgstr "Peki SEN nereden geliyorsun? Sadece merak ettim!"
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.2"
+msgid "I can't believe you'd never seen a Cawnival before we came!\nYou sure were missing out."
+msgstr "Biz gelmeden önce Karganaval'ı hiç görmediğine inanamıyorum!\nKesin çok şey kaçırmışsın."
+
+#. STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK.3"
+msgid "You're pretty weird. Has anyone told you that?"
+msgstr "Bayağı tuhafsın. Sana hiç söylediler mi?"
+
+#. STRINGS.CARNIVAL_CROWKID_GAME_GOTO.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_GAME_GOTO.1"
+msgid "Ooooh someone's playing!"
+msgstr "Vaay biri oynuyor!"
+
+#. STRINGS.CARNIVAL_CROWKID_GAME_GOTO.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_GAME_GOTO.2"
+msgid "Let's watch the featherfree creature play!"
+msgstr "Şu tüysüz mahluk nasıl oynuyor görelim!"
+
+#. STRINGS.CARNIVAL_CROWKID_GAME_GOTO.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_GAME_GOTO.3"
+msgid "Look, someone's about to play!"
+msgstr "Bak, biri oynamak üzere!"
+
+#. STRINGS.CARNIVAL_CROWKID_GAME_GOTO.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_GAME_GOTO.4"
+msgid "I love watching these games!"
+msgstr "Bu oyunları izlemeye bayılıyorum!"
+
+#. STRINGS.CARNIVAL_CROWKID_GAME_GOTO.5
+msgctxt "STRINGS.CARNIVAL_CROWKID_GAME_GOTO.5"
+msgid "Oooh, that game's my favorite!"
+msgstr "Ohoo, en sevdiğim oyun bu!"
+
+#. STRINGS.CARNIVAL_CROWKID_HASGIFT.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_HASGIFT.1"
+msgid "What's with all the presents? This is starting to feel suspicious..."
+msgstr "Ne bu hediye yağmuru? Şüpheli görünmeye başladı..."
+
+#. STRINGS.CARNIVAL_CROWKID_HASGIFT.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_HASGIFT.2"
+msgid "Thanks, but I've already got something!"
+msgstr "Teşekkürler, zaten elimde bir şey var!"
+
+#. STRINGS.CARNIVAL_CROWKID_HASGIFT.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_HASGIFT.3"
+msgid "Sorry, busy. Maybe try someone else."
+msgstr "Kusura bakma, meşgulüm. Belki başka birini denersin."
+
+#. STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.1"
+msgid "What kind of game is that?"
+msgstr "Bu ne tür bir oyun?"
+
+#. STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_OTHERGAME_GOTO.2"
+msgid "Are the featherfree creatures fighting? I want to watch!"
+msgstr "Tüysüz mahluklar dövüşüyor mu? İzlemek istiyorum!"
+
+#. STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.1"
+msgid "Oh... wow... um, that's okay, you keep it."
+msgstr "Aa... vay... ıı, sorun değil, sende kalsın."
+
+#. STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.2"
+msgid "Aw, wouldn't ya know it, I'm actually allergic to that exact thing."
+msgstr "Aaa, biliyor musun, tam da ona alerjim var."
+
+#. STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_REFUSEGIFT.3"
+msgid "No thanks, I don't want it."
+msgstr "Yok sağ ol, istemiyorum."
+
+#. STRINGS.CARNIVAL_CROWKID_SCARED.1
+msgctxt "STRINGS.CARNIVAL_CROWKID_SCARED.1"
+msgid "Caaah!"
+msgstr "Gaaak!"
+
+#. STRINGS.CARNIVAL_CROWKID_SCARED.2
+msgctxt "STRINGS.CARNIVAL_CROWKID_SCARED.2"
+msgid "Time to take off!"
+msgstr "Havalanma vakti!"
+
+#. STRINGS.CARNIVAL_CROWKID_SCARED.3
+msgctxt "STRINGS.CARNIVAL_CROWKID_SCARED.3"
+msgid "The feathers are flying!"
+msgstr "Tüyler havada uçuşuyor!"
+
+#. STRINGS.CARNIVAL_CROWKID_SCARED.4
+msgctxt "STRINGS.CARNIVAL_CROWKID_SCARED.4"
+msgid "No thanks!"
+msgstr "Sağ ol istemem!"
+
+#. STRINGS.CARNIVAL_CROWKID_SCARED.5
+msgctxt "STRINGS.CARNIVAL_CROWKID_SCARED.5"
+msgid "I'm outta here!"
+msgstr "Ben kaçtım!"
+
+#. STRINGS.CARNIVAL_CROWKID_SCARED.6
+msgctxt "STRINGS.CARNIVAL_CROWKID_SCARED.6"
+msgid "Scatter!!"
+msgstr "Dağılın!!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.1
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.1"
+msgid "Yes, yes! It's that most wonderful time of year again!"
+msgstr "Evet, evet! Yılın o muhteşem zamanı yine geldi!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.2
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.2"
+msgid "I, the great Goodfeather, have graciously decided to return with my wondrous Cawnival!"
+msgstr "Ben, ulu İyitüy, harikulade Karganaval'ımla geri dönmeye lütfetmiş bulunuyorum!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.3
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.3"
+msgid "You there! How would you like to be a part of something spectacular?!"
+msgstr "Hey sen! Muhteşem bir şeyin parçası olmaya ne dersin?!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.4
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.4"
+msgid "It is I, a merry wanderer with feathers black as night!"
+msgstr "Benim, geceler kadar kara tüylü neşeli bir gezgin!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.5
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.5"
+msgid "I've been known by many names, but you may call me Corvus Goodfeather!"
+msgstr "Beni birçok isimle bilirler, ama sen bana Corvus İyitüy diyebilirsin!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.6
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.6"
+msgid "\"Not yet mid-summer\", you say? Well my friend, the early bird gets the worm!"
+msgstr "\"Henüz yaz ortası değil\" mi diyorsun? Eh dostum, erken kalkan kuş solucanı kapar!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.7
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.7"
+msgid "Oh lucky, lucky you, to be a stop on our flight of fancy!"
+msgstr "Ah ne talihli, ne talihlisin, hayalbaz uçuşumuzun durağı olmak!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.8
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.8"
+msgid "Be merry, for good old Goodfeather has returned with his spectacular Cawnival!"
+msgstr "Şenlenin, çünkü ihtiyar İyitüy muhteşem Karganaval'ıyla geri döndü!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.9
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_CARNIVAL.9"
+msgid "Last year was so profitable- er, FUN, that we just couldn't stay away!"
+msgstr "Geçen yıl o kadar kârlı- ee, EĞLENCELİYDİ ki uzak duramadık!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.1
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.1"
+msgid "The Cawnival is underway!"
+msgstr "Karganaval başladı!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.2
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.2"
+msgid "Welcome, welcome, one and all!"
+msgstr "Hoş geldiniz, hoş geldiniz, herkes!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.3
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.3"
+msgid "Buy your tokens here!"
+msgstr "Jetonlarınızı buradan alın!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.4
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.4"
+msgid "Enjoy the Cawnival!"
+msgstr "Karganaval'ın tadını çıkarın!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.5
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.5"
+msgid "Why not purchase a lovely miniature to set under the Tree?"
+msgstr "Ağaç'ın altına koymak için sevimli bir minyatür almaya ne dersiniz?"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.6
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.6"
+msgid "The games look fun, don't they? Why not purchase a token or twelve?"
+msgstr "Oyunlar eğlenceli görünüyor, değil mi? Bir veya bir düzine jeton almaya ne dersiniz?"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.7
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.7"
+msgid "Win tickets, trade tickets for fabulous prizes!"
+msgstr "Bilet kazan, biletleri muhteşem ödüllerle takas et!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.8
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.8"
+msgid "Take a glance at the Prize Booth, friends! We have spectacular trinkets from far and wide!"
+msgstr "Ödül Kulübesi'ne bir göz atın dostlar! Uzak diyarlardan muhteşem ufak tefekler getirdik!"
+
+#. STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.9
+msgctxt "STRINGS.CARNIVAL_HOST_ANNOUNCE_GENERIC.9"
+msgid "\"Not yet mid-summer\", you say? Well my friend, the early bird gets the worm!"
+msgstr "\"Henüz yaz ortası değil\" mi diyorsun? Eh dostum, erken kalkan kuş solucanı kapar!"
+
+#. STRINGS.CARNIVAL_HOST_GAME_BORED.1
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_BORED.1"
+msgid "Oh, I think you nearly scored a point that time!"
+msgstr "Aa, sanırım bu sefer sayı yapmaya az kaldı!"
+
+#. STRINGS.CARNIVAL_HOST_GAME_BORED.2
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_BORED.2"
+msgid "Have you never played a Cawnival game before?"
+msgstr "Daha önce hiç Karganaval oyunu oynamadınız mı?"
+
+#. STRINGS.CARNIVAL_HOST_GAME_BORED.3
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_BORED.3"
+msgid "Better luck next time, perhaps?"
+msgstr "Belki bir dahaki sefere bol şans?"
+
+#. STRINGS.CARNIVAL_HOST_GAME_CHEER.1
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_CHEER.1"
+msgid "Yes, yes! You're a natural!"
+msgstr "Evet, evet! Doğuştan yeteneklisiniz!"
+
+#. STRINGS.CARNIVAL_HOST_GAME_CHEER.2
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_CHEER.2"
+msgid "You've got a good grasp of the game, I see!"
+msgstr "Görüyorum ki oyunu iyi kavramışsınız!"
+
+#. STRINGS.CARNIVAL_HOST_GAME_CHEER.3
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_CHEER.3"
+msgid "Such an excellent performance! I do hope you purchase more tokens to show us again!"
+msgstr "Ne mükemmel bir performans! Umarım bize tekrar göstermek için daha fazla jeton alırsınız!"
+
+#. STRINGS.CARNIVAL_HOST_GAME_END_BORED.1
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_END_BORED.1"
+msgid "Too bad. Better luck next time!"
+msgstr "Çok yazık. Bir dahaki sefere bol şans!"
+
+#. STRINGS.CARNIVAL_HOST_GAME_END_BORED.2
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_END_BORED.2"
+msgid "I have plenty more tokens to sell if you'd like to try again!"
+msgstr "Tekrar denemek isterseniz satacak bir sürü jetonum daha var!"
+
+#. STRINGS.CARNIVAL_HOST_GAME_END_CHEER.1
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_END_CHEER.1"
+msgid "Well done, well done! Now why don't you go peruse our Prize Booth?"
+msgstr "Aferin, aferin! Şimdi Ödül Kulübemize göz atmaya ne dersiniz?"
+
+#. STRINGS.CARNIVAL_HOST_GAME_END_CHEER.2
+msgctxt "STRINGS.CARNIVAL_HOST_GAME_END_CHEER.2"
+msgid "What an astonishing display! Here, let old Corvus Goodfeather give you an extra ticket."
+msgstr "Ne hayret verici bir gösteri! Bırakın da ihtiyar Corvus İyitüy size fazladan bir bilet versin."
+
+#. STRINGS.CARNIVAL_HOST_OTHERGAME_TALK.1
+msgctxt "STRINGS.CARNIVAL_HOST_OTHERGAME_TALK.1"
+msgid "What is this game?"
+msgstr "Bu nasıl bir oyun?"
+
+#. STRINGS.CARNIVAL_HOST_OTHERGAME_TALK.2
+msgctxt "STRINGS.CARNIVAL_HOST_OTHERGAME_TALK.2"
+msgid "What an odd game. Not nearly as fun as the ones we have at the Cawnival!"
+msgstr "Ne tuhaf bir oyun. Karganaval'dakilere yaklaşamaz bile!"
+
+#. STRINGS.CARNIVAL_HOST_OTHERGAME_TALK.3
+msgctxt "STRINGS.CARNIVAL_HOST_OTHERGAME_TALK.3"
+msgid "I'm not familiar with the rules..."
+msgstr "Kurallarına aşina değilim..."
+
+#. STRINGS.CARNIVAL_HOST_SELL_GENERIC.1
+msgctxt "STRINGS.CARNIVAL_HOST_SELL_GENERIC.1"
+msgid "Look here, I have such wonderful games for you to play!"
+msgstr "Buraya bakın, oynamanız için harika oyunlarım var!"
+
+#. STRINGS.CARNIVAL_HOST_SELL_GENERIC.2
+msgctxt "STRINGS.CARNIVAL_HOST_SELL_GENERIC.2"
+msgid "A Cawnival is not complete without some fun and games."
+msgstr "Bir parça eğlence ve oyun olmadan Karganaval tamamlanmaz."
+
+#. STRINGS.CARNIVAL_HOST_SELL_PLAZA.1
+msgctxt "STRINGS.CARNIVAL_HOST_SELL_PLAZA.1"
+msgid "Yes, yes! The centerpiece must be set!"
+msgstr "Evet, evet! Merkez parça yerleştirilmeli!"
+
+#. STRINGS.CARNIVAL_HOST_SELL_PLAZA.2
+msgctxt "STRINGS.CARNIVAL_HOST_SELL_PLAZA.2"
+msgid "The Cawnival cannot begin until the Tree is planted!"
+msgstr "Ağaç dikilmeden Karganaval başlayamaz!"
+
+#. STRINGS.CAST.ARTIFICER
+msgctxt "STRINGS.CAST.ARTIFICER"
+msgid "The Artificer"
+msgstr "Zanaatkâr"
+
+#. STRINGS.CAST.BLACKSMITH
+msgctxt "STRINGS.CAST.BLACKSMITH"
+msgid "The Blacksmith"
+msgstr "Demirci"
+
+#. STRINGS.CAST.DOLL
+msgctxt "STRINGS.CAST.DOLL"
+msgid "The Doll"
+msgstr "Oyuncak Bebek"
+
+#. STRINGS.CAST.DOLL_BROKEN
+msgctxt "STRINGS.CAST.DOLL_BROKEN"
+msgid "The Broken Doll"
+msgstr "Kırık Bebek"
+
+#. STRINGS.CAST.DOLL_REPAIRED
+msgctxt "STRINGS.CAST.DOLL_REPAIRED"
+msgid "The Shattered Doll"
+msgstr "Paramparça Bebek"
+
+#. STRINGS.CAST.ELYTRA
+msgctxt "STRINGS.CAST.ELYTRA"
+msgid "Elytra"
+msgstr "Elytra"
+
+#. STRINGS.CAST.FOOL
+msgctxt "STRINGS.CAST.FOOL"
+msgid "The Fool"
+msgstr "Joker"
+
+#. STRINGS.CAST.HALFWIT
+msgctxt "STRINGS.CAST.HALFWIT"
+msgid "The Halfwit"
+msgstr "Akılsız"
+
+#. STRINGS.CAST.KING
+msgctxt "STRINGS.CAST.KING"
+msgid "The King"
+msgstr "Kral"
+
+#. STRINGS.CAST.MIRROR
+msgctxt "STRINGS.CAST.MIRROR"
+msgid "The Mirror"
+msgstr "Ayna"
+
+#. STRINGS.CAST.PRINCESS
+msgctxt "STRINGS.CAST.PRINCESS"
+msgid "The Princess"
+msgstr "Prenses"
+
+#. STRINGS.CAST.QUEEN
+msgctxt "STRINGS.CAST.QUEEN"
+msgid "The Queen"
+msgstr "Kraliçe"
+
+#. STRINGS.CAST.SAGE
+msgctxt "STRINGS.CAST.SAGE"
+msgid "The Sage"
+msgstr "Bilge"
+
+#. STRINGS.CAST.TOADY
+msgctxt "STRINGS.CAST.TOADY"
+msgid "The Toady"
+msgstr "Yağcı"
+
+#. STRINGS.CAST.TREE
+msgctxt "STRINGS.CAST.TREE"
+msgid "The Tree"
+msgstr "Ağaç"
+
+#. STRINGS.CAST.VISIONIST
+msgctxt "STRINGS.CAST.VISIONIST"
+msgid "The Visionist"
+msgstr "Görücü"
+
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
 msgid "Cancel"

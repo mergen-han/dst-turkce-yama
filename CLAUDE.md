@@ -49,12 +49,12 @@ Her oturum başında bu üç dosyayı oku (Aydın'ın "devam" demesi yetiyor):
 
 **`PROGRESS.md`** dosyasını oku — Faz 3 başlangıç batch'ini bul.
 
-Kabaca özet (Oturum 6 sonu, 2026-04-28):
+Kabaca özet (Oturum 7 sonu, 2026-04-28):
 - ✅ Faz 0+1 tamam (mod iskeleti + pipeline + docs)
 - ✅ **Faz 2 UI %100 tamam** — 4.439/4.439 string PO'da
-- 🟡 **Faz 3 devam** — Oturum 5+6'da 770 string yapıldı (ACTIONS+ANTIADDICTION+ARCHIVE+ATRIUM+BALATRO+BEEFALONAMING+BOARLORD+BROKENITEM+BUNNYMANNAMES+CARNIVAL_CROWKID 1-5)
-- Toplam: **5.209/85.706 (%6.08)**
-- Sıradaki: batch_0036'dan devam — CARNIVAL_CROWKID kalan blokları + CARNIVAL_HOST/CARNIVAL_HOST_GUARDS_*
+- 🟡 **Faz 3 devam** — Oturum 5+6+7'de 873 string yapıldı (ACTIONS+ANTIADDICTION+ARCHIVE+ATRIUM+BALATRO+BEEFALONAMING+BOARLORD+BROKENITEM+BUNNYMANNAMES+**CARNIVAL_CROWKID tam**+**CARNIVAL_HOST tam**+**CAST**)
+- Toplam: **5.312/85.706 (%6.20)**
+- Sıradaki: **batch_0060 STRINGS.CHARACTERS başlıyor — Faz 5 ile karar noktası** (Seçenek A: numaralı sırayla CHARACTERS'a gir / Seçenek B: item bloklarını öne al, sonra dön — bkz. PROGRESS.md "Sıradaki Oturum 8" bölümü)
 
 ## Faz 2 ✅ tamam (2026-04-28) — In-game tam Türkçe ekranlar
 
@@ -105,14 +105,16 @@ Kabaca özet (Oturum 6 sonu, 2026-04-28):
 | 4 | 2026-04-27/28 | 0777-0784 | 1.439 | PAUSEMENU sonu + PRESENCE + PURCHASEPACK + RARITY + RECIPE_BOOK + SANDBOXMENU tam + SAVELOAD + SCRAPBOOK + SERVERADMIN + SERVERCREATION tam + SERVERLISTING tam + SETPOPUP + SKINSSCREEN tam + SNOWMAN + SPECIAL_EVENTS + SPLITSCREEN + STARTADVENTURE + LUNAR/SHADOW_RIFTS + STATSPANEL + TELEPORT + TRADESCREEN derinlik (CROW/KITCOON/MAGICSKIN/REDBIRD/SNOW/SKIN_COLLECTOR) + WARDROBE + WORDPREDICTION + WORLDGEN tam + WORLDRESET + WXPLOBBYPANEL tam + WXP_DETAILS + XB1 + XPUTILS — **UI %100 BİTTİ** |
 | 5 | 2026-04-28 | 0001-0008 | 609 | Faz 3 başladı: STRINGS.ACTIONS tam (490) + ANTIADDICTION + ARCHIVE_RUNE_STATUE + ATRIUM_OVERGROWTH + BALATRO (Klei cross-promo) + BEEFALONAMING (Bızonsığır rastgele isim üreteci) |
 | 6 | 2026-04-28 | 0009-0035 | 161 | STRINGS.BOARLORD tam (Forge patron Pugna 7 round dramatik yay) + BROKENITEM + BUNNYMANNAMES (72 Tavşanadam bilim/havuç/element ismi) + CARNIVAL_CROWKID 1-5 (Karganaval Karga Veleti gak-gak banter) |
+| 7 | 2026-04-28 | 0036-0059 | 103 | CARNIVAL_CROWKID kalan tam (DECOR_AMBIENT/PLAYER varyantları, GAME_GOTO, HASGIFT, REFUSEGIFT, SCARED) + CARNIVAL_HOST tam (Corvus Goodfeather=Corvus İyitüy showman pun'ları) + STRINGS.CAST (Atriyum sahne oyunu 16 rolü: Zanaatkâr/Demirci/Joker/Bilge/Görücü vb.) |
 
 ### Sonraki oturumda devam protokolü
 1. Bu dosyayı (CLAUDE.md) oku
-2. PROGRESS.md son ✅ Oturum altındaki sıradaki ⬜ batch'i bul (şu an: `batch_0036` — CARNIVAL_CROWKID devamı)
+2. PROGRESS.md son ✅ Oturum altındaki sıradaki ⬜ batch'i bul (şu an: `batch_0060` — **CHARACTERS başlangıcı, Aydın'ın Seçenek A/B kararı bekleniyor**, bkz PROGRESS.md "Sıradaki Oturum 8")
 3. docs/glossary.tsv + docs/style-guide.md tekrar yükle (her oturum başı)
-4. `pipeline/batches/pending/batch_NNNN.json` Read → çevir → `pipeline/batches/done/batch_NNNN.json` Write
-5. Hedef: oturum başına ~150-200 string (büyüklüğüne göre 6-30 batch)
-6. Oturum sonu: merge + validate + DST sync + PROGRESS.md güncelle + commit + push
+4. **Seçenek A seçilirse:** docs/character-voices.md zorunlu oku
+5. `pipeline/batches/pending/batch_NNNN.json` Read → çevir → `pipeline/batches/done/batch_NNNN.json` Write
+6. Hedef: oturum başına ~150-200 string (büyüklüğüne göre 6-30 batch)
+7. Oturum sonu: merge + validate + DST sync + PROGRESS.md güncelle + commit + push
 
 ## Kritik Teknik Noktalar
 

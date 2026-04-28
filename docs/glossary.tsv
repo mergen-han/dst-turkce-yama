@@ -50,6 +50,37 @@ Crocommanders	Timsahkomutanlar	(Croc+Commanders; PROGRESS Faz 2 milestone tutarl
 Gateway	Geçit	(Forge mekânı + Atrium gateway)
 Throne	Taht	(Constant'taki taht; Forge lore'unda "the Throne")
 #
+# === KARGANAVAL (CAWNIVAL) ===
+Corvus Goodfeather	Corvus İyitüy	(Karganaval host'u; Corvus=Latince karga cinsi korunur, Goodfeather=İyitüy)
+Goodfeather	İyitüy	(short form)
+Egg Scramble	Yumurta Telaşı	(Karganaval mini oyun; "scramble" telaş+çırpılmış yumurta pun korundu)
+Hubbub for Grub	Yem için Yaygara	(Karganaval mini oyun; alliterasyon: y-y)
+Prize Booth	Ödül Kulübesi
+Cawnival Tree	Karganaval Ağacı
+Carnival Tree	Karganaval Ağacı
+Token	Jeton	(Karganaval para birimi)
+Ticket	Bilet	(Karganaval ödül kuponu)
+featherfree	tüysüz	(karga argosu — kanatsız mahluklar için)
+Squawck	Gak	(karga sesi pun; "Squawck about X" → "Gak desem az gelir, X")
+#
+# === STAGE PLAY (SAHNE OYUNU) ROLLER ===
+The Artificer	Zanaatkâr	(Atriyum sahne oyunu rolü)
+The Blacksmith	Demirci
+The Doll	Oyuncak Bebek
+The Broken Doll	Kırık Bebek
+The Shattered Doll	Paramparça Bebek	(klei kasıtlı ironi: DOLL_REPAIRED key=shattered)
+Elytra	Elytra	(Latin böcek kanat terimi; özel isim olarak korunur)
+The Fool	Joker	(Balatro-uyumlu; tiyatro fool karakteri)
+The Halfwit	Akılsız
+The King	Kral
+The Mirror	Ayna
+The Princess	Prenses
+The Queen	Kraliçe
+The Sage	Bilge
+The Toady	Yağcı
+The Tree	Ağaç
+The Visionist	Görücü	("vision" eski Türkçe "görü" → "görücü")
+#
 # === KARAKTERLER (özel isim, çeviri yok) ===
 Wilson	Wilson
 Willow	Willow

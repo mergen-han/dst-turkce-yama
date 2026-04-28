@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-28 (Oturum 6 ✅ — Faz 3 devam, BOARLORD + BUNNYMANNAMES + CARNIVAL_CROWKID)
+**Son güncelleme:** 2026-04-28 (Oturum 7 ✅ — Faz 3 devam, CARNIVAL_CROWKID tam + CARNIVAL_HOST tam + CAST)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 5.209 / 85.706 msgid (%6.08)
+**Şu ana kadar çevrilen toplam:** 5.312 / 85.706 msgid (%6.20)
 
 ---
 
@@ -106,50 +106,46 @@
 
 **Faz 3 toplam:** Oturum 5 (609) + Oturum 6 (161) = 770 string. UI sonrası küçük blok temizliği devam ediyor.
 
-## 🎯 Sıradaki Oturum (7) — Aktif Yol Haritası
+### ✅ Oturum 7 — 2026-04-28 (24 batch / 103 string)
 
-> Oturum sonunda durum güncellendi 2026-04-28. Sıradaki Claude bu listeyi takip etsin.
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0036-0049` | 52 | **CARNIVAL_CROWKID kalan tam** — DECOR_AMBIENT_NONE_SNACK/SOME/SOME_SNACK + DECOR_PLAYER_LOTS/LOTS_SNACK/NONE/NONE_SNACK/SOME/SOME_SNACK + GAME_GOTO + HASGIFT + OTHERGAME_GOTO + REFUSEGIFT + SCARED. Mini oyun adları: **Egg Scramble=Yumurta Telaşı, Hubbub for Grub=Yem için Yaygara**. "Featherfree creature=tüysüz mahluk" (Oturum 6 standart). "Squawck about creepy" → "Gak desem az gelir, ne ürpertici!" (karga sesi pun korundu). Karga veletlerinin meraklı/tembel/açgözlü kişiliği yansıdı | ✅ |
+| `0050-0058` | 35 | **CARNIVAL_HOST tam** — Karganaval host'u **Corvus Goodfeather=Corvus İyitüy** (Latince Corvus karga cinsi korundu, Goodfeather=İyitüy yerelleştirildi). Showman tarzı abartılı sıfatlar (great/wondrous/spectacular → ulu/harikulade/muhteşem). "Last year was so profitable- er, FUN" Klei açgözlü tüccar kaçışı korundu. "Early bird gets the worm" → "Erken kalkan kuş solucanı kapar" (atasözü uyarlaması). Sistem-tarzı "siz" kullanımı (Hoş geldiniz, Jetonlarınızı alın) | ✅ |
+| `0059` | 16 | **STRINGS.CAST** — Atriyum sahne oyunu rolleri: Zanaatkâr/Demirci/Oyuncak Bebek/Kırık Bebek/Paramparça Bebek/Elytra/Joker/Akılsız/Kral/Ayna/Prenses/Kraliçe/Bilge/Yağcı/Ağaç/Görücü. Klei kasıtlı ironi: DOLL_REPAIRED key=Shattered (yenilenmiş ama paramparça — Charlie lore). Elytra Latin böcek terimi olduğu gibi korundu | ✅ |
 
-### Yakın blok: batch_0036-0049 — CARNIVAL_CROWKID kalan (14 batch, ~70 string tahmini)
-- `0036` CARNIVAL_CROWKID_DECOR_AMBIENT_NONE_SNACK
-- `0037` CARNIVAL_CROWKID_DECOR_AMBIENT_SOME
-- `0038` CARNIVAL_CROWKID_DECOR_AMBIENT_SOME_SNACK
-- `0039` CARNIVAL_CROWKID_DECOR_PLAYER_LOTS
-- `0040` CARNIVAL_CROWKID_DECOR_PLAYER_LOTS_SNACK
-- `0041` CARNIVAL_CROWKID_DECOR_PLAYER_NONE
-- `0042` CARNIVAL_CROWKID_DECOR_PLAYER_NONE_SNACK
-- `0043` CARNIVAL_CROWKID_DECOR_PLAYER_SOME
-- `0044` CARNIVAL_CROWKID_DECOR_PLAYER_SOME_SNACK
-- `0045` CARNIVAL_CROWKID_GAME_GOTO
-- `0046` CARNIVAL_CROWKID_HASGIFT
-- `0047` CARNIVAL_CROWKID_OTHERGAME_GOTO
-- `0048` CARNIVAL_CROWKID_REFUSEGIFT
-- `0049` CARNIVAL_CROWKID_SCARED
+**Faz 3 toplam:** Oturum 5 (609) + Oturum 6 (161) + Oturum 7 (103) = 873 string.
 
-### Sonra: batch_0050-0058 — CARNIVAL_HOST (9 batch, ~? string)
-Karganaval ev sahibi (Corvus liderleri) blokları:
-- `0050` CARNIVAL_HOST_ANNOUNCE_CARNIVAL
-- `0051` CARNIVAL_HOST_ANNOUNCE_GENERIC
-- `0052` CARNIVAL_HOST_GAME_BORED
-- `0053` CARNIVAL_HOST_GAME_CHEER
-- `0054` CARNIVAL_HOST_GAME_END_BORED
-- `0055` CARNIVAL_HOST_GAME_END_CHEER
-- `0056` CARNIVAL_HOST_OTHERGAME_TALK
-- `0057` CARNIVAL_HOST_SELL_GENERIC
-- `0058` CARNIVAL_HOST_SELL_PLAZA
+## 🎯 Sıradaki Oturum (8) — Karar Noktası
 
-### Sonra: batch_0059 — STRINGS.CAST (1 batch, oyuncu/karakter cinsi)
+> Oturum 7 sonu CAST tamamlandı. **Bir sonraki batch (0060) STRINGS.CHARACTERS başlıyor** — bu Faz 5 işi.
 
 ### ⚠️ KRİTİK: batch_0060+ — STRINGS.CHARACTERS başlıyor (~62.645 string, ~313 batch)
-**Burada karar gerek:** Faz numaraları ile alfabetik batch sıralama uyuşmuyor.
+**Aydın'ın kararı bekleniyor:** Faz numaraları ile alfabetik batch sıralama uyuşmuyor.
 - Alfabetik: CHARACTERS (60-373) → COOKBOOK → INV_DESC → ... → NAMES → RECIPE_DESC → ...
 - Faz mantığı: Faz 3 = NAMES/RECIPE_DESC/INV_DESC/COOKBOOK öncelik; Faz 5 = CHARACTERS
 
-**Seçenek A (numaralı sıra):** batch_0060'tan başlayıp CHARACTERS'a doğrudan gir → Faz 5'e erken geç. Persona disiplini için `docs/character-voices.md` zorunlu okuma.
+**Seçenek A (numaralı sıra):** batch_0060'tan başlayıp CHARACTERS'a doğrudan gir → Faz 5'e erken geç. Persona disiplini için `docs/character-voices.md` zorunlu okuma. Wilson akademik, Wendy melankolik, WX-78 BÜYÜK HARF, Wormwood yarım Türkçe, Wortox kafiyeli — 17 karakter ayrı persona prompt.
 
 **Seçenek B (faz öncelikli):** batch_0060-0373 CHARACTERS'ı atla, sırayla COOKBOOK/INV_DESC/NAMES/RECIPE_DESC/PLANTREGISTRY batch'lerini bul (numarayla aramak gerekiyor) — Faz 3'ü tamamla, sonra Faz 5'e dön.
 
-**Tavsiye:** Aydın'a sor. Eğer karar bekliyorsa: bunları item glossary'si CHARACTERS persona'sı için besleyici olduğundan **Seçenek B** mantıklı (Wilson "Cut Grass" derse Türkçe adını bilmek lazım).
+**Tavsiye (Claude'dan):** Item glossary'si CHARACTERS persona'sı için besleyici (Wilson "Cut Grass" derse Türkçe adını bilmek lazım) → **Seçenek B mantıklı**. Ama nihai karar Aydın'da.
+
+### Hızlı başlangıç: Aydın "B devam" derse
+Aşağıdaki batch numaralarını `pipeline/batches/pending/` içinde aramak lazım (alfabetik POT extraction olduğundan numara aralıkları tahmini):
+- COOKBOOK ~ batch 0374-0390 civarı (Warly tarif kitabı pun'ları)
+- INV_DESC ~ batch 0440-0480 civarı (envanter hover açıklamaları)
+- NAMES ~ batch 0480-0560 civarı (~2.802 item ismi — **EN GÖRÜNÜR KISIM**)
+- RECIPE_DESC ~ batch 0560-0600 civarı (~956 tarif açıklaması)
+- PLANTREGISTRY ~ batch 0640-0680 civarı (Wickerbottom -W bitki kayıt)
+
+Numara aralıklarını teyit için: `ls pipeline/batches/pending/ | grep -E "(COOKBOOK|INV_DESC|NAMES|RECIPE)"` — ama dosya adları batch_NNNN.json formatında olduğundan içeriği sample'la (head -1) `category` alanına bakmak gerek.
+
+### Hızlı başlangıç: Aydın "A devam" derse
+- `docs/character-voices.md` zorunlu oku → 17 karakter persona
+- batch_0060.json oku → category=CHARACTERS.<KARAKTER> görür
+- Karakter karakter ilerle (büyüklük: ~2.000-7.000 string per karakter)
+- Wilson en uzun (referans tonu); önerilen ilk: Wilson; sonra Wickerbottom (akademik), Maxwell (alaycı), Wendy (melankolik), Willow, Wolfgang, Webber, Winona, Walter, Warly, Wanda, Wormwood, Wortox, WX-78, Wurt, Wigfrid, Woodie
 
 ## Faz 3+ — sonraki büyük bloklar (özet)
 
