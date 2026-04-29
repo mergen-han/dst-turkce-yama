@@ -21,14 +21,14 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 | 1 | Pipeline + glossary + dokümantasyon | ✅ |
 | 2 | UI çevirisi (4.439 string) | ✅ %100 |
 | 3 | İtem isimleri + tarif/envanter açıklamaları + lore | ✅ **%100 TAM** (NAMES 2.802 + RECIPE_DESC 956 + PIG_TALK 36/36 ⭐ + RABBIT) |
-| 4 | Bilim/üretim/skill tree/sahne | ⬜ |
-| 5 | 17 karakter konuşmaları (62.645 string) | ⬜ |
+| 4 | Bilim/üretim/skill tree/sahne | 🟡 **SCRAPBOOK %100 TAM ⭐** (4/4 batch / 690 entry); SKILLTREE+STAGEACTOR sırada |
+| 5 | 17 karakter konuşmaları (62.645 string) | 🟡 BAŞLADI 1/314 batch (Wilson generic ACTIONFAIL) |
 | 6 | Skinler + lore + vinyetler | ⬜ |
 | 7 | QA playtest | ⬜ |
 | 8 | Logo + Workshop varlıkları | ⬜ |
 | 9 | v1.0 yayın | ⬜ |
 
-**Toplam:** **9.755 / 85.706 msgid çevrildi (%11.38)** · 16 oturum (2026-04-26 → 2026-04-29) · **Faz 3 %100 TAM ⭐** (NAMES + RECIPE_DESC + PIG_TALK 36/36 + RABBIT) · sırada Faz 4 SCRAPBOOK. Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
+**Toplam:** **10.645 / 85.706 msgid çevrildi (%12.42)** · 17 oturum (2026-04-26 → 2026-04-29) · **Faz 3 %100 TAM ⭐ + SCRAPBOOK %100 TAM ⭐ + Faz 5 başladı (Wilson generic 1/314)** · **%12 eşiği aşıldı**. Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
 
 ### Son oturumda eklenen Türkçe içerik (Oturum 13 — Lore + sahne oyunu temizliği)
 
@@ -115,4 +115,4 @@ Yanlış çeviri / eksik metin / bug için **Issues** sekmesi. PR rehberi `CONTR
 
 ---
 
-**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.8.3-faz3-tam`
+**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.9.0-scrapbook-tam`

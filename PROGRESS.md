@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 16 ✅ — **PIG_TALK serisi TAMAMLANDI** ⭐ 36/36 batch + RABBIT serisi tam — 41 batch / 136 string)
+**Son güncelleme:** 2026-04-29 (Oturum 17 ✅ — **SCRAPBOOK TAM ⭐ 4/4 batch (690 entry)** + **Faz 5 BAŞLADI** — Wilson generic ACTIONFAIL 1/314 batch — 5 batch / 890 string)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 9.755 / 85.706 msgid (%11.38)
+**Şu ana kadar çevrilen toplam:** 10.645 / 85.706 msgid (%12.42)
 
 ---
 
@@ -288,21 +288,39 @@
 
 **Toplam ilerleme:** 9.619 → 9.755 (%11.22 → %11.38)
 
-## 🎯 Sıradaki Oturum (17) — Yol Haritası
+### ✅ Oturum 17 — 2026-04-29 (5 batch / 890 string) — SCRAPBOOK TAM ⭐ + Faz 5 BAŞLADI
 
-### **EN YÜKSEK ÖNCELİK:** Faz 4 başla — SCRAPBOOK
-- `0655-0658` STRINGS.SCRAPBOOK (4 batch, ~600 SPECIALINFO + CATS/SUBCATS/FOODTYPE) — uzun item açıklamaları, Klei mizahı disiplini
+**Aydın'ın "devam" + "faz 5'i de yap bunun peşine" komutu:** Faz 4 SCRAPBOOK 4 batch tam (690 entry) + Faz 5 STRINGS.CHARACTERS başlangıç batch_0060 yapıldı (Wilson generic ACTIONFAIL replikleri).
 
-### Faz 4 (devam)
-- `0680-0683` STRINGS.SKILLTREE (4 batch, ~400 string) — Wendy/Wickerbottom/Wilson/Wolfgang/WX-78 vb. yetenek ağacı
-- `0733-0736` STRINGS.STAGEACTOR (4 batch, ~600 string) — Atriyum sahne oyunu replikleri
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0655` | 200 | **STRINGS.SCRAPBOOK A-COMPOSTINGBIN**: CATS (8 kategori) + DATA_* (39 yapı bilgisi etiketi) + FOODTYPE (17 yiyecek tipi) + SANITYDESC (6 akıl etkisi) + UI (CYCLE/SEARCH/SELECT) + SPECIALINFO ABIGAIL_FLOWER → COMPOSTINGBIN (~118 uzun item açıklaması: ALTERGUARDIANHAT 4 satır, ARMORWAGPUNK W.A.R.B.I.S. açıklaması, ATRIUMGATE/ARCHIVE serisi, BALATRO_MACHINE Jimbo poker tam, BANDAGE_BUTTERFLYWINGS Walter Saha Sağlıkçısı, BEEBOX 6 çiçek arı, BEEFALO+BEEFALOGROOMER+BEEF_BELL eyer kuşam, BIRDCAGE besle yumurta, BOOKSTATION 20 yuva Wickerbottom 2x, **15 BOOK_** Wickerbottom kitap büyüleri Bee/Birds/Brimstone/Fire/Fish/Horticulture/Light/Moon/Rain/Research/Silviculture/Sleep/Temperature/Tentacles/Web). | ✅ |
+| `0656` | 200 | **STRINGS.SCRAPBOOK COMPOSTWRAP-PLAYBILL_THE_DOLL**: COMPOSTWRAP Wormwood çiçek 4 dakika, COOKBOOK kayıt, CRATEREDMOONROCK cevher yuvası, CROCKPOT 4 yuva, DUMBBELL 4 form Wolfgang halter, **GHOSTLYELIXER 9 form Wendy** (Attack/Healing/Lunar/Regeneration/Retaliation/Revive/Shadow/Shield/Speed) Hayalet Çelengi rolü, GREENAMULET üretim yarısı, **HERMITCRAB Pearl tam ekosistemi** (8 çay form: Firenettles/Foliage/Forgetmelots/Mooncap/Petals/Petals_Evil/Succulent/Tillweed + Lightpost/Relocation Kit/Teashop/Hermithouse), JUNK_PILE_BIG, KELPHAT Wurt akıl ters, **LUNAR ekosistemi** (LUNARFORGE Saf Parıltı/LUNARPLANTHAT 2 sıçrama/LUNARRIFTPORTAL/LUNARRIFTCRYSTAL/LUNARTHRALLPLANT/LUNAR_SEED), MASK_ANCIENT 3 form (Architect/Handmaid/Mason) Atriyum sahne, MAST/MASTMALBATROSS yelken 2,5x/4x, MEATRACK kurutma, **MERM ekosistemi 4 yapı** (MERMTHRONE Krala dönüşür, MERM_ARMORY Bataklık Yumruğu/Savaşçı Miğferi 50%/70%, MERM_TOOLSHED Çürük/Biraz Daha Az Çürük Alet), **MIGHTYGYM Wolfgang halter Pazı**, MOLEHAT Köstgözlük gece görüş, MOONALTAR/MOONBASE Klei tekerleme/MOONDIAL ay evresi/MOONDEVICE/MOONROCKIDOL Semavi Geçit karakter değişimi, MOONSTORM 3 entry, MOSQUITO 4 entry (Bomba/Mermsalve/Musk/Sack), **15 BOOK + Hermitcrab + Lunar + Mast + Merm + Moon serisi**, OCEANFISHINGLURE 7 form (Blue/Drowsy/Green/Heavy/Rain/Red/Snow) zaman bağlı, ONEMANBAND Tek Kişilik Orkestra Klei, **PIGKING+PIGTORCH+PIGGYBACK** Domuzların Kralı, PLAYBILL_DOLL Charlie versiyonu | ✅ |
+| `0657` | 200 | **STRINGS.SCRAPBOOK PLAYBILL_THE_VAULT-WINONASPOTLIGHT**: PLAYBILL 2 form/PLAYING_CARD, **POCKETWATCH 7 form Wanda** tam (Dismantler/Heal/Portal Yarık 10sn/Recall 8dk/Revive iskelet/Warp gençlik geri/Weapon yakıt 0=27 hasar), POLLY_ROGERSHAT, PORTABLE 5 form (Blender/Cookpot 4 yuva/Firepit/Spicer/Tent Walter Pinetree Pioneer 1/2 hunger), POWDERMONKEY rüşvet, PUMPKINCARVER, **PURPLEAMULET delirir/PURPLESTAFF Uzayyer ışınla**, **RABBITKING 6 form** (Aggressive Wrathful/Lucky Fortuitous et lanet/Passive Benevolent pazarlık/Spear/Horn Portable Den/Minion_Bunnyman ferman), RAINOMETER, RESURRECTIONSTONE Diriliş Taşı/RESURECTIONSTATUE 40 can/REVIVER 80 akıl Diriliş Aşısı, RUINSHAT bariyer, **SADDLE 5 tip** (Basic/Race hız/Shadow hız/War yavaş/Wathgrithr yavaş), SACREDCHEST Metheus 6 yuva, SALTBOX 4x bozulma/SALTLICK sürü çek/SALTY_DOG Tuzlu Köpek tuz kristal, SCULPTINGTABLE Cut Stone/Marble/Moon Glass, SHADOWFORGE Saf Dehşet/**SHADOW_BATTLEAXE 3 seviye 9 dev**/SHADOWHEART/SHADOWRIFTPORTAL/SHADOWTHRALL_CENTIPEDE/MOUTH/SHADOW_BEEF_BELL bağlı Bızonsığır dirilt, SHIELDOFTERROR yiyecekle tamir, SIESTAHUT gündüz çadır, SISTURN 4 yaprak Abigail 4x, SKELETONHAT delirir gölge tolerans, **SLINGSHOT 30 entry tam Walter** (Container 6 yuva/13 ammo Dreadstone %50 kırılmaz/Gelblob Yapışkak 60sn/Gunpowder patlama/Honey 8sn/Horrorfuel Üşüşen Dehşet 4 yığın/Lunarplanthusk Aydınlık Sarmaşık/Moonglass orta alan/Poop ilgi kaybı/Purebrilliance Saf Parıltı 30sn/Scrapfeather elektrik ıslak/Slow 30sn 3 yığın/Stinger küçük alan/Thulecite Gölge Dokunaç + 6 modkit Bone backup/Gems alternatif saldırı/Wagpunk 2 form sınırsız yığın 200% hasar + 4 handle Jelly/Silk/Sticky/Voidcloth + 3 band Mimic taklit/Pigskin/Tentacle kalpsiz canavar), SLURTLESLIME 50 hasar yakıt, SOILAMENDER Wormwood çiçek 1-4dk, SPEAR_WATHGRITHR_LIGHTNING 2 form Elding Mızrağı II, SPEEDYBALLOON %30 küçülür, **SPICE 4 form** (Chili 20% hasar/Garlic 33% direnç/Salt 25% iyileşme/Sugar 2x madencilik), **SPIDER 6 entry** (Spiderden Webber yükselt/Spidergland 8 can/Spiderhat 10 örümcek takip/Repellent Webber pasif/Whistle uyandır/Healer Webber 8 örümcek 80), STAFF 3 form (Coldlight 2 gün/Light kamp ateşi/Tornado), STORAGE_ROBOT otomaton, STRAWROLL 0,66/0,5 saniye, TABLEWINTERSFEAST Kış Neşesi büyük şölen, TACKLE 3 entry (Container 6/Super 15/Station), TELEBASE 3 mor cevher, **VOIDCLOTH Maxwell tam** (Armor cübbe/Hat ardışık vuruş/Kit Karanlık Paçavra/Umbrella bariyer/Boomerang 3 mermi Karbumeranj %10 hız Boşluk Başlığı +1 mermi), **WAGBOSS 5 entry** (Missile ısı arayan/Robot Construction Site Celestial Scion/Kit/Parts/Leg), **WAGPUNKHAT W.A.R.B.I.S. başlık 20% hasar D.U.D.**, **WAGSTAFF 8 entry** (5 araştırma notu Material/Mutations Frog Pengull Varg Hindistan Cevizfili Geyikgöz/Containment/Energy/Electricity/Thermal/Tool/Machinery), **WX-78 0658 başlangıcı**: WALLS 4 seviye/WALRUSCAMP/WALTERHAT akıl yarı/**WANDERINGTRADER Gezgin Tüccar POI dolaş**/WARDROBE/WATERINGCAN/WATERMELONHAT %33/WATERPUMP, WATHGRITHR_SHIELD Battle Rönd, WILLOWEMBER Sıcak Köz, WINCH pençe, **WINONA 4 entry** (Battery High/Low 6 gün 1 gün/Catapult/Spotlight projektör) | ✅ |
+| `0658` | 90 | **STRINGS.SCRAPBOOK WINTEROMETOR-SUBCATS**: WINTERSFEAST 3 entry, WORTOX_SOUL Ruh Sıçraması 25 açlık 5 akıl, **WX-78 28 modül tam** (Beta circuit Bee/Cold Buz Tazısı/Digestion Kedikoon/Heat Ateş Tazısı/Light 2 form/Maxhealth 2 form Spider/Maxhunger 2 form Tazı Yutkun Ayıger/Maxsanity 2 form Shadow Butterfly/Movespeed 2 form Tavşan Rook/Music Pearl Crab King/Nightvision Köstebeksolucan/Radar Karga Kızılkuş/Screech Çıplak Köstebek Yarasası 20sn/Shielding Salyangurp Sarsalyo 80% zırh/Spin Tosçuk balta/Stacksize Krampus sınırsız 1 yuva/Taser Şimşek Keçisi 20 elektrik), WX78MODULEREMOVER, WX78SCANNER Biyo Veri, **WX78_BACKUPBODY+5 DRONE** (Drew teslimat/Scott Roto-Mapper keşif/Jules Zaptotom + Foodbrick Yenidensindirim + Gestalttrapper tayflırobotik), YELLOWAMULET 20% hız/YELLOWSTAFF Cüce Yıldız, **SUBCATS (~50 alt kategori)**: Armor=Zırh, Backpack=Sırt Çantası, Battle Call=Savaş Çağrısı, Pocket Watch=Cep Saati, Slingshot Round=Sapan Mermisi, Stage Costume=Sahne Kostümü, Mini Giant=Mini Dev, Wagstaff Tool=Wagstaff Aleti vb. — **STRINGS.SCRAPBOOK TAMAMEN BİTTİ ⭐** | ✅ |
+| `0060` | 200 | **STRINGS.CHARACTERS.GENERIC.ACTIONFAIL** — Wilson generic "yapamadım" replikleri — Faz 5 BAŞLANGICI ⭐. ACTIVATE+APPLY+APPRAISE+ATTUNE+BATHBOMB+BUILD+CARVE+CHANGEIN+CHARGE+COMPARE+CONSTRUCT+COOK+DECORATESNOWMAN+DEPLOY+DISMANTLE+DIVEGRAB+DRAW+FILL_OCEAN+FISH_OCEAN+GENERIC+GIVE (~30 entry)+GIVEALLTOPLAYER+GIVETOPLAYER+HARVEST+HEAL+HERD_FOLLOWERS+HITCHUP+LOWER_SAIL_FAIL+MARK+MOUNT+OCEAN_FISHING+OPEN_CRAFTING+PICK+PICKUP+PLANTREGISTRY+POUNCE+POUR_WATER+REPAIR+REPLATE+ROW_FAIL+RUMMAGE. Wilson tarzı: "Drat" → "Aman", "Whoops" → "Tüh", "It was worth a shot" → "Denemeye değerdi", "Bilim diyor ki sıramı beklemeliyim" (Science says I have to wait my turn) bilim adamı tonlama, "Failure is success in progress!" → "Başarısızlık, sürmekte olan başarıdır!", "I've got no steak in this contest" → "Bu yarışmada hiçbir biftekim yok" (steak/stake pun), "It's empty, I shell try again later" → "Boş; daha sonra kabuk yeniden denerim" (shell pun korundu), only_used_by_X placeholder'ları aynen korundu (game logic) | ✅ |
+
+**Faz 4 toplam:** SCRAPBOOK %100 TAM ⭐ (4 batch / 690 entry). Sırada SKILLTREE (0680-0683) + STAGEACTOR (0733-0736).
+
+**Faz 5 başladı:** 1/314 batch (Wilson generic ACTIONFAIL). Karakter persona disiplini başladı.
+
+**Toplam ilerleme:** 9.755 → 10.645 (%11.38 → **%12.42**) — **%12 EŞİĞİ AŞILDI** ⭐⭐
+
+## 🎯 Sıradaki Oturum (18) — Yol Haritası
+
+### **EN YÜKSEK ÖNCELİK:** Faz 5 CHARACTERS devam (Wilson generic)
+- `0061-0070` Wilson ANNOUNCE_*+BATTLECRY_*+DESCRIBE_* başlangıç (her batch ~200 entry, çoğu kısa item açıklaması)
+
+### Faz 4 kalan
+- `0680-0683` STRINGS.SKILLTREE (4 batch, Wendy/Wickerbottom/Wilson/Wolfgang/WX-78 yetenek ağacı)
+- `0733-0736` STRINGS.STAGEACTOR (4 batch, Atriyum sahne oyunu repliği)
 - Diğer küçük SET/SHADOW/SHARD/SIGNS bloklar
 
-### Faz 6 — SKINS (sonra)
+### Faz 6 — SKINS
 - `0684-0723` SKIN_DESCRIPTIONS + SKIN_NAMES (40 batch, ~7.806 string)
 
-### Faz 5 (CHARACTERS) — EN SON
-Item glossary tamamlandığında batch_0060'a dönüp 17 karakter speech çevirisine başla. Persona disiplini için `docs/character-voices.md` zorunlu.
+### Faz 5 stratejisi (büyük blok)
+batch_0060-0373 STRINGS.CHARACTERS — 314 batch x ~200 entry = ~62.645 entry. Wilson referans karakteri (akademik bilim adamı, "Drat"/"Whoops"/sarcastik centilmen). Diğer karakterler ayrı batch'lerde (Willow ateş takıntısı, Wolfgang güç, Wendy melankolik, WX-78 BÜYÜK HARF, Wickerbottom pedantik kütüphaneci, Webber 1.tekil çoğul biz/we, Wormwood kırık dil, Wortox şiirsel kafiyeli, Wigfrid Old Norse umlaut, Maxwell sarcastik majestelı, Walani serin, Warly Fransız aşçı, Wilba Cockney İngilizce, Wormwood kırık Türkçe, Wurt yarım Türkçe Merm, Walter çocuk Pinetree Pioneer, Wanda yaş takıntısı). Persona disiplini için `docs/character-voices.md` zorunlu.
 
 ### Faz 5 (CHARACTERS) sonra dönülecek
 Item glossary tamamlandığında batch_0060'a dönüp 17 karakter speech çevirisine başla. Persona disiplini için `docs/character-voices.md` zorunlu.
