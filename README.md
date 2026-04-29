@@ -28,7 +28,7 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 | 8 | Logo + Workshop varlıkları | ⬜ |
 | 9 | v1.0 yayın | ⬜ |
 
-**Toplam:** **12.045 / 85.706 msgid çevrildi (%14.05)** · 20 oturum (2026-04-26 → 2026-04-29) · **Faz 3 %100 TAM ⭐ + SCRAPBOOK %100 TAM ⭐ + Faz 5 Wilson generic 8/314 (DESCRIBE_A→F: CHESSPIECE 30+/COMPASS/CRABKING/CRITTER/COTL/DRAGON/DUMBBELL/EVERGREEN/FARM/FENCE/FIRE/FISH/FLOWER)** · **%14 eşiği aşıldı** ⭐⭐⭐. Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
+**Toplam:** **12.445 / 85.706 msgid çevrildi (%14.52)** · 21 oturum (2026-04-26 → 2026-04-29) · **Faz 3 %100 TAM ⭐ + SCRAPBOOK %100 TAM ⭐ + Faz 5 Wilson generic 10/314 (DESCRIBE_A→M: CHESSPIECE/COTL/DRAGON/DUMBBELL/FARM/FENCE/FROG/GHOSTLYELIXIR/GLOMMER/GNARWAIL/HALLOWEEN+ORNAMENT/HERMITCRAB+TEA/HORSESHOE/ICE/KNIGHT/LAVAARENA/LIGHTNING/LUNAR)** · **%14.5 yaklaşıyor**. Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
 
 ### Son oturumda eklenen Türkçe içerik (Oturum 13 — Lore + sahne oyunu temizliği)
 
@@ -115,4 +115,4 @@ Yanlış çeviri / eksik metin / bug için **Issues** sekmesi. PR rehberi `CONTR
 
 ---
 
-**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.9.3-wilson-describe-cf`
+**Sahip:** [@aydincol4k](https://github.com/aydincol4k) · **Build:** DST `722900` · **Sürüm:** `0.9.4-wilson-describe-fm`

@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 20 ✅ — **Faz 5 Wilson DESCRIBE C→F devam** — batch_0066-0067 CHESSPIECE 30+ form/CHESTER/COMPASS/CRABKING/CRITTER/COTL/DEER/DRAGON/DUMBBELL/EVERGREEN/FARM/FENCE/FIRE/FISH/FLOATING/FLOWER — 3 batch / 600 string)
+**Son güncelleme:** 2026-04-29 (Oturum 21 ✅ — **Faz 5 Wilson DESCRIBE F→M devam** — batch_0068-0069 FROG/FRUITDRAGON/FUSED/GARLIC/GAZPACHO/GELBLOB/GHOSTLY/GINGERBREAD/GLOMMER/GNARWAIL/GOLDEN/GRASS/GRAVE/GREEN/HALLOWEEN+POTION+ORNAMENT/HAMMER/HEAL/HEAT/HEDGEHOUND/HERMITCRAB+TEA+SHELL/HONEY/HORN/HOUND/HUMAN/HUTCH/ICE/INSANITY/IPECAC/JAMMY/JELLY/JUNK/KABOBS/KELP/KILLERBEE/KITCOON+DECOR+DEN+10/KLAUS/KNIGHT/KOALEFANT/KRAMPUS/LANTERN/LATKE/LAVAARENA 30+/LAVAE/LAVASPIT/LAVA_POND/LEAFY/LEIF/LICHEN/LIFE/LIGHT+CRAB+ER+FLIER+NING_GOAT+NING_ROD/LITTLE_WALRUS/LIVING/LOBSTER/LOG/LORD/LOST_TOY 10/LUCKY/LUCY/LUNAR (PLANT+RIFT+THRALL+FORGE+SEED)/LURE/LUTEFISK/MADSCIENCE/MAGICIAN — 2 batch / 400 string)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 12.045 / 85.706 msgid (%14.05)
+**Şu ana kadar çevrilen toplam:** 12.445 / 85.706 msgid (%14.52)
 
 ---
 
@@ -341,10 +341,23 @@
 
 **Toplam ilerleme:** 11.645 → 12.045 (%13.59 → **%14.05**) — **%14 EŞİĞİ AŞILDI** ⭐⭐⭐
 
-## 🎯 Sıradaki Oturum (21) — Yol Haritası
+### ✅ Oturum 21 — 2026-04-29 (2 batch / 400 string) — Faz 5 Wilson DESCRIBE_F-M
+
+**Aydın'ın "devam" komutu:** batch_0068-0069 sırasıyla FOOTBALLHAT→HOMESIGN, HONEY→MAGICIAN.
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0068` | 200 | **DESCRIBE_FOOTBALLHAT→HOMESIGN** — FOOTBALLHAT spor sevmem/FORGETMELOTS Wilson unutmuş/FOSSIL_PIECE+STALKER 4 form/FRESHFRUITCREPES dengeli kahvaltı/FRIENDLYFRUITFLY/FROG 3 form (Son vraklamasını yaptı croak pun)/FROGFISHBOWL kurbağa-balık doldurulmuş/FROGGLEBUNWICH+FROGLEGS+COOKED/FROGNEWTON Newton'un İnciri+FROZENBANANADAIQUIRI/FRUITDRAGON 3 form (olgun değil/snoozing)/FRUITFLY+FLYFRUIT+MEDLEY/FURTUFT/FUSED_SHADELING+BOMB Bombastik!/GARGOYLE 2 form/GARLIC 4 (gargantuan dev sarımsak)/GAZPACHO/GEARS/GELBLOB 5 form (Iyy doğru ick+yapışkan durumda+yargımı koruyacağım)/GEMSOCKET 2/GENERIC_CORPSE 3 (Birçok mutsuz dönüş many unhappy returns)/GESTALT 5 (bilgi vaat+iyi tokat+patlayıcı kişilik)/GHOST/GHOSTFLOWER+HAT/9 GHOSTLYELIXIR (Ah evet Çok bilim-sel)/GIFT+WRAP işte bu sarmak/GINGERBREAD 3 (terk-etme zamanı dessert/desert)/GLASSBLOCK+CUTTER+SPIKE (uygun-kesilmiş cut out)/GLOMMER 2/GLOMMERFLOWER 2+FUEL+WINGS empirically/GLOWBERRYMOUSSE/GNARWAIL 5 (Burnunu aldım+nose around+balina-iyi/Hırlbalina gibi gnarly!)/GOATMILK lezzetle vızıldıyor/GOGGLESHAT+GOLDENAXE/PICKAXE/PITCHFORK/SHOVEL+FARM_HOE/GOLDNUGGET/GOOSE_FEATHER kabarık/GRASS 7 form (kakaya ihtiyacı var)/GRASSGATOR/GRASSGEKKO 2/GRASS_UMBRELLA saç ıslakken/GRAVEURN 2 (urne ev pun urned/earned)/GRAVY hep sos/GREENAMULET+GEM+MOONEYE+STAFF+CAP 2+MUSHROOM 3/GROTTO_POOL_BIG+SMALL/GUACAMOLE Avogadro pun/GUANO/GUNPOWDER karabiber/14 HALLOWEENCANDY (kuru üzüm-yaygarası raisin pun, ahmak-şeker emici sucker)/HALLOWEENPOTION 5 (Billurlaşmış cehennem)/6 HALLOWEEN_ORNAMENT (hayalet-süs spectornament+tamamen yarasalıkça batty+i-dokunaç-tik i-tentacle+kargaşa koparıyor raven)/HAMBAT/HAMMER (Stop! It's time!)/HAMMER_MJOLNIR/HANDPILLOW 4/HAREBALL/HAWAIIANSHIRT lab güvenli değil/HEALINGSALVE+ACID/HEALINGSTAFF/HEATROCK 5/HEDGEHOUND+BUSH pusu/**HERMITCRAB**: deniz-yalnızlık abalonely+yourshellf!/9 HERMITCRABTEA Pearl çayları (huzur-çay sereni-tea/Delilik-çay insani-tea/balmumlu waxy/çöl-tatlı desert/dessert/ısıtıcı uyarı warming label)/HERMITCRAB_LIGHTPOST 3+RELOCATION sürahi-mükemmel pitcher perfect/SHELL kabuk-gidelim shall/TEASHOP 4 (tost+demli yüksek bedel steep+boş-çay emp-tea)/HERMITHOTSPRING 4/HERMITHOUSE 4 (boş kabuk shell of)/HERMIT_BUNDLE+SHELLS Sahil-de sahiden kabuk-veriyor seashells tekerleme/HERMIT_PEARL+CRACKED/HIVEHAT/HOME/HOMESIGN 2. **Klei pun yoğun**: deniz-yalnızlık (abalonely!), kabuk-gidelim (shall+shell), boş-çay (emp-tea), Hırlbalina gibi (gnarly!), Avogadro avocado, Burnunu aldım, kuru üzüm-yaygarası, hayalet-süs, kargaşa koparıyor (raven!), Bombastik | ✅ |
+| `0069` | 200 | **DESCRIBE_HOMESIGN→MAGICIAN_CHEST** — HOMESIGN.UNWRITTEN/HONEY+COMB+HAM+NUGGETS/HORN/HORRORFUEL/HORSESHOE toynak görevim behoove/HOTCHILI Beş alarmlı/HOTSPRING 4/HOUND tazı köpek+BONE+CORPSE 3+MOUND no bones to pick+TOOTH+BLOWPIPE+WHISTLE/HUMANMEAT 3 (et et nereye sınır+morally gray)/HUTCH Ö.D./HUTCH_FISHBOWL 2/ICE Buz tanıştığıma sevindim ice to meet/ICEBERG 2+MELTED/ICEBOX/ICECREAM bağırırım/ICEHAT serin/ICEHOUND her mevsim+ICEPACK+ICESTAFF 3/ICE_BLUEPRINT/INSANITYROCK 2 (AKLI BAŞINDA BENLİĞİM!)/INSPECTACLESHAT vizyon/INSPECTSELF/IPECACSYRUP/IVY_SNARE kaba/JAMMYPRESERVES/JELLYBEAN bir jöle bir fasulye/JUNK_PILE 3/JUSTEGGS pastırma fena gitmezdi/KABOBS sopa öğle/KELP 4 (sodyum yüksek)/KILLERBEE 2/KITCOONDECOR 4+KITCOONDEN 5 (HAYIIIR!)/9 KITCOON biyom (Wilson Jr. 2 isim koyma!)/KLAUS+SACK+KEY/KNIGHT 4 form (şah pun+şövalye-karabasanı knightmare+İyi şövalyeler good knight+atçılığı kesin horsing+sürü-yü duydunuz herd/heard)/KOALEFANT 3+TRUNK tıkalı burun stuffed nose/KRAMPUS+SACK Krampus mukus/LANTERN/LATKES latke daha yiyebilirim latke pun/**30+ LAVAARENA** Forge zırh+silah+başlık+portal seti/LAVAE 5 form+EGG 3+PET 4+TOOTH/LAVASPIT 2 (Bazaltsalya basalt+saliva+Sıcak tükürük)/LAVA_POND Magmateşem!/POND_ROCK gnays-güzel gneiss/LEAFLOAF/LEAFYMEATBURGER vejetaryen ama zalim+SOUFFLE bilim çok ileri/LEIF kocaman 2+IDOL/LICHEN siyanobakteri/LIFEINJECTOR atılım! tedavi!/LIGHTBULB lezzetli görünüyor/LIGHTCRAB biyolüminesan/LIGHTER Willow şanslı/LIGHTFLIER cep daha hafif/LIGHTNINGGOAT 2 (Mehehe sana baaaah)+HORN paratoner/LIGHTNING_ROD 2 (Güç benim! Cennetleri dizginlemek için!)/LITTLE_WALRUS/LIVINGLOG endişeli/LIVINGTREE 3 (köküne kadar çıkar root out)/LOBSTERBISQUE bisk işim değil business/LOBSTERDINNER sabah dinner/LOG 2/LORDFRUITFLY/10 LOST_TOY (Eminim mükemmel bilimsel açıklaması vardır)/LUCKY_GOLDNUGGET ne şanslı buluş/LUCY (Woodie balta-eşi)/LUMPY_SAPLING/LUNARFROG bakmayı kes/LUNARPLANTHAT parlak/LUNARPLANT_HUSK+KIT terzi olarak ay-işi moonlighting!/LUNARRIFT_CRYSTAL+PORTAL/LUNARTHRALL_PLANT+VINE/LUNAR_FORGE+KIT/LUNAR_GRAZER yarık/LUNAR_SEED tac parça/LUREPLANT cazip+BULB et çiftliği/LUTEFISK Borufisk var mı? trumpetfisk pun/MADSCIENCE_LAB Akıl bilim için bedel/MAGICIAN_CHEST tedirgin. **Klei pun**: Buz tanıştığıma sevindim, AKLI BAŞINDA BENLİĞİM, şah-şövalye-karabasanı-knightmare, sürü-yü duydunuz, latke daha, Magmateşem, gnays-güzel, Bazaltsalya, ay-işi moonlighting, bisk işim, Borufisk, toynak görevim behoove | ✅ |
+
+**Faz 5 toplam:** Oturum 17-21 = batch_0060-0069 / 2.000 entry. Wilson generic ACTIONFAIL+ANNOUNCE+BATTLECRY+COMBAT_QUIT+DESCRIBE_A-M %100. Sıradaki batch_0070 DESCRIBE_M-N devam.
+
+**Toplam ilerleme:** 12.045 → 12.445 (%14.05 → **%14.52**) — yarısı yarıya %15 yaklaşıyor
+
+## 🎯 Sıradaki Oturum (22) — Yol Haritası
 
 ### **EN YÜKSEK ÖNCELİK:** Faz 5 CHARACTERS devam (Wilson generic)
-- `0068-0077` Wilson DESCRIBE_F→I devam (FOSSIL/FROG/FRUIT/FUR/GEAR/GEM/GHOST/GLOMMER/GOLDNUGGET/GRASS/GUANO/HALLOWED/HAMMER/HAT.../ICE/IRONWIND/...)
+- `0070-0079` Wilson DESCRIBE_M→P devam (MALBATROSS/MANDRAKE/MARBLE/MARSH/MAXWELL/MEAT/MERM/METEOR/MIASMA/MIRROR/MOLEHAT/MOONALTAR/MOONROCK/MOSQUITO/MOSS/MOTHER_GOOSE/NIGHTLIGHT/NIGHTMAREFUEL/NIGHTSWORD/NUTRIENTS/OASIS/OBSIDIAN/OCEANFISHING/OCTOPUS/OLDLAMP/ONEMANBAND/OPAL/OXYGEN/PALMCONE/PAMPHLET/PANFLUTE/PEAR.../...)
 
 ### Faz 4 kalan
 - `0680-0683` STRINGS.SKILLTREE (4 batch, Wendy/Wickerbottom/Wilson/Wolfgang/WX-78 yetenek ağacı)
