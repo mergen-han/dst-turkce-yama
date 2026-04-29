@@ -20453,6 +20453,101 @@ msgctxt "STRINGS.PIGNAMES.99"
 msgid "Seth"
 msgstr "Seth"
 
+#. STRINGS.PIG_ELITE_FIGHTER_INTRO.1
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_INTRO.1"
+msgid "I HELP!"
+msgstr "BEN YARDIM!"
+
+#. STRINGS.PIG_ELITE_FIGHTER_INTRO.2
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_INTRO.2"
+msgid "SMASHY! SMASHY!"
+msgstr "EZ! EZ!"
+
+#. STRINGS.PIG_ELITE_FIGHTER_INTRO.3
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_INTRO.3"
+msgid "PUNCH TIME!"
+msgstr "YUMRUK ZAMAN!"
+
+#. STRINGS.PIG_ELITE_FIGHTER_INTRO.4
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_INTRO.4"
+msgid "WHERE I SMASH?"
+msgstr "BEN NEREYİ EZ?"
+
+#. STRINGS.PIG_ELITE_FIGHTER_OUTRO.1
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_OUTRO.1"
+msgid "PIGGY, AWAY!"
+msgstr "DOMUZCUK, FIRLA!"
+
+#. STRINGS.PIG_ELITE_FIGHTER_OUTRO.2
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_OUTRO.2"
+msgid "I PUNCHED!"
+msgstr "BEN YUMRUKLA!"
+
+#. STRINGS.PIG_ELITE_FIGHTER_OUTRO.3
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_OUTRO.3"
+msgid "I GO NOW!"
+msgstr "BEN GİT ŞİMDİ!"
+
+#. STRINGS.PIG_ELITE_FIGHTER_OUTRO.4
+msgctxt "STRINGS.PIG_ELITE_FIGHTER_OUTRO.4"
+msgid "SEE YA!"
+msgstr "GÖRÜŞÜRÜZ!"
+
+#. STRINGS.PIG_ELITE_GOLD.1
+msgctxt "STRINGS.PIG_ELITE_GOLD.1"
+msgid "MINE!"
+msgstr "BENİM!"
+
+#. STRINGS.PIG_ELITE_GOLD.2
+msgctxt "STRINGS.PIG_ELITE_GOLD.2"
+msgid "MY GOLD!"
+msgstr "BENİM ALTIN!"
+
+#. STRINGS.PIG_ELITE_GOLD.3
+msgctxt "STRINGS.PIG_ELITE_GOLD.3"
+msgid "I TAKE GOLD!"
+msgstr "BEN ALTIN AL!"
+
+#. STRINGS.PIG_ELITE_INTRO.1
+msgctxt "STRINGS.PIG_ELITE_INTRO.1"
+msgid "FOR KING!"
+msgstr "KRAL İÇİN!"
+
+#. STRINGS.PIG_ELITE_INTRO.2
+msgctxt "STRINGS.PIG_ELITE_INTRO.2"
+msgid "GET GOLD!"
+msgstr "ALTIN AL!"
+
+#. STRINGS.PIG_ELITE_POST_MATCH.1
+msgctxt "STRINGS.PIG_ELITE_POST_MATCH.1"
+msgid "YOU BAD AT THIS. GET BETTER"
+msgstr "SEN BUNDA KÖTÜ. GELİŞ"
+
+#. STRINGS.PIG_ELITE_POST_MATCH.2
+msgctxt "STRINGS.PIG_ELITE_POST_MATCH.2"
+msgid "TRY AGAIN SOMETIME?"
+msgstr "BİR DAHA DENE?"
+
+#. STRINGS.PIG_ELITE_POST_MATCH.3
+msgctxt "STRINGS.PIG_ELITE_POST_MATCH.3"
+msgid "YOU WORTHY OPPONENT"
+msgstr "SEN LAYIK RAKİP"
+
+#. STRINGS.PIG_ELITE_POST_MATCH.4
+msgctxt "STRINGS.PIG_ELITE_POST_MATCH.4"
+msgid "YOU HUMBLE US"
+msgstr "SEN BİZİ HÜRMETLENDİR"
+
+#. STRINGS.PIG_ELITE_POST_MATCH.5
+msgctxt "STRINGS.PIG_ELITE_POST_MATCH.5"
+msgid "GOOD MATCH. WE GO BED NOW"
+msgstr "İYİ MAÇ. BİZ ŞİMDİ YATAĞA"
+
+#. STRINGS.PIG_ELITE_POST_MATCH.6
+msgctxt "STRINGS.PIG_ELITE_POST_MATCH.6"
+msgid "YOU CHEATER. WE NO LIKE CHEATERS"
+msgstr "SEN HİLECİ. BİZ HİLECİYİ SEVMEZ"
+
 #. STRINGS.PLAYING_CARD_NAMES.CARD0
 msgctxt "STRINGS.PLAYING_CARD_NAMES.CARD0"
 msgid "Playing Card"
@@ -23027,6 +23122,2786 @@ msgstr "Direğine elektrik veren bir ekleme."
 msgctxt "STRINGS.RECIPE_DESC.MAST_ITEM"
 msgid "Sail away, sail away."
 msgstr "Yelken aç, yelken aç."
+
+#. STRINGS.RECIPE_DESC.MAST_MALBATROSS
+msgctxt "STRINGS.RECIPE_DESC.MAST_MALBATROSS"
+msgid "Sail like a seabird into the blue."
+msgstr "Bir deniz kuşu gibi maviliğe yelken aç."
+
+#. STRINGS.RECIPE_DESC.MAST_MALBATROSS_ITEM
+msgctxt "STRINGS.RECIPE_DESC.MAST_MALBATROSS_ITEM"
+msgid "Sail like a seabird into the blue."
+msgstr "Bir deniz kuşu gibi maviliğe yelken aç."
+
+#. STRINGS.RECIPE_DESC.MAST_YOTD_ITEM
+msgctxt "STRINGS.RECIPE_DESC.MAST_YOTD_ITEM"
+msgid "No Dragonflies were harmed in the making of this mast."
+msgstr "Bu direği yaparken hiçbir Yusufçuk zarar görmedi."
+
+#. STRINGS.RECIPE_DESC.MEATRACK
+msgctxt "STRINGS.RECIPE_DESC.MEATRACK"
+msgid "The jerkiest of racks."
+msgstr "Kurutmaca raflarının kralı."
+
+#. STRINGS.RECIPE_DESC.MEATRACK_HERMIT_MULTI
+msgctxt "STRINGS.RECIPE_DESC.MEATRACK_HERMIT_MULTI"
+msgid "Pearl's personal drying rack has room to spare!"
+msgstr "Pearl'in özel kurutma rafında bolca yer var!"
+
+#. STRINGS.RECIPE_DESC.MEGAFLARE
+msgctxt "STRINGS.RECIPE_DESC.MEGAFLARE"
+msgid "Light a beacon for your enemies."
+msgstr "Düşmanların için bir işaret fişeği yak."
+
+#. STRINGS.RECIPE_DESC.MERMHAT
+msgctxt "STRINGS.RECIPE_DESC.MERMHAT"
+msgid "Merm-ify your friends."
+msgstr "Arkadaşlarını Mermleştir."
+
+#. STRINGS.RECIPE_DESC.MERMHOUSE_CRAFTED
+msgctxt "STRINGS.RECIPE_DESC.MERMHOUSE_CRAFTED"
+msgid "A home fit for a Merm."
+msgstr "Bir Merm'e yakışır yuva."
+
+#. STRINGS.RECIPE_DESC.MERMTHRONE_CONSTRUCTION
+msgctxt "STRINGS.RECIPE_DESC.MERMTHRONE_CONSTRUCTION"
+msgid "Usher in a new Merm Monarchy."
+msgstr "Yeni bir Merm Monarşisini başlat."
+
+#. STRINGS.RECIPE_DESC.MERMWATCHTOWER
+msgctxt "STRINGS.RECIPE_DESC.MERMWATCHTOWER"
+msgid "True warriors live within."
+msgstr "Gerçek savaşçılar burada yaşar."
+
+#. STRINGS.RECIPE_DESC.MERM_ARMORY
+msgctxt "STRINGS.RECIPE_DESC.MERM_ARMORY"
+msgid "No merm should charge into battle without a well-fitting helmet."
+msgstr "Hiçbir merm, başına oturan bir miğfer olmadan savaşa atılmamalı."
+
+#. STRINGS.RECIPE_DESC.MERM_ARMORY_UPGRADED
+msgctxt "STRINGS.RECIPE_DESC.MERM_ARMORY_UPGRADED"
+msgid "For merms with discerning taste in combat headgear."
+msgstr "Savaş başlığı zevki yüksek mermler için."
+
+#. STRINGS.RECIPE_DESC.MERM_TOOLSHED
+msgctxt "STRINGS.RECIPE_DESC.MERM_TOOLSHED"
+msgid "A merm is only as good as their tools."
+msgstr "Bir merm ancak aletleri kadar iyidir."
+
+#. STRINGS.RECIPE_DESC.MERM_TOOLSHED_UPGRADED
+msgctxt "STRINGS.RECIPE_DESC.MERM_TOOLSHED_UPGRADED"
+msgid "The best workmermship demands the best tools."
+msgstr "En iyi mermhirlik en iyi aletleri gerektirir."
+
+#. STRINGS.RECIPE_DESC.MESSAGEBOTTLEEMPTY
+msgctxt "STRINGS.RECIPE_DESC.MESSAGEBOTTLEEMPTY"
+msgid "Not just made by hermits!"
+msgstr "Sadece münzeviler yapmaz!"
+
+#. STRINGS.RECIPE_DESC.MIGHTY_GYM
+msgctxt "STRINGS.RECIPE_DESC.MIGHTY_GYM"
+msgid "Bring on the brawn!"
+msgstr "Pazılar konuşsun!"
+
+#. STRINGS.RECIPE_DESC.MINERHAT
+msgctxt "STRINGS.RECIPE_DESC.MINERHAT"
+msgid "Light up the night with your noggin."
+msgstr "Geceyi kafanla aydınlat."
+
+#. STRINGS.RECIPE_DESC.MINIBOATLANTERN
+msgctxt "STRINGS.RECIPE_DESC.MINIBOATLANTERN"
+msgid "It flickers with a warm glow."
+msgstr "Sıcak bir parıltıyla titreşir."
+
+#. STRINGS.RECIPE_DESC.MINIFAN
+msgctxt "STRINGS.RECIPE_DESC.MINIFAN"
+msgid "You have to run to create a breeze!"
+msgstr "Esinti yaratmak için koşman gerek!"
+
+#. STRINGS.RECIPE_DESC.MINIFLARE
+msgctxt "STRINGS.RECIPE_DESC.MINIFLARE"
+msgid "Light the way for your trusted friends."
+msgstr "Güvendiğin arkadaşlarına yolu aydınlat."
+
+#. STRINGS.RECIPE_DESC.MINISIGN_ITEM
+msgctxt "STRINGS.RECIPE_DESC.MINISIGN_ITEM"
+msgid "Draw on these with a Feather Pencil."
+msgstr "Tüy Kalemle üzerine çiz."
+
+#. STRINGS.RECIPE_DESC.MOLEHAT
+msgctxt "STRINGS.RECIPE_DESC.MOLEHAT"
+msgid "Grants the wearer Smell-E-Vision."
+msgstr "Takana Kokuvizyon kazandırır."
+
+#. STRINGS.RECIPE_DESC.MOONBUTTERFLY
+msgctxt "STRINGS.RECIPE_DESC.MOONBUTTERFLY"
+msgid "Help them relive their glory."
+msgstr "Eski ihtişamını yeniden yaşamasına yardım et."
+
+#. STRINGS.RECIPE_DESC.MOONDIAL
+msgctxt "STRINGS.RECIPE_DESC.MOONDIAL"
+msgid "Track the phases of the moon!"
+msgstr "Ay'ın evrelerini takip et!"
+
+#. STRINGS.RECIPE_DESC.MOONGLASS
+msgctxt "STRINGS.RECIPE_DESC.MOONGLASS"
+msgid "A fragment from the Moon."
+msgstr "Ay'dan bir parça."
+
+#. STRINGS.RECIPE_DESC.MOONGLASSAXE
+msgctxt "STRINGS.RECIPE_DESC.MOONGLASSAXE"
+msgid "Fragile but effective."
+msgstr "Kırılgan ama etkili."
+
+#. STRINGS.RECIPE_DESC.MOONGLASSAXE_BLUEPRINT
+msgctxt "STRINGS.RECIPE_DESC.MOONGLASSAXE_BLUEPRINT"
+msgid "Knowledge bestowed by the moon itself."
+msgstr "Bizzat Ay'ın bahşettiği bilgi."
+
+#. STRINGS.RECIPE_DESC.MOONROCKCRATER
+msgctxt "STRINGS.RECIPE_DESC.MOONROCKCRATER"
+msgid "A rock for marking your territory."
+msgstr "Bölgeni işaretlemek için bir kaya."
+
+#. STRINGS.RECIPE_DESC.MOONROCKIDOL
+msgctxt "STRINGS.RECIPE_DESC.MOONROCKIDOL"
+msgid "A key figure."
+msgstr "Anahtar bir figür."
+
+#. STRINGS.RECIPE_DESC.MOONSTORM_GOGGLESHAT
+msgctxt "STRINGS.RECIPE_DESC.MOONSTORM_GOGGLESHAT"
+msgid "Utilize potato eyes to see through storms."
+msgstr "Fırtınaların içini görmek için patates gözlerini kullan."
+
+#. STRINGS.RECIPE_DESC.MOONSTORM_GOGGLESHAT_BLUEPRINT
+msgctxt "STRINGS.RECIPE_DESC.MOONSTORM_GOGGLESHAT_BLUEPRINT"
+msgid "Not your average potato recipe."
+msgstr "Sıradan bir patates tarifi değil."
+
+#. STRINGS.RECIPE_DESC.MOONSTORM_STATIC_CATCHER
+msgctxt "STRINGS.RECIPE_DESC.MOONSTORM_STATIC_CATCHER"
+msgid "Catch static from every direction."
+msgstr "Statiği her yönden yakala."
+
+#. STRINGS.RECIPE_DESC.MOON_DEVICE_CONSTRUCTION1
+msgctxt "STRINGS.RECIPE_DESC.MOON_DEVICE_CONSTRUCTION1"
+msgid "Mad science approved, never tested."
+msgstr "Çılgın bilim onaylı, asla test edilmedi."
+
+#. STRINGS.RECIPE_DESC.MOON_DEVICE_CONSTRUCTION1_BLUEPRINT
+msgctxt "STRINGS.RECIPE_DESC.MOON_DEVICE_CONSTRUCTION1_BLUEPRINT"
+msgid "Meddling with forces beyond comprehension demands careful planning."
+msgstr "Anlaşılmaz güçlerle uğraşmak dikkatli planlama gerektirir."
+
+#. STRINGS.RECIPE_DESC.MOON_MUSHROOMHAT
+msgctxt "STRINGS.RECIPE_DESC.MOON_MUSHROOMHAT"
+msgid "It's like eating all kinds of mushrooms."
+msgstr "Her çeşit mantarı yemek gibi."
+
+#. STRINGS.RECIPE_DESC.MOON_SKETCH
+msgctxt "STRINGS.RECIPE_DESC.MOON_SKETCH"
+msgid "Look upon the face of the moon."
+msgstr "Ay'ın yüzüne bak."
+
+#. STRINGS.RECIPE_DESC.MOSQUITOBOMB
+msgctxt "STRINGS.RECIPE_DESC.MOSQUITOBOMB"
+msgid "Show everyone what the buzz is about."
+msgstr "Herkese vızıltının ne olduğunu göster."
+
+#. STRINGS.RECIPE_DESC.MOSQUITOFERTILIZER
+msgctxt "STRINGS.RECIPE_DESC.MOSQUITOFERTILIZER"
+msgid "Derived from all natural sources."
+msgstr "Tamamen doğal kaynaklardan elde edildi."
+
+#. STRINGS.RECIPE_DESC.MOSQUITOMERMSALVE
+msgctxt "STRINGS.RECIPE_DESC.MOSQUITOMERMSALVE"
+msgid "A revitalizing transfusion for iron-deficient merms."
+msgstr "Demir eksikliği çeken mermler için canlandırıcı bir transfüzyon."
+
+#. STRINGS.RECIPE_DESC.MOSQUITOMUSK
+msgctxt "STRINGS.RECIPE_DESC.MOSQUITOMUSK"
+msgid "Bring your little buddy to blend in with the bloodsuckers."
+msgstr "Küçük dostunu kan emicilerin arasına karıştır."
+
+#. STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS
+msgctxt "STRINGS.RECIPE_DESC.MULTIPLAYER_PORTAL_MOONROCK_CONSTR_PLANS"
+msgid "The best laid plans."
+msgstr "En iyi düşünülmüş planlar."
+
+#. STRINGS.RECIPE_DESC.MULTITOOL_AXE_PICKAXE
+msgctxt "STRINGS.RECIPE_DESC.MULTITOOL_AXE_PICKAXE"
+msgid "Doubly useful."
+msgstr "İki kat kullanışlı."
+
+#. STRINGS.RECIPE_DESC.MUSHROOM_FARM
+msgctxt "STRINGS.RECIPE_DESC.MUSHROOM_FARM"
+msgid "Grows mushrooms."
+msgstr "Mantar yetiştirir."
+
+#. STRINGS.RECIPE_DESC.MUSHROOM_LIGHT
+msgctxt "STRINGS.RECIPE_DESC.MUSHROOM_LIGHT"
+msgid "The perfect addition to any mush-Room."
+msgstr "Her mantar-Odasına mükemmel bir katkı."
+
+#. STRINGS.RECIPE_DESC.MUSHROOM_LIGHT2
+msgctxt "STRINGS.RECIPE_DESC.MUSHROOM_LIGHT2"
+msgid "Inspired by the lava lamp sciences."
+msgstr "Lav lambası bilimlerinden esinlenildi."
+
+#. STRINGS.RECIPE_DESC.MUTATOR_DROPPER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_DROPPER"
+msgid "The flavor might catch you by surprise."
+msgstr "Tadı seni şaşırtabilir."
+
+#. STRINGS.RECIPE_DESC.MUTATOR_HEALER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_HEALER"
+msgid "Extra grainy, so it has to be healthy!"
+msgstr "Ekstra taneli, sağlıklı olmaması mümkün değil!"
+
+#. STRINGS.RECIPE_DESC.MUTATOR_HIDER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_HIDER"
+msgid "Crunchy outside, soft inside."
+msgstr "Dışı çıtır, içi yumuşak."
+
+#. STRINGS.RECIPE_DESC.MUTATOR_MOON
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_MOON"
+msgid "Its recipient will be over the moon!"
+msgstr "Alanını sevinçten havalara uçuracak!"
+
+#. STRINGS.RECIPE_DESC.MUTATOR_SPITTER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_SPITTER"
+msgid "It's the spitting image of a spider."
+msgstr "Bir örümceğin tıpatıp aynısı."
+
+#. STRINGS.RECIPE_DESC.MUTATOR_WARRIOR
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_WARRIOR"
+msgid "Make the sweetest little bodyguards."
+msgstr "En tatlı küçük korumaları yap."
+
+#. STRINGS.RECIPE_DESC.MUTATOR_WATER
+msgctxt "STRINGS.RECIPE_DESC.MUTATOR_WATER"
+msgid "They look simply mouthwatering!"
+msgstr "Resmen ağız sulandırıcı görünüyorlar!"
+
+#. STRINGS.RECIPE_DESC.NIGHTCAPHAT
+msgctxt "STRINGS.RECIPE_DESC.NIGHTCAPHAT"
+msgid "A cap for your sleepy head."
+msgstr "Uykulu kafan için bir başlık."
+
+#. STRINGS.RECIPE_DESC.NIGHTLIGHT
+msgctxt "STRINGS.RECIPE_DESC.NIGHTLIGHT"
+msgid "Light the night with your dreams."
+msgstr "Geceyi rüyalarınla aydınlat."
+
+#. STRINGS.RECIPE_DESC.NIGHTMAREFUEL
+msgctxt "STRINGS.RECIPE_DESC.NIGHTMAREFUEL"
+msgid "Evil residue used by the foolish and crazy."
+msgstr "Aptallar ve delilerce kullanılan kötücül tortu."
+
+#. STRINGS.RECIPE_DESC.NIGHTMARE_TIMEPIECE
+msgctxt "STRINGS.RECIPE_DESC.NIGHTMARE_TIMEPIECE"
+msgid "Track the flow of ambient magic levels."
+msgstr "Ortam büyü seviyesinin akışını takip et."
+
+#. STRINGS.RECIPE_DESC.NIGHTSTICK
+msgctxt "STRINGS.RECIPE_DESC.NIGHTSTICK"
+msgid "Morning light for a nighttime fight."
+msgstr "Gece dövüşü için sabah ışığı."
+
+#. STRINGS.RECIPE_DESC.NIGHTSWORD
+msgctxt "STRINGS.RECIPE_DESC.NIGHTSWORD"
+msgid "Lucid dreaming damage."
+msgstr "Berrak rüya hasarı."
+
+#. STRINGS.RECIPE_DESC.NONSLIPGRIT
+msgctxt "STRINGS.RECIPE_DESC.NONSLIPGRIT"
+msgid "For when you can't afford to slip up."
+msgstr "Hata yapma lüksün olmadığında."
+
+#. STRINGS.RECIPE_DESC.NONSLIPGRITBOOSTED
+msgctxt "STRINGS.RECIPE_DESC.NONSLIPGRITBOOSTED"
+msgid "Re-tread your trail for extra traction."
+msgstr "Ekstra tutuş için izini yeniden kapla."
+
+#. STRINGS.RECIPE_DESC.NUTRIENTSGOGGLESHAT
+msgctxt "STRINGS.RECIPE_DESC.NUTRIENTSGOGGLESHAT"
+msgid "Visualize your garden's success."
+msgstr "Bahçenin başarısını gözünde canlandır."
+
+#. STRINGS.RECIPE_DESC.OAR
+msgctxt "STRINGS.RECIPE_DESC.OAR"
+msgid "Row, row, row your boat."
+msgstr "Çek, çek, çek küreklerini."
+
+#. STRINGS.RECIPE_DESC.OAR_DRIFTWOOD
+msgctxt "STRINGS.RECIPE_DESC.OAR_DRIFTWOOD"
+msgid "Oarn't you glad I didn't say banana?"
+msgstr "Kürek demediğime sevinmedin mi?"
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_BALL
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_BALL"
+msgid "A classic design for pros and beginners."
+msgstr "Profesyoneller ve yeni başlayanlar için klasik bir tasarım."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_CANARY
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_CANARY"
+msgid "Favoured by more discerning anglers."
+msgstr "Daha titiz balıkçıların tercihi."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_CROW
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_CROW"
+msgid "Favoured by more discerning anglers."
+msgstr "Daha titiz balıkçıların tercihi."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_GOOSE
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_GOOSE"
+msgid "A fancy downy float."
+msgstr "Şık bir tüylü şamandıra."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_MALBATROSS
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_MALBATROSS"
+msgid "A fancy float from a furious fowl."
+msgstr "Öfkeli bir kuştan şık bir şamandıra."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_OVAL
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_OVAL"
+msgid "A more stylish take on the classic bobber."
+msgstr "Klasik şamandıranın daha şık bir yorumu."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_ROBIN
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_ROBIN"
+msgid "Favoured by more discerning anglers."
+msgstr "Daha titiz balıkçıların tercihi."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_ROBIN_WINTER
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGBOBBER_ROBIN_WINTER"
+msgid "Favoured by more discerning anglers."
+msgstr "Daha titiz balıkçıların tercihi."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_DROWSY
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_DROWSY"
+msgid "A confused fish is a caught fish."
+msgstr "Kafası karışmış balık, yakalanmış balıktır."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_HEAVY
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_HEAVY"
+msgid "Reel in the big one!"
+msgstr "İri olanı çek getir!"
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_RAIN
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_RAIN"
+msgid "Keep one around for a rainy day."
+msgstr "Yağmurlu günler için bir tane elinin altında bulundur."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_SNOW
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_HERMIT_SNOW"
+msgid "There's snow better time for fishing!"
+msgstr "Balık tutmak için kar uygun zaman yok!"
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPINNER_BLUE
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPINNER_BLUE"
+msgid "Go for a quick evening bite."
+msgstr "Hızlı bir akşam ısırığı için iyi."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPINNER_GREEN
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPINNER_GREEN"
+msgid "A lure that works best in low light."
+msgstr "Loş ışıkta en iyi çalışan bir yem."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPINNER_RED
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPINNER_RED"
+msgid "The early fish gets the worm."
+msgstr "Erken balık solucanı kapar."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPOON_BLUE
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPOON_BLUE"
+msgid "Go for a quick evening bite."
+msgstr "Hızlı bir akşam ısırığı için iyi."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPOON_GREEN
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPOON_GREEN"
+msgid "Fish on into the sunset."
+msgstr "Gün batımına dek balık tut."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPOON_RED
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGLURE_SPOON_RED"
+msgid "The early fish gets the worm."
+msgstr "Erken balık solucanı kapar."
+
+#. STRINGS.RECIPE_DESC.OCEANFISHINGROD
+msgctxt "STRINGS.RECIPE_DESC.OCEANFISHINGROD"
+msgid "Fish like a pro."
+msgstr "Profesyonel gibi balık tut."
+
+#. STRINGS.RECIPE_DESC.OCEAN_TRAWLER_KIT
+msgctxt "STRINGS.RECIPE_DESC.OCEAN_TRAWLER_KIT"
+msgid "There's plenty of fish in the sea."
+msgstr "Denizde balık bol."
+
+#. STRINGS.RECIPE_DESC.OFFERING_POT
+msgctxt "STRINGS.RECIPE_DESC.OFFERING_POT"
+msgid "A little kelp can go a long way."
+msgstr "Birazcık yosun çok yol kat eder."
+
+#. STRINGS.RECIPE_DESC.OFFERING_POT_UPGRADED
+msgctxt "STRINGS.RECIPE_DESC.OFFERING_POT_UPGRADED"
+msgid "A lot of kelp goes a longer way."
+msgstr "Bolca yosun daha çok yol kat eder."
+
+#. STRINGS.RECIPE_DESC.ONEMANBAND
+msgctxt "STRINGS.RECIPE_DESC.ONEMANBAND"
+msgid "Even crazy musicians amass a following."
+msgstr "Çılgın müzisyenlerin bile hayran kitlesi olur."
+
+#. STRINGS.RECIPE_DESC.ORANGEAMULET
+msgctxt "STRINGS.RECIPE_DESC.ORANGEAMULET"
+msgid "For those who don't like to pick items up."
+msgstr "Eşya toplamayı sevmeyenler için."
+
+#. STRINGS.RECIPE_DESC.ORANGESTAFF
+msgctxt "STRINGS.RECIPE_DESC.ORANGESTAFF"
+msgid "For those who don't like walking."
+msgstr "Yürümeyi sevmeyenler için."
+
+#. STRINGS.RECIPE_DESC.PANFLUTE
+msgctxt "STRINGS.RECIPE_DESC.PANFLUTE"
+msgid "Music to soothe savage beasts."
+msgstr "Vahşi canavarları yatıştıran müzik."
+
+#. STRINGS.RECIPE_DESC.PAPYRUS
+msgctxt "STRINGS.RECIPE_DESC.PAPYRUS"
+msgid "For writing things."
+msgstr "Bir şeyler yazmak için."
+
+#. STRINGS.RECIPE_DESC.PERDFAN
+msgctxt "STRINGS.RECIPE_DESC.PERDFAN"
+msgid "Extra lucky, extra large."
+msgstr "Ekstra şanslı, ekstra büyük."
+
+#. STRINGS.RECIPE_DESC.PERDSHRINE
+msgctxt "STRINGS.RECIPE_DESC.PERDSHRINE"
+msgid "Make offerings to the majestic Gobbler."
+msgstr "Görkemli Gulguluya sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.PETALS
+msgctxt "STRINGS.RECIPE_DESC.PETALS"
+msgid "Purify your petals."
+msgstr "Yapraklarını arındır."
+
+#. STRINGS.RECIPE_DESC.PETALS_EVIL
+msgctxt "STRINGS.RECIPE_DESC.PETALS_EVIL"
+msgid "Stain your petals."
+msgstr "Yapraklarını lekele."
+
+#. STRINGS.RECIPE_DESC.PHONOGRAPH
+msgctxt "STRINGS.RECIPE_DESC.PHONOGRAPH"
+msgid "Sit back, relax, and listen to the soundtrack of your nightmares."
+msgstr "Arkana yaslan, rahatla ve karabasanlarının müziğini dinle."
+
+#. STRINGS.RECIPE_DESC.PICKAXE
+msgctxt "STRINGS.RECIPE_DESC.PICKAXE"
+msgid "Break down rocks."
+msgstr "Kayaları parçala."
+
+#. STRINGS.RECIPE_DESC.PICKAXE_LUNARPLANT
+msgctxt "STRINGS.RECIPE_DESC.PICKAXE_LUNARPLANT"
+msgid "Mine and demolish to your heart's content."
+msgstr "Gönlünce kaz ve yık."
+
+#. STRINGS.RECIPE_DESC.PIGGYBACK
+msgctxt "STRINGS.RECIPE_DESC.PIGGYBACK"
+msgid "Carries a lot, but slows you down."
+msgstr "Çok şey taşır ama seni yavaşlatır."
+
+#. STRINGS.RECIPE_DESC.PIGHOUSE
+msgctxt "STRINGS.RECIPE_DESC.PIGHOUSE"
+msgid "Shelters one pig."
+msgstr "Bir domuza barınak olur."
+
+#. STRINGS.RECIPE_DESC.PIGSHRINE
+msgctxt "STRINGS.RECIPE_DESC.PIGSHRINE"
+msgid "Make offerings to the affluent Pig."
+msgstr "Müreffeh Domuza sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.PIGSKIN
+msgctxt "STRINGS.RECIPE_DESC.PIGSKIN"
+msgid "Thick and stretchable hide."
+msgstr "Kalın ve esneyebilir post."
+
+#. STRINGS.RECIPE_DESC.PIRATE_FLAG_POLE
+msgctxt "STRINGS.RECIPE_DESC.PIRATE_FLAG_POLE"
+msgid "Ape the monkey marauders with a pirate flag of your own."
+msgstr "Kendi korsan bayrağınla maymun yağmacılarını taklit et."
+
+#. STRINGS.RECIPE_DESC.PITCHFORK
+msgctxt "STRINGS.RECIPE_DESC.PITCHFORK"
+msgid "Move the ground around."
+msgstr "Toprağı oradan oraya taşı."
+
+#. STRINGS.RECIPE_DESC.PLANTREGISTRYHAT
+msgctxt "STRINGS.RECIPE_DESC.PLANTREGISTRYHAT"
+msgid "Allow your gardening expertise to grow."
+msgstr "Bahçıvanlık uzmanlığının gelişmesine izin ver."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_DISMANTLER
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_DISMANTLER"
+msgid "Tinker with timepieces."
+msgstr "Saatlerle oyna."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_HEAL
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_HEAL"
+msgid "You're only as old as you feel."
+msgstr "Hissettiğin kadar yaşlısın."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_PARTS
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_PARTS"
+msgid "It's what's inside, that counts."
+msgstr "Önemli olan içte olandır."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_PORTAL
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_PORTAL"
+msgid "Time travel is better with friends."
+msgstr "Zaman yolculuğu arkadaşlarla daha güzel."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_RECALL
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_RECALL"
+msgid "Return to a distant point in time."
+msgstr "Zamanın uzak bir noktasına geri dön."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_REVIVE
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_REVIVE"
+msgid "Undo a friend's untimely end."
+msgstr "Bir arkadaşın vakitsiz sonunu geri al."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_WARP
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_WARP"
+msgid "Retrace your last steps."
+msgstr "Son adımlarını geri izle."
+
+#. STRINGS.RECIPE_DESC.POCKETWATCH_WEAPON
+msgctxt "STRINGS.RECIPE_DESC.POCKETWATCH_WEAPON"
+msgid "This clock strikes YOU."
+msgstr "Bu saat SANA çalar."
+
+#. STRINGS.RECIPE_DESC.POCKET_SCALE
+msgctxt "STRINGS.RECIPE_DESC.POCKET_SCALE"
+msgid "Weigh your fish on the go!"
+msgstr "Balıklarını yolda tart!"
+
+#. STRINGS.RECIPE_DESC.POLLY_ROGERSHAT
+msgctxt "STRINGS.RECIPE_DESC.POLLY_ROGERSHAT"
+msgid "This hat comes with a feathered friend."
+msgstr "Bu şapka tüylü bir dostla birlikte gelir."
+
+#. STRINGS.RECIPE_DESC.PORTABLEBLENDER_ITEM
+msgctxt "STRINGS.RECIPE_DESC.PORTABLEBLENDER_ITEM"
+msgid "Grind ingredients into powdered spices."
+msgstr "Malzemeleri öğüterek toz baharat yap."
+
+#. STRINGS.RECIPE_DESC.PORTABLECOOKPOT_ITEM
+msgctxt "STRINGS.RECIPE_DESC.PORTABLECOOKPOT_ITEM"
+msgid "For the gourmet on the go."
+msgstr "Yolculuktaki gurme için."
+
+#. STRINGS.RECIPE_DESC.PORTABLEFIREPIT_ITEM
+msgctxt "STRINGS.RECIPE_DESC.PORTABLEFIREPIT_ITEM"
+msgid "A campfire made for adventure--perfect for when you're on the go!"
+msgstr "Macera için yapılmış bir kamp ateşi—yolculuk için biçilmiş kaftan!"
+
+#. STRINGS.RECIPE_DESC.PORTABLESPICER_ITEM
+msgctxt "STRINGS.RECIPE_DESC.PORTABLESPICER_ITEM"
+msgid "Spicing your meals is very in season."
+msgstr "Yemeklerini baharatlamak bu mevsimin trendi."
+
+#. STRINGS.RECIPE_DESC.PORTABLETENT
+msgctxt "STRINGS.RECIPE_DESC.PORTABLETENT"
+msgid "Portable protection from the elements."
+msgstr "Doğa şartlarına karşı taşınabilir koruma."
+
+#. STRINGS.RECIPE_DESC.PORTABLETENT_ITEM
+msgctxt "STRINGS.RECIPE_DESC.PORTABLETENT_ITEM"
+msgid "Portable protection from the elements."
+msgstr "Doğa şartlarına karşı taşınabilir koruma."
+
+#. STRINGS.RECIPE_DESC.POTATOSACK
+msgctxt "STRINGS.RECIPE_DESC.POTATOSACK"
+msgid "A potato's natural habitat."
+msgstr "Bir patatesin doğal yaşam alanı."
+
+#. STRINGS.RECIPE_DESC.POTTEDFERN
+msgctxt "STRINGS.RECIPE_DESC.POTTEDFERN"
+msgid "Make a pot and stick a fern inside."
+msgstr "Bir saksı yap, içine bir eğreltiotu sok."
+
+#. STRINGS.RECIPE_DESC.PREMIUMWATERINGCAN
+msgctxt "STRINGS.RECIPE_DESC.PREMIUMWATERINGCAN"
+msgid "An innovation in irrigation!"
+msgstr "Sulamada bir inovasyon!"
+
+#. STRINGS.RECIPE_DESC.PUMPKINHAT
+msgctxt "STRINGS.RECIPE_DESC.PUMPKINHAT"
+msgid "It's only natural to wear a pumpkin on your head after you've carved a face into it."
+msgstr "Bir bal kabağına yüz oyduktan sonra onu kafana takmaktan daha doğal ne olabilir."
+
+#. STRINGS.RECIPE_DESC.PUMPKIN_LANTERN
+msgctxt "STRINGS.RECIPE_DESC.PUMPKIN_LANTERN"
+msgid "Spooky illumination."
+msgstr "Ürpertici aydınlatma."
+
+#. STRINGS.RECIPE_DESC.PUNCHINGBAG
+msgctxt "STRINGS.RECIPE_DESC.PUNCHINGBAG"
+msgid "Test the strength of your weapons. And have fun!"
+msgstr "Silahlarının gücünü test et. Ve eğlen!"
+
+#. STRINGS.RECIPE_DESC.PUNCHINGBAG_LUNAR
+msgctxt "STRINGS.RECIPE_DESC.PUNCHINGBAG_LUNAR"
+msgid "Test how well your weapons fare against lunar foes."
+msgstr "Silahların ay düşmanlarına karşı ne kadar iyi, test et."
+
+#. STRINGS.RECIPE_DESC.PUNCHINGBAG_SHADOW
+msgctxt "STRINGS.RECIPE_DESC.PUNCHINGBAG_SHADOW"
+msgid "Test how well your weapons fare against shadowy foes."
+msgstr "Silahların gölge düşmanlara karşı ne kadar iyi, test et."
+
+#. STRINGS.RECIPE_DESC.PURPLEAMULET
+msgctxt "STRINGS.RECIPE_DESC.PURPLEAMULET"
+msgid "Induce insanity."
+msgstr "Çılgınlığı tetikle."
+
+#. STRINGS.RECIPE_DESC.PURPLEGEM
+msgctxt "STRINGS.RECIPE_DESC.PURPLEGEM"
+msgid "By your colors combined!"
+msgstr "Renklerin birleşimiyle!"
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_BOWL_SILVER
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_BOWL_SILVER"
+msgid "Presentation is half the taste."
+msgstr "Sunum, lezzetin yarısıdır."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_CASSEROLEDISH
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_CASSEROLEDISH"
+msgid "Fine ceramics for finer food."
+msgstr "Daha güzel yemek için zarif seramik."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_CRABTRAP
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_CRABTRAP"
+msgid "Trap the crabs in the bucket."
+msgstr "Yengeçleri kovaya hapset."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_GRILL
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_GRILL"
+msgid "Everything you need to set up a large grill."
+msgstr "Büyük bir ızgara kurmak için ihtiyacın olan her şey."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_GRILL_SMALL
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_GRILL_SMALL"
+msgid "Everything you need to set up a grill."
+msgstr "Bir ızgara kurmak için ihtiyacın olan her şey."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_OVEN
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_OVEN"
+msgid "Everything you need to set up an oven."
+msgstr "Bir fırın kurmak için ihtiyacın olan her şey."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_POT_HANGER
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_CRATE_POT_HANGER"
+msgid "Everything you need to set up a cookpot."
+msgstr "Bir tencere kurmak için ihtiyacın olan her şey."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_FLOUR
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_FLOUR"
+msgid "Ground wheat."
+msgstr "Öğütülmüş buğday."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_GOATMILK
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_GOATMILK"
+msgid "Fresh from the source."
+msgstr "Doğrudan kaynağından taze."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_HOE
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_HOE"
+msgid "Till soil for crop seeds."
+msgstr "Mahsul tohumları için toprağı işle."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_KEY
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_KEY"
+msgid "Open things that aren't yours."
+msgstr "Sana ait olmayan şeyleri aç."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_KEY_PARK
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_KEY_PARK"
+msgid "The key to Sugarwood Memorial Park."
+msgstr "Şekerağacı Anıt Parkı'nın anahtarı."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_PIGEON
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_PIGEON"
+msgid "It's a whole, live pigeon."
+msgstr "Bütün, canlı bir güvercin."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_PLATE_SILVER
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_PLATE_SILVER"
+msgid "High class plating for improved dishes."
+msgstr "Geliştirilmiş yemekler için yüksek sınıf tabakçılık."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_PORTAL_KEY
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_PORTAL_KEY"
+msgid "The way out. I can charge it with Favors."
+msgstr "Çıkış yolu. Lütuflarla şarj edebilirim."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_POT
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_POT"
+msgid "State of the art cookware."
+msgstr "Son teknoloji pişirme aleti."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_POT_HANGER_ITEM
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_POT_HANGER_ITEM"
+msgid "Hang a pot on the fire. Hands free!"
+msgstr "Ateşe bir tencere as. Eller serbest!"
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_POT_SYRUP
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_POT_SYRUP"
+msgid "For sugary, delicious sap processing."
+msgstr "Şekerli, lezzetli özsu işleme için."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SALT
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SALT"
+msgid "A few pinches of salt."
+msgstr "Birkaç tutam tuz."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SALT_RACK_ITEM
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SALT_RACK_ITEM"
+msgid "Get a little salty."
+msgstr "Biraz tuzlan."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SAPBUCKET
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SAPBUCKET"
+msgid "Don't be a sap, get syrup from the tap!"
+msgstr "Salak olma, şurubu musluktan al!"
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_1
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_1"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_2
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_2"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_3
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_3"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_4
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_4"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_5
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_5"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_6
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_6"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_7
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_7"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_MIX
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SEEDPACKET_MIX"
+msgid "Unusual crop seeds. Plant in tilled soil."
+msgstr "Sıra dışı mahsul tohumları. İşlenmiş toprağa ek."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SLAUGHTERTOOL
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SLAUGHTERTOOL"
+msgid "Well, meat doesn't grow on trees."
+msgstr "Et ağaçta yetişmiyor sonuçta."
+
+#. STRINGS.RECIPE_DESC.QUAGMIRE_SPOTSPICE_GROUND
+msgctxt "STRINGS.RECIPE_DESC.QUAGMIRE_SPOTSPICE_GROUND"
+msgid "One teaspoon of delicious spice."
+msgstr "Bir çay kaşığı lezzetli baharat."
+
+#. STRINGS.RECIPE_DESC.RABBITHAT
+msgctxt "STRINGS.RECIPE_DESC.RABBITHAT"
+msgid "Collecting rabbits has never been so calming."
+msgstr "Tavşan toplamak hiç bu kadar sakinleştirici olmamıştı."
+
+#. STRINGS.RECIPE_DESC.RABBITHOUSE
+msgctxt "STRINGS.RECIPE_DESC.RABBITHOUSE"
+msgid "Houses a giant rabbit and all his stuff."
+msgstr "Dev bir tavşana ve tüm eşyalarına ev olur."
+
+#. STRINGS.RECIPE_DESC.RABBITKINGHORN
+msgctxt "STRINGS.RECIPE_DESC.RABBITKINGHORN"
+msgid "Call on the rabbits to keep your stuff, anytime, any hare."
+msgstr "Eşyalarına bakmaları için tavşanları çağır, ne zaman olursa, ne tüy olursa."
+
+#. STRINGS.RECIPE_DESC.RAINCOAT
+msgctxt "STRINGS.RECIPE_DESC.RAINCOAT"
+msgid "A waterproof coat to keep you dry."
+msgstr "Seni kuru tutan su geçirmez bir palto."
+
+#. STRINGS.RECIPE_DESC.RAINHAT
+msgctxt "STRINGS.RECIPE_DESC.RAINHAT"
+msgid "Soft to the touch, slick to the rain."
+msgstr "Dokunuşa yumuşak, yağmura kaygan."
+
+#. STRINGS.RECIPE_DESC.RAINOMETER
+msgctxt "STRINGS.RECIPE_DESC.RAINOMETER"
+msgid "Observe precipitation probabilities."
+msgstr "Yağış olasılıklarını gözlemle."
+
+#. STRINGS.RECIPE_DESC.RAZOR
+msgctxt "STRINGS.RECIPE_DESC.RAZOR"
+msgid "Shave off your dirty beatnik beard."
+msgstr "Pis hippi sakalını tıraş et."
+
+#. STRINGS.RECIPE_DESC.RECORD
+msgctxt "STRINGS.RECIPE_DESC.RECORD"
+msgid "Constant classics on vinyl."
+msgstr "Constant klasikleri plakta."
+
+#. STRINGS.RECIPE_DESC.REDGEM
+msgctxt "STRINGS.RECIPE_DESC.REDGEM"
+msgid "Retains the color of red."
+msgstr "Kırmızının rengini taşır."
+
+#. STRINGS.RECIPE_DESC.REDLANTERN
+msgctxt "STRINGS.RECIPE_DESC.REDLANTERN"
+msgid "A fortuitous lantern to light your way."
+msgstr "Yolunu aydınlatmak için uğurlu bir fener."
+
+#. STRINGS.RECIPE_DESC.RED_MUSHROOMHAT
+msgctxt "STRINGS.RECIPE_DESC.RED_MUSHROOMHAT"
+msgid "It's like eating all kinds of mushrooms."
+msgstr "Her çeşit mantarı yemek gibi."
+
+#. STRINGS.RECIPE_DESC.REFINED_DUST
+msgctxt "STRINGS.RECIPE_DESC.REFINED_DUST"
+msgid "A key ingredient for an ancient treat."
+msgstr "Kadim bir ikram için anahtar malzeme."
+
+#. STRINGS.RECIPE_DESC.REFLECTIVEVEST
+msgctxt "STRINGS.RECIPE_DESC.REFLECTIVEVEST"
+msgid "Keep cool and fresh in this stylish vest."
+msgstr "Bu şık yelekte serin ve taze kal."
+
+#. STRINGS.RECIPE_DESC.RESEARCHLAB
+msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB"
+msgid "Unlock new crafting recipes!"
+msgstr "Yeni üretim tarifleri aç!"
+
+#. STRINGS.RECIPE_DESC.RESEARCHLAB2
+msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB2"
+msgid "Unlock even more crafting recipes!"
+msgstr "Daha da fazla üretim tarifi aç!"
+
+#. STRINGS.RECIPE_DESC.RESEARCHLAB3
+msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB3"
+msgid "Is this even science anymore?"
+msgstr "Bu artık bilim sayılır mı ki?"
+
+#. STRINGS.RECIPE_DESC.RESEARCHLAB4
+msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB4"
+msgid "Amplify the magical power of your top hat."
+msgstr "Silindir şapkanın sihirli gücünü yükselt."
+
+#. STRINGS.RECIPE_DESC.RESKIN_TOOL
+msgctxt "STRINGS.RECIPE_DESC.RESKIN_TOOL"
+msgid "Make a clean sweep of redecorating."
+msgstr "Yeniden dekorasyona temiz bir başlangıç yap."
+
+#. STRINGS.RECIPE_DESC.RESURRECTIONSTATUE
+msgctxt "STRINGS.RECIPE_DESC.RESURRECTIONSTATUE"
+msgid "Resurrect yourself via the power of meat."
+msgstr "Etin gücüyle kendini dirilt."
+
+#. STRINGS.RECIPE_DESC.REVIVER
+msgctxt "STRINGS.RECIPE_DESC.REVIVER"
+msgid "Ghastly revival of a ghostly friend."
+msgstr "Hayalet bir dostun ürkütücü dirilişi."
+
+#. STRINGS.RECIPE_DESC.ROPE
+msgctxt "STRINGS.RECIPE_DESC.ROPE"
+msgid "Tightly woven coils of usefulness."
+msgstr "Sıkıca örülmüş kullanışlılık halkaları."
+
+#. STRINGS.RECIPE_DESC.ROPE_BRIDGE_KIT
+msgctxt "STRINGS.RECIPE_DESC.ROPE_BRIDGE_KIT"
+msgid "Suspend your disbelief and cross that bottomless pit."
+msgstr "Şüpheni askıya al ve şu dipsiz çukuru geç."
+
+#. STRINGS.RECIPE_DESC.ROSEGLASSESHAT
+msgctxt "STRINGS.RECIPE_DESC.ROSEGLASSESHAT"
+msgid "Seek out Charlie by looking at things through a new lens."
+msgstr "Yeni bir mercekten bakarak Charlie'yi ara."
+
+#. STRINGS.RECIPE_DESC.RUINSHAT
+msgctxt "STRINGS.RECIPE_DESC.RUINSHAT"
+msgid "Complete with ancient force field!"
+msgstr "Kadim güç alanı dahildir!"
+
+#. STRINGS.RECIPE_DESC.RUINSRELIC_BOWL
+msgctxt "STRINGS.RECIPE_DESC.RUINSRELIC_BOWL"
+msgid "A distressed bowl."
+msgstr "Yıpratılmış bir kase."
+
+#. STRINGS.RECIPE_DESC.RUINSRELIC_CHAIR
+msgctxt "STRINGS.RECIPE_DESC.RUINSRELIC_CHAIR"
+msgid "A weathered-looking chair."
+msgstr "Yıpranmış görünen bir sandalye."
+
+#. STRINGS.RECIPE_DESC.RUINSRELIC_CHIPBOWL
+msgctxt "STRINGS.RECIPE_DESC.RUINSRELIC_CHIPBOWL"
+msgid "Don't double dip."
+msgstr "Çift batırma yok."
+
+#. STRINGS.RECIPE_DESC.RUINSRELIC_PLATE
+msgctxt "STRINGS.RECIPE_DESC.RUINSRELIC_PLATE"
+msgid "Craft a fancy broken plate."
+msgstr "Şık kırık bir tabak yap."
+
+#. STRINGS.RECIPE_DESC.RUINSRELIC_TABLE
+msgctxt "STRINGS.RECIPE_DESC.RUINSRELIC_TABLE"
+msgid "Don't put your elbows on it."
+msgstr "Dirseklerini üstüne koyma."
+
+#. STRINGS.RECIPE_DESC.RUINSRELIC_VASE
+msgctxt "STRINGS.RECIPE_DESC.RUINSRELIC_VASE"
+msgid "A faux-vintage vase."
+msgstr "Sahte-antika bir vazo."
+
+#. STRINGS.RECIPE_DESC.RUINS_BAT
+msgctxt "STRINGS.RECIPE_DESC.RUINS_BAT"
+msgid "Spikes make everything better."
+msgstr "Dikenler her şeyi iyileştirir."
+
+#. STRINGS.RECIPE_DESC.SADDLEHORN
+msgctxt "STRINGS.RECIPE_DESC.SADDLEHORN"
+msgid "Pry that saddle off."
+msgstr "Şu eyeri zorla çıkar."
+
+#. STRINGS.RECIPE_DESC.SADDLE_BASIC
+msgctxt "STRINGS.RECIPE_DESC.SADDLE_BASIC"
+msgid "Lets you sit on animals. In theory."
+msgstr "Hayvanlara oturmana izin verir. Teoride."
+
+#. STRINGS.RECIPE_DESC.SADDLE_RACE
+msgctxt "STRINGS.RECIPE_DESC.SADDLE_RACE"
+msgid "Offsets the time spent making it. Maybe."
+msgstr "Yapımına harcanan zamanı dengeler. Belki."
+
+#. STRINGS.RECIPE_DESC.SADDLE_SHADOW
+msgctxt "STRINGS.RECIPE_DESC.SADDLE_SHADOW"
+msgid "Grab the reins and reign over the battlefield."
+msgstr "Dizginleri ele al ve savaş meydanında hüküm sür."
+
+#. STRINGS.RECIPE_DESC.SADDLE_WAR
+msgctxt "STRINGS.RECIPE_DESC.SADDLE_WAR"
+msgid "A throne for the boss of the battlefield."
+msgstr "Savaş meydanının patronu için bir taht."
+
+#. STRINGS.RECIPE_DESC.SADDLE_WATHGRITHR
+msgctxt "STRINGS.RECIPE_DESC.SADDLE_WATHGRITHR"
+msgid "Warrior and steed, fighting as one!"
+msgstr "Savaşçı ve atı, tek vücut savaşır!"
+
+#. STRINGS.RECIPE_DESC.SALTBOX
+msgctxt "STRINGS.RECIPE_DESC.SALTBOX"
+msgid "Salty storage for your foodstuffs."
+msgstr "Yiyeceklerin için tuzlu bir depo."
+
+#. STRINGS.RECIPE_DESC.SALTLICK
+msgctxt "STRINGS.RECIPE_DESC.SALTLICK"
+msgid "Keep your livestock content."
+msgstr "Sürünü mutlu tut."
+
+#. STRINGS.RECIPE_DESC.SALTLICK_IMPROVED
+msgctxt "STRINGS.RECIPE_DESC.SALTLICK_IMPROVED"
+msgid "Treat your beefalo to a taste of the finer things."
+msgstr "Bızonsığırına lüks tatlarla şımart."
+
+#. STRINGS.RECIPE_DESC.SALTY_DOGHAT
+msgctxt "STRINGS.RECIPE_DESC.SALTY_DOGHAT"
+msgid "A hat for an old salt that comes with a salty companion."
+msgstr "Tuzlu bir refakatçiyle gelen yaşlı denizci için bir şapka."
+
+#. STRINGS.RECIPE_DESC.SCARECROW
+msgctxt "STRINGS.RECIPE_DESC.SCARECROW"
+msgid "Models all the latest fall fashions."
+msgstr "En yeni sonbahar modasını sergiliyor."
+
+#. STRINGS.RECIPE_DESC.SCULPTINGTABLE
+msgctxt "STRINGS.RECIPE_DESC.SCULPTINGTABLE"
+msgid "Marble will be like clay in your hands!"
+msgstr "Mermer ellerinde kil gibi olacak!"
+
+#. STRINGS.RECIPE_DESC.SEAFARING_PROTOTYPER
+msgctxt "STRINGS.RECIPE_DESC.SEAFARING_PROTOTYPER"
+msgid "Science at sea."
+msgstr "Denizde bilim."
+
+#. STRINGS.RECIPE_DESC.SECURITY_PULSE_CAGE
+msgctxt "STRINGS.RECIPE_DESC.SECURITY_PULSE_CAGE"
+msgid "Secure that Security Pulse!"
+msgstr "Şu Güvenlik Nabzını güvene al!"
+
+#. STRINGS.RECIPE_DESC.SEEDPOUCH
+msgctxt "STRINGS.RECIPE_DESC.SEEDPOUCH"
+msgid "Stow your seeds for safekeeping."
+msgstr "Tohumlarını güvenli saklama için yerleştir."
+
+#. STRINGS.RECIPE_DESC.SENTRYWARD
+msgctxt "STRINGS.RECIPE_DESC.SENTRYWARD"
+msgid "The cartographer's most valuable weapon."
+msgstr "Haritacının en değerli silahı."
+
+#. STRINGS.RECIPE_DESC.SEWING_KIT
+msgctxt "STRINGS.RECIPE_DESC.SEWING_KIT"
+msgid "Fix up degraded clothing items."
+msgstr "Yıpranmış giyim eşyalarını onar."
+
+#. STRINGS.RECIPE_DESC.SEWING_MANNEQUIN
+msgctxt "STRINGS.RECIPE_DESC.SEWING_MANNEQUIN"
+msgid "A model for all the latest equippable looks."
+msgstr "En yeni kuşanılabilir görünümler için bir model."
+
+#. STRINGS.RECIPE_DESC.SEWING_TAPE
+msgctxt "STRINGS.RECIPE_DESC.SEWING_TAPE"
+msgid "Patch up degraded clothing items."
+msgstr "Yıpranmış giyim eşyalarını yamayla."
+
+#. STRINGS.RECIPE_DESC.SHADOWDIGGER_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.SHADOWDIGGER_BUILDER"
+msgid "Diggy diggy hole."
+msgstr "Kazı kazı çukur."
+
+#. STRINGS.RECIPE_DESC.SHADOWDUELIST_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.SHADOWDUELIST_BUILDER"
+msgid "Ethereal bodyguard."
+msgstr "Eterik koruma."
+
+#. STRINGS.RECIPE_DESC.SHADOWLUMBER_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.SHADOWLUMBER_BUILDER"
+msgid "Holds a grudge against trees."
+msgstr "Ağaçlara kin tutar."
+
+#. STRINGS.RECIPE_DESC.SHADOWMINER_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.SHADOWMINER_BUILDER"
+msgid "Mine that rock!"
+msgstr "Şu kayayı kaz!"
+
+#. STRINGS.RECIPE_DESC.SHADOW_BATTLEAXE
+msgctxt "STRINGS.RECIPE_DESC.SHADOW_BATTLEAXE"
+msgid "You'll chop 'til you drop with this maul."
+msgstr "Bu balyozla düşene kadar baltalarsın."
+
+#. STRINGS.RECIPE_DESC.SHADOW_BEEF_BELL
+msgctxt "STRINGS.RECIPE_DESC.SHADOW_BEEF_BELL"
+msgid "Revive the one you beef friend."
+msgstr "Bızontışındaki tek dostunu dirilt."
+
+#. STRINGS.RECIPE_DESC.SHADOW_FORGE_KIT
+msgctxt "STRINGS.RECIPE_DESC.SHADOW_FORGE_KIT"
+msgid "Create horrors for your convenience."
+msgstr "Kendi rahatın için dehşetler yarat."
+
+#. STRINGS.RECIPE_DESC.SHELLWEAVER
+msgctxt "STRINGS.RECIPE_DESC.SHELLWEAVER"
+msgid "Make something with a pinch of salt."
+msgstr "Bir tutam tuzla bir şeyler yap."
+
+#. STRINGS.RECIPE_DESC.SHOVEL
+msgctxt "STRINGS.RECIPE_DESC.SHOVEL"
+msgid "Dig up all sorts of things."
+msgstr "Türlü türlü şeyi kaz çıkar."
+
+#. STRINGS.RECIPE_DESC.SHOVEL_LUNARPLANT
+msgctxt "STRINGS.RECIPE_DESC.SHOVEL_LUNARPLANT"
+msgid "The groundbreaking results of cross-pollination between a shovel and a garden hoe."
+msgstr "Bir kürek ile bir bahçe çapasının çapraz tozlanmasının çığır açan sonucu."
+
+#. STRINGS.RECIPE_DESC.SIESTAHUT
+msgctxt "STRINGS.RECIPE_DESC.SIESTAHUT"
+msgid "Escape the heat to restore sanity."
+msgstr "Akıl yenilemek için sıcaktan kaç."
+
+#. STRINGS.RECIPE_DESC.SISTURN
+msgctxt "STRINGS.RECIPE_DESC.SISTURN"
+msgid "A place to rest your weary soul."
+msgstr "Yorgun ruhuna istirahat verecek bir yer."
+
+#. STRINGS.RECIPE_DESC.SLEEPBOMB
+msgctxt "STRINGS.RECIPE_DESC.SLEEPBOMB"
+msgid "A throwable pouch full of sleep."
+msgstr "Uykuyla dolu fırlatılabilir bir kese."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT"
+msgid "Never go adventuring without it!"
+msgstr "Maceraya onsuz çıkma!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_CONTAINER
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_CONTAINER"
+msgid "It's both practical and tactical."
+msgstr "Hem pratik hem taktik."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_DREADSTONE
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_DREADSTONE"
+msgid "Dreadfully strong."
+msgstr "Dehşet derecede güçlü."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_FREEZE
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_FREEZE"
+msgid "Freeze foes in their tracks."
+msgstr "Düşmanları olduğu yerde dondur."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_GELBLOB
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_GELBLOB"
+msgid "Sticky and icky!"
+msgstr "Yapışkak ve iğrenç!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_GOLD
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_GOLD"
+msgid "Their fanciness makes them work better."
+msgstr "Şıklıkları onları daha iyi çalıştırır."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_GUNPOWDER
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_GUNPOWDER"
+msgid "Explode onto the scene!"
+msgstr "Sahneye patlayarak gir!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_HONEY
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_HONEY"
+msgid "Sticky and sweet!"
+msgstr "Yapışkan ve tatlı!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_HORRORFUEL
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_HORRORFUEL"
+msgid "Reinforcements against dark forces."
+msgstr "Karanlık güçlere karşı takviye."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_LUNARPLANTHUSK
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_LUNARPLANTHUSK"
+msgid "Settle your vine-detta!"
+msgstr "Sarmaşkan davanı çöz!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_MARBLE
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_MARBLE"
+msgid "Don't lose them, now!"
+msgstr "Şimdi sakın kaybetme!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_MOONGLASS
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_MOONGLASS"
+msgid "Shatter expectations."
+msgstr "Beklentileri paramparça et."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_POOP
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_POOP"
+msgid "Disgusting and distracting."
+msgstr "İğrenç ve dikkat dağıtıcı."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_PUREBRILLIANCE
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_PUREBRILLIANCE"
+msgid "You'll be over the Moon with these."
+msgstr "Bunlarla Ay'ın ötesinde sevineceksin."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_ROCK
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_ROCK"
+msgid "Simple and ineffective."
+msgstr "Basit ve etkisiz."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_SCRAPFEATHER
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_SCRAPFEATHER"
+msgid "Shockingly shocking!"
+msgstr "Şoke edici şekilde şok edici!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_SLOW
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_SLOW"
+msgid "What \"laws of physics\"?"
+msgstr "\"Fizik kuralları\" da neymiş?"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_STINGER
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_STINGER"
+msgid "Stings all around!"
+msgstr "Her yana sokulur!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTAMMO_THULECITE
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTAMMO_THULECITE"
+msgid "What could go wrong?"
+msgstr "Ne ters gidebilir ki?"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOTMODKIT
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOTMODKIT"
+msgid "Slingshotting is serious business."
+msgstr "Sapan atışı ciddi bir iş."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_BAND_PIGSKIN
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_BAND_PIGSKIN"
+msgid "Sling farther!"
+msgstr "Daha uzağa fırlat!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_BAND_TENTACLE
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_BAND_TENTACLE"
+msgid "Sling farther-er!"
+msgstr "Daha da uzağa fırlat!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_BONE
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_BONE"
+msgid "More ammo? Yes please!"
+msgstr "Daha çok mermi? Lütfen!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_GEMS
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_GEMS"
+msgid "A little bit of this, and a little bit of that!"
+msgstr "Biraz bundan, biraz da ondan!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_WAGPUNK
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_WAGPUNK"
+msgid "Embrace your ammo hoarding tendencies!"
+msgstr "Mermi istifleme eğilimlerini benimse!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_WAGPUNK_0
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_FRAME_WAGPUNK_0"
+msgid "Ya think you're some sorta big shot now, huh?"
+msgstr "Şimdi büyük adam olduğunu mu sanıyorsun?"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_JELLY
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_JELLY"
+msgid "The stickiest grip yet!"
+msgstr "En yapışkan tutamak!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_SILK
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_SILK"
+msgid "Sling faster!"
+msgstr "Daha hızlı fırlat!"
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_STICKY
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_STICKY"
+msgid "Get attached to your slingshot."
+msgstr "Sapanına bağlan."
+
+#. STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_VOIDCLOTH
+msgctxt "STRINGS.RECIPE_DESC.SLINGSHOT_HANDLE_VOIDCLOTH"
+msgid "Sling faster-er!"
+msgstr "Daha da hızlı fırlat!"
+
+#. STRINGS.RECIPE_DESC.SLOW_FARMPLOT
+msgctxt "STRINGS.RECIPE_DESC.SLOW_FARMPLOT"
+msgid "Grows seeds."
+msgstr "Tohum yetiştirir."
+
+#. STRINGS.RECIPE_DESC.SOIL_AMENDER
+msgctxt "STRINGS.RECIPE_DESC.SOIL_AMENDER"
+msgid "Bottled nutrients from the sea."
+msgstr "Denizden şişelenmiş besinler."
+
+#. STRINGS.RECIPE_DESC.SPEAR
+msgctxt "STRINGS.RECIPE_DESC.SPEAR"
+msgid "Use the pointy end."
+msgstr "Sivri ucunu kullan."
+
+#. STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR
+msgctxt "STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR"
+msgid "The gold makes it sharper."
+msgstr "Altın onu daha keskin yapar."
+
+#. STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR_LIGHTNING
+msgctxt "STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR_LIGHTNING"
+msgid "The power of lightning is yours to command."
+msgstr "Şimşeğin gücü emrinde."
+
+#. STRINGS.RECIPE_DESC.SPICEPACK
+msgctxt "STRINGS.RECIPE_DESC.SPICEPACK"
+msgid "Freshen up your foodstuffs."
+msgstr "Yiyeceklerini tazele."
+
+#. STRINGS.RECIPE_DESC.SPICE_CHILI
+msgctxt "STRINGS.RECIPE_DESC.SPICE_CHILI"
+msgid "Spicy flakes that pack a punch."
+msgstr "Tokat gibi acı pullar."
+
+#. STRINGS.RECIPE_DESC.SPICE_GARLIC
+msgctxt "STRINGS.RECIPE_DESC.SPICE_GARLIC"
+msgid "The best offense is defensive halitosis."
+msgstr "En iyi saldırı, savunma amaçlı ağız kokusudur."
+
+#. STRINGS.RECIPE_DESC.SPICE_SALT
+msgctxt "STRINGS.RECIPE_DESC.SPICE_SALT"
+msgid "A salty addition for a hearty meal."
+msgstr "Doyurucu yemek için tuzlu bir katkı."
+
+#. STRINGS.RECIPE_DESC.SPICE_SUGAR
+msgctxt "STRINGS.RECIPE_DESC.SPICE_SUGAR"
+msgid "A dash of sweetness for peace of mind."
+msgstr "İçin huzuru için bir tutam tatlılık."
+
+#. STRINGS.RECIPE_DESC.SPIDERDEN_BEDAZZLER
+msgctxt "STRINGS.RECIPE_DESC.SPIDERDEN_BEDAZZLER"
+msgid "A nice home makes for a nice disposition."
+msgstr "Güzel bir yuva güzel bir mizaç doğurur."
+
+#. STRINGS.RECIPE_DESC.SPIDEREGGSACK
+msgctxt "STRINGS.RECIPE_DESC.SPIDEREGGSACK"
+msgid "Get a little help from your friends."
+msgstr "Arkadaşlarından biraz yardım al."
+
+#. STRINGS.RECIPE_DESC.SPIDERHAT
+msgctxt "STRINGS.RECIPE_DESC.SPIDERHAT"
+msgid "Spiders will call you \"mom\"."
+msgstr "Örümcekler sana \"anne\" diyecek."
+
+#. STRINGS.RECIPE_DESC.SPIDER_HEALER_ITEM
+msgctxt "STRINGS.RECIPE_DESC.SPIDER_HEALER_ITEM"
+msgid "Gross, gooey, and good for you!"
+msgstr "İğrenç, sümüksü ve sana iyi gelir!"
+
+#. STRINGS.RECIPE_DESC.SPIDER_REPELLENT
+msgctxt "STRINGS.RECIPE_DESC.SPIDER_REPELLENT"
+msgid "Let your friends know you need some space."
+msgstr "Arkadaşlarına biraz alana ihtiyacın olduğunu bildir."
+
+#. STRINGS.RECIPE_DESC.SPIDER_WHISTLE
+msgctxt "STRINGS.RECIPE_DESC.SPIDER_WHISTLE"
+msgid "Call your creepy crawly friends."
+msgstr "Ürpertici sürüngen dostlarını çağır."
+
+#. STRINGS.RECIPE_DESC.STAFF_LUNARPLANT
+msgctxt "STRINGS.RECIPE_DESC.STAFF_LUNARPLANT"
+msgid "Stay rooted to the spot and attack from afar."
+msgstr "Yerinde köklü kal ve uzaktan saldır."
+
+#. STRINGS.RECIPE_DESC.STAFF_TORNADO
+msgctxt "STRINGS.RECIPE_DESC.STAFF_TORNADO"
+msgid "Blow your enemies away."
+msgstr "Düşmanlarını uçur götür."
+
+#. STRINGS.RECIPE_DESC.STEERINGWHEEL
+msgctxt "STRINGS.RECIPE_DESC.STEERINGWHEEL"
+msgid "It's wheely important to have one."
+msgstr "Bir tane olması teker tek önemli."
+
+#. STRINGS.RECIPE_DESC.STEERINGWHEEL_ITEM
+msgctxt "STRINGS.RECIPE_DESC.STEERINGWHEEL_ITEM"
+msgid "It's wheely important to have one."
+msgstr "Bir tane olması teker tek önemli."
+
+#. STRINGS.RECIPE_DESC.STONE_CHAIR
+msgctxt "STRINGS.RECIPE_DESC.STONE_CHAIR"
+msgid "A stone chair to sit on."
+msgstr "Üzerine oturmak için taş bir sandalye."
+
+#. STRINGS.RECIPE_DESC.STONE_STOOL
+msgctxt "STRINGS.RECIPE_DESC.STONE_STOOL"
+msgid "A stone stool to sit on."
+msgstr "Üzerine oturmak için taş bir tabure."
+
+#. STRINGS.RECIPE_DESC.STONE_TABLE_ROUND
+msgctxt "STRINGS.RECIPE_DESC.STONE_TABLE_ROUND"
+msgid "A round stone table to put things on."
+msgstr "Üzerine eşya koymak için yuvarlak taş bir masa."
+
+#. STRINGS.RECIPE_DESC.STONE_TABLE_SQUARE
+msgctxt "STRINGS.RECIPE_DESC.STONE_TABLE_SQUARE"
+msgid "A square stone table to put things on."
+msgstr "Üzerine eşya koymak için kare taş bir masa."
+
+#. STRINGS.RECIPE_DESC.STRAWHAT
+msgctxt "STRINGS.RECIPE_DESC.STRAWHAT"
+msgid "Helps you stay cool and dry."
+msgstr "Serin ve kuru kalmana yardım eder."
+
+#. STRINGS.RECIPE_DESC.SUCCULENT_POTTED
+msgctxt "STRINGS.RECIPE_DESC.SUCCULENT_POTTED"
+msgid "A pretty succulent jammed in a pot."
+msgstr "Saksıya tıkıştırılmış sevimli bir sukulent."
+
+#. STRINGS.RECIPE_DESC.SUPERTACKLECONTAINER
+msgctxt "STRINGS.RECIPE_DESC.SUPERTACKLECONTAINER"
+msgid "More space for tackle? I'm hooked!"
+msgstr "Olta takımına daha çok yer mi? Olta gibi takıldım!"
+
+#. STRINGS.RECIPE_DESC.SUPPORT_PILLAR_DREADSTONE_SCAFFOLD
+msgctxt "STRINGS.RECIPE_DESC.SUPPORT_PILLAR_DREADSTONE_SCAFFOLD"
+msgid "The power of darkness holds up well under pressure."
+msgstr "Karanlığın gücü baskı altında iyi dayanır."
+
+#. STRINGS.RECIPE_DESC.SUPPORT_PILLAR_SCAFFOLD
+msgctxt "STRINGS.RECIPE_DESC.SUPPORT_PILLAR_SCAFFOLD"
+msgid "We all need some support."
+msgstr "Hepimizin biraz desteğe ihtiyacı var."
+
+#. STRINGS.RECIPE_DESC.SWEATERVEST
+msgctxt "STRINGS.RECIPE_DESC.SWEATERVEST"
+msgid "Rugged, yet stylish."
+msgstr "Sağlam ama bir o kadar şık."
+
+#. STRINGS.RECIPE_DESC.SWORD_LUNARPLANT
+msgctxt "STRINGS.RECIPE_DESC.SWORD_LUNARPLANT"
+msgid "A sword of lunar light."
+msgstr "Ay ışığından bir kılıç."
+
+#. STRINGS.RECIPE_DESC.TABLE_WINTERS_FEAST
+msgctxt "STRINGS.RECIPE_DESC.TABLE_WINTERS_FEAST"
+msgid "Gather round for the Winter's Feast."
+msgstr "Kış Şöleni için etrafına toplan."
+
+#. STRINGS.RECIPE_DESC.TACKLECONTAINER
+msgctxt "STRINGS.RECIPE_DESC.TACKLECONTAINER"
+msgid "Tactfully store your tackle."
+msgstr "Olta takımını taktiksel olarak sakla."
+
+#. STRINGS.RECIPE_DESC.TACKLESTATION
+msgctxt "STRINGS.RECIPE_DESC.TACKLESTATION"
+msgid "The old bait-n-fish."
+msgstr "Eski yem-balık usulü."
+
+#. STRINGS.RECIPE_DESC.TELEBASE
+msgctxt "STRINGS.RECIPE_DESC.TELEBASE"
+msgid "Just add gems."
+msgstr "Sadece cevher ekle."
+
+#. STRINGS.RECIPE_DESC.TELESTAFF
+msgctxt "STRINGS.RECIPE_DESC.TELESTAFF"
+msgid "Bend space! Time bend sold separately."
+msgstr "Uzayı bük! Zaman bükümü ayrı satılır."
+
+#. STRINGS.RECIPE_DESC.TENT
+msgctxt "STRINGS.RECIPE_DESC.TENT"
+msgid "Restores sanity, costs time and hunger."
+msgstr "Akıl yeniler, zamana ve açlığa mal olur."
+
+#. STRINGS.RECIPE_DESC.THULECITE
+msgctxt "STRINGS.RECIPE_DESC.THULECITE"
+msgid "Combine tiny bits into a big chunk."
+msgstr "Ufak parçaları birleştirip büyük bir parça yap."
+
+#. STRINGS.RECIPE_DESC.THULECITEBUGNET
+msgctxt "STRINGS.RECIPE_DESC.THULECITEBUGNET"
+msgid "Catch bugs the ancient way."
+msgstr "Böcekleri kadim usülde yakala."
+
+#. STRINGS.RECIPE_DESC.TICOON_BUILDER
+msgctxt "STRINGS.RECIPE_DESC.TICOON_BUILDER"
+msgid "Trust them to follow the scents."
+msgstr "Kokuları takip etmelerine güven."
+
+#. STRINGS.RECIPE_DESC.TILLWEEDSALVE
+msgctxt "STRINGS.RECIPE_DESC.TILLWEEDSALVE"
+msgid "Slowly weed out aches and pains."
+msgstr "Ağrıları ve sızıları yavaşça ayıkla."
+
+#. STRINGS.RECIPE_DESC.TOPHAT
+msgctxt "STRINGS.RECIPE_DESC.TOPHAT"
+msgid "The classiest hat of all."
+msgstr "Hepsinin en şık şapkası."
+
+#. STRINGS.RECIPE_DESC.TOPHAT_MAGICIAN
+msgctxt "STRINGS.RECIPE_DESC.TOPHAT_MAGICIAN"
+msgid "Black magic goes with everything."
+msgstr "Kara büyü her şeye yakışır."
+
+#. STRINGS.RECIPE_DESC.TORCH
+msgctxt "STRINGS.RECIPE_DESC.TORCH"
+msgid "Portable light source."
+msgstr "Taşınabilir ışık kaynağı."
+
+#. STRINGS.RECIPE_DESC.TOWNPORTAL
+msgctxt "STRINGS.RECIPE_DESC.TOWNPORTAL"
+msgid "Gather your friends with sand power."
+msgstr "Arkadaşlarını kum gücüyle topla."
+
+#. STRINGS.RECIPE_DESC.TRANSISTOR
+msgctxt "STRINGS.RECIPE_DESC.TRANSISTOR"
+msgid "Science away! Bzzzt!"
+msgstr "Bilim başlasın! Bzzzt!"
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BEARDHAIR
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BEARDHAIR"
+msgid "Transmute Beefalo Wool into Beard Hair."
+msgstr "Bızonsığır Yününü Sakal Kılına dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALOWOOL
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BEEFALOWOOL"
+msgid "Transmute Beard Hair into Beefalo Wool."
+msgstr "Sakal Kılını Bızonsığır Yününe dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BLUEGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BLUEGEM"
+msgid "Transmute Red Gems into Blue Gems."
+msgstr "Kırmızı Cevherleri Mavi Cevherlere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_BONESHARD
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_BONESHARD"
+msgid "Transmute a Hound's Tooth into Bone Shards."
+msgstr "Bir Tazı Dişini Kemik Kırıklarına dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_CUTSTONE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_CUTSTONE"
+msgid "Transmute Marble into Cut Stone."
+msgstr "Mermeri Kesilmiş Taşa dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_DREADSTONE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_DREADSTONE"
+msgid "Transmute Pure Horror into Dreadstone."
+msgstr "Saf Dehşeti Korkutaşa dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_FLINT
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_FLINT"
+msgid "Transmute Rocks into Flint."
+msgstr "Kayaları Çakmaktaşına dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_GOLDNUGGET
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_GOLDNUGGET"
+msgid "Transmute Nitre into Gold Nuggets."
+msgstr "Güherçileyi Altın Külçelerine dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_GREENGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_GREENGEM"
+msgid "Transmute Yellow Gems into Green Gems."
+msgstr "Sarı Cevherleri Yeşil Cevherlere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_HORRORFUEL
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_HORRORFUEL"
+msgid "Transmute Dreadstone into Pure Horror."
+msgstr "Korkutaşı Saf Dehşete dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_HOUNDSTOOTH
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_HOUNDSTOOTH"
+msgid "Transmute Bone Shards into a Hounds Tooth."
+msgstr "Kemik Kırıklarını bir Tazı Dişine dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_LOG
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_LOG"
+msgid "Transmute Twigs into a Log."
+msgstr "Dalları bir Kütüğe dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_MARBLE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_MARBLE"
+msgid "Transmute Cut Stone into Marble."
+msgstr "Kesilmiş Taşı Mermere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_MEAT
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_MEAT"
+msgid "Transmute Morsels into Meat."
+msgstr "Lokmaları Ete dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_MOONGLASS_CHARGED
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_MOONGLASS_CHARGED"
+msgid "Transmute Pure Brilliance into Infused Moon Shards."
+msgstr "Saf Parıltıyı Şarjlı Ay Parçalarına dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_MOONROCKNUGGET
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_MOONROCKNUGGET"
+msgid "Transmute Marble into Moon Rock."
+msgstr "Mermeri Ay Kayasına dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_NIGHTMAREFUEL
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_NIGHTMAREFUEL"
+msgid "Transmute Pure Horror into Nightmare Fuel."
+msgstr "Saf Dehşeti Karabasan Yakıtına dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_NITRE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_NITRE"
+msgid "Transmute Gold Nugget into a Nitre."
+msgstr "Altın Külçesini Güherçileye dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_OPALPRECIOUSGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_OPALPRECIOUSGEM"
+msgid "Transmute Many Gems into an Iridescent Gem."
+msgstr "Pek çok Cevheri Yanardöner Cevhere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_ORANGEGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_ORANGEGEM"
+msgid "Transmute Purple Gems into Orange Gems."
+msgstr "Mor Cevherleri Turuncu Cevherlere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_POOP
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_POOP"
+msgid "Transmute Rot into Manure."
+msgstr "Çürüğü Gübreye dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_PUREBRILLIANCE
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_PUREBRILLIANCE"
+msgid "Transmute Infused Moon Shards into Pure Brilliance."
+msgstr "Şarjlı Ay Parçalarını Saf Parıltıya dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_PURPLEGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_PURPLEGEM"
+msgid "Transmute Blue and Red Gems into Purple Gems."
+msgstr "Mavi ve Kırmızı Cevherleri Mor Cevherlere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_REDGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_REDGEM"
+msgid "Transmute Blue Gems into Red Gems."
+msgstr "Mavi Cevherleri Kırmızı Cevherlere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_ROCKS
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_ROCKS"
+msgid "Transmute Flint into Rocks."
+msgstr "Çakmaktaşını Kayalara dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_SMALLMEAT
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_SMALLMEAT"
+msgid "Transmute Meat into Morsels."
+msgstr "Eti Lokmalara dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_TWIGS
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_TWIGS"
+msgid "Transmute a Log into Twigs."
+msgstr "Bir Kütüğü Dallara dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRANSMUTE_YELLOWGEM
+msgctxt "STRINGS.RECIPE_DESC.TRANSMUTE_YELLOWGEM"
+msgid "Transmute Orange Gems into Yellow Gems."
+msgstr "Turuncu Cevherleri Sarı Cevherlere dönüştür."
+
+#. STRINGS.RECIPE_DESC.TRAP
+msgctxt "STRINGS.RECIPE_DESC.TRAP"
+msgid "Capture small creatures."
+msgstr "Küçük yaratıkları yakala."
+
+#. STRINGS.RECIPE_DESC.TRAP_BRAMBLE
+msgctxt "STRINGS.RECIPE_DESC.TRAP_BRAMBLE"
+msgid "An equal opportunity annoyer."
+msgstr "Fırsat eşitliğiyle herkesi rahatsız eder."
+
+#. STRINGS.RECIPE_DESC.TRAP_TEETH
+msgctxt "STRINGS.RECIPE_DESC.TRAP_TEETH"
+msgid "Pops up and bites whoever steps on it."
+msgstr "Üstüne basanı pat diye ısırır."
+
+#. STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL
+msgctxt "STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL"
+msgid "Pops up and bites whoever steps on it."
+msgstr "Üstüne basanı pat diye ısırır."
+
+#. STRINGS.RECIPE_DESC.TREASURECHEST
+msgctxt "STRINGS.RECIPE_DESC.TREASURECHEST"
+msgid "A sturdy container."
+msgstr "Sağlam bir kap."
+
+#. STRINGS.RECIPE_DESC.TREEGROWTHSOLUTION
+msgctxt "STRINGS.RECIPE_DESC.TREEGROWTHSOLUTION"
+msgid "Encourages trees to reach new heights."
+msgstr "Ağaçları yeni boyutlara ulaşmaya teşvik eder."
+
+#. STRINGS.RECIPE_DESC.TRIDENT
+msgctxt "STRINGS.RECIPE_DESC.TRIDENT"
+msgid "Rock out in rocky waters."
+msgstr "Çalkantılı sularda coş."
+
+#. STRINGS.RECIPE_DESC.TROPHYSCALE_FISH
+msgctxt "STRINGS.RECIPE_DESC.TROPHYSCALE_FISH"
+msgid "Show off your prized catch."
+msgstr "Ödüllü avını sergile."
+
+#. STRINGS.RECIPE_DESC.TROPHYSCALE_OVERSIZEDVEGGIES
+msgctxt "STRINGS.RECIPE_DESC.TROPHYSCALE_OVERSIZEDVEGGIES"
+msgid "Weigh your prized fruits and veggies."
+msgstr "Ödüllü meyve ve sebzelerini tart."
+
+#. STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER
+msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER"
+msgid "Warm, but not that warm."
+msgstr "Sıcak ama o kadar sıcak değil."
+
+#. STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
+msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_WINTER"
+msgid "Warm enough for winter storms."
+msgstr "Kış fırtınalarına yetecek kadar sıcak."
+
+#. STRINGS.RECIPE_DESC.TURFCRAFTINGSTATION
+msgctxt "STRINGS.RECIPE_DESC.TURFCRAFTINGSTATION"
+msgid "Change the world one piece at a time."
+msgstr "Dünyayı parça parça değiştir."
+
+#. STRINGS.RECIPE_DESC.TURF_ARCHIVE
+msgctxt "STRINGS.RECIPE_DESC.TURF_ARCHIVE"
+msgid "Ancient stonework from an unsealed archive."
+msgstr "Mührü sökülmüş bir arşivden kadim taş işçiliği."
+
+#. STRINGS.RECIPE_DESC.TURF_BEARD_RUG
+msgctxt "STRINGS.RECIPE_DESC.TURF_BEARD_RUG"
+msgid "Some people just like to do art."
+msgstr "Bazı insanlar sadece sanat yapmayı sever."
+
+#. STRINGS.RECIPE_DESC.TURF_CARPETFLOOR
+msgctxt "STRINGS.RECIPE_DESC.TURF_CARPETFLOOR"
+msgid "Super soft. Smells like Beefalo."
+msgstr "Süper yumuşak. Bızonsığır gibi kokuyor."
+
+#. STRINGS.RECIPE_DESC.TURF_CARPETFLOOR2
+msgctxt "STRINGS.RECIPE_DESC.TURF_CARPETFLOOR2"
+msgid "Super Super soft."
+msgstr "Süper Süper yumuşak."
+
+#. STRINGS.RECIPE_DESC.TURF_CAVE
+msgctxt "STRINGS.RECIPE_DESC.TURF_CAVE"
+msgid "The cold stone of a cave floor."
+msgstr "Bir mağara zemininin soğuk taşı."
+
+#. STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR
+msgctxt "STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR"
+msgid "Nicely checkered marble tiles."
+msgstr "Güzelce kareli mermer karolar."
+
+#. STRINGS.RECIPE_DESC.TURF_COTL_BRICK
+msgctxt "STRINGS.RECIPE_DESC.TURF_COTL_BRICK"
+msgid "Individual bricks, brought together to serve a greater purpose."
+msgstr "Daha büyük bir amaca hizmet için bir araya getirilmiş tek tek tuğlalar."
+
+#. STRINGS.RECIPE_DESC.TURF_COTL_GOLD
+msgctxt "STRINGS.RECIPE_DESC.TURF_COTL_GOLD"
+msgid "Set the groundwork for a new golden age."
+msgstr "Yeni bir altın çağ için zemin hazırla."
+
+#. STRINGS.RECIPE_DESC.TURF_DECIDUOUS
+msgctxt "STRINGS.RECIPE_DESC.TURF_DECIDUOUS"
+msgid "A chunk of deciduous forest floor."
+msgstr "Yaprak döken bir orman zemininden bir parça."
+
+#. STRINGS.RECIPE_DESC.TURF_DESERTDIRT
+msgctxt "STRINGS.RECIPE_DESC.TURF_DESERTDIRT"
+msgid "A dry patch of sand."
+msgstr "Kuru bir kum lekesi."
+
+#. STRINGS.RECIPE_DESC.TURF_DRAGONFLY
+msgctxt "STRINGS.RECIPE_DESC.TURF_DRAGONFLY"
+msgid "Quell the spread of fire."
+msgstr "Ateşin yayılmasını bastır."
+
+#. STRINGS.RECIPE_DESC.TURF_FOREST
+msgctxt "STRINGS.RECIPE_DESC.TURF_FOREST"
+msgid "A chunk of forest floor."
+msgstr "Bir orman zemininden bir parça."
+
+#. STRINGS.RECIPE_DESC.TURF_FUNGUS
+msgctxt "STRINGS.RECIPE_DESC.TURF_FUNGUS"
+msgid "A cave floor overgrown with fungus."
+msgstr "Mantarla kaplanmış bir mağara zemini."
+
+#. STRINGS.RECIPE_DESC.TURF_FUNGUS_GREEN
+msgctxt "STRINGS.RECIPE_DESC.TURF_FUNGUS_GREEN"
+msgid "A cave floor covered in green fungus."
+msgstr "Yeşil mantarla kaplı bir mağara zemini."
+
+#. STRINGS.RECIPE_DESC.TURF_FUNGUS_MOON
+msgctxt "STRINGS.RECIPE_DESC.TURF_FUNGUS_MOON"
+msgid "The mutated fungal floor of a cave."
+msgstr "Bir mağaranın mutasyona uğramış mantar zemini."
+
+#. STRINGS.RECIPE_DESC.TURF_FUNGUS_RED
+msgctxt "STRINGS.RECIPE_DESC.TURF_FUNGUS_RED"
+msgid "A cave floor covered in red fungus."
+msgstr "Kırmızı mantarla kaplı bir mağara zemini."
+
+#. STRINGS.RECIPE_DESC.TURF_GRASS
+msgctxt "STRINGS.RECIPE_DESC.TURF_GRASS"
+msgid "A patch of grass."
+msgstr "Bir çim parçası."
+
+#. STRINGS.RECIPE_DESC.TURF_MARSH
+msgctxt "STRINGS.RECIPE_DESC.TURF_MARSH"
+msgid "Home is where the marsh is."
+msgstr "Yuva, bataklığın olduğu yerdir."
+
+#. STRINGS.RECIPE_DESC.TURF_METEOR
+msgctxt "STRINGS.RECIPE_DESC.TURF_METEOR"
+msgid "The cratered surface of the moon."
+msgstr "Ay'ın krater dolu yüzeyi."
+
+#. STRINGS.RECIPE_DESC.TURF_METEOR_BLUEPRINT
+msgctxt "STRINGS.RECIPE_DESC.TURF_METEOR_BLUEPRINT"
+msgid "Learn to mold the moon's surface."
+msgstr "Ay'ın yüzeyini şekillendirmeyi öğren."
+
+#. STRINGS.RECIPE_DESC.TURF_MONKEY_GROUND
+msgctxt "STRINGS.RECIPE_DESC.TURF_MONKEY_GROUND"
+msgid "A patch of sand, with a faint scent of bananas."
+msgstr "Hafif muz kokulu bir kum parçası."
+
+#. STRINGS.RECIPE_DESC.TURF_MOSAIC_BLUE
+msgctxt "STRINGS.RECIPE_DESC.TURF_MOSAIC_BLUE"
+msgid "Elegantly broken rock. In blue."
+msgstr "Zarifçe kırılmış kaya. Mavi."
+
+#. STRINGS.RECIPE_DESC.TURF_MOSAIC_GREY
+msgctxt "STRINGS.RECIPE_DESC.TURF_MOSAIC_GREY"
+msgid "Elegantly broken rock. In grey."
+msgstr "Zarifçe kırılmış kaya. Gri."
+
+#. STRINGS.RECIPE_DESC.TURF_MOSAIC_RED
+msgctxt "STRINGS.RECIPE_DESC.TURF_MOSAIC_RED"
+msgid "Elegantly broken rock. In red."
+msgstr "Zarifçe kırılmış kaya. Kırmızı."
+
+#. STRINGS.RECIPE_DESC.TURF_MUD
+msgctxt "STRINGS.RECIPE_DESC.TURF_MUD"
+msgid "A patch of muddy ground."
+msgstr "Bir çamurlu zemin parçası."
+
+#. STRINGS.RECIPE_DESC.TURF_PEBBLEBEACH
+msgctxt "STRINGS.RECIPE_DESC.TURF_PEBBLEBEACH"
+msgid "A patch of pebbled beach."
+msgstr "Bir çakıllı kumsal parçası."
+
+#. STRINGS.RECIPE_DESC.TURF_ROAD
+msgctxt "STRINGS.RECIPE_DESC.TURF_ROAD"
+msgid "Build your own road to nowhere."
+msgstr "Hiçbir yere giden kendi yolunu inşa et."
+
+#. STRINGS.RECIPE_DESC.TURF_ROCKY
+msgctxt "STRINGS.RECIPE_DESC.TURF_ROCKY"
+msgid "A chunk of rocky ground."
+msgstr "Kayalık zeminden bir parça."
+
+#. STRINGS.RECIPE_DESC.TURF_RUINSBRICK
+msgctxt "STRINGS.RECIPE_DESC.TURF_RUINSBRICK"
+msgid "Ancient stone flooring, decorated with a magical technique lost to time."
+msgstr "Zamanla unutulmuş sihirli bir tekniğe dekore edilmiş kadim taş döşeme."
+
+#. STRINGS.RECIPE_DESC.TURF_RUINSBRICK_GLOW
+msgctxt "STRINGS.RECIPE_DESC.TURF_RUINSBRICK_GLOW"
+msgid "A reproduction of ancient stone flooring."
+msgstr "Kadim taş döşemenin bir kopyası."
+
+#. STRINGS.RECIPE_DESC.TURF_RUINSTILES
+msgctxt "STRINGS.RECIPE_DESC.TURF_RUINSTILES"
+msgid "Tile flooring, decorated with a magical technique lost to time."
+msgstr "Zamanla unutulmuş sihirli bir tekniğe dekore edilmiş karo döşeme."
+
+#. STRINGS.RECIPE_DESC.TURF_RUINSTILES_GLOW
+msgctxt "STRINGS.RECIPE_DESC.TURF_RUINSTILES_GLOW"
+msgid "A reproduction of ancient tile flooring."
+msgstr "Kadim karo döşemenin bir kopyası."
+
+#. STRINGS.RECIPE_DESC.TURF_RUINSTRIM
+msgctxt "STRINGS.RECIPE_DESC.TURF_RUINSTRIM"
+msgid "Brick flooring, decorated with a magical technique lost to time."
+msgstr "Zamanla unutulmuş sihirli bir tekniğe dekore edilmiş tuğla döşeme."
+
+#. STRINGS.RECIPE_DESC.TURF_RUINSTRIM_GLOW
+msgctxt "STRINGS.RECIPE_DESC.TURF_RUINSTRIM_GLOW"
+msgid "A reproduction of ancient brick flooring."
+msgstr "Kadim tuğla döşemenin bir kopyası."
+
+#. STRINGS.RECIPE_DESC.TURF_SAVANNA
+msgctxt "STRINGS.RECIPE_DESC.TURF_SAVANNA"
+msgid "A patch of Savanna grass."
+msgstr "Bir Savan çimi parçası."
+
+#. STRINGS.RECIPE_DESC.TURF_SHELLBEACH
+msgctxt "STRINGS.RECIPE_DESC.TURF_SHELLBEACH"
+msgid "A patch of seashell seashore."
+msgstr "Bir deniz kabuklu deniz kıyısı parçası."
+
+#. STRINGS.RECIPE_DESC.TURF_SHELLBEACH_BLUEPRINT
+msgctxt "STRINGS.RECIPE_DESC.TURF_SHELLBEACH_BLUEPRINT"
+msgid "A soft patch of sand scattered with shells."
+msgstr "Kabuklarla bezenmiş yumuşak bir kum parçası."
+
+#. STRINGS.RECIPE_DESC.TURF_SINKHOLE
+msgctxt "STRINGS.RECIPE_DESC.TURF_SINKHOLE"
+msgid "A chunk of wet, muddy grass."
+msgstr "Islak, çamurlu çimden bir parça."
+
+#. STRINGS.RECIPE_DESC.TURF_UNDERROCK
+msgctxt "STRINGS.RECIPE_DESC.TURF_UNDERROCK"
+msgid "The craggy stone floor of a cave."
+msgstr "Bir mağaranın engebeli taş zemini."
+
+#. STRINGS.RECIPE_DESC.TURF_VAULT
+msgctxt "STRINGS.RECIPE_DESC.TURF_VAULT"
+msgid "Ancient stonework from the Sanctum."
+msgstr "Mahzen'den kadim taş işçiliği."
+
+#. STRINGS.RECIPE_DESC.TURF_VENT
+msgctxt "STRINGS.RECIPE_DESC.TURF_VENT"
+msgid "The craggy stone floor of a fumey cave."
+msgstr "Dumanlı bir mağaranın engebeli taş zemini."
+
+#. STRINGS.RECIPE_DESC.TURF_WOODFLOOR
+msgctxt "STRINGS.RECIPE_DESC.TURF_WOODFLOOR"
+msgid "High-quality laminate floorboards."
+msgstr "Yüksek kaliteli laminat zemin tahtaları."
+
+#. STRINGS.RECIPE_DESC.TWIGS
+msgctxt "STRINGS.RECIPE_DESC.TWIGS"
+msgid "A single twig can make all the difference."
+msgstr "Tek bir dal her şeyi değiştirebilir."
+
+#. STRINGS.RECIPE_DESC.UMBRELLA
+msgctxt "STRINGS.RECIPE_DESC.UMBRELLA"
+msgid "Keep the sun and rain at bay!"
+msgstr "Güneşi ve yağmuru uzakta tut!"
+
+#. STRINGS.RECIPE_DESC.VAULTRELIC_BOWL
+msgctxt "STRINGS.RECIPE_DESC.VAULTRELIC_BOWL"
+msgid "It's not dirty, it's \"developing a patina\"."
+msgstr "Kirli değil, \"patine kazanıyor\"."
+
+#. STRINGS.RECIPE_DESC.VAULTRELIC_PLANTER
+msgctxt "STRINGS.RECIPE_DESC.VAULTRELIC_PLANTER"
+msgid "Too brittle to plant anything in, but a great conversation piece."
+msgstr "İçine bir şey ekmek için fazla kırılgan ama harika bir sohbet konusu."
+
+#. STRINGS.RECIPE_DESC.VAULTRELIC_VASE
+msgctxt "STRINGS.RECIPE_DESC.VAULTRELIC_VASE"
+msgid "Decor from a bygone age."
+msgstr "Geçmiş bir çağdan dekor."
+
+#. STRINGS.RECIPE_DESC.VOIDCLOTHHAT
+msgctxt "STRINGS.RECIPE_DESC.VOIDCLOTHHAT"
+msgid "No light can pierce the darkness within this hood."
+msgstr "Hiçbir ışık bu kukuletanın içindeki karanlığı delemez."
+
+#. STRINGS.RECIPE_DESC.VOIDCLOTH_BOOMERANG
+msgctxt "STRINGS.RECIPE_DESC.VOIDCLOTH_BOOMERANG"
+msgid "It'll keep coming back for more!"
+msgstr "Dönüp dönüp gelmeye devam edecek!"
+
+#. STRINGS.RECIPE_DESC.VOIDCLOTH_KIT
+msgctxt "STRINGS.RECIPE_DESC.VOIDCLOTH_KIT"
+msgid "Fix up damaged equipment."
+msgstr "Hasarlı ekipmanları onar."
+
+#. STRINGS.RECIPE_DESC.VOIDCLOTH_SCYTHE
+msgctxt "STRINGS.RECIPE_DESC.VOIDCLOTH_SCYTHE"
+msgid "Cull the plant population with ease."
+msgstr "Bitki nüfusunu kolaylıkla seyrelt."
+
+#. STRINGS.RECIPE_DESC.VOIDCLOTH_UMBRELLA
+msgctxt "STRINGS.RECIPE_DESC.VOIDCLOTH_UMBRELLA"
+msgid "Shadowy protection from even the harshest rainfall."
+msgstr "En sert yağmurdan bile gölgesi koruma."
+
+#. STRINGS.RECIPE_DESC.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT
+msgctxt "STRINGS.RECIPE_DESC.WAGBOSS_ROBOT_CONSTRUCTIONSITE_KIT"
+msgid "Build first. Panic later."
+msgstr "Önce inşa et. Sonra panikle."
+
+#. STRINGS.RECIPE_DESC.WAGBOSS_ROBOT_CREATION_PARTS
+msgctxt "STRINGS.RECIPE_DESC.WAGBOSS_ROBOT_CREATION_PARTS"
+msgid "Piece by piece, assemble your very own war machine."
+msgstr "Parça parça, kendi savaş makineni birleştir."
+
+#. STRINGS.RECIPE_DESC.WAGPUNKBITS_KIT
+msgctxt "STRINGS.RECIPE_DESC.WAGPUNKBITS_KIT"
+msgid "Your handy-dandy W.A.R.B.I.S. repair tool!"
+msgstr "Pratik W.A.R.B.I.S. tamir aletin!"
+
+#. STRINGS.RECIPE_DESC.WAGPUNKHAT
+msgctxt "STRINGS.RECIPE_DESC.WAGPUNKHAT"
+msgid "Look smart, fight smart."
+msgstr "Zekice görün, zekice savaş."
+
+#. STRINGS.RECIPE_DESC.WAGPUNK_FLOOR_KIT
+msgctxt "STRINGS.RECIPE_DESC.WAGPUNK_FLOOR_KIT"
+msgid "Make the Ocean smaller! Permanently. Restrictions apply."
+msgstr "Okyanusu küçült! Kalıcı olarak. Kısıtlamalar geçerlidir."
+
+#. STRINGS.RECIPE_DESC.WALKING_STICK
+msgctxt "STRINGS.RECIPE_DESC.WALKING_STICK"
+msgid "Traverse your favorite nature trail with ease."
+msgstr "En sevdiğin doğa yürüyüşünü kolaylıkla yap."
+
+#. STRINGS.RECIPE_DESC.WALL_DREADSTONE_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WALL_DREADSTONE_ITEM"
+msgid "Surround yourself in the most dreadful decor."
+msgstr "Kendini en korkunç dekorla çevrele."
+
+#. STRINGS.RECIPE_DESC.WALL_HAY_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WALL_HAY_ITEM"
+msgid "Hay wall segments. Not very sturdy."
+msgstr "Saman duvar parçaları. Pek sağlam değil."
+
+#. STRINGS.RECIPE_DESC.WALL_MOONROCK_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WALL_MOONROCK_ITEM"
+msgid "Walls for the lunar loony."
+msgstr "Ay delisi için duvarlar."
+
+#. STRINGS.RECIPE_DESC.WALL_RUINS_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WALL_RUINS_ITEM"
+msgid "These walls will take quite a beating."
+msgstr "Bu duvarlar epey dayak yer."
+
+#. STRINGS.RECIPE_DESC.WALL_SCRAP_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WALL_SCRAP_ITEM"
+msgid "A pile of junk, roughly wall-shaped."
+msgstr "Kabaca duvar şeklinde bir hurda yığını."
+
+#. STRINGS.RECIPE_DESC.WALL_STONE_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WALL_STONE_ITEM"
+msgid "Stone wall segments."
+msgstr "Taş duvar parçaları."
+
+#. STRINGS.RECIPE_DESC.WALL_WOOD_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WALL_WOOD_ITEM"
+msgid "Wooden wall segments."
+msgstr "Tahta duvar parçaları."
+
+#. STRINGS.RECIPE_DESC.WALTERHAT
+msgctxt "STRINGS.RECIPE_DESC.WALTERHAT"
+msgid "Form and function over fashion."
+msgstr "Şıklıktan önce şekil ve işlev."
+
+#. STRINGS.RECIPE_DESC.WANDERINGTRADERSHOP_LIVINGLOG
+msgctxt "STRINGS.RECIPE_DESC.WANDERINGTRADERSHOP_LIVINGLOG"
+msgid "Life wood be a scream..."
+msgstr "Hayat ağaçi çığlıktır..."
+
+#. STRINGS.RECIPE_DESC.WARDROBE
+msgctxt "STRINGS.RECIPE_DESC.WARDROBE"
+msgid "Change your look to suit your mood."
+msgstr "Görünüşünü ruh haline göre değiştir."
+
+#. STRINGS.RECIPE_DESC.WARGSHRINE
+msgctxt "STRINGS.RECIPE_DESC.WARGSHRINE"
+msgid "Make offerings to the earthen Varg."
+msgstr "Toprak Varg'a sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.WATERBALLOON
+msgctxt "STRINGS.RECIPE_DESC.WATERBALLOON"
+msgid "Spheroid fire suppression."
+msgstr "Küresel yangın söndürme."
+
+#. STRINGS.RECIPE_DESC.WATERINGCAN
+msgctxt "STRINGS.RECIPE_DESC.WATERINGCAN"
+msgid "Keep plants happy and hydrated."
+msgstr "Bitkileri mutlu ve sulanmış tut."
+
+#. STRINGS.RECIPE_DESC.WATERMELONHAT
+msgctxt "STRINGS.RECIPE_DESC.WATERMELONHAT"
+msgid "Refreshing, but sticky."
+msgstr "Ferahlatıcı ama yapışkan."
+
+#. STRINGS.RECIPE_DESC.WATERPUMP
+msgctxt "STRINGS.RECIPE_DESC.WATERPUMP"
+msgid "Water, water everywhere!"
+msgstr "Su, su her yerde su!"
+
+#. STRINGS.RECIPE_DESC.WATHGRITHRHAT
+msgctxt "STRINGS.RECIPE_DESC.WATHGRITHRHAT"
+msgid "The unicorn is what protects you."
+msgstr "Seni koruyan şey, tek boynuzlu attır."
+
+#. STRINGS.RECIPE_DESC.WATHGRITHR_IMPROVEDHAT
+msgctxt "STRINGS.RECIPE_DESC.WATHGRITHR_IMPROVEDHAT"
+msgid "A helm fit for a Valkyrie queen."
+msgstr "Bir Valkyrie kraliçesine yakışır miğfer."
+
+#. STRINGS.RECIPE_DESC.WATHGRITHR_SHIELD
+msgctxt "STRINGS.RECIPE_DESC.WATHGRITHR_SHIELD"
+msgid "A shield can be a weapon too, if it believes in itself."
+msgstr "Bir kalkan da silah olabilir, kendine inanırsa."
+
+#. STRINGS.RECIPE_DESC.WAXPAPER
+msgctxt "STRINGS.RECIPE_DESC.WAXPAPER"
+msgid "For wrapping things."
+msgstr "Bir şeyleri sarmak için."
+
+#. STRINGS.RECIPE_DESC.WAXWELLJOURNAL
+msgctxt "STRINGS.RECIPE_DESC.WAXWELLJOURNAL"
+msgid "It'll blow your mind."
+msgstr "Aklını başından alır."
+
+#. STRINGS.RECIPE_DESC.WENDY_RECIPE_GRAVESTONE
+msgctxt "STRINGS.RECIPE_DESC.WENDY_RECIPE_GRAVESTONE"
+msgid "No one deserves an unmarked grave."
+msgstr "Hiç kimse mezarsız ölmeyi hak etmez."
+
+#. STRINGS.RECIPE_DESC.WENDY_RESURRECTIONGRAVE
+msgctxt "STRINGS.RECIPE_DESC.WENDY_RESURRECTIONGRAVE"
+msgid "Death is but an inconvenience."
+msgstr "Ölüm sadece bir aksaklıktır."
+
+#. STRINGS.RECIPE_DESC.WEREITEM_BEAVER
+msgctxt "STRINGS.RECIPE_DESC.WEREITEM_BEAVER"
+msgid "Invokes the curse of the Werebeaver."
+msgstr "Kunduzkurt lanetini çağırır."
+
+#. STRINGS.RECIPE_DESC.WEREITEM_GOOSE
+msgctxt "STRINGS.RECIPE_DESC.WEREITEM_GOOSE"
+msgid "Invokes the curse of the Weregoose."
+msgstr "Kazkurt lanetini çağırır."
+
+#. STRINGS.RECIPE_DESC.WEREITEM_MOOSE
+msgctxt "STRINGS.RECIPE_DESC.WEREITEM_MOOSE"
+msgid "Invokes the curse of the Weremoose."
+msgstr "Mooskurt lanetini çağırır."
+
+#. STRINGS.RECIPE_DESC.WHIP
+msgctxt "STRINGS.RECIPE_DESC.WHIP"
+msgid "Dish out constructive feedback."
+msgstr "Yapıcı geri bildirim dağıt."
+
+#. STRINGS.RECIPE_DESC.WINCH
+msgctxt "STRINGS.RECIPE_DESC.WINCH"
+msgid "Let it do the heavy lifting for you."
+msgstr "Ağır işi senin yerine o yapsın."
+
+#. STRINGS.RECIPE_DESC.WINCH_BLUEPRINT
+msgctxt "STRINGS.RECIPE_DESC.WINCH_BLUEPRINT"
+msgid "For deep sea grabs."
+msgstr "Derin deniz tutuşları için."
+
+#. STRINGS.RECIPE_DESC.WINONA_BATTERY_HIGH
+msgctxt "STRINGS.RECIPE_DESC.WINONA_BATTERY_HIGH"
+msgid "This one uses gems, so you know it's good."
+msgstr "Bu cevher kullanır, yani iyi olduğundan emin ol."
+
+#. STRINGS.RECIPE_DESC.WINONA_BATTERY_LOW
+msgctxt "STRINGS.RECIPE_DESC.WINONA_BATTERY_LOW"
+msgid "Someone's gotta keep the juice flowing."
+msgstr "Birinin akımı akar tutması lazım."
+
+#. STRINGS.RECIPE_DESC.WINONA_CATAPULT
+msgctxt "STRINGS.RECIPE_DESC.WINONA_CATAPULT"
+msgid "Lob big rocks at fearful foes."
+msgstr "Korkak düşmanlara büyük kayalar fırlat."
+
+#. STRINGS.RECIPE_DESC.WINONA_REMOTE
+msgctxt "STRINGS.RECIPE_DESC.WINONA_REMOTE"
+msgid "Control your creations with the push of a button."
+msgstr "Yaratımlarını bir tuşa basarak kontrol et."
+
+#. STRINGS.RECIPE_DESC.WINONA_SPOTLIGHT
+msgctxt "STRINGS.RECIPE_DESC.WINONA_SPOTLIGHT"
+msgid "Shine a light both day and night."
+msgstr "Hem gündüz hem gece ışık saç."
+
+#. STRINGS.RECIPE_DESC.WINONA_STORAGE_ROBOT
+msgctxt "STRINGS.RECIPE_DESC.WINONA_STORAGE_ROBOT"
+msgid "This collector belongs in your collection."
+msgstr "Bu koleksiyoncu, koleksiyonuna ait."
+
+#. STRINGS.RECIPE_DESC.WINONA_TELEBRELLA
+msgctxt "STRINGS.RECIPE_DESC.WINONA_TELEBRELLA"
+msgid "The best way to send anything home is by the particle."
+msgstr "Bir şeyi eve göndermenin en iyi yolu parçacıktır."
+
+#. STRINGS.RECIPE_DESC.WINONA_TELEPORT_PAD_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WINONA_TELEPORT_PAD_ITEM"
+msgid "When it comes to transporting items, this machine really delivers."
+msgstr "Eşya taşımaya gelince bu makine gerçekten teslim eder."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_BERRYSAUCE
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_BERRYSAUCE"
+msgid "Fill your belly with a bowl full of jelly."
+msgstr "Karnını jöle dolu bir kaseyle doldur."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_BIBINGKA
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_BIBINGKA"
+msgid "This dish will leaf you wanting more."
+msgstr "Bu yemek seni daha çok ister yapraklayacak."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_CABBAGEROLLS
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_CABBAGEROLLS"
+msgid "Get your holiday feast rolling."
+msgstr "Şölen ziyafetini saracak."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_FESTIVEFISH
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_FESTIVEFISH"
+msgid "It just isn't the holidays without it."
+msgstr "O olmadan tatil tatil olmaz."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_GRAVY
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_GRAVY"
+msgid "All aboard the gravy train."
+msgstr "Et suyu treni kalkıyor."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_LATKES
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_LATKES"
+msgid "You'll like them a latke."
+msgstr "Latke kadar seveceksin."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_LUTEFISK
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_LUTEFISK"
+msgid "Sea-son's eatings."
+msgstr "Deni-mevsim afiyetler."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_MULLEDDRINK
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_MULLEDDRINK"
+msgid "A hot drink for a cold winter."
+msgstr "Soğuk bir kış için sıcak bir içecek."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_PANETTONE
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_PANETTONE"
+msgid "Like fruitcake, but edible!"
+msgstr "Meyveli kek gibi ama yenebilir!"
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_PAVLOVA
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_PAVLOVA"
+msgid "Light and crisp as new fallen snow."
+msgstr "Yeni yağmış kar kadar hafif ve gevrek."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_PICKLEDHERRING
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_PICKLEDHERRING"
+msgid "A salty seasonal supper."
+msgstr "Tuzlu bir mevsim akşam yemeği."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_POLISHCOOKIE
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_POLISHCOOKIE"
+msgid "Just like babcia used to make."
+msgstr "Tıpkı babcia'nın yaptığı gibi."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_PUMPKINPIE
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_PUMPKINPIE"
+msgid "Gourd tidings we bring."
+msgstr "Kabakkün haberleri getiriyoruz."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_ROASTTURKEY
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_ROASTTURKEY"
+msgid "Gobble-gobble it up."
+msgstr "Gulguluyla mideye indir."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_STUFFING
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_STUFFING"
+msgid "Stuff your face!"
+msgstr "Suratını doldur!"
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_SWEETPOTATO
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_SWEETPOTATO"
+msgid "It's a marshmallow world in the winter."
+msgstr "Kışın dünya bir marşmelov dünyasıdır."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_TAMALES
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_TAMALES"
+msgid "Spice up your holiday spread."
+msgstr "Şölen sofrana baharat kat."
+
+#. STRINGS.RECIPE_DESC.WINTERCOOKING_TOURTIERE
+msgctxt "STRINGS.RECIPE_DESC.WINTERCOOKING_TOURTIERE"
+msgid "A savory seasonal pie."
+msgstr "Tuzlu bir mevsim turtası."
+
+#. STRINGS.RECIPE_DESC.WINTERHAT
+msgctxt "STRINGS.RECIPE_DESC.WINTERHAT"
+msgid "Keeps yer noggin warm."
+msgstr "Kafanı sıcak tutar."
+
+#. STRINGS.RECIPE_DESC.WINTEROMETER
+msgctxt "STRINGS.RECIPE_DESC.WINTEROMETER"
+msgid "Measure ambient air temperature."
+msgstr "Ortamın hava sıcaklığını ölç."
+
+#. STRINGS.RECIPE_DESC.WINTERSFEASTOVEN
+msgctxt "STRINGS.RECIPE_DESC.WINTERSFEASTOVEN"
+msgid "It's all fired up for the holidays."
+msgstr "Şölen için tamamen ateşlendi."
+
+#. STRINGS.RECIPE_DESC.WINTER_ORNAMENT_BOSS_HERMITHOUSE
+msgctxt "STRINGS.RECIPE_DESC.WINTER_ORNAMENT_BOSS_HERMITHOUSE"
+msgid "A keepsake for your Winter's Feast Tree."
+msgstr "Kış Şöleni Ağacın için bir hatıra."
+
+#. STRINGS.RECIPE_DESC.WINTER_ORNAMENT_BOSS_PEARL
+msgctxt "STRINGS.RECIPE_DESC.WINTER_ORNAMENT_BOSS_PEARL"
+msgid "A keepsake for your Winter's Feast Tree."
+msgstr "Kış Şöleni Ağacın için bir hatıra."
+
+#. STRINGS.RECIPE_DESC.WINTER_TREESTAND
+msgctxt "STRINGS.RECIPE_DESC.WINTER_TREESTAND"
+msgid "Plant and decorate a Winter's Feast tree!"
+msgstr "Bir Kış Şöleni ağacı dik ve süsle!"
+
+#. STRINGS.RECIPE_DESC.WOBY_TREAT
+msgctxt "STRINGS.RECIPE_DESC.WOBY_TREAT"
+msgid "Non-perishable Monster Meat biscuits made special for Woby."
+msgstr "Woby için özel yapılmış bozulmaz Canavar Eti bisküvileri."
+
+#. STRINGS.RECIPE_DESC.WOLFGANG_WHISTLE
+msgctxt "STRINGS.RECIPE_DESC.WOLFGANG_WHISTLE"
+msgid "Let out your inner coach!"
+msgstr "İçindeki antrenörü serbest bırak!"
+
+#. STRINGS.RECIPE_DESC.WOODCARVEDHAT
+msgctxt "STRINGS.RECIPE_DESC.WOODCARVEDHAT"
+msgid "Your head will stay nice and safe (knock on wood)."
+msgstr "Kafan güzelce güvende kalacak (tahtaya vur)."
+
+#. STRINGS.RECIPE_DESC.WOOD_CHAIR
+msgctxt "STRINGS.RECIPE_DESC.WOOD_CHAIR"
+msgid "A wooden chair to sit on."
+msgstr "Üzerine oturmak için tahta bir sandalye."
+
+#. STRINGS.RECIPE_DESC.WOOD_STOOL
+msgctxt "STRINGS.RECIPE_DESC.WOOD_STOOL"
+msgid "A wooden stool to sit on."
+msgstr "Üzerine oturmak için tahta bir tabure."
+
+#. STRINGS.RECIPE_DESC.WOOD_TABLE_ROUND
+msgctxt "STRINGS.RECIPE_DESC.WOOD_TABLE_ROUND"
+msgid "A round wooden table to put things on."
+msgstr "Üzerine eşya koymak için yuvarlak tahta bir masa."
+
+#. STRINGS.RECIPE_DESC.WOOD_TABLE_SQUARE
+msgctxt "STRINGS.RECIPE_DESC.WOOD_TABLE_SQUARE"
+msgid "A square wooden table to put things on."
+msgstr "Üzerine eşya koymak için kare tahta bir masa."
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH"
+msgid "It's hand-made!"
+msgstr "El yapımı!"
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH2
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_BERRYBUSH2"
+msgid "As many berries as your arm can carry."
+msgstr "Kolun ne kadar taşıyabilirse o kadar meyve."
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_CARRAT
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_CARRAT"
+msgid "Transform a plain old Carrot into a helpful Carrat!"
+msgstr "Sıradan eski bir Havucu, yardımsever bir Havufareye dönüştür!"
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_FRUITDRAGON
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_FRUITDRAGON"
+msgid "Transform a dreary Dragon Fruit into a fierce Saladmander!"
+msgstr "Iç sıkıcı bir Ejder Meyvesini, vahşi bir Salatamender'a dönüştür!"
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_JUICYBERRYBUSH
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_JUICYBERRYBUSH"
+msgid "Arm-fresh produce."
+msgstr "Kol-taze ürün."
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_LIGHTFLIER
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_LIGHTFLIER"
+msgid "Transform an ordinary Light Bulb into a loyal Bulbous Lightbug!"
+msgstr "Sıradan bir Ampulü, sadık bir Ampul Işıkböceği'ne dönüştür!"
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_LUREPLANTBULB
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_LUREPLANTBULB"
+msgid "Costs an arm, but not a leg."
+msgstr "Kola mal olur ama bacağa olmaz."
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_REEDS
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_REEDS"
+msgid "Knowing how to reed comes in handy."
+msgstr "Sazo okumayı bilmek işe yarar."
+
+#. STRINGS.RECIPE_DESC.WORMWOOD_SAPLING
+msgctxt "STRINGS.RECIPE_DESC.WORMWOOD_SAPLING"
+msgid "Grow out on a limb."
+msgstr "Kolundan dışarı büyü."
+
+#. STRINGS.RECIPE_DESC.WORTOX_NABBAG
+msgctxt "STRINGS.RECIPE_DESC.WORTOX_NABBAG"
+msgid "Stuff it and swing it!"
+msgstr "Doldur ve savur!"
+
+#. STRINGS.RECIPE_DESC.WORTOX_REVIVER
+msgctxt "STRINGS.RECIPE_DESC.WORTOX_REVIVER"
+msgid "Soul revival of a single ghostly friend. May bring others closer."
+msgstr "Tek bir hayalet dostu ruhsal diriliş. Diğerlerini de yaklaştırabilir."
+
+#. STRINGS.RECIPE_DESC.WORTOX_SOULJAR
+msgctxt "STRINGS.RECIPE_DESC.WORTOX_SOULJAR"
+msgid "Why let them be free when you can stuff them all into a jar?"
+msgstr "Hepsini bir kavanoza doldurabilecekken neden serbest bırakasın?"
+
+#. STRINGS.RECIPE_DESC.WURT_SWAMPITEM_LUNAR
+msgctxt "STRINGS.RECIPE_DESC.WURT_SWAMPITEM_LUNAR"
+msgid "Transform the battlefield and your fearless followers with a mind-altering, mutating bang!"
+msgstr "Savaş meydanını ve korkusuz takipçilerini akıl bozucu, mutasyon gibi büyük bir patlamayla dönüştür!"
+
+#. STRINGS.RECIPE_DESC.WURT_SWAMPITEM_SHADOW
+msgctxt "STRINGS.RECIPE_DESC.WURT_SWAMPITEM_SHADOW"
+msgid "Bring home turf advantage to any fight, along with some writhing reinforcements."
+msgstr "Her dövüşe iç saha avantajı ve kıvranan takviyeler getir."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_BEE
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_BEE"
+msgid "Get your brain and body buzzing with powerful potential!"
+msgstr "BEYNİNİ VE BEDENİNİ GÜÇLÜ POTANSİYELLE VIZILDAT!"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_COLD
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_COLD"
+msgid "Turn your chassis into a portable freezer."
+msgstr "ŞASİNİ TAŞINABİLİR BİR DONDURUCUYA ÇEVİR."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_DIGESTION
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_DIGESTION"
+msgid "Give spoiled food a second chance!"
+msgstr "BOZUK YİYECEĞE İKİNCİ BİR ŞANS VER!"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_HEAT
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_HEAT"
+msgid "Things are about to get heated."
+msgstr "İŞLER ISINMAK ÜZERE."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_LIGHT
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_LIGHT"
+msgid "Light up a room with your presence."
+msgstr "VARLIĞINLA BİR ODAYI AYDINLAT."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_LIGHT2
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_LIGHT2"
+msgid "Let them see the light... you."
+msgstr "BIRAK IŞIĞI GÖRSÜNLER... SENİ."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH"
+msgid "Make your robotic body a bit more robust."
+msgstr "ROBOTİK BEDENİNİ BİRAZ DAHA SAĞLAM YAP."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHEALTH2"
+msgid "Make your robotic body much more robust."
+msgstr "ROBOTİK BEDENİNİ ÇOK DAHA SAĞLAM YAP."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER"
+msgid "Capable of containing even the most insatiable automaton's appetite."
+msgstr "EN DOYMAZ OTOMATONUN İŞTAHINI BİLE BARINDIRABİLİR."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER1
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXHUNGER1"
+msgid "Add a bit of room to your fuel tank."
+msgstr "YAKIT DEPONA BİRAZ YER EKLE."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY"
+msgid "A big boost of processing power will really get those gears turning."
+msgstr "İŞLEM GÜCÜNDE BÜYÜK BİR ARTIŞ ŞU ÇARKLARI ÇEVİRİR."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY1
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MAXSANITY1"
+msgid "A little extra processing power helps to ease the mechanical mind."
+msgstr "BİRAZ EKSTRA İŞLEM GÜCÜ MEKANİK ZİHNİ RAHATLATIR."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED"
+msgid "A hastily designed speed booster. It could use some improvement."
+msgstr "ACELEYLE TASARLANMIŞ HIZ ARTIRICI. BİRAZ GELİŞTİRİLEBİLİR."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED2
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MOVESPEED2"
+msgid "A perfected speed booster to kick your engine into high gear."
+msgstr "MOTORUNU YÜKSEK VİTESE GEÇİREN MÜKEMMELLEŞTİRİLMİŞ HIZ ARTIRICI."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_MUSIC
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_MUSIC"
+msgid "Every machine needs a tune-up now and then."
+msgstr "HER MAKİNENİN ARA SIRA AKORT AYARI GEREKİR."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_NIGHTVISION
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_NIGHTVISION"
+msgid "Recalibrate your optic sensors for night vision."
+msgstr "OPTİK SENSÖRLERİNİ GECE GÖRÜŞÜ İÇİN YENİDEN AYARLA."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_RADAR
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_RADAR"
+msgid "Expand your horizons."
+msgstr "UFKUNU GENİŞLET."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_SCREECH
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_SCREECH"
+msgid "Unleash the fearsome battlecry of the soulless automaton!"
+msgstr "RUHSUZ OTOMATONUN KORKUNÇ SAVAŞ ÇIĞLIĞINI SAL!"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_SHIELDING
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_SHIELDING"
+msgid "Defend yourself!"
+msgstr "KENDİNİ SAVUN!"
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_SPIN
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_SPIN"
+msgid "Chop or smash your way around, and around, and around..."
+msgstr "DÖNE DÖNE BALTALA YA DA EZ, DÖNE DÖNE, DÖNE DÖNE..."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_STACKSIZE
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_STACKSIZE"
+msgid "Infinite storage. Finite space. Don't overthink it."
+msgstr "SONSUZ DEPO. SINIRLI ALAN. FAZLA DÜŞÜNME."
+
+#. STRINGS.RECIPE_DESC.WX78MODULE_TASER
+msgctxt "STRINGS.RECIPE_DESC.WX78MODULE_TASER"
+msgid "Anyone who messes with you will be in for a shock."
+msgstr "SENINLE UĞRAŞAN HERKES ŞOKA UĞRAR."
+
+#. STRINGS.RECIPE_DESC.WX78_BACKUPBODY
+msgctxt "STRINGS.RECIPE_DESC.WX78_BACKUPBODY"
+msgid "It never hurts to have spare hardware. Although data transfer is always a pain."
+msgstr "YEDEK DONANIM ASLA ZARAR VERMEZ. GERÇİ VERİ AKTARIMI HEP CAN SIKICIDIR."
+
+#. STRINGS.RECIPE_DESC.WX78_BACKUPBODY_INVENTORY
+msgctxt "STRINGS.RECIPE_DESC.WX78_BACKUPBODY_INVENTORY"
+msgid "It never hurts to have spare hardware. Although data transfer is always a pain."
+msgstr "YEDEK DONANIM ASLA ZARAR VERMEZ. GERÇİ VERİ AKTARIMI HEP CAN SIKICIDIR."
+
+#. STRINGS.RECIPE_DESC.WX78_DRONE_DELIVERY_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WX78_DRONE_DELIVERY_ITEM"
+msgid "Enjoy free shipping."
+msgstr "ÜCRETSİZ KARGONUN TADINI ÇIKAR."
+
+#. STRINGS.RECIPE_DESC.WX78_DRONE_SCOUT
+msgctxt "STRINGS.RECIPE_DESC.WX78_DRONE_SCOUT"
+msgid "Explore uncharted lands with this brave little robo-scout."
+msgstr "BU CESUR KÜÇÜK ROBO-İZCİYLE HARİTASIZ TOPRAKLARI KEŞFET."
+
+#. STRINGS.RECIPE_DESC.WX78_DRONE_ZAP_REMOTE
+msgctxt "STRINGS.RECIPE_DESC.WX78_DRONE_ZAP_REMOTE"
+msgid "Shocking new technology."
+msgstr "ŞOK EDİCİ YENİ TEKNOLOJİ."
+
+#. STRINGS.RECIPE_DESC.WX78_GESTALTTRAPPER
+msgctxt "STRINGS.RECIPE_DESC.WX78_GESTALTTRAPPER"
+msgid "Allow a lunar entity to possess your chassis. What could go wrong?"
+msgstr "BİR AY VARLIĞININ ŞASİNE GİRMESİNE İZİN VER. NE TERS GİDEBİLİR Kİ?"
+
+#. STRINGS.RECIPE_DESC.WX78_MODULEREMOVER
+msgctxt "STRINGS.RECIPE_DESC.WX78_MODULEREMOVER"
+msgid "Success comes to those who really a-ply themselves."
+msgstr "BAŞARI, KENDİNİ GERÇEKTEN ÇOKKAT-LAYANLARA GELİR."
+
+#. STRINGS.RECIPE_DESC.WX78_SCANNER_ITEM
+msgctxt "STRINGS.RECIPE_DESC.WX78_SCANNER_ITEM"
+msgid "It never hurts to have a backup scan."
+msgstr "YEDEK BİR TARAMAYA SAHİP OLMAK ASLA ZARAR VERMEZ."
+
+#. STRINGS.RECIPE_DESC.W_RADIO
+msgctxt "STRINGS.RECIPE_DESC.W_RADIO"
+msgid "Where is that signal coming from?"
+msgstr "Bu sinyal nereden geliyor?"
+
+#. STRINGS.RECIPE_DESC.YELLOWAMULET
+msgctxt "STRINGS.RECIPE_DESC.YELLOWAMULET"
+msgid "Pull power from the heavens."
+msgstr "Cennetlerden güç çek."
+
+#. STRINGS.RECIPE_DESC.YELLOWSTAFF
+msgctxt "STRINGS.RECIPE_DESC.YELLOWSTAFF"
+msgid "Summon a tiny star."
+msgstr "Minik bir yıldız çağır."
+
+#. STRINGS.RECIPE_DESC.YOTB_BEEFALOSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTB_BEEFALOSHRINE"
+msgid "Make offerings to the steadfast beefalo."
+msgstr "Sebatkâr bızonsığıra sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_1
+msgctxt "STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_1"
+msgid "Get some fearsome inspiration."
+msgstr "Korkutucu bir esin al."
+
+#. STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_2
+msgctxt "STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_2"
+msgid "Get some formal inspiration."
+msgstr "Resmi bir esin al."
+
+#. STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_3
+msgctxt "STRINGS.RECIPE_DESC.YOTB_PATTERN_FRAGMENT_3"
+msgid "Get some festive inspiration."
+msgstr "Şenlikli bir esin al."
+
+#. STRINGS.RECIPE_DESC.YOTB_POST_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTB_POST_ITEM"
+msgid "Put your beefalo on center stage."
+msgstr "Bızonsığırını sahne ortasına koy."
+
+#. STRINGS.RECIPE_DESC.YOTB_SEWINGMACHINE_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTB_SEWINGMACHINE_ITEM"
+msgid "Prototype the perfect beefalo outfit."
+msgstr "Mükemmel bızonsığır kıyafetini prototiple."
+
+#. STRINGS.RECIPE_DESC.YOTB_STAGE_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTB_STAGE_ITEM"
+msgid "Bring in an expert."
+msgstr "Bir uzman getir."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRATSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRATSHRINE"
+msgid "Make offerings to the nimble carrat."
+msgstr "Çevik havufareye sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_DIRECTION_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_DIRECTION_ITEM"
+msgid "Improve your carrat's sense of direction."
+msgstr "Havufarenin yön duygusunu geliştir."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_REACTION_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_REACTION_ITEM"
+msgid "Accelerate your carrat's reaction time."
+msgstr "Havufarenin tepki süresini hızlandır."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_SPEED_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_SPEED_ITEM"
+msgid "Step up your carrat's speed."
+msgstr "Havufarenin hızını yükselt."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_STAMINA_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_GYM_STAMINA_ITEM"
+msgid "Boost your carrat's stamina."
+msgstr "Havufarenin dayanıklılığını artır."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_CHECKPOINT
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_CHECKPOINT"
+msgid "Just one stop on the road to glory."
+msgstr "Şan yolunda sadece bir durak."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_CHECKPOINT_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_CHECKPOINT_ITEM"
+msgid "Just one stop on the road to glory."
+msgstr "Şan yolunda sadece bir durak."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_FINISH
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_FINISH"
+msgid "End of the line."
+msgstr "Hattın sonu."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_FINISH_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_FINISH_ITEM"
+msgid "End of the line."
+msgstr "Hattın sonu."
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_START
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_START"
+msgid "Off to the races!"
+msgstr "Yarışlara!"
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_START_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_RACE_START_ITEM"
+msgid "Off to the races!"
+msgstr "Yarışlara!"
+
+#. STRINGS.RECIPE_DESC.YOTC_CARRAT_SCALE_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTC_CARRAT_SCALE_ITEM"
+msgid "Find out how your carrat measures up."
+msgstr "Havufarenin nasıl ölçüldüğünü gör."
+
+#. STRINGS.RECIPE_DESC.YOTC_SEEDPACKET
+msgctxt "STRINGS.RECIPE_DESC.YOTC_SEEDPACKET"
+msgid "A humble pack of assorted seeds."
+msgstr "Çeşitli tohumların mütevazı bir paketi."
+
+#. STRINGS.RECIPE_DESC.YOTC_SEEDPACKET_RARE
+msgctxt "STRINGS.RECIPE_DESC.YOTC_SEEDPACKET_RARE"
+msgid "A pack of high quality seeds."
+msgstr "Yüksek kaliteli tohumlardan bir paket."
+
+#. STRINGS.RECIPE_DESC.YOTD_ANCHOR_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTD_ANCHOR_ITEM"
+msgid "The gold standard of ship anchors."
+msgstr "Gemi çapalarının altın standardı."
+
+#. STRINGS.RECIPE_DESC.YOTD_DRAGONSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTD_DRAGONSHRINE"
+msgid "Make offerings to the fiery Dragonfly."
+msgstr "Ateşli Yusufçuğa sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.YOTD_OAR
+msgctxt "STRINGS.RECIPE_DESC.YOTD_OAR"
+msgid "A little-known fact about Dragonflies: they're surprisingly good swimmers."
+msgstr "Yusufçuklar hakkında az bilinen bir gerçek: şaşırtıcı derecede iyi yüzücülerdir."
+
+#. STRINGS.RECIPE_DESC.YOTD_STEERINGWHEEL_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTD_STEERINGWHEEL_ITEM"
+msgid "Take the wheel and go for gold!"
+msgstr "Direksiyonu al ve altın için yarış!"
+
+#. STRINGS.RECIPE_DESC.YOTH_CHAIR_ROCKING_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTH_CHAIR_ROCKING_ITEM"
+msgid "Take a ride and enjoy going nowhere."
+msgstr "Bir tur at, hiçbir yere gitmemenin tadını çıkar."
+
+#. STRINGS.RECIPE_DESC.YOTH_KNIGHTSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTH_KNIGHTSHRINE"
+msgid "Make offerings to the whirring Clockwork Knight"
+msgstr "Vızıldayan Mekanik Şövalye'ye sunularda bulun"
+
+#. STRINGS.RECIPE_DESC.YOTH_KNIGHTSTICK
+msgctxt "STRINGS.RECIPE_DESC.YOTH_KNIGHTSTICK"
+msgid "Horse around."
+msgstr "Atlı maytap yap."
+
+#. STRINGS.RECIPE_DESC.YOTP_FOOD1
+msgctxt "STRINGS.RECIPE_DESC.YOTP_FOOD1"
+msgid "A roasted tribute to the Pig King."
+msgstr "Domuzların Kralı'na közlenmiş bir saygı duruşu."
+
+#. STRINGS.RECIPE_DESC.YOTP_FOOD2
+msgctxt "STRINGS.RECIPE_DESC.YOTP_FOOD2"
+msgid "What's hiding in there?"
+msgstr "İçinde ne saklı?"
+
+#. STRINGS.RECIPE_DESC.YOTP_FOOD3
+msgctxt "STRINGS.RECIPE_DESC.YOTP_FOOD3"
+msgid "Prosperity on a stick."
+msgstr "Çubukta refah."
+
+#. STRINGS.RECIPE_DESC.YOTR_DECOR_1_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_1_ITEM"
+msgid "This lovable light makes any cave cozier."
+msgstr "Bu sevimli ışık her mağarayı daha rahat yapar."
+
+#. STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTR_DECOR_2_ITEM"
+msgid "A rabbit statue with a real fire in its belly!"
+msgstr "Karnında gerçek bir ateş olan tavşan heykeli!"
+
+#. STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FIGHTRING_KIT"
+msgid "A ring to bring the brawlin' bunnies."
+msgstr "Yumruklayan tavşanları getiren bir ring."
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD1
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD1"
+msgid "No bunnies were harmed in the making of this cake."
+msgstr "Bu pastayı yaparken hiçbir tavşan zarar görmedi."
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD2
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD2"
+msgid "It's \"blue\" flavored!"
+msgstr "\"Mavi\" lezzetli!"
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD3
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD3"
+msgid "This dessert looks almost too good to eat."
+msgstr "Bu tatlı yenmeyecek kadar güzel görünüyor."
+
+#. STRINGS.RECIPE_DESC.YOTR_FOOD4
+msgctxt "STRINGS.RECIPE_DESC.YOTR_FOOD4"
+msgid "Puffy balls of chewy goodness."
+msgstr "Çiğnenebilir lezzetin kabarık topları."
+
+#. STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTR_RABBITSHRINE"
+msgid "Make offerings to the cozy Bunnyman."
+msgstr "Rahat Tavşanadama sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.YOTR_TOKEN
+msgctxt "STRINGS.RECIPE_DESC.YOTR_TOKEN"
+msgid "Tell a Bunnyman you'd like to try your hand at a pillow battle."
+msgstr "Bir Tavşanadama yastık savaşı denemek istediğini söyle."
+
+#. STRINGS.RECIPE_DESC.YOTS_LANTERN_POST
+msgctxt "STRINGS.RECIPE_DESC.YOTS_LANTERN_POST"
+msgid "A most festive post for stringing lanterns."
+msgstr "Fener dizmek için son derece şenlikli bir direk."
+
+#. STRINGS.RECIPE_DESC.YOTS_LANTERN_POST_ITEM
+msgctxt "STRINGS.RECIPE_DESC.YOTS_LANTERN_POST_ITEM"
+msgid "A most festive post for stringing lanterns."
+msgstr "Fener dizmek için son derece şenlikli bir direk."
+
+#. STRINGS.RECIPE_DESC.YOTS_SNAKESHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOTS_SNAKESHRINE"
+msgid "Make offerings to the hungry Depths Worm."
+msgstr "Aç Derinlik Solucanı'na sunularda bulun."
+
+#. STRINGS.RECIPE_DESC.YOT_CATCOONSHRINE
+msgctxt "STRINGS.RECIPE_DESC.YOT_CATCOONSHRINE"
+msgid "Make offerings to the elusive catcoon."
+msgstr "Yakalanması zor kedikoona sunularda bulun."
 
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
