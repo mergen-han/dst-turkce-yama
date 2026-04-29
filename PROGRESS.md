@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 18 ✅ — **Faz 5 Wilson generic devam** — batch_0061-0063 ANNOUNCE_*+BATTLECRY+DESCRIBE A başlangıç — 3 batch / 600 string)
+**Son güncelleme:** 2026-04-29 (Oturum 19 ✅ — **Faz 5 Wilson DESCRIBE A→C devam** — batch_0064-0065 ATRIUM/AXE/BACKPACK/BAT/BEEFALO/BEE/BERRY/BOAT/BOOK/BUNNYMAN/CARNIVAL/CARROT/CAT/CAVE — 2 batch / 400 string)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 11.245 / 85.706 msgid (%13.12)
+**Şu ana kadar çevrilen toplam:** 11.645 / 85.706 msgid (%13.59)
 
 ---
 
@@ -320,10 +320,18 @@
 
 **Toplam ilerleme:** 10.645 → 11.245 (%12.42 → **%13.12**) — **%13 EŞİĞİ AŞILDI** ⭐⭐⭐
 
-## 🎯 Sıradaki Oturum (19) — Yol Haritası
+### ✅ Oturum 19 — 2026-04-29 (2 batch / 400 string) — Faz 5 Wilson DESCRIBE_A-C
+
+**Aydın'ın "devam" komutu:** batch_0064 (DESCRIBE_ARROWSIGN_POST→BOATRACE_CHECKPOINT — ASH/ASPARAGUS/ATRIUM_GATE/ATRIUM_RUBBLE 5 satır/AXE/BABYBEEFALO/BACKPACK/BACONEGGS/BALATRO_MACHINE/BALLOON+VEST+SPEED/BANANA seri/BANDAGE/BARNACLE 6 form/BAT+BATBAT+BATCAVE+BATHBOMB+BATNOSE+BATTLESONG 11 form Wigfrid sahne nefreti/BATWING/BEARDHAIR/BEARGER+CORPSE+VEST/BEDROLL/BEE+BEEBOX 12 entry/BEEFALO 11 form binme/BEEFALO_GROOMER+BEEF_BELL/BEEGUARD/BEEHAT/BEEHIVE+BEEMINE+BEEQUEEN+BEEQUEENHIVE/BEESWAX+SPRAY/BEETLETAUR/BELL/BERNIE 4 form/BERRY 4 form +BUSH 16 form). Klei pun: "Ne ayı kadar bir porsuk", "Ne ayı kadar dayanılmaz koku", "Arı olmak ya da olmamak, işte mesele bu" (Hamlet+Bee), "Bu çalı muz-gibi çılgın", "Biftek dostlarıyız sonsuza dek", "Bu kuşkulu" (fowl/foul + kuş+şüphe Türkçe pun!), "Bana net bir ağ avantajı sağlıyor" (net+ağ), dramatik ütüleme, ehliyetli şair, Bilim adına nasıl bu kadar büyüdü, dolunay-vari şiirsel, Sıcak zırh-postası | ✅ |
+| `0064` | 200 | (yukarıda) | ✅ |
+| `0065` | 200 | **DESCRIBE_BOATRACE_CHECKPOINT_THROWABLE→CAVE_EXIT** — BOATRACE 9 form/BOAT_ANCIENT/BOAT_BUMPER 8 form (Crab King taç+iftiharı, Şamandı-vay vay × 4, kelp-help yosun-cu yardım, kabuk-savunma, ejder-tekne boynuz)/BOAT_CANNON 4/BOAT_GRASS+ITEM+LEAK+MAGNET+ROTATOR 8/BODYPILLOW 4 form/BOMB_LUNARPLANT+WORMWOOD/BONESHARD+SOUP+STEW (kemik şüphesi yok)/BOOKSTATION+15 BOOK_* form Wickerbottom kitap pun (vızıltı/wing it/farm/by the book/lukewarm/suckered vantuzca)/BOOMERANG/BOOTLEG çizme-ganimet/BROKEN_FORGEDITEM/BRUSH/BUGNET/BULLKELP yosunca/BUNDLE+WRAP/BUNNYMAN+STEW/BURNT_MARSH+BUSHHAT/BUTTER+BUTTERFLY+MUFFIN+WINGS (kanat çırpıp idare)/BUZZARD+CORPSE 3 (acayip akbaba)/CABBAGEROLLS/CACTUS 5/CALIFORNIAROLL/CAMPFIRE 6 form (karanlığa yeğdir)/CANARY 3 form (zehirli muhtemelen iyi madenci dark humor)/CANDYBAG/CANE (kontrollü düşme!)/CANNONBALL/CARNIVALCANNON 3 (deney kasten patlar)/15 CARNIVALDECOR+CARNIVALGAME 30 form karganaval seri (fırlamalı karganaval, parlak şey ver oyna, gak-tutarlı kutlama, eggs runny koşar/akar, yumurta-kafa egghead, böcek gibi sinirlendirme)/CARNIVAL_CROWKID/HOST/PLAZA/PRIZEBOOTH/PRIZETICKET/SEEDPACKET/VEST 3/CARPENTRY+BLADE/CARRAT 5/CARROT 5+PLANTED+SEEDS/CARTOGRAPHY 3/CATCOON+DEN+HAT/CATTOY/CAVEIN/CAVE_BANANA 4 form/CAVE_ENTRANCE 4 form. Klei pun yoğun: Şamandı-vay vay (buoy oh boy), kabuk-savunma (shellf), ejder-tekne boynuz, kelp-help yosun-cu, vantuzca çekilecek (suckered), çizme-ganimet (booty pun), gak-tutarlı kutlama, yumurta-kafa, kontrollü düşme | ✅ |
+
+**Toplam ilerleme:** 11.245 → 11.645 (%13.12 → **%13.59**)
+
+## 🎯 Sıradaki Oturum (20) — Yol Haritası
 
 ### **EN YÜKSEK ÖNCELİK:** Faz 5 CHARACTERS devam (Wilson generic)
-- `0064-0073` Wilson DESCRIBE_* devam (ATRIUM/AXE/BACKPACK/BAT/BAMBOO/BATTERY/BEARGER/BEEF/BERRY/... her batch ~200 entry, item açıklamaları)
+- `0066-0075` Wilson DESCRIBE_C→D devam (CAVE/CHESSPIECE/CHESTER/CHILI/CHIPMUNK/CLOTHING/COCONUT/COFFEE/COLDFIRE/COMPASS/COOKBOOK/COOKPOT/...)
 
 ### Faz 4 kalan
 - `0680-0683` STRINGS.SKILLTREE (4 batch, Wendy/Wickerbottom/Wilson/Wolfgang/WX-78 yetenek ağacı)

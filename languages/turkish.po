@@ -8368,6 +8368,2006 @@ msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_PANEL.UNWRITTEN"
 msgid "The sign is currently blank."
 msgstr "Tabela şu anda boş."
 
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.BURNT"
+msgid "\"Don't play with matches.\""
+msgstr "\"Kibritle oynama.\""
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.GENERIC"
+msgid "It says \"Thataway\"."
+msgstr "\"Şu yöne\" yazıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.UNWRITTEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ARROWSIGN_POST.UNWRITTEN"
+msgid "The sign is currently blank."
+msgstr "Tabela şu anda boş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.GENERIC"
+msgid "All that's left after the fire has done its job."
+msgstr "Ateş işini bitirdikten sonra geriye kalan."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_EYE_BONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_EYE_BONE"
+msgid "The eyebone was consumed by fire in the teleportation!"
+msgstr "Göz kemiği ışınlanma sırasında ateşe yenildi!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER"
+msgid "The flower was consumed by fire in the teleportation!"
+msgstr "Çiçek ışınlanma sırasında ateşe yenildi!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_THINGIE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASH.REMAINS_THINGIE"
+msgid "There's a perfectly scientific explanation for that."
+msgstr "Bunun mükemmel bilimsel bir açıklaması var."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS"
+msgid "A vegetable."
+msgstr "Bir sebze."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUSSOUP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUSSOUP"
+msgid "Smells like it tastes."
+msgstr "Tadı gibi kokuyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS_COOKED"
+msgid "Science says it's good for me."
+msgstr "Bilim diyor ki benim için iyi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS_OVERSIZED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS_OVERSIZED"
+msgid "I guess we'll be eating asparagus for a while..."
+msgstr "Sanırım bir süre kuşkonmaz yiyeceğiz..."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS_SEEDS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASPARAGUS_SEEDS"
+msgid "It's some seeds."
+msgstr "Birkaç tohum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.CHARGING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.CHARGING"
+msgid "It's gaining power."
+msgstr "Güç topluyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.COOLDOWN"
+msgid "It needs time to recover. Me too."
+msgstr "İyileşmek için zamana ihtiyacı var. Benim de."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.DESTABILIZING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.DESTABILIZING"
+msgid "The gateway is destabilizing."
+msgstr "Geçit dengesini kaybediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.OFF
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.OFF"
+msgid "The essential components are still intact."
+msgstr "Temel bileşenler hâlâ sağlam."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.ON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_GATE.ON"
+msgid "Back in working order."
+msgstr "Yeniden çalışır durumda."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_KEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_KEY"
+msgid "There is power emanating from it."
+msgstr "İçinden güç yayılıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_LIGHT.OFF
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_LIGHT.OFF"
+msgid "Something must power it."
+msgstr "Bir şey ona güç vermeli."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_LIGHT.ON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_LIGHT.ON"
+msgid "A truly unsettling light."
+msgstr "Gerçekten huzursuz edici bir ışık."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_OVERGROWTH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_OVERGROWTH"
+msgid "I don't recognize any of these symbols."
+msgstr "Bu sembollerin hiçbirini tanımıyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_1
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_1"
+msgid "It depicts an old civilization. The people look hungry and scared."
+msgstr "Eski bir uygarlığı resmediyor. İnsanlar aç ve korkmuş görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_2"
+msgid "This tablet is too worn to make out."
+msgstr "Bu tablet seçilemeyecek kadar yıpranmış."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_3"
+msgid "Something dark creeps over the city and its people."
+msgstr "Karanlık bir şey şehrin ve halkının üzerine sızıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_4
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_4"
+msgid "The people are shedding their skins. They look different underneath."
+msgstr "İnsanlar derilerini değiştiriyor. Altta farklı görünüyorlar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_5
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_RUBBLE.LINE_5"
+msgid "It shows a massive, technologically advanced city."
+msgstr "Devasa, teknolojik açıdan ileri bir şehri gösteriyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_STATUE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.ATRIUM_STATUE"
+msgid "It doesn't seem fully real."
+msgstr "Tamamen gerçek görünmüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.AXE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.AXE"
+msgid "A trusty axe."
+msgstr "Güvenilir bir balta."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BABYBEEFALO.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BABYBEEFALO.GENERIC"
+msgid "Awwww. So cute!"
+msgstr "Awwww. Ne tatlı!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BABYBEEFALO.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BABYBEEFALO.SLEEPING"
+msgid "Sweet dreams, smelly."
+msgstr "Tatlı rüyalar, kokuşmuş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BACKPACK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BACKPACK"
+msgid "You could fit a whole lot of science in there."
+msgstr "İçine bir sürü bilim sığdırabilirsin."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BACONEGGS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BACONEGGS"
+msgid "The perfect breakfast for a man of science."
+msgstr "Bir bilim adamı için mükemmel kahvaltı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALATRO_MACHINE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALATRO_MACHINE"
+msgid "I'm game for a game."
+msgstr "Bir oyun için oyundayım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOON"
+msgid "How are they floating?"
+msgstr "Nasıl havada duruyorlar?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONHAT"
+msgid "The static does terrible things to my hair."
+msgstr "Statik, saçıma korkunç şeyler yapıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONPARTY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONPARTY"
+msgid "How did he get the smaller balloons inside?"
+msgstr "Daha küçük balonları içine nasıl koymuş?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONSPEED.DEFLATED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONSPEED.DEFLATED"
+msgid "Now it's just another balloon."
+msgstr "Şimdi sadece sıradan bir balon."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONSPEED.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONSPEED.GENERIC"
+msgid "The hole in the center makes it more aerodynamic, that's just physics!"
+msgstr "Ortadaki delik onu daha aerodinamik yapıyor, bu sadece fizik!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONS_EMPTY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONS_EMPTY"
+msgid "It looks like clown currency."
+msgstr "Palyaço parasına benziyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONVEST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BALLOONVEST"
+msgid "If the bright colors don't attract some horrible creature, the squeaking will."
+msgstr "Parlak renkler korkunç bir yaratık çekmezse, gıcırtı çeker."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANANABUSH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANANABUSH"
+msgid "That bush is bananas!"
+msgstr "Bu çalı muz-gibi çılgın!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANANAJUICE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANANAJUICE"
+msgid "Makes me feel a bit rogueish."
+msgstr "Beni biraz korsanca hissettiriyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANANAPOP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANANAPOP"
+msgid "No, not brain freeze! I need that for science!"
+msgstr "Hayır, beyin donması olmasın! Bilim için lazım!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANDAGE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANDAGE"
+msgid "Seems sterile enough."
+msgstr "Yeterince steril görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANDAGE_BUTTERFLYWINGS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BANDAGE_BUTTERFLYWINGS"
+msgid "This bandage is really winging it."
+msgstr "Bu sargı gerçekten kanat çırparak idare ediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLE"
+msgid "They don't look like knuckles to me."
+msgstr "Bana hiç parmak boğumu gibi görünmüyorlar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLEPITA
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLEPITA"
+msgid "Barnacles taste better when you can't see them."
+msgstr "Midyeler göremediğin zaman daha iyi tat veriyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLESTUFFEDFISHHEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLESTUFFEDFISHHEAD"
+msgid "I'm just hungry enough to consider it..."
+msgstr "Tam onu düşünecek kadar açım..."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLESUSHI
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLESUSHI"
+msgid "I still seem to have misplaced my chopsticks."
+msgstr "Çubuklarımı hâlâ bir yere koymuşum galiba."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLE_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLE_COOKED"
+msgid "I'm told it's quite a delicacy."
+msgstr "Oldukça leziz olduğunu söylüyorlar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLINGUINE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BARNACLINGUINE"
+msgid "Pass the pasta!"
+msgstr "Makarnayı uzat!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BASALT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BASALT"
+msgid "That's too strong to break through!"
+msgstr "Geçemeyecek kadar güçlü!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BAT"
+msgid "Ack! That's terrifying!"
+msgstr "Aaah! Bu korkutucu!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATBAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATBAT"
+msgid "I bet I could fly if I held two of them."
+msgstr "Bahse girerim iki tane tutsam uçabilirim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATCAVE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATCAVE"
+msgid "I don't want to wake them."
+msgstr "Onları uyandırmak istemiyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATHBOMB
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATHBOMB"
+msgid "It's just textbook chemistry."
+msgstr "Sadece ders kitabı kimyası."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATNOSE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATNOSE"
+msgid "Who knows whose nose this is?"
+msgstr "Bu burnun bilemem kimin burnu?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATNOSEHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATNOSEHAT"
+msgid "For hands-free dairy drinking."
+msgstr "Eller serbest süt içme için."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATNOSE_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATNOSE_COOKED"
+msgid "It came out smelling like a nose."
+msgstr "Burun gibi kokarak çıktı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_CONTAINER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_CONTAINER"
+msgid "Wow, it stores so many songs."
+msgstr "Vay, ne çok şarkı saklıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_DURABILITY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_DURABILITY"
+msgid "Theater makes me fidgety."
+msgstr "Tiyatro beni huzursuz ediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_FIRERESISTANCE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_FIRERESISTANCE"
+msgid "I once burned my vest before seeing a play. I call that dramatic ironing."
+msgstr "Bir oyun izlemeden önce yeleğimi yakmıştım. Buna ben dramatik ütüleme derim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_HEALTHGAIN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_HEALTHGAIN"
+msgid "Theater makes me fidgety."
+msgstr "Tiyatro beni huzursuz ediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_INSTANT_PANIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_INSTANT_PANIC"
+msgid "I'm afraid I'm not a licensed poetic."
+msgstr "Korkarım ehliyetli bir şair değilim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_INSTANT_REVIVE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_INSTANT_REVIVE"
+msgid "It's a very lively tune."
+msgstr "Çok canlı bir ezgi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_INSTANT_TAUNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_INSTANT_TAUNT"
+msgid "I'm afraid I'm not a licensed poetic."
+msgstr "Korkarım ehliyetli bir şair değilim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_LUNARALIGNED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_LUNARALIGNED"
+msgid "Theater makes me fidgety."
+msgstr "Tiyatro beni huzursuz ediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_SANITYAURA
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_SANITYAURA"
+msgid "Theater makes me fidgety."
+msgstr "Tiyatro beni huzursuz ediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_SANITYGAIN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_SANITYGAIN"
+msgid "Theater makes me fidgety."
+msgstr "Tiyatro beni huzursuz ediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_SHADOWALIGNED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATTLESONG_SHADOWALIGNED"
+msgid "Theater makes me fidgety."
+msgstr "Tiyatro beni huzursuz ediyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATWING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATWING"
+msgid "I hate those things, even when they're dead."
+msgstr "O şeylerden nefret ediyorum, ölü olsalar bile."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATWING_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BATWING_COOKED"
+msgid "At least it's not coming back."
+msgstr "En azından geri gelmiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARDHAIR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARDHAIR"
+msgid "It's only gross when they're not your own."
+msgstr "Sadece sana ait olmadığında iğrenç oluyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGER"
+msgid "What a bear of a badger."
+msgstr "Ne ayı kadar bir porsuk."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERCORPSE.BURNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERCORPSE.BURNING"
+msgid "That was close."
+msgstr "Az kalsındı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERCORPSE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERCORPSE.GENERIC"
+msgid "What an unbearable stench!"
+msgstr "Ne ayı kadar dayanılmaz koku!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERCORPSE.REVIVING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERCORPSE.REVIVING"
+msgid "There must be a scientific explanation for this!"
+msgstr "Bunun bilimsel bir açıklaması olmalı!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERFUR_SACK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERFUR_SACK"
+msgid "There's still fur on it. Chilling."
+msgstr "Üzerinde hâlâ kürk var. Soğuk."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERVEST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGERVEST"
+msgid "Welcome to the hibernation station!"
+msgstr "Kış uykusu istasyonuna hoş geldin!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGER_FUR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEARGER_FUR"
+msgid "A mat of thick fur."
+msgstr "Bir tutam kalın kürk."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEAST_BLUEPRINT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEAST_BLUEPRINT"
+msgid "I'm feeling lucky about this one!"
+msgstr "Bu konuda şanslı hissediyorum!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEDROLL_FURRY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEDROLL_FURRY"
+msgid "It's so warm and comfy."
+msgstr "Çok sıcak ve rahat."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEDROLL_STRAW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEDROLL_STRAW"
+msgid "Looks comfy, but it smells like mildew."
+msgstr "Rahat görünüyor, ama küf gibi kokuyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.GENERIC"
+msgid "To bee or not to bee."
+msgstr "Arı olmak ya da olmamak, işte mesele bu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.HELD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEE.HELD"
+msgid "Careful!"
+msgstr "Dikkat!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.BURNT"
+msgid "How did it get burned?!!"
+msgstr "Nasıl yandı bu?!!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.FULLHONEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.FULLHONEY"
+msgid "It's full of honey."
+msgstr "Bal dolu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.GENERIC"
+msgid "Bees!"
+msgstr "Arılar!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.NOHONEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.NOHONEY"
+msgid "It's empty."
+msgstr "Boş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.READY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.READY"
+msgid "It's full of honey."
+msgstr "Bal dolu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.SOMEHONEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX.SOMEHONEY"
+msgid "Need to wait a bit."
+msgstr "Biraz beklemek gerek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.BURNT"
+msgid "How did it get burned?!!"
+msgstr "Nasıl yandı bu?!!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.FULLHONEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.FULLHONEY"
+msgid "It's full of honey."
+msgstr "Bal dolu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.GENERIC"
+msgid "I'm sure there's a little sweetness to be found inside."
+msgstr "Eminim içinde biraz tatlılık vardır."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.NOHONEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.NOHONEY"
+msgid "It's empty."
+msgstr "Boş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.READY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.READY"
+msgid "It's full of honey."
+msgstr "Bal dolu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.SOMEHONEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEBOX_HERMIT.SOMEHONEY"
+msgid "Need to wait a bit."
+msgstr "Biraz beklemek gerek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DEAD"
+msgid "It was a tough one."
+msgstr "Sert biriydi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DEAD_MYPARTNER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DEAD_MYPARTNER"
+msgid "I hope we meat again."
+msgstr "Umarım yine biftek-buluşuruz."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DOMESTICATED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.DOMESTICATED"
+msgid "This one is slightly less smelly than the others."
+msgstr "Bu, diğerlerine göre biraz daha az kokuyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.FOLLOWER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.FOLLOWER"
+msgid "He's coming along peacefully."
+msgstr "Sakin sakin geliyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.GENERIC"
+msgid "It's a beefalo!"
+msgstr "Bir bızonsığır!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.MYPARTNER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.MYPARTNER"
+msgid "We're beef friends forever."
+msgstr "Biftek dostlarıyız sonsuza dek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.NAKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.NAKED"
+msgid "Aww, he's so sad."
+msgstr "Aww, çok üzgün."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.ORNERY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.ORNERY"
+msgid "It looks deeply angry."
+msgstr "Derinden kızgın görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.PUDGY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.PUDGY"
+msgid "Hmmm, there may be too much food inside it."
+msgstr "Hımm, içinde çok fazla yiyecek olabilir."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.RIDER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.RIDER"
+msgid "This fellow appears quite ridable."
+msgstr "Bu adam epey binilebilir görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO.SLEEPING"
+msgid "These guys are really heavy sleepers."
+msgstr "Bunlar gerçekten ağır uykucu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOFEED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOFEED"
+msgid "None for me, thank you."
+msgstr "Bana yok, teşekkürler."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOHAT"
+msgid "That's a case of hat-hair waiting to happen."
+msgstr "Şapka-saç vakası kapıda."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOTREAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOTREAT"
+msgid "A bit too grainy for my taste."
+msgstr "Tadım için biraz fazla taneli."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALOWOOL"
+msgid "It smells like beefalo tears."
+msgstr "Bızonsığır gözyaşı gibi kokuyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.BURNT"
+msgid "I styled my beefalo in the hottest fashions... and paid the price."
+msgstr "Bızonsığırımı en yakıcı modaya soktum... ve bedelini ödedim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.GENERIC"
+msgid "There's no beefalo here to groom."
+msgstr "Burada tımar edilecek bızonsığır yok."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.OCCUPIED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER.OCCUPIED"
+msgid "Let's beautify this beefalo!"
+msgstr "Bu bızonsığırı güzelleştirelim!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEFALO_GROOMER_ITEM"
+msgid "I'd better set this up somewhere."
+msgstr "Bunu bir yere kurmam iyi olur."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEF_BELL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEF_BELL"
+msgid "It makes beefalo friendly. I'm sure there's a very scientific explanation."
+msgstr "Bızonsığırı dost ediyor. Eminim çok bilimsel bir açıklaması vardır."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEGUARD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEGUARD"
+msgid "It's guarding the queen."
+msgstr "Kraliçeyi koruyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHAT"
+msgid "Protects your skin, but squashes your meticulous coiffure."
+msgstr "Cildini korur, ama özenli saç şekillemeni ezer."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHIVE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEHIVE"
+msgid "It's buzzing with activity."
+msgstr "Faaliyetle vızıldıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEMINE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEMINE"
+msgid "It buzzes when shaken."
+msgstr "Sallandığında vızıldıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEMINE_MAXWELL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEMINE_MAXWELL"
+msgid "Bottled mosquito rage!"
+msgstr "Şişelenmiş sivrisinek öfkesi!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEEN"
+msgid "Keep that stinger away from me!"
+msgstr "O iğneyi benden uzak tut!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEENHIVE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEENHIVE.GENERIC"
+msgid "It's too sticky to walk on."
+msgstr "Üzerinde yürünemeyecek kadar yapışkan."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEENHIVE.GROWING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEENHIVE.GROWING"
+msgid "Was that there before?"
+msgstr "Bu daha önce orada mıydı?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEENHIVEGROWN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEEQUEENHIVEGROWN"
+msgid "How in science did it get so big?!"
+msgstr "Bilim adına nasıl bu kadar büyüdü?!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEESWAX
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEESWAX"
+msgid "Beeswax is a scientifically proven preservative!"
+msgstr "Bal mumu bilimsel olarak kanıtlanmış bir koruyucudur!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEESWAX_SPRAY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEESWAX_SPRAY"
+msgid "Is that formaldehyde I smell?"
+msgstr "Bu kokladığım formaldehit mi?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEETLETAUR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BEETLETAUR"
+msgid "I can smell him from here!"
+msgstr "Onu buradan koklayabiliyorum!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BELL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BELL"
+msgid "Dingalingaling."
+msgstr "Tıngırdıngırdıngır."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_ACTIVE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_ACTIVE"
+msgid "That teddy bear is moving around. Interesting."
+msgstr "O oyuncak ayı dolaşıyor. İlginç."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_BIG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_BIG"
+msgid "Remind me not to get on Willow's bad side."
+msgstr "Bana Willow'un kötü tarafına geçmemeyi hatırlat."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.BROKEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.BROKEN"
+msgid "It finally fell apart."
+msgstr "Sonunda parçalandı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERNIE_INACTIVE.GENERIC"
+msgid "It's all scorched."
+msgstr "Hepsi kavrulmuş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES"
+msgid "Red berries taste the best."
+msgstr "Kırmızı meyveler en lezzetlisi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES_COOKED"
+msgid "I don't think heat improved them."
+msgstr "Isının onları geliştirdiğini sanmıyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES_JUICY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES_JUICY"
+msgid "Extra tasty, though they won't last long."
+msgstr "Ekstra lezzetli, ancak uzun sürmez."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES_JUICY_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRIES_JUICY_COOKED"
+msgid "Better eat them before they spoil!"
+msgstr "Bozulmadan önce yesem iyi olur!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.BARREN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.BARREN"
+msgid "I think it needs to be fertilized."
+msgstr "Sanırım gübrelenmesi gerekiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.BURNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.BURNING"
+msgid "It's very much on fire."
+msgstr "Bayağı bayağı yanıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.DISEASED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.DISEASED"
+msgid "It looks pretty sick."
+msgstr "Oldukça hasta görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.DISEASING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.DISEASING"
+msgid "Err, something's not right."
+msgstr "Eee, bir şeyler yolunda değil."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.GENERIC"
+msgid "I think those are the edible kind."
+msgstr "Sanırım bunlar yenilebilir olanlardan."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.PICKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.PICKED"
+msgid "Maybe they'll grow back?"
+msgstr "Belki yeniden çıkarlar?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.WITHERED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH.WITHERED"
+msgid "Nothing will grow in this heat."
+msgstr "Bu sıcakta hiçbir şey büyümez."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.BARREN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.BARREN"
+msgid "It won't make any berries in this state."
+msgstr "Bu durumda hiç meyve vermez."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.BURNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.BURNING"
+msgid "It's very much on fire."
+msgstr "Bayağı bayağı yanıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.DISEASED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.DISEASED"
+msgid "It looks pretty sick."
+msgstr "Oldukça hasta görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.DISEASING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.DISEASING"
+msgid "Err, something's not right."
+msgstr "Eee, bir şeyler yolunda değil."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.GENERIC"
+msgid "I should leave them there until it's time to eat."
+msgstr "Yeme vakti gelene kadar orada bırakmalıyım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.PICKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.PICKED"
+msgid "The bush is working hard on the next batch."
+msgstr "Çalı bir sonraki mahsul için çok çalışıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.WITHERED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYBUSH_JUICY.WITHERED"
+msgid "The heat even dehydrated the juicy berries!"
+msgstr "Sıcak sulu meyveleri bile kuruttu!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYSAUCE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BERRYSAUCE"
+msgid "Equal parts merry and berry."
+msgstr "Bir parça neşeli, bir parça meyveli."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIBINGKA
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIBINGKA"
+msgid "Soft and spongy."
+msgstr "Yumuşak ve süngerimsi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIGFOOT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIGFOOT"
+msgid "That is one biiig foot."
+msgstr "İşte bu kocaaaman bir ayak."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRCHNUTDRAKE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRCHNUTDRAKE"
+msgid "A mad little nut."
+msgstr "Çıldırmış küçük bir kozak."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.DEAD"
+msgid "Maybe he's just resting?"
+msgstr "Belki sadece dinleniyordur?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.GENERIC"
+msgid "Now it just needs a bird."
+msgstr "Şimdi sadece bir kuş lazım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.HUNGRY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.HUNGRY"
+msgid "He's looking a bit peckish."
+msgstr "Biraz aç-gagalı görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.OCCUPIED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.OCCUPIED"
+msgid "Who's a good bird?"
+msgstr "Kim iyi bir kuş?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.SKELETON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.SKELETON"
+msgid "That bird is definitely deceased."
+msgstr "Bu kuş kesinlikle merhumdur."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.SLEEPING"
+msgid "Awwww, he's asleep."
+msgstr "Awwww, uyuyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.STARVING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCAGE.STARVING"
+msgid "Has no one fed you in awhile?"
+msgstr "Bir süredir kimse seni beslememiş mi?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCORPSE.BURNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCORPSE.BURNING"
+msgid "That's what I call a firebird."
+msgstr "İşte buna ateşkuşu derim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCORPSE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCORPSE.GENERIC"
+msgid "I call fowl."
+msgstr "Bu kuşkulu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCORPSE.REVIVING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDCORPSE.REVIVING"
+msgid "It's becoming a new species!"
+msgstr "Yeni bir tür oluyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDTRAP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRDTRAP"
+msgid "Gives me a net advantage!"
+msgstr "Bana net bir ağ avantajı sağlıyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_EGG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_EGG"
+msgid "A small, normal egg."
+msgstr "Küçük, normal bir yumurta."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_EGG_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_EGG_COOKED"
+msgid "Sunny side yum!"
+msgstr "Güneş yüzlü, mis!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT"
+msgid "I think that used to be a crow."
+msgstr "Bunun önceden karga olduğunu sanıyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT_SPITTER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BIRD_MUTANT_SPITTER"
+msgid "I don't like the way it's looking at me..."
+msgstr "Bana bakış şeklini sevmiyorum..."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP"
+msgid "Back off, preacherman!"
+msgstr "Geri çekil, vaiz adam!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_CHARGE_HIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_CHARGE_HIT"
+msgid "Ow!"
+msgstr "Ay!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_NIGHTMARE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BISHOP_NIGHTMARE"
+msgid "It's falling apart!"
+msgstr "Parça parça oluyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLACKFLAG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLACKFLAG"
+msgid "Gentleman Pirate-Scientist does have a bit of a ring to it."
+msgstr "Beyefendi Korsan-Bilim İnsanı kulağa hoş geliyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_FIRE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_FIRE"
+msgid "This seems fundamentally unsafe."
+msgstr "Bu temelde güvensiz görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_LAVA
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_LAVA"
+msgid "That's a weapon I could use from range."
+msgstr "Bu, menzilden kullanabileceğim bir silah."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_LAVA2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_LAVA2"
+msgid "It uses a strong blast of air to propel a projectile."
+msgstr "Bir mermiyi itmek için güçlü bir hava patlaması kullanıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_PIPE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_PIPE"
+msgid "Good practice for my birthday cake!"
+msgstr "Doğum günü pastam için iyi bir pratik!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_SLEEP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_SLEEP"
+msgid "Just don't breathe in."
+msgstr "Sakın içine çekme."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_YELLOW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLOWDART_YELLOW"
+msgid "It has shocking accuracy."
+msgstr "Şok edici bir doğruluğu var."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEAMULET
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEAMULET"
+msgid "Cool as ice!"
+msgstr "Buz gibi havalı!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEGEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEGEM"
+msgid "It sparkles with cold energy."
+msgstr "Soğuk enerjiyle parıldıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEMOONEYE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEMOONEYE"
+msgid "It's always smart to keep an eye out."
+msgstr "Bir göz kulak olmak her zaman akıllıcadır."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEPRINT.COMMON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEPRINT.COMMON"
+msgid "It's scientific!"
+msgstr "Bilimsel!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEPRINT.RARE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUEPRINT.RARE"
+msgid "It's REALLY scientific!"
+msgstr "GERÇEKTEN bilimsel!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_CAP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_CAP"
+msgid "It's weird and gooey."
+msgstr "Tuhaf ve yapışkan."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_CAP_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_CAP_COOKED"
+msgid "It's different now..."
+msgstr "Şimdi farklı..."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_MUSHROOM.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_MUSHROOM.GENERIC"
+msgid "It's a mushroom."
+msgstr "Bir mantar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_MUSHROOM.INGROUND
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_MUSHROOM.INGROUND"
+msgid "It's sleeping."
+msgstr "Uyuyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_MUSHROOM.PICKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BLUE_MUSHROOM.PICKED"
+msgid "I wonder if it will come back?"
+msgstr "Geri gelecek mi acaba?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOARDS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOARDS"
+msgid "Boards."
+msgstr "Tahtalar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOARON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOARON"
+msgid "I can take him!"
+msgstr "Onu alt edebilirim!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOARRIOR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOARRIOR"
+msgid "You sure are big!"
+msgstr "Cidden büyüksün!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT03
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT03"
+msgid "Not much left of it."
+msgstr "Geriye fazla bir şey kalmamış."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT04
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT04"
+msgid "Not much left of it."
+msgstr "Geriye fazla bir şey kalmamış."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT05
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATFRAGMENT05"
+msgid "Not much left of it."
+msgstr "Geriye fazla bir şey kalmamış."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATPATCH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATPATCH"
+msgid "Just in case of disaster."
+msgstr "Felaket olur diye."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATPATCH_KELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATPATCH_KELP"
+msgid "It'll have to do for now."
+msgstr "Şimdilik bunu idare etmek gerek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_CHECKPOINT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_CHECKPOINT"
+msgid "There's the checkpoint!"
+msgstr "İşte kontrol noktası!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_CHECKPOINT_THROWABLE_DEPLOYKIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_CHECKPOINT_THROWABLE_DEPLOYKIT"
+msgid "One more thing to check off my list."
+msgstr "Listemden çıkaracak bir şey daha."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_PRIMEMATE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_PRIMEMATE"
+msgid "Someone's shadowing me!"
+msgstr "Birisi beni gölgeliyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK"
+msgid "Buoy oh buoy!"
+msgstr "Şamandı-vay vay!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK_MONKEY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK_MONKEY"
+msgid "Buoy oh buoy!"
+msgstr "Şamandı-vay vay!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK_MONKEY_THROWABLE_DEPLOYKIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK_MONKEY_THROWABLE_DEPLOYKIT"
+msgid "Buoy oh buoy!"
+msgstr "Şamandı-vay vay!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK_THROWABLE_DEPLOYKIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SEASTACK_THROWABLE_DEPLOYKIT"
+msgid "Buoy oh buoy!"
+msgstr "Şamandı-vay vay!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SPECTATOR_DRAGONLING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_SPECTATOR_DRAGONLING"
+msgid "Its support is getting me all fired up!"
+msgstr "Desteği beni alev alev heyecanlandırıyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_START
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_START"
+msgid "You have to start somewhere."
+msgstr "Bir yerden başlamak zorundasın."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_START_THROWABLE_DEPLOYKIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOATRACE_START_THROWABLE_DEPLOYKIT"
+msgid "Where to start?"
+msgstr "Nereden başlamalı?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ANCIENT_CONTAINER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ANCIENT_CONTAINER"
+msgid "\"Cargo\" is sailor-lingo for \"stuff\"."
+msgstr "\"Kargo\", denizcilerin \"şey\" demesidir."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ANCIENT_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ANCIENT_ITEM"
+msgid "I guess I'm doing this the old-fashioned way."
+msgstr "Sanırım bunu eski usulle yapıyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_CRABKING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_CRABKING"
+msgid "It's my boat's crowning glory."
+msgstr "Teknemin tac iftiharı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_CRABKING_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_CRABKING_KIT"
+msgid "A soon-to-be boat bumper."
+msgstr "Birazdan tekne tamponu olacak."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_KELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_KELP"
+msgid "It won't save the boat from everything, but it sure kelps."
+msgstr "Tekneyi her şeyden kurtarmaz, ama yosunca yardım eder."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_KELP_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_KELP_KIT"
+msgid "A soon-to-be boat bumper."
+msgstr "Birazdan tekne tamponu olacak."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_SHELL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_SHELL"
+msgid "It gives the boat a little shellf defense."
+msgstr "Tekneye biraz kabuk-savunma sağlıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_SHELL_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_SHELL_KIT"
+msgid "A soon-to-be boat bumper."
+msgstr "Birazdan tekne tamponu olacak."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_YOTD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_YOTD"
+msgid "When you mess with a dragon boat, you get the horns!"
+msgstr "Bir ejder-tekneye bulaşırsan, boynuzları yersin!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_YOTD_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_BUMPER_YOTD_KIT"
+msgid "A soon-to-be boat bumper."
+msgstr "Birazdan tekne tamponu olacak."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON.AMMOLOADED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON.AMMOLOADED"
+msgid "The cannon is ready to fire!"
+msgstr "Top ateşlemeye hazır!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON.GENERIC"
+msgid "I should load it with something."
+msgstr "İçine bir şey yüklemeliyim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON.NOAMMO
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON.NOAMMO"
+msgid "I didn't forget the cannonballs, I'm just letting the anticipation build."
+msgstr "Top güllelerini unutmadım, sadece beklentinin yükselmesine izin veriyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_CANNON_KIT"
+msgid "It's not a cannon yet, but it will be."
+msgstr "Henüz top değil, ama olacak."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_GRASS_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_GRASS_ITEM"
+msgid "It's technically a boat."
+msgstr "Teknik olarak bir tekne."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ITEM"
+msgid "It would be nice to do some experiments on the water."
+msgstr "Suda biraz deney yapmak güzel olurdu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_LEAK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_LEAK"
+msgid "I should patch that up before we sink."
+msgstr "Batmadan önce şunu yamamalıyım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET.ACTIVATED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET.ACTIVATED"
+msgid "It's working!! Er, I knew it would work, of course."
+msgstr "Çalışıyor!! Şey, çalışacağını biliyordum, tabii ki."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET.GENERIC"
+msgid "I'm always drawn to physics, like a... ah, can't think of the word."
+msgstr "Fiziğe her zaman çekilirim, sanki bir... ah, kelime aklıma gelmiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET_BEACON.ACTIVATED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET_BEACON.ACTIVATED"
+msgid "Magnetism!"
+msgstr "Manyetizma!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET_BEACON.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET_BEACON.GENERIC"
+msgid "This will attract any strong magnets nearby."
+msgstr "Yakındaki güçlü mıknatısları çekecek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_MAGNET_KIT"
+msgid "One of my more genius ideas, if I do say so myself."
+msgstr "Daha dahice fikirlerimden biri, kendim söylüyorum ama."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ROTATOR
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ROTATOR"
+msgid "Things are going in the right direction. Or maybe the left."
+msgstr "İşler doğru yöne gidiyor. Veya belki sola."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ROTATOR_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOAT_ROTATOR_KIT"
+msgid "I think I'll take it out for a spin."
+msgstr "Sanırım bir tur attıracağım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
+msgid "If only it didn't also smell like a beefalo."
+msgstr "Keşke aynı zamanda bızonsığır gibi kokmasaydı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_KELP"
+msgid "It's soggier than I would like."
+msgstr "İstediğimden daha sırılsıklam."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_PETALS"
+msgid "At least it smells nicer than the beefalo pillow."
+msgstr "En azından bızonsığır yastığından daha güzel kokuyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BODYPILLOW_STEELWOOL"
+msgid "Who would sleep on this?"
+msgstr "Bunun üzerinde kim uyur?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOMB_LUNARPLANT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOMB_LUNARPLANT"
+msgid "Botany and chemistry, working together."
+msgstr "Botanik ve kimya, beraber çalışıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOMB_LUNARPLANT_WORMWOOD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOMB_LUNARPLANT_WORMWOOD"
+msgid "Our friend seems to be getting more in touch with his lunar roots."
+msgstr "Arkadaşımız ay köküyle giderek daha çok bağ kuruyor gibi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESHARD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESHARD"
+msgid "Bits of bone."
+msgstr "Kemik parçaları."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESOUP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESOUP"
+msgid "No bones about it, Warly can cook."
+msgstr "Hiç kemik şüphesi yok, Warly yemek yapabiliyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESTEW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BONESTEW"
+msgid "A stew to put some meat on your bones."
+msgstr "Kemiklerine et koyacak bir yahni."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOKSTATION.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOKSTATION.BURNT"
+msgid "I think the library's closed."
+msgstr "Sanırım kütüphane kapandı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOKSTATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOKSTATION.GENERIC"
+msgid "Why study when I can experiment?"
+msgstr "Deney yapabilirken neden çalışayım?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BEES
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BEES"
+msgid "I don't get all the buzz around this one."
+msgstr "Bunun etrafındaki vızıltıyı pek anlamıyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BIRDS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BIRDS"
+msgid "No point studying when I can just wing it."
+msgstr "Kanat çırparak idare edebilecekken çalışmak anlamsız."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BRIMSTONE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_BRIMSTONE"
+msgid "The beginning was dull, but got better near the end."
+msgstr "Başlangıcı sıkıcıydı, ama sonuna doğru iyiye gitti."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_ELEMENTAL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_ELEMENTAL"
+msgid "I can't make out the text."
+msgstr "Metni seçemiyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_FIRE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_FIRE"
+msgid "I don't feel a burning need to read it."
+msgstr "Onu okumak için yanan bir ihtiyaç hissetmiyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_FISH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_FISH"
+msgid "It didn't really hook me."
+msgstr "Beni gerçekten oltaya takmadı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_FOSSIL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_FOSSIL"
+msgid "This'll keep those monsters held for a little while."
+msgstr "Bu o canavarları bir süre tutar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_GARDENING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_GARDENING"
+msgid "I see no farm in reading that."
+msgstr "Bunu okumakta hiç tarla göremiyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_HORTICULTURE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_HORTICULTURE"
+msgid "I see no farm in reading that."
+msgstr "Bunu okumakta hiç tarla göremiyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_HORTICULTURE_UPGRADED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_HORTICULTURE_UPGRADED"
+msgid "It's about as exciting as watching grass grow."
+msgstr "Çimen büyümesini izlemek kadar heyecan verici."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_LIGHT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_LIGHT"
+msgid "Whoever wrote this must've been pretty bright."
+msgstr "Bunu kim yazdıysa epey parlak biri olmalı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_LIGHT_UPGRADED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_LIGHT_UPGRADED"
+msgid "Brilliant!"
+msgstr "Parlak!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_MOON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_MOON"
+msgid "All this interest in the moon is probably just a phase."
+msgstr "Tüm bu ay merakı muhtemelen sadece geçici bir evre."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_RAIN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_RAIN"
+msgid "That doesn't sound very scientific."
+msgstr "Bu pek bilimsel gelmiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_RESEARCH_STATION
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_RESEARCH_STATION"
+msgid "Wickerbottom likes to do everything by the book."
+msgstr "Wickerbottom her şeyi kitabına göre yapmayı sever."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SILVICULTURE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SILVICULTURE"
+msgid "I'll stick to my own experiments."
+msgstr "Kendi deneylerime sadık kalacağım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SLEEP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_SLEEP"
+msgid "Strange, it's just 500 pages of telegraph codes."
+msgstr "Tuhaf, sadece 500 sayfalık telgraf kodları."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TEMPERATURE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TEMPERATURE"
+msgid "My thoughts on it are only lukewarm."
+msgstr "Hakkındaki düşüncelerim sadece ılık."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TENTACLES
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_TENTACLES"
+msgid "Someone'll get suckered into reading this."
+msgstr "Birisi bunu okumaya vantuzca çekilecek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_WEB
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOK_WEB"
+msgid "I'm not scared of spiders! I'm not!"
+msgstr "Örümceklerden korkmuyorum! Korkmuyorum!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOMERANG"
+msgid "Aerodynamical!"
+msgstr "Aerodinamiksel!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOTLEG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BOOTLEG"
+msgid "Somewhere out there, a pirate is missing their bootie."
+msgstr "Bir yerlerde bir korsan, çizme-ganimetini özlüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BROKEN_FORGEDITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BROKEN_FORGEDITEM"
+msgid "It's broken, but I think I could repair it."
+msgstr "Bozuk, ama tamir edebilirim sanırım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BRUSH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BRUSH"
+msgid "I bet the beefalo really like this."
+msgstr "Bahse girerim bızonsığırlar bunu gerçekten seviyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUGNET
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUGNET"
+msgid "For catching bugs."
+msgstr "Böcek yakalamak için."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_PLANT.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_PLANT.GENERIC"
+msgid "Welp. It's kelp."
+msgstr "Eh işte. Yosun."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_PLANT.PICKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_PLANT.PICKED"
+msgid "I just couldn't kelp myself."
+msgstr "Kendime yosunca engel olamadım."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_ROOT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BULLKELP_ROOT"
+msgid "I can plant it in deep water."
+msgstr "Onu derin suya ekebilirim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNDLE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNDLE"
+msgid "Our supplies are in there!"
+msgstr "Erzakımız orada!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNDLEWRAP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNDLEWRAP"
+msgid "Wrapping things up should make them easier to carry."
+msgstr "Şeyleri sarmak, taşınmasını kolaylaştırır."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNNYMAN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNNYMAN"
+msgid "I am filled with an irresistible urge to do science."
+msgstr "Bilim yapmak için karşı konulmaz bir dürtüyle doluyum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNNYSTEW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUNNYSTEW"
+msgid "This one's luck has run out."
+msgstr "Bunun şansı tükenmiş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BURNT_MARSH_BUSH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BURNT_MARSH_BUSH"
+msgid "It's all burnt up."
+msgstr "Hepsi yanmış."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUSHHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUSHHAT"
+msgid "It's kind of scratchy."
+msgstr "Biraz tahriş edici."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTER"
+msgid "I can't believe it's butter!"
+msgstr "Bunun tereyağı olduğuna inanamıyorum!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLY.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLY.GENERIC"
+msgid "Butterfly, flutter by."
+msgstr "Kelebek, kanatla geçeyver."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLY.HELD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLY.HELD"
+msgid "Now I have you!"
+msgstr "Şimdi yakaladım seni!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLYMUFFIN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLYMUFFIN"
+msgid "We threw the recipe away and just kind of winged it."
+msgstr "Tarifi attık ve kanat çırparak idare ettik."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLYWINGS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUTTERFLYWINGS"
+msgid "Without these, it's just a butter."
+msgstr "Bunlar olmadan, sadece bir tereyağı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARD"
+msgid "What a bizarre buzzard!"
+msgstr "Ne acayip bir akbaba!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARDCORPSE.BURNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARDCORPSE.BURNING"
+msgid "That's what I call a firebird."
+msgstr "İşte buna ateşkuşu derim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARDCORPSE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARDCORPSE.GENERIC"
+msgid "I call fowl."
+msgstr "Bu kuşkulu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARDCORPSE.REVIVING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.BUZZARDCORPSE.REVIVING"
+msgid "It's becoming a new species!"
+msgstr "Yeni bir tür oluyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CABBAGEROLLS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CABBAGEROLLS"
+msgid "The meat hides inside the cabbage to avoid predators."
+msgstr "Et, avcılardan kaçmak için lahananın içine saklanmış."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.GENERIC"
+msgid "Sharp but delicious."
+msgstr "Keskin ama lezzetli."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.PICKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS.PICKED"
+msgid "Deflated, but still spiny."
+msgstr "Sönmüş, ama hâlâ dikenli."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS_FLOWER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS_FLOWER"
+msgid "A pretty flower from a prickly plant."
+msgstr "Dikenli bir bitkiden gelen güzel bir çiçek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS_MEAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS_MEAT"
+msgid "There are still some spines between me and a tasty meal."
+msgstr "Benimle lezzetli bir yemek arasında hâlâ birkaç diken var."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS_MEAT_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS_MEAT_COOKED"
+msgid "Grilled fruit of the desert."
+msgstr "Çölün ızgara meyvesi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CALIFORNIAROLL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CALIFORNIAROLL"
+msgid "But I don't have chopsticks."
+msgstr "Ama çubuklarım yok."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.EMBERS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.EMBERS"
+msgid "That fire needs more fuel or it's going to go out."
+msgstr "Bu ateşin daha çok yakıta ihtiyacı var, yoksa sönecek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.GENERIC"
+msgid "Sure beats darkness."
+msgstr "Karanlığa kesinlikle yeğdir."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.HIGH
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.HIGH"
+msgid "That fire is getting out of hand!"
+msgstr "Bu ateş kontrolden çıkıyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.LOW
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.LOW"
+msgid "The fire's getting a bit low."
+msgstr "Ateş biraz alçalıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.NORMAL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.NORMAL"
+msgid "Nice and comfy."
+msgstr "Hoş ve rahat."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.OUT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.OUT"
+msgid "Well, that's over."
+msgstr "Eh, bitti."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANARY.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANARY.GENERIC"
+msgid "Some sort of yellow creature made of science."
+msgstr "Bilimden yapılmış bir tür sarı yaratık."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANARY.HELD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANARY.HELD"
+msgid "I'm not squishing you, am I?"
+msgstr "Seni ezmiyorum, değil mi?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANARY_POISONED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANARY_POISONED"
+msgid "It's probably fine."
+msgstr "Muhtemelen iyidir."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANDYBAG
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANDYBAG"
+msgid "It's some sort of delicious pocket dimension for sugary treats."
+msgstr "Şekerli ikramlar için bir tür lezzetli cep boyutu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANE"
+msgid "Technically walking is just controlled falling."
+msgstr "Teknik olarak yürümek, kontrollü düşmedir."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANNONBALL_ROCK_ITEM
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CANNONBALL_ROCK_ITEM"
+msgid "This will fit into a cannon perfectly."
+msgstr "Bu bir topa mükemmel sığar."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALCANNON.COOLDOWN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALCANNON.COOLDOWN"
+msgid "What a blast!"
+msgstr "Ne patlama!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALCANNON.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALCANNON.GENERIC"
+msgid "This experiment blows up on purpose!"
+msgstr "Bu deney kasten patlıyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALCANNON_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALCANNON_KIT"
+msgid "I've got a lot of experience in making things explode."
+msgstr "Bir şeyleri patlatma konusunda çok deneyimim var."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER"
+msgid "I think all these shiny decorations reflect well on me."
+msgstr "Sanırım tüm bu parlak süslemeler beni iyi yansıtıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_BANNER_KIT"
+msgid "I have to build it myself? I should have known there'd be a catch."
+msgstr "Kendim mi yapmam gerek? Bir tuzak olduğunu bilmeliydim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_EGGRIDE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_EGGRIDE"
+msgid "I could watch it for hours."
+msgstr "Saatlerce izleyebilirim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_EGGRIDE_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_EGGRIDE_KIT"
+msgid "I hope this prize is all it's cracked up to be."
+msgstr "Umarım bu ödül kırık kabuklarına değecek kadar iyidir."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE.GENERIC"
+msgid "I seem to be getting a lot of these..."
+msgstr "Bunlardan çok fazla alıyor gibiyim..."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE.RARE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE.RARE"
+msgid "See? Proof that trying the exact same thing over and over will eventually lead to success!"
+msgstr "Gördün mü? Aynı şeyi tekrar tekrar denemenin sonunda başarıya götüreceğinin kanıtı!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE.UNCOMMON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE.UNCOMMON"
+msgid "You don't see this kind of design too often."
+msgstr "Bu tür bir tasarımı pek sık görmezsin."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
+msgid "The thrill of discovery!"
+msgstr "Keşfin heyecanı!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
+msgid "The thrill of discovery!"
+msgstr "Keşfin heyecanı!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP"
+msgid "It's powered by whimsy."
+msgstr "Hayal gücüyle çalışıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP_KIT"
+msgid "Only some light work left to do."
+msgstr "Geriye sadece biraz aydın iş kaldı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_PLANT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_PLANT"
+msgid "Either it's small, or I'm gigantic."
+msgstr "Ya o küçük, ya da ben dev."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_PLANT_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_PLANT_KIT"
+msgid "Maybe it's a boxwood?"
+msgstr "Belki bir şimşir bitkisidir?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALFOOD_CORNTEA
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALFOOD_CORNTEA"
+msgid "Is this drink supposed to be crunchy?"
+msgstr "Bu içeceğin çıtır olması mı gerekiyor?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_FOOD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_FOOD"
+msgid "I don't need to chew them up first, do I?"
+msgstr "Önce çiğnemem gerekmiyor, değil mi?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "Bu gerçekten bir fırlamalı karganaval."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_NEST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_NEST"
+msgid "It's a little trapdoor."
+msgstr "Küçük bir kapan kapağı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "Ona parlak bir şey verene kadar oynamama izin vermiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_FEEDCHICKS_STATION.PLAYING"
+msgid "This looks like fun!"
+msgstr "Eğlenceli görünüyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_CHICK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_CHICK"
+msgid "Come back here!"
+msgstr "Geri gel buraya!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "Bu gerçekten bir fırlamalı karganaval."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "Ona parlak bir şey verene kadar oynamama izin vermiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_HERDING_STATION.PLAYING"
+msgid "Those eggs are looking a little runny."
+msgstr "O yumurtalar biraz koşar/akar görünüyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_CARD.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_CARD.GENERIC"
+msgid "It's a little trapdoor."
+msgstr "Küçük bir kapan kapağı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_CARD.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_CARD.PLAYING"
+msgid "Is this the right one?"
+msgstr "Doğru olan bu mu?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "Bu gerçekten bir fırlamalı karganaval."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "Ona parlak bir şey verene kadar oynamama izin vermiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_MEMORY_STATION.PLAYING"
+msgid "Not to brag, but I've been called a bit of an egghead in the past."
+msgstr "Övünmek gibi olmasın, ama geçmişte bana yumurta-kafa demişlerdi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "Bu gerçekten bir fırlamalı karganaval."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "Ona parlak bir şey verene kadar oynamama izin vermiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_PUCKDROP_STATION.PLAYING"
+msgid "Physics don't always work the same way twice."
+msgstr "Fizik her zaman aynı şekilde iki kez çalışmaz."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "Ona parlak bir şey verene kadar oynamama izin vermiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_BUTTON.PLAYING"
+msgid "Science compels me to press that big shiny button!"
+msgstr "Bilim beni o büyük parlak düğmeye basmaya zorluyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "Bu gerçekten bir fırlamalı karganaval."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "Ona parlak bir şey verene kadar oynamama izin vermiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_STATION.PLAYING"
+msgid "I could calculate the trajectory, but it involves a lot of complicated numbers and squiggles."
+msgstr "Yörüngeyi hesaplayabilirim, ama bir sürü karmaşık sayı ve kıvrım içeriyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.GENERIC"
+msgid "It's a little trapdoor."
+msgstr "Küçük bir kapan kapağı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_SHOOTING_TARGET.PLAYING"
+msgid "That target's really starting to bug me."
+msgstr "O hedef beni böcek gibi sinirlendirmeye başladı."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_KIT"
+msgid "This really is a pop-up carnival."
+msgstr "Bu gerçekten bir fırlamalı karganaval."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.GENERIC"
+msgid "It won't let me play until I give it something shiny."
+msgstr "Ona parlak bir şey verene kadar oynamama izin vermiyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALGAME_WHEELSPIN_STATION.PLAYING"
+msgid "It turns out that spinning your wheels is actually very productive."
+msgstr "Tekerlekleri boşa çevirmek aslında çok verimliymiş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_BALL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_BALL"
+msgid "It's genius in its simplicity."
+msgstr "Sadeliğinde dahiyane."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_CROWKID
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_CROWKID"
+msgid "Good day to you, small bird person."
+msgstr "Sana iyi günler, küçük kuş kişi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_GAMETOKEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_GAMETOKEN"
+msgid "One shiny token."
+msgstr "Bir parlak jeton."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_HOST
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_HOST"
+msgid "What an odd fellow."
+msgstr "Ne tuhaf bir adam."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.GENERIC"
+msgid "It doesn't really scream \"Cawnival\" yet, does it?"
+msgstr "Henüz tam olarak \"Karganaval\" diye bağırmıyor, değil mi?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.LEVEL_2
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.LEVEL_2"
+msgid "A little birdy told me it could use some more decorations around here."
+msgstr "Bir kuşum, buraya biraz daha süsleme lazım dedi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.LEVEL_3
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA.LEVEL_3"
+msgid "This tree is caws for celebration!"
+msgstr "Bu ağaç gak-tutarlı bir kutlama nedeni!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PLAZA_KIT"
+msgid "It's a scientifically proven fact that birds love trees."
+msgstr "Kuşların ağaçları sevdiği bilimsel olarak kanıtlanmış bir gerçektir."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZEBOOTH.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZEBOOTH.GENERIC"
+msgid "I've got my eyes on the prize. That one, over there!"
+msgstr "Gözlerim ödülde. Şu, oradaki!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZEBOOTH_KIT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZEBOOTH_KIT"
+msgid "The real prize is the booth we made along the way."
+msgstr "Asıl ödül, yolda yaptığımız kulübe."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC"
+msgid "That's the ticket!"
+msgstr "İşte bu o bilet!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC_LARGESTACK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC_LARGESTACK"
+msgid "That's a lot of tickets!"
+msgstr "Bu çok bilet!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC_SMALLSTACK
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_PRIZETICKET.GENERIC_SMALLSTACK"
+msgid "That's the tickets!"
+msgstr "İşte bu biletler!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_SEEDPACKET
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_SEEDPACKET"
+msgid "I was feeling a bit peckish."
+msgstr "Biraz aç-gagalı hissediyordum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_VEST_A
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_VEST_A"
+msgid "I think it makes me look adventurous."
+msgstr "Beni maceracı gösterdiğini düşünüyorum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_VEST_B
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_VEST_B"
+msgid "It's like wearing my own shade tree."
+msgstr "Sanki kendi gölge ağacımı giyiyorum gibi."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_VEST_C
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVAL_VEST_C"
+msgid "I hope there's no bugs in it..."
+msgstr "Umarım içinde böcek yoktur..."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_BLADE_MOONGLASS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_BLADE_MOONGLASS"
+msgid "Razor-sharp, like my mind!"
+msgstr "Jilet gibi keskin, zihnim gibi!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_STATION.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_STATION.BURNT"
+msgid "It doesn't make furniture anymore."
+msgstr "Artık mobilya yapmıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_STATION.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARPENTRY_STATION.GENERIC"
+msgid "It makes furniture."
+msgstr "Mobilya yapıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.DEAD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.DEAD"
+msgid "That's the end of that."
+msgstr "İşte bunun sonu."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.GENERIC"
+msgid "Are carrots supposed to have legs?"
+msgstr "Havuçların bacakları olması gerekiyor mu?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.HELD
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.HELD"
+msgid "You're kind of ugly up close."
+msgstr "Yakından biraz çirkinsin."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.SLEEPING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT.SLEEPING"
+msgid "It's almost cute."
+msgstr "Neredeyse şirin."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT_GHOSTRACER
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARRAT_GHOSTRACER"
+msgid "That's... disconcerting."
+msgstr "Bu... rahatsız edici."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT"
+msgid "Yuck. This vegetable came out of the dirt."
+msgstr "Iyy. Bu sebze topraktan çıkmış."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_COOKED"
+msgid "Mushy."
+msgstr "Lapa."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_OVERSIZED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_OVERSIZED"
+msgid "That's one big bunch of carrots!"
+msgstr "Ne büyük bir havuç demeti!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_PLANTED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_PLANTED"
+msgid "The earth is making plantbabies."
+msgstr "Toprak bitki bebekleri yapıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_SEEDS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARROT_SEEDS"
+msgid "It's a seed."
+msgstr "Bir tohum."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.BURNING
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.BURNING"
+msgid "So much for that."
+msgstr "İşte buna güvenmiştim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.BURNT"
+msgid "Nothing but ash now."
+msgstr "Şimdi sadece kül."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARTOGRAPHYDESK.GENERIC"
+msgid "Now I can show everyone what I found!"
+msgstr "Şimdi herkese bulduğumu gösterebilirim!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOON
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOON"
+msgid "A playful little thing."
+msgstr "Oynak küçük bir şey."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOONDEN.EMPTY
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOONDEN.EMPTY"
+msgid "Its owner ran out of lives."
+msgstr "Sahibinin canları tükenmiş."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOONDEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOONDEN.GENERIC"
+msgid "It's a den in a stump."
+msgstr "Bir kütükte bir in."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOONHAT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATCOONHAT"
+msgid "Ears hat!"
+msgstr "Kulaklı şapka!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATTOY_MOUSE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CATTOY_MOUSE"
+msgid "Mice with wheels, what will science think up next?"
+msgstr "Tekerlekli fareler, bilim sırada ne düşünecek?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVEIN_BOULDER.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVEIN_BOULDER.GENERIC"
+msgid "I think I can lift this one."
+msgstr "Sanırım bunu kaldırabilirim."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVEIN_BOULDER.RAISED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVEIN_BOULDER.RAISED"
+msgid "It's out of reach."
+msgstr "Erişimimin dışında."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA"
+msgid "It's mushy."
+msgstr "Lapa lapa."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_BURNT
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_BURNT"
+msgid "Not my fault!"
+msgstr "Benim suçum değil!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_COOKED
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_COOKED"
+msgid "Yum!"
+msgstr "Mmm!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_TREE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_BANANA_TREE"
+msgid "It's dubiously photosynthetical."
+msgstr "Şüpheli biçimde fotosentetik."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE"
+msgid "I wonder if that rock could be moved."
+msgstr "Acaba o taş hareket ettirilebilir mi?"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.FULL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.FULL"
+msgid "I'll have to wait until someone leaves to enter."
+msgstr "Girmek için birinin ayrılmasını beklemem gerekecek."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC"
+msgid "The earth itself rejects me!"
+msgstr "Toprağın kendisi beni reddediyor!"
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN"
+msgid "I bet there's all sorts of things to discover down there."
+msgstr "Bahse girerim aşağıda keşfedilecek bir sürü şey vardır."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_RUINS
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_ENTRANCE_RUINS"
+msgid "It's probably hiding something."
+msgstr "Muhtemelen bir şey saklıyor."
+
+#. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_EXIT.FULL
+msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAVE_EXIT.FULL"
+msgid "The surface is too crowded!"
+msgstr "Yüzey çok kalabalık!"
+
 #. STRINGS.CHARACTER_ABOUTME.walter
 msgctxt "STRINGS.CHARACTER_ABOUTME.walter"
 msgid "Walter is an odd but cheerful boy, whose ability to assess danger leaves something to be desired."
