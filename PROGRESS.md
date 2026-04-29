@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 19 ✅ — **Faz 5 Wilson DESCRIBE A→C devam** — batch_0064-0065 ATRIUM/AXE/BACKPACK/BAT/BEEFALO/BEE/BERRY/BOAT/BOOK/BUNNYMAN/CARNIVAL/CARROT/CAT/CAVE — 2 batch / 400 string)
+**Son güncelleme:** 2026-04-29 (Oturum 20 ✅ — **Faz 5 Wilson DESCRIBE C→F devam** — batch_0066-0067 CHESSPIECE 30+ form/CHESTER/COMPASS/CRABKING/CRITTER/COTL/DEER/DRAGON/DUMBBELL/EVERGREEN/FARM/FENCE/FIRE/FISH/FLOATING/FLOWER — 3 batch / 600 string)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 11.645 / 85.706 msgid (%13.59)
+**Şu ana kadar çevrilen toplam:** 12.045 / 85.706 msgid (%14.05)
 
 ---
 
@@ -328,10 +328,23 @@
 
 **Toplam ilerleme:** 11.245 → 11.645 (%13.12 → **%13.59**)
 
-## 🎯 Sıradaki Oturum (20) — Yol Haritası
+### ✅ Oturum 20 — 2026-04-29 (3 batch / 600 string) — Faz 5 Wilson DESCRIBE_C-F
+
+**Aydın'ın "DEVAM" komutu:** batch_0066-0067 sırasıyla CAVE_EXIT→ARROWSIGN, BOATRACE→FOLIAGE.
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0066` | 200 | **DESCRIBE_CAVE_EXIT→DECOR_PORTRAITFRAME** — CAVE_EXIT 2/CAVE_FERN/CAVE_VENT_MITE 4 form (Ne aka-bilir + akabilir uyanır + Dumanı tüten kadar kızgın)/CAVE_VENT_ROCK 4 (egzoz-tici exhausting pun!)/CEVICHE karidesçik shrimpy/CHARCOAL/CHARLIE 5 form/CHESSJUNK 3/**CHESSPIECE 30+ form** (durga-aslan stagnantlion, etlibütlü beefy, en tasmasız leashed, yengeç-suratlı crabby Maxwell, kim bilir nere-deydi where/were, göz tırmalayıcı eyesore, yüzgeçik some-fin, Aydan da memnunum over the moon, sert şövalye-geceydi knight/night)/CHESTER otto/CHESTUPGRADE laws of physics flexible/CHEST_MIMIC korkunç korkunç/CHUM balık öğünü/CLAYHOUND tasması çözülmüş/CLAYWARG terra-korkunç terror cotta!/COLDFIRE 6+COLDFIREPIT 6/COLLAPSEDCHEST/COMPASS 9 yön (Doğu/Kuzey/Kuzeybatı/Güneydoğu vb.)/COMPOST/COMPOSTINGBIN 5 form (varil-zorla barrel-y!)/COMPOSTWRAP Wormwood/CONSTRUCTION_PLANS bilim için şeyler/COOKBOOK bilgiye aç/COOKEDMANDRAKE+MEAT+MONSTERMEAT+SMALLMEAT (4 form)/COOKIECUTTER+HAT+SHELL eski halinin kabuğu/COOKINGRECIPECARD/COOKPOT 5 form/COOLANT olasılıklarla köpürüyor/COONTAIL/CORN 4 form/COSTUME 8 form (İhihih-itirazcılar neigh-sayers!)/COTL_TABERNACLE 6 form Cult of Lamb cross-promo (taç giydiren başarı crowning achievement)/COZY_BUNNYMAN/CRABKING 7 form (harç-tan fazlası mortar pun, pençe-de uyarı claws/cause, kabuk-tirici shell/shall, yengeç-suratlı crabby!)/CRITTERLAB+9 CRITTER form (solucan-vari wyrmed, çift göz Eye of Terror tek göz, güve-matikte iyi mothematics moth+math!)/CROW 2 form/CRUMBS kırıntılı saklanma/CURSED_MONKEY_TOKEN/CUTGRASS+LESS+LICHEN+REEDS+STONE 5 form/DAYWALKER 5 form/DAYWALKER_PILLAR/DEADLYFEAST/DEAD_SEA_BONES/DECIDUOUSTREE 5 form/DECK_OF_CARDS tam desteyle full deck pun/DECOR_CENTERPIECE+FLOWERVASE 5 form+LAMP+PICTUREFRAME 2/DECOR_PORTRAITFRAME. **CHESSPIECE 30 figürünün her biri farklı pun** | ✅ |
+| `0067` | 200 | **DESCRIBE_DEER→FOLIAGE_DRIED** — DEER 2 form/DEERCLOPS+CORPSE 3+EYEBALL+SENTRYWARD 3+ANTLER+GEMMED/DEPLETED_GRASS/DESERTHAT/DESICCANT 2 (yüksek ve kuru high and dry pun)/DEVTOOL pastırma kokulu/DIRTPILE/DIVININGROD 5 form sinyal/DIVININGRODBASE 3/DIVININGRODSTART/DOCK_KIT+POSTS/DOLL_BLUEPRINT/**DRAGONBOAT_KIT ejder-ayaklarını sürmek dragon feet pun!**/DRAGONBOAT_PACK/DRAGONBODYHAT vasat-orta middling/DRAGONCHILISALAD/DRAGONFLY havalı ejder fly pun/DRAGONFLYCHEST 2 form (pul-üstü off the scale!)/DRAGONFLYFURNACE 4/DRAGONFRUIT 4 form kanat çıkar/DRAGONHEADHAT/DRAGONPIE/DRAGONTAILHAT/DRAGON_SCALES/DREADSTONE+HAT+STACK/DRIFTWOOD_LOG+TREE 4 form/DRUMSTICK+COOKED yutmaya hazır gobble/DUG_BANANABUSH+BERRYBUSH 2+GRASS+MARSH+MONKEYTAIL+SAPLING+TRAP_STARFISH 7 form/**DUMBBELL 7 form** (ağırlığı kadar altın, kası beyin, AYK belim! ACK my spine!)/DURIAN 4 form kokulu+oversized stink/DUSTMERINGUE/DUSTMOTH+DEN/EARMUFFSHAT/EEL+COOKED/EGGPLANT 4 form/ELIXIR_CONTAINER cenazecinin çantası mortician/EMBERLIGHT/ENDTABLE 6 form/EVERGREEN+SPARSE 8 form çam/EYEBRELLAHAT Gözlemsiye gözetler/EYEMASKHAT (tarz için göz!)/EYEOFTERROR 3 form/EYEPLANT+TURRET+TURRET_ITEM/FARMPLOT 4 form+FARM_HOE+PLANT 8 form (sahtekarı eleyip ayıklayacağım weed out, çürük şans rotten luck, devasa ürün monstrous produce, tarla-aygıtı plot device pun)/FARM_PLOW+ITEM/FARM_SOIL_DEBRIS/FEATHERFAN tüy aşağı down pun/FEATHERHAT KUŞ OL/FEATHERPENCIL bilimsel özellikler/FEATHER 4 form (Canary kanarya, Crow kara kuş, Robin kızılkuş, Robin_Winter karkuşu)/FEM_PUPPET kapana kısılmış/FENCE 8 form (çit gibi sağlam mizaç fence pun, En garde re-post pun, kakaş kova!)/FERTILIZER/FESTIVEFISH+BLUEPRINT/FIG 4 form Newton'un İnciri+Mamma mia+Yan tarafında çubuk/FIREBALLSTAFF/FIRECRACKERS patlama bilimi/FIREFLIES 2/FIREHOUND/FIRENETTLES 2 (sıcağa dayanamıyorsan bahçeden uzak dur)/FIREPEN kalem sıcakken vur/FIREPIT 6 form/FIRESTAFF dünyayı ateşe vermek istemiyorum/FIRESUPPRESSOR 3 form (fırlatma cephesinde sakin All quiet on flinging front!)/FISH+INGNET (sadece ağ nothing but net)+INGROD (hook line stick)/FISHMEAT 4+SMALL 3 form (kuru-budala jerk pun!)/FISHSTICKS+TACOS+BOX (sardalye gibi)/FISH_COOKED/FLINT/FLOATINGLANTERN 3 form (Sönmeyi kabul et admit deflate, İşte parlıyoruz there we glow!)/FLOTATIONCUSHION buoyancy/FLOWER 2+FLOWERHAT+SALAD+CAVE 2+EVIL+WITHERED 6 form (sönük ampul dim bulb deyim)/FOLIAGE 2. **Klei pun yoğun**: egzoz-tici, durga-aslan, terra-korkunç, varil-zorla, harç-tan fazlası, pençe-de uyarı, kabuk-tirici, güve-matikte iyi, yüzgeçik, ejder-ayaklarını sürmek, pul-üstü, AYK belim!, çit gibi sağlam mizaç, En garde re-post, kalem sıcakken vur, kuru-budala jerk, Sönmeyi kabul et, sönük ampul, Newton'un İnciri | ✅ |
+
+**Faz 5 toplam:** Oturum 17-20 = batch_0060-0067 / 1.600 entry. Wilson generic ACTIONFAIL+ANNOUNCE+BATTLECRY+COMBAT_QUIT+DESCRIBE_A-F %100. Sıradaki batch_0068 DESCRIBE_F-G devam.
+
+**Toplam ilerleme:** 11.645 → 12.045 (%13.59 → **%14.05**) — **%14 EŞİĞİ AŞILDI** ⭐⭐⭐
+
+## 🎯 Sıradaki Oturum (21) — Yol Haritası
 
 ### **EN YÜKSEK ÖNCELİK:** Faz 5 CHARACTERS devam (Wilson generic)
-- `0066-0075` Wilson DESCRIBE_C→D devam (CAVE/CHESSPIECE/CHESTER/CHILI/CHIPMUNK/CLOTHING/COCONUT/COFFEE/COLDFIRE/COMPASS/COOKBOOK/COOKPOT/...)
+- `0068-0077` Wilson DESCRIBE_F→I devam (FOSSIL/FROG/FRUIT/FUR/GEAR/GEM/GHOST/GLOMMER/GOLDNUGGET/GRASS/GUANO/HALLOWED/HAMMER/HAT.../ICE/IRONWIND/...)
 
 ### Faz 4 kalan
 - `0680-0683` STRINGS.SKILLTREE (4 batch, Wendy/Wickerbottom/Wilson/Wolfgang/WX-78 yetenek ağacı)
