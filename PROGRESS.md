@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 13 ✅ — Faz 3 küçük lore blokları: 11 batch / 286 string — %10 EŞİĞİ AŞILDI ⭐)
+**Son güncelleme:** 2026-04-29 (Oturum 14 🟡 YARIM — RECIPE_DESC başladı: 2/5 batch / 400 string. Kalan 3 batch (0652-0654) sonraki oturuma)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 8.644 / 85.706 msgid (%10.09) ⭐ %10 EŞİĞİ AŞILDI
+**Şu ana kadar çevrilen toplam:** 9.044 / 85.706 msgid (%10.55)
 
 ---
 
@@ -205,16 +205,30 @@
 
 **Faz 3 toplam:** Oturum 5-13 = 3.919 + 286 = **4.205 string** (Faz 3'ün ~%84'ü tahmini)
 
-## 🎯 Sıradaki Oturum (14) — Yol Haritası
+### 🟡 Oturum 14 — 2026-04-29 (2/5 batch / ~400 string) — RECIPE_DESC başladı, YARIM KALDI
 
-### **EN YÜKSEK ÖNCELİK:** RECIPE_DESC ⭐⭐⭐
-- `0650-0654` STRINGS.RECIPE_DESC (5 batch, ~956 tarif açıklaması) — yemek ve eşya tariflerinin tek satırlık özetleri (yemek lezzet/etki/bozulma süresi)
+**Aydın'ın "devam" komutu + compact hazırlığı:** RECIPE_DESC'in ilk 2 batch'i çevrildi, 3 batch sonraki oturuma kaldı.
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0650` | ~200 | **STRINGS.RECIPE_DESC** A-C: Wilson tarzı kısa tarif açıklamaları (sihirli hatıra=Abigail Çiçeği, "İnsan değerini kanıtla"=Başarıkonak, ölümden korur=Tılsım, "Tekne frenleri"=Çapa, **Battlesong serisi tam** Wigfrid: "Yüreklere bir kaside"=Sağlık Kazanma/"Sözel domates fırlat"=Alay/"Düşmüş yoldaşlarının yüreklerini coştur"=Diriliş, **Kitap kütüphanesi tam** Wickerbottom: "Arıcılığın ABCsini öğren"/"Kütüphaneci kuralı: Dewey Ondalık Sistemi"/"Yağmurlu güne sakla", **Boomerang/Bumeranj=Aşağıdaki memleketten geliyor** Avustralya pun, Boat ekosistemi başlangıcı (Hazır dikkat tekne/Birinin şamandırası başkasının bariyeri/Rekabeti suya gömer Klei pun), **Bookstation+Birdcage+Bedroll**, Carnival ekosistemi tam (Spread cheer=Neşe yayıver, Egg-citement=Yum-uyanış pun, Cawnival decor 4 yumurta+lamba+bitki, 6 mini oyun: Yumurta Telaşı/Yem Yaygara/Hafıza Sayım), Carrat/Cattoy/Catcoonhat, **Chesspiece sketch/builder serisi başlangıcı** (Anchor/Antlion/Bearger/Beequeen/Bishop/Butterfly/Carrat/Catcoon/Clay Hound+Warg/Crab King/Daywalker/Deerclops/Dragonfly/Eye of Terror/Formal/Guardian/Hornucopia/Kitcoon/Klaus/Knight/Malbatross/Manrabbit/Minotaur/Moon) | ✅ |
+| `0651` | ~170 | **STRINGS.RECIPE_DESC** C-M devam: Chesspiece kalan (Moon/Moosegoose/Muse/Pawn/Pipe/Rook/Sharkboi/Stalker/Toadstool/Twins of Terror/WAGBOSS Lunar/Robot/Warg Mutated/Wormboss/YOTD/YOTH/YOTS sketches), **Cookbook+Cookpot+COTL** (Cult of the Lamb cross-promo: Kuzu kuru oyma/rafine heykel/göz kamaştırıcı anıt), **Critter ekosistemi tam** (Bulbin/Broodling/Eye of Terror/Glomling/Kittykit/Ewelet/Mothling/Civciv/Yavruvarg dostluk), **Decor seti** (Centerpiece/Flowervase/Lamp/Pictureframe/Portraitframe), **Dock/Dragonboat/Dragonfly furniture**, **Dumbbell tam** (Sticks and stones/altın standart/yontulmuş vücut/yanığı hisset), **Halloween 6 deney** (Sıvı cesaret/Yüreğine iyi/Bir değişim demleniyor/Belkemiği fidanları), **Ghostly Elixir 9 form** (Wendy iksir Abigail), Glasscutter+Goggles+Gold tools, **Hermit Crab Tea ekosistemi tam** Pearl (8 çay: Karnında ateş/Ay yerlileri/Aklı uçurumdan/Havalı olmak), **Kitcoon decor**, Lantern/Lighter/Lightning Rod, **Lunar Forge+Lunarplant Hat+Kit**, **Mad Science Lab/Magician Chest/Mast** çift entries | ✅ |
+| `0652` | ~200 | ⬜ **YAPILMADI** — RECIPE_DESC M-R (Mast/Meat Rack/Megaflare/Mermhouse/Mighty Gym/Miner Hat/Moondial/Moonglass/Moonrock/Moonstorm/Mosquito/Multi tool/Mushroom/Mutator/Nightcap/Nightlight/Nightmare Fuel/Nightsword/Non-slip grit/Oar/Ocean fishing 14 lure/bobber/Offering Pot/Oneman band/Orange amulet/Panflute/Papyrus/Perdfan/Petals/Phonograph/Pickaxe/Piggyback/Pighouse/Pigshrine/Pirate flag/Pitchfork/Plant registry hat/Pocketwatch 9 form/Polly Roger/Portable cookware 5 entry/Potato sack/Pumpkin Hat/Punching Bag 3 form/Purple gem/**Quagmire ekosistemi 27 entry: Pot/Hoe/Key/Salt/Slaughter/Seedpacket 7 tip/Spotspice/Sapbucket/Pigeon/Goatmilk/Crabtrap/Crate**/Rabbit/Raincoat/Rainometer/Razor/Record/Red gem/Refined dust/Reflective vest/Research Lab 4 tier/Reskin tool/Resurrection Statue/Reviver/Rope/Rope Bridge/Rose Glasses/Ruins Hat/Ruinsrelic 6 entry/Saddle 5 tip/Saltbox/Saltlick) | ⬜ |
+| `0653` | ~200 | ⬜ **YAPILMADI** — RECIPE_DESC R-T (Saltlick Improved/Salty Dog hat/Scarecrow/Sculpting Table/Seafaring/Security Pulse/Seedpouch/Sentryward/Sewing kit+mannequin+tape/Shadow ekosistemi 7 entry/Shellweaver/Shovel+Lunar/Siesta hut/Sisturn/Sleepbomb/**Slingshot ekosistemi tam: 18 mermi+5 frame+4 handle+3 band**/Slow Farmplot/Soil Amender/Spear+Wathgrithr+Lightning/Spice 5 tip/Spider 5 entry/Staff Lunar+Tornado/Steering wheel/Stone furniture 4/Strawhat/Succulent/Super tackle/Support pillar/Sweater/Sword Lunar/Table Winters Feast/Tackle 3 entry/Telebase/Telestaff/Tent/Thulecite+Bugnet/Ticoon/Tillweed Salve/Top Hat 2/Torch/Townportal/Transistor/**Transmute serisi 27 entry**: Beard Hair/Beefalowool/Bluegem/Boneshard/Cutstone/Dreadstone/Flint/Goldnugget/Greengem/Horrorfuel/Houndstooth/Log/Marble/Meat/Moonglass/Moonrock/Nightmarefuel/Nitre/Opalpreciousgem/Orangegem/Poop/Purebrilliance/Purplegem/Redgem/Rocks/Smallmeat/Twigs/Yellowgem/Trap+Bramble+Teeth/Treasurechest/Treegrowth/Trident/Trophyscale 2/Trunkvest 2/Turfcrafting/**Turf 25+ tip yer döşeme**) | ⬜ |
+| `0654` | ~155 | ⬜ **YAPILMADI** — RECIPE_DESC U-Z (Vault Relic 3 entry/Voidcloth Hat+Boomerang+Kit+Scythe+Umbrella/Wagboss Robot 2 entry/Wagpunk Bits+Hat+Floor/Walking Stick/**Walls 9 tip duvar**/Walrus Hat/Watering Can+Premium/Watermelon Hat+icle/Waxpaper/Webber Skull/Whip/Winch+Blueprint/Winona seti tam: G.E.M.erator/Generator/Catapult/Spotlight/Holotelebrella/Recipescanner/Remote/Storage robot/Telebrella/Telepad/Winter Hat+Ometer+Tree+Treestand/Wobster Den/Woodcarvedhat/Wood furniture 4/Wormwood items/X-Marks the Spot Map/YOTB tam (9 doll/Pattern Fragment/Post/Sewing Machine/Stage)/YOTC tam (4 gym/race start finish checkpoint/Scale/Seedpacket)/YOTD anchor+oar+wheel/YOTH chair+helmet+shrine+stick+lance/YOTP food 3/YOTR fight pit+bell+kit+torch+food 4+rabbit shrine+token/YOTS lantern post/snake shrine/worm) | ⬜ |
+
+**Faz 3 toplam:** Oturum 5-14 = 4.205 + ~400 = **~4.605 string** (Faz 3'ün ~%92'si — RECIPE_DESC yarım, kalan ~556 string sonraki oturuma)
+
+## 🎯 Sıradaki Oturum (15) — Yol Haritası
+
+### **EN YÜKSEK ÖNCELİK:** RECIPE_DESC tamamla
+- `0652-0654` STRINGS.RECIPE_DESC son 3 batch (~556 tarif açıklaması) ⭐⭐⭐ — Faz 3 kalanı
 
 ### Sonra büyük PIG_TALK serileri
 - `0596-0631` STRINGS.PIG_TALK_* (36 batch, Domuz konuşmaları — Pig King servants/guards/elites)
 
-### Faz 3 finali
-- `0593` STRINGS.NAME_DETAIL_EXTENTION (1 batch, ek detay)
+### Faz 4 (sonra)
+- `0655-0658` SCRAPBOOK + `0680-0683` SKILLTREE + `0733-0736` STAGEACTOR
 - `0594` STRINGS.NIGHTMARE_OVERGROWTH (1 batch, lore)
 - `0595` STRINGS.PIGNAMES (1 batch, domuz isimleri)
 - `0596-0631` PIG_* talkers (PIG_GUARD/PIG_TALK_*)

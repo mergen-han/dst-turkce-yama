@@ -28,7 +28,7 @@ Don't Starve Together için açık kaynak, kapsamlı, **bağlamsal** Türkçe ç
 | 8 | Logo + Workshop varlıkları | ⬜ |
 | 9 | v1.0 yayın | ⬜ |
 
-**Toplam:** **8.644 / 85.706 msgid çevrildi (%10.09)** ⭐ %10 EŞİĞİ AŞILDI · 13 oturum tamamlandı (2026-04-26 → 2026-04-29). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
+**Toplam:** **9.044 / 85.706 msgid çevrildi (%10.55)** · 13 oturum tam + 1 yarım (2026-04-26 → 2026-04-29). Detaylı durum: [`PROGRESS.md`](PROGRESS.md).
 
 ### Son oturumda eklenen Türkçe içerik (Oturum 13 — Lore + sahne oyunu temizliği)
 
