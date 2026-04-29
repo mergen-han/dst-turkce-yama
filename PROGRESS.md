@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 17 ✅ — **SCRAPBOOK TAM ⭐ 4/4 batch (690 entry)** + **Faz 5 BAŞLADI** — Wilson generic ACTIONFAIL 1/314 batch — 5 batch / 890 string)
+**Son güncelleme:** 2026-04-29 (Oturum 18 ✅ — **Faz 5 Wilson generic devam** — batch_0061-0063 ANNOUNCE_*+BATTLECRY+DESCRIBE A başlangıç — 3 batch / 600 string)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 10.645 / 85.706 msgid (%12.42)
+**Şu ana kadar çevrilen toplam:** 11.245 / 85.706 msgid (%13.12)
 
 ---
 
@@ -306,10 +306,24 @@
 
 **Toplam ilerleme:** 9.755 → 10.645 (%11.38 → **%12.42**) — **%12 EŞİĞİ AŞILDI** ⭐⭐
 
-## 🎯 Sıradaki Oturum (18) — Yol Haritası
+### ✅ Oturum 18 — 2026-04-29 (3 batch / 600 string) — Faz 5 Wilson generic devam
+
+**Aydın'ın "devam" komutu (compact sonrası):** batch_0061 (ACTIONFAIL kalanı + ANNOUNCE_A→F) + batch_0062 (ANNOUNCE_F→S) + batch_0063 (ANNOUNCE_S→Z + BATTLECRY + COMBAT_QUIT + DESCRIBE_A başlangıç) sırasıyla yapıldı. Wilson akademik bilim adamı tonu + Klei pun disiplini korundu. only_used_by_X placeholder'lar aynen geçti (ortalama %50 placeholder yoğunluğu — Wilson'un Wendy/WX-78/Wormwood/Walter/Winona/Wolfgang/Wortox/Wanda/Warly/Wickerbottom/Wathgrithr/Maxwell/Wurt karakterlerine özel replikleri).
+
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0061` | 200 | **STRINGS.CHARACTERS.GENERIC.ACTIONFAIL kalanı + ANNOUNCE_A→F** — RUMMAGE/SADDLE/SHAVE/SING_FAIL/SLAUGHTER/SOAKIN/STARTMAPDELIVER/STORE/SWAPBODIES/TEACH/TELLSTORY/UNLOCK/UPGRADE/USEEQUIPPEDITEM/USEITEMON/USEKLAUSSACKKEY/WRAPBUNDLE/WRITE/YOTB_STARTCONTEST/YOTB_UNLOCKSKIN/ACTIONFAIL_GENERIC + ANNOUNCE_ABIGAIL_*→ANNOUNCE_FLARE_SEEN. Klei pun: "I'm not soul'ed on it" → "Buna ruh-ikna olmuş değilim" (sold/soul pun), "Case closed... to me" → "Dava kapandı... bana", "Terrible terralogical waves!" → "Korkunç terralojik dalgalar!" (terra alliterasyon), "Productivity intensifying!" → "Verimlilik yoğunlaşıyor!", "I feel as dry as one of Wickerbottom's lectures!" → "Wickerbottom'un derslerinden biri kadar kuru hissediyorum!", BOO-ster Shot → BÖÖ-ster iğnesi, "fright headed" → "Kor-sersem hissediyorum" (kor+sersem), "Yelpazem rüzgâr gibi geçti" (Gone with the Wind referans), Wilson encumbered seri "Bilim... için... oof!" + "Saç bozuluyor mu?" + "Beyefendi işi değil" gentleman tonu | ✅ |
+| `0062` | 200 | **STRINGS.CHARACTERS.GENERIC.ANNOUNCE_F→S** — FLOATER/FOODMEMORY/FREEDOM/GATHER_MERM/GHOSTDRAIN/GHOSTLYBOND/GHOST_HINT/GROWPLANT/HEALINGSALVE_ACIDBUFF/HERMITCRAB_SHELL/HIGHRESEARCH/HOT/HOUNDS/HUNGRY/HUNT_*+TRAILS/INSUFFICIENTFERTILIZER/INV_FULL/IS_FEASTING/KILLEDPLANT/KINGCREATED/KITCOON_*+saklambaç/KLAUS_*+CALLFORHELP/KNOCKEDOUT/LIGHTFIRE/LIGHTNING_DAMAGE_AVOIDED/LIGHTSOUT/LOWRESEARCH/LUNARGUARDIAN/LUNARHAIL_BIRD/LUNAR_RIFT/MAX_CLOCKWORKS/MEGA_FLARE/MIGHTYTONORMAL/MONKEY_CURSE/MOONALTAR_MINE×9/MOONPOTION/MOSQUITOS/MOUNT_LOWHEALTH/MUTATED_BUZZARD/NODANGER*/NODAYSLEEP/NOHUNGER*/NOMOUNTEDGIFT/NONIGHTSIESTA/NOPUMPKINCARVING/NORMALTOMIGHTY/NOSLEEPHASPERMANENTLIGHT/NOSLEEPONFIRE/NOWARDROBEONFIRE/NO_TRAP/OCEANFISHING_*+IDLE_QUOTE/OCEAN_SILHOUETTE/OFF_SCRIPT/OTTERBOAT_*/PANFLUTE_BUFF/PECKED/PETRIFED_TREES/PICK_DISEASE/PIRATES_ARRIVE/PLANT_RANDOMSEED/PLANT_RESEARCHED/POCKETWATCH_*+rear pun/PREFALLINVOID gravity pun/QUAKE/RABBITKINGHORN/RABBITKING_AGGRESSIVE/READ_BOOK 18 form (Wurt)/REPELLED/RESEARCH/REVIVED/REVIVING/ROSEGLASSES/ROYALTY/ROYALTY_JOKER alaycı/RUINS_RESET/SACREDCHEST/SCRAPBOOK_FULL/SHADOWLEVEL/SHADOWTHRALL_STEALTH/SHADOW_RIFT/SHELTER/SISTURN/SLINGSHOT_*/SNARED/SNOWBALL/SOAKED/SOUL 14 form (Wortox)/SPOOKED. Klei pun: "I was busy drowning but something came up... me!", "Bu deniz türküsü tek bir anlama gelebilir", "Bilgim büyüyor!" (growing pun), "Sen olsan iyi, ben değil!", "Vız geçin!" (bug off pun), "Demek bir karga sürüsünün - cinayetinin - sesi buymuş" (murder of crows pun) | ✅ |
+| `0063` | 200 | **STRINGS.CHARACTERS.GENERIC.ANNOUNCE_S→Y + BATTLECRY + COMBAT_QUIT + DESCRIBE_ABIGAIL→ARROWSIGN** — STORYTELLING (Walter)/TALK_TO_PLANTS (5 form Wilson bitkilerle dostluk)/THORNS/THURIBLE_OUT (Buhur-kunç pun!)/TICOON_* 8 form/TOAD/TOOL_SLIP/TORCH_OUT/TOWNPORTALTELEPORT/TRAP_WENT_OFF/UNIMPLEMENTED/VAULT_TELEPORTER/WANDA_AGE/WASHED_ASHORE/WEAK_RAT/WEAPON_TOOWEAK/WEIGHT/WENDY_BABYSITTER/WET/WETTER (Suuper iş!)/WIMPYTONORMAL/WINCH_CLAW/WINTERS_FEAST_BUFF/WOBY 8 form (Walter)/WOLFGANG 8 form/WORMHOLE/WORMS/WORTOX_REVIVER/WX_SCANNER/WX_TASER/YOTB_LEARN/YOTD_*/YOTH_ONCOOLDOWN. **BATTLECRY 6 + COMBAT_QUIT 5** Wilson düz savaş tonları (Spider warrior "Sen olsan iyi"). **DESCRIBE_*** ABIGAIL 6 form fiyong + ABIGAIL_FLOWER 8 form ruh hali/ABYSSPILLAR_*/ACCOMPLISHMENT_SHRINE/ACORN/ADVENTURE_PORTAL/ALTERGUARDIANHAT 4 form ışık+sonsuz olasılık/ALTERGUARDIAN 8 phase boss CC/AMULET/ANCHOR/ANCIENTFRUIT 3 form (Hot off tree, twitchy)/ANCIENTTREE 5 form (vegetable AND mineral)/ANCIENT_ALTAR/ANCIENT_HUSK/ANCIENT_STATUE/ANIMAL_TRACK ("food tracks. I mean... animal" Wilson hunger)/ANTCHOVIES/ANTLION 3 mood/ANTLIONHAT (groundbreaking pun)/ARCHIVE 14 entry (centimpede pun, dolunay-vari)/ARMOR 18 form (Hot mail pun, leaf room pun, succulent suit s-alliterasyon, "kemik şüphem yok" pun, "saddled with questions" pun, "fearsome and gearsome" → "korkutucu ve dişli")/ARROWSIGN 3 form ("Don't play with matches"). Klei pun yoğun, Wilson akademik biri | ✅ |
+
+**Faz 5 toplam:** Oturum 17-18 = batch_0060-0063 / 800 entry. Wilson generic ACTIONFAIL %100 + ANNOUNCE %95 + BATTLECRY %100 + COMBAT_QUIT %100 + DESCRIBE A %100. Sıradaki batch_0064 DESCRIBE A→B devam.
+
+**Toplam ilerleme:** 10.645 → 11.245 (%12.42 → **%13.12**) — **%13 EŞİĞİ AŞILDI** ⭐⭐⭐
+
+## 🎯 Sıradaki Oturum (19) — Yol Haritası
 
 ### **EN YÜKSEK ÖNCELİK:** Faz 5 CHARACTERS devam (Wilson generic)
-- `0061-0070` Wilson ANNOUNCE_*+BATTLECRY_*+DESCRIBE_* başlangıç (her batch ~200 entry, çoğu kısa item açıklaması)
+- `0064-0073` Wilson DESCRIBE_* devam (ATRIUM/AXE/BACKPACK/BAT/BAMBOO/BATTERY/BEARGER/BEEF/BERRY/... her batch ~200 entry, item açıklamaları)
 
 ### Faz 4 kalan
 - `0680-0683` STRINGS.SKILLTREE (4 batch, Wendy/Wickerbottom/Wilson/Wolfgang/WX-78 yetenek ağacı)
