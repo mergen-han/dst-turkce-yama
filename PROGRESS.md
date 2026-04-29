@@ -3,7 +3,7 @@
 > Bu dosya her çeviri oturumu sonu güncellenir. Aydın'ın "ne çevirildi, ne kaldı" görmesi + sonraki oturumdaki Claude için referans.
 
 **Toplam hedef:** 85.706 msgid / 970 batch
-**Son güncelleme:** 2026-04-29 (Oturum 15 ✅ — RECIPE_DESC TAM ⭐ 5/5 batch + PIG_TALK Elite başladı 5/36 batch / 575 string)
+**Son güncelleme:** 2026-04-29 (Oturum 16 ✅ — **PIG_TALK serisi TAMAMLANDI** ⭐ 36/36 batch + RABBIT serisi tam — 41 batch / 136 string)
 
 ---
 
@@ -22,7 +22,7 @@
 | 8 | Logo + Workshop varlıkları | — | ⬜ | 0 |
 | 9 | Yayın v1.0 | — | ⬜ | 0 |
 
-**Şu ana kadar çevrilen toplam:** 9.619 / 85.706 msgid (%11.22)
+**Şu ana kadar çevrilen toplam:** 9.755 / 85.706 msgid (%11.38)
 
 ---
 
@@ -236,25 +236,73 @@
 
 **%11 EŞİĞİ AŞILDI** — 9.044 → 9.619 (%10.55 → %11.22) ⭐⭐
 
-## 🎯 Sıradaki Oturum (16) — Yol Haritası
+### ✅ Oturum 16 — 2026-04-29 (41 batch / 136 string) — PIG_TALK serisi TAM ⭐ + RABBIT
 
-### **EN YÜKSEK ÖNCELİK:** PIG_TALK serisini bitir
-- `0601-0631` STRINGS.PIG_TALK_* (kalan 31 batch, küçük 2-6 string per — toplam ~150 string) — Domuz Guard/Trade/Tax/Hunch/Magic/Royal repliker
+**Aydın'ın "devam" komutu (compact sonrası):** Oturum 15'te başlayan PIG_TALK Elite Pugna serisi tamamlandı (5/36 → 36/36 ⭐), sonrasında RABBIT (Tavşanadam) feryat/dövüş serisi de tamamlandı. **Faz 3 ~%100 bitti** — sadece SCRAPBOOK/SKILLTREE/STAGEACTOR Faz 4 kaldı.
 
-### Faz 4 (sonra)
-- `0655-0658` SCRAPBOOK + `0680-0683` SKILLTREE + `0733-0736` STAGEACTOR
-- `0594` STRINGS.NIGHTMARE_OVERGROWTH (1 batch, lore)
-- `0595` STRINGS.PIGNAMES (1 batch, domuz isimleri)
-- `0596-0631` PIG_* talkers (PIG_GUARD/PIG_TALK_*)
-- `0632` STRINGS.PLAYING_CARD_NAMES (Balatro)
-- `0633` STRINGS.PLAYS (Stage Play repertoire)
-- `0635` STRINGS.PYROMANCY (Willow ateş büyüleri)
-- `0636-0639` STRINGS.QUAGMIRE_* (Boğaz lore)
-- `0650-0654` **STRINGS.RECIPE_DESC** (5 batch, ~956 tarif açıklaması) ⭐⭐
-- `0655-0658` STRINGS.SCRAPBOOK (Faz 4)
-- `0659-0683` SELECT/SET/SHADOW/SHARD/SHARKBOI/SIGNS/SKILLTREE bloklar
-- `0684-0723` SKIN_DESCRIPTIONS + SKIN_NAMES (Faz 6)
-- `0733-0736` STAGEACTOR (Faz 4)
+| Batch | Sayı | Kapsam | Durum |
+|---|---|---|---|
+| `0601` | 3 | **STRINGS.PIG_ELITE_SALTY** — Pugna domuz BÜYÜK HARF Tarzanvari ("HİLECİ!", "ADİL DEĞİL", "ÖYLE YAPMAK YASAK!") | ✅ |
+| `0602` | 4 | **STRINGS.PIG_ELITE_SMACK** — ("SEN GİT EZ!", "BEN SENİ EZ!", "UZAK DUR!", "EĞLENCE!") | ✅ |
+| `0603` | 3 | **STRINGS.PIG_GUARD_TALK_FIGHT** — Pig Guard krala sadakat ("KRAL İÇİN!", "SAVUN!", "KRALI KORU!") | ✅ |
+| `0604` | 3 | **STRINGS.PIG_GUARD_TALK_GOHOME** — ("SAVUNMAK GEREK!", "BEN KORU", "KRAL! KRAL!") | ✅ |
+| `0605` | 3 | **STRINGS.PIG_GUARD_TALK_LOOKATWILSON** — ("SEN ŞİMDİ GİT", "SEN UZAĞA GİT", "SEN BURADA KALMA") | ✅ |
+| `0606` | 3 | **STRINGS.PIG_GUARD_TALK_TORCH** — meşale yakıt durum ("MEŞALE BİTİYOR", "MEŞALEYİ PARLAT", "DAHA ÇOK YANSIN") | ✅ |
+| `0607` | 2 | **STRINGS.PIG_TALK_ATTEMPT_TRADE** — ("NE VAR SENDE?", "İYİ ŞEY OLSA İYİ.") | ✅ |
+| `0608` | 3 | **STRINGS.PIG_TALK_CONTEST_OOOH** — yarışma ünlemleri ("OOOH", "VAAY", "GÜZEL ŞEY") | ✅ |
+| `0609` | 2 | **STRINGS.PIG_TALK_CONTEST_PANIC** — ("SEÇMEK GEREK!", "SEÇİM ZOR!") | ✅ |
+| `0610` | 2 | **STRINGS.PIG_TALK_EAT_MEAT** — ("NOM NOM NOM", "MIIIK!") | ✅ |
+| `0611` | 3 | **STRINGS.PIG_TALK_FIGHT** — ("BEN ÖLDÜR ŞİMDİ!", "SEN GİT EZ!", "RAAAWR!") | ✅ |
+| `0612` | 5 | **STRINGS.PIG_TALK_FIND_LIGHT** — karanlıktan korkup ışığa sığınma ("KORKUNÇ", "KARANLIK SEVMEM", "GÜNEŞ NEREDE?", "ATEŞ YANINA KAL", "ATEŞ İYİ") | ✅ |
+| `0613` | 4 | **STRINGS.PIG_TALK_FIND_MEAT** — ("BEN AÇ!", "MIIIK!", "BEN YEMEK YE!", "YEMEK ZAMANI!") | ✅ |
+| `0614` | 4 | **STRINGS.PIG_TALK_FOLLOWWILSON** — domuz takip ("SEN ARKADAŞ", "BEN ARKADAŞ SEV", "SEN İYİSİN", "BEN GEL ARKANDAN!") | ✅ |
+| `0615` | 7 | **STRINGS.PIG_TALK_GAME_CHEER** — yarış tezahürat ("EZ! EZ!", "VUR!", "HAYDİ DOMUZLAR!", "RAAAWR!", "PİS KOKARSIN!", "ALTIN AL!", "KAFADAN VUR!") | ✅ |
+| `0616` | 3 | **STRINGS.PIG_TALK_GAME_GOTO** — ("BAŞLIYOR!", "BU EN SEVDİĞİM!", "YAŞA!") | ✅ |
+| `0617` | 2 | **STRINGS.PIG_TALK_GIVE_GIFT** — ("SEN AL BUNU", "ARKADAŞ İÇİN") | ✅ |
+| `0618` | 2 | **STRINGS.PIG_TALK_GO_HOME** — ("EV ZAMANI!", "EV! EV!") | ✅ |
+| `0619` | 3 | **STRINGS.PIG_TALK_HELP_CHOP_WOOD** — ağaç kesim yardım ("AĞAÇ ÖLDÜR!", "KÖTÜ AĞAÇ EZ!", "BEN AĞAÇ YUMRUKLA!") | ✅ |
+| `0620` | 3 | **STRINGS.PIG_TALK_LOOKATWILSON** — ilk karşılaşma ("SEN KİM?", "SEN DOMUZ DEĞİL", "SENDE ET VAR?") | ✅ |
+| `0621` | 2 | **STRINGS.PIG_TALK_MISC_GAME_CHEER** — ("HAYDİ! HAYDİ! HAYDİ!", "HOMURT!") | ✅ |
+| `0622` | 3 | **STRINGS.PIG_TALK_MISC_GAME_GOTO** — ("BAŞLIYOR!", "ÇEKİL YOLUMDAN!", "YAŞA!") | ✅ |
+| `0623` | 3 | **STRINGS.PIG_TALK_PANIC** — ("HAYIRRR!", "ÇOK KARANLIK! ÇOK KARANLIK!", "AAAAAAAAAH!!") | ✅ |
+| `0624` | 5 | **STRINGS.PIG_TALK_PANICBOSS** — boss korku ünlemleri ("AHHHH", "OY OY!", "BEN KORK", "KÖTÜ!", "OHHH!") | ✅ |
+| `0625` | 4 | **STRINGS.PIG_TALK_PANICELECTRICITY** — şimşek panik ("AAYYY!", "AAAAH!", "SEVMEM BUNU!", "BEN KIZAR!") | ✅ |
+| `0626` | 3 | **STRINGS.PIG_TALK_PANICFIRE** — ateş panik ("SICAK SICAK SICAK!", "AAYYY!", "YAKIYOR!") | ✅ |
+| `0627` | 3 | **STRINGS.PIG_TALK_PANICHAUNT** — hayalet ("ÜRPERTİCİ!", "AAAAH!!", "HAYALET! HAYALET!") | ✅ |
+| `0628` | 4 | **STRINGS.PIG_TALK_PANICHOUSEFIRE** — ev yangını ("EV YANIYOR!", "EŞYALARIM!", "AAAH! ATEŞ!", "PANİK!") | ✅ |
+| `0629` | 3 | **STRINGS.PIG_TALK_RESCUE** — yardım ("BEN YARDIM SANA!", "OY! OY!", "BEN YARDIM!") | ✅ |
+| `0630` | 4 | **STRINGS.PIG_TALK_RUNAWAY_WILSON** — ("ÇOK YAKIN!", "UZAK DUR!", "SEN GERİ ÇEKİL!", "ORASI BENİM YERİM.") | ✅ |
+| `0631` | 3 | **STRINGS.PIG_TALK_RUN_FROM_SPIDER** — ("ÖRÜMCEK KÖTÜ!", "ÖRÜMCEK SEVMEM!", "KORKUNÇ ÖRÜMCEK!") — **PIG_TALK serisi TAMAMEN BİTTİ ⭐** | ✅ |
+| `0640` | 3 | **STRINGS.RABBIT_BATTLECRY** — Tavşanadam savaş çığlığı ("ZIPLA!", "ÖLDÜR!", "ÖL!") | ✅ |
+| `0641` | 2 | **STRINGS.RABBIT_GIVEUP** — vazgeçme ("BİTTİ.", "SONRA.") | ✅ |
+| `0642` | 5 | **STRINGS.RABBIT_MEAT_BATTLECRY** — ahlaki öfke et yiyene ("ET!", "PİS!", "KATİL!", "İNTİKAM!", "CANAVAR!") | ✅ |
+| `0643` | 4 | **STRINGS.RABBIT_PANICBOSS** — ("KAÇ!", "AHHH!", "ÇILGIN BU", "EHHH!") | ✅ |
+| `0644` | 3 | **STRINGS.RABBIT_PANICELECTRICITY** — ("OFF!!", "ACIDI!", "BATTI!") | ✅ |
+| `0645` | 3 | **STRINGS.RABBIT_PANICFIRE** — ateş ünlem ("EEEH!", "OOH!", "AAAH!") | ✅ |
+| `0646` | 4 | **STRINGS.RABBIT_PANICHAUNT** — hayalet ("KORKTUM!", "AAAH!!", "OHH!", "HAYALET!") | ✅ |
+| `0647` | 3 | **STRINGS.RABBIT_PANICHOUSEFIRE** — ("EVİM!", "ATEŞ!", "YANIYOR!") | ✅ |
+| `0648` | 4 | **STRINGS.RABBIT_RESCUE** — kurtarma saldırı ("ÖLDÜR!", "DÖVÜŞ!", "ISIR!", "YUMRUKLA!") | ✅ |
+| `0649` | 4 | **STRINGS.RABBIT_RETREAT** — ("UZAĞA!", "ACIDI!", "EVE!", "KAÇ!") | ✅ |
+
+**Faz 3 toplam:** Oturum 5-16 = ~5.180 + 136 = **~5.316 string** (Faz 3 **%100 TAM** ⭐, küçük PIG/RABBIT mob talker setleri kapandı)
+
+**Toplam ilerleme:** 9.619 → 9.755 (%11.22 → %11.38)
+
+## 🎯 Sıradaki Oturum (17) — Yol Haritası
+
+### **EN YÜKSEK ÖNCELİK:** Faz 4 başla — SCRAPBOOK
+- `0655-0658` STRINGS.SCRAPBOOK (4 batch, ~600 SPECIALINFO + CATS/SUBCATS/FOODTYPE) — uzun item açıklamaları, Klei mizahı disiplini
+
+### Faz 4 (devam)
+- `0680-0683` STRINGS.SKILLTREE (4 batch, ~400 string) — Wendy/Wickerbottom/Wilson/Wolfgang/WX-78 vb. yetenek ağacı
+- `0733-0736` STRINGS.STAGEACTOR (4 batch, ~600 string) — Atriyum sahne oyunu replikleri
+- Diğer küçük SET/SHADOW/SHARD/SIGNS bloklar
+
+### Faz 6 — SKINS (sonra)
+- `0684-0723` SKIN_DESCRIPTIONS + SKIN_NAMES (40 batch, ~7.806 string)
+
+### Faz 5 (CHARACTERS) — EN SON
+Item glossary tamamlandığında batch_0060'a dönüp 17 karakter speech çevirisine başla. Persona disiplini için `docs/character-voices.md` zorunlu.
 
 ### Faz 5 (CHARACTERS) sonra dönülecek
 Item glossary tamamlandığında batch_0060'a dönüp 17 karakter speech çevirisine başla. Persona disiplini için `docs/character-voices.md` zorunlu.
