@@ -1,0 +1,3 @@
+# Bu klasör Faz 8'de SDXL + Photoshop manuel dizgi ile doldurulur.
+# Üretim rehberi: docs/comfyui_prompts.md
+# Hedef: modicon_source.png (256×256 RGBA) → Faz 9'da autocompiler.exe ile .tex+.xml
