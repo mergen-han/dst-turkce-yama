@@ -60033,6 +60033,2006 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_victorianbrass_item"
 msgid "n/a"
 msgstr "n/a"
 
+#. STRINGS.SKIN_DESCRIPTIONS.fence_victorianbronze
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_victorianbronze"
+msgid "Just the thing to bar pesky urchins from your manor."
+msgstr "Konağına yaklaşan baş belası sokak çocuklarını dışarıda tutmak için tam aranan şey."
+
+#. STRINGS.SKIN_DESCRIPTIONS.fence_victorianbronze_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fence_victorianbronze_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_ancient_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_ancient_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_gingerbread_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_gingerbread_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_gothic_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_gothic_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_picketbrown_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_picketbrown_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_pickettan_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_pickettan_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_picketwhite_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_picketwhite_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_shell_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_shell_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_victorianblack_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_victorianblack_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_victorianbrass_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_victorianbrass_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.fencegate_victorianbronze_item
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fencegate_victorianbronze_item"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_fanged
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_fanged"
+msgid "Thish firepit ish made of rocksh that reshemble fangsh. What would it shay if it could shpeak?"
+msgstr "Buf atefh çukufu, difhe benzefen kayalafdan yapfılmıfh. Konufhabilfeydi ne defdi acafa?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_fangedp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_fangedp"
+msgid "Thish firepit ish made of rocksh that reshemble fangsh. What would it shay if it could shpeak?"
+msgstr "Buf atefh çukufu, difhe benzefen kayalafdan yapfılmıfh. Konufhabilfeydi ne defdi acafa?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_firebird
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_firebird"
+msgid "This fire pit is adorned by several lovely stone wings."
+msgstr "Bu ateş çukuru, birkaç sevimli taş kanatla süslenmiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_hole
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_hole"
+msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
+msgstr "Dipsiz çukurlar en iyisidir. Ama ateşle dolu dipsiz çukurlar daha da iyidir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_hole_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_hole_alt"
+msgid "Bottomless pits are the best. But bottomless pits filled with fire are even better."
+msgstr "Dipsiz çukurlar en iyisidir. Ama ateşle dolu dipsiz çukurlar daha da iyidir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_kiln
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_kiln"
+msgid "A lovely stone kiln to house your coziest fires."
+msgstr "En sıcak ateşlerini barındıracak sevimli bir taş fırın."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_kiln_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_kiln_alt"
+msgid "A lovely stone kiln to house your coziest fires."
+msgstr "En sıcak ateşlerini barındıracak sevimli bir taş fırın."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_lava
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_lava"
+msgid "Some like it hot, some like it even hotter."
+msgstr "Bazıları sıcağı sever, bazıları daha da sıcağı sever."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_stonehenge
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_stonehenge"
+msgid "A firepit modeled after an ancient, giant monument. Luckily, this version is sized more appropriately for humans (and human-sized entities)."
+msgstr "Kadim, dev bir anıttan esinlenmiş bir ateş çukuru. Neyse ki bu sürüm insanlara (ve insan boyutundaki varlıklara) daha uygun boyutlandırılmış."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firepit_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_victorian"
+msgid "The heart of every household."
+msgstr "Her hanenin kalbi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_bee
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_bee"
+msgid "firestaff_bee"
+msgstr "firestaff_bee"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_flamelash
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_flamelash"
+msgid "Always fight fire with fire."
+msgstr "Ateşle her zaman ateşle savaş."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_gungnir
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_gungnir"
+msgid "firestaff_gungnir"
+msgstr "firestaff_gungnir"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_hockey
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_hockey"
+msgid "Don't lacrosse me!"
+msgstr "Yolumu lakros etme!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_lance
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_lance"
+msgid "firestaff_lance"
+msgstr "firestaff_lance"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_meteor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_meteor"
+msgid "This fire staff is strangely reminiscent of the Infernal Staff found in The Forge."
+msgstr "Bu ateş asası, tuhaf bir şekilde Demirhane'de bulunan Cehennem Asası'nı andırıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_northern
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_northern"
+msgid "firestaff_northern"
+msgstr "firestaff_northern"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_rose"
+msgid "firestaff_rose"
+msgstr "firestaff_rose"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firestaff_rw_swamp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firestaff_rw_swamp"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firesuppressor_circus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firesuppressor_circus"
+msgid "Look and be amazed by the incredible automatic snowball juggling machine!"
+msgstr "Görün de hayran kalın, inanılmaz otomatik kar topu hokkabazlık makinesi!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.firesuppressor_robot
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.firesuppressor_robot"
+msgid "Fires never had a chance."
+msgstr "Ateşlerin hiç şansı olmadı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical"
+msgid "Fit for only the finest fish."
+msgstr "Yalnızca en kaliteli balıklara yaraşır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.fishbox_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_pirate"
+msgid "The perfect hiding spot for fishy cargo."
+msgstr "Şüpheli yük için kusursuz bir saklanma yeri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.fishingrod_block
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishingrod_block"
+msgid "If one could only articulate how great this rod is."
+msgstr "Bu oltanın ne kadar harika olduğunu insan ifade edebilseydi keşke."
+
+#. STRINGS.SKIN_DESCRIPTIONS.fishingrod_curl
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishingrod_curl"
+msgid "Cast your line off the arbor but watch out for knots."
+msgstr "Oltanı pergoladan at ama düğümlere dikkat et."
+
+#. STRINGS.SKIN_DESCRIPTIONS.fishingrod_sword
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishingrod_sword"
+msgid "Challenge the fish to a duel."
+msgstr "Balığa düelloya davet et."
+
+#. STRINGS.SKIN_DESCRIPTIONS.flotationcushion_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.flotationcushion_cawnival"
+msgid "Take the festivities to the open water - comfortably afloat."
+msgstr "Şenlikleri açık sulara taşı - rahatça suda kalarak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_crown"
+msgid "This feather hat is so luxurious to the touch!"
+msgstr "Bu tüy şapkanın dokunuşu öyle lüks ki!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.flowerhat_healing
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_healing"
+msgid "This lovely wreath of Life Blossoms have lost their magic, but they still look divine."
+msgstr "Bu sevimli Yaşam Goncaları çelengi sihrini yitirmiş ama hâlâ ilahi görünüyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.flowerhat_holly_wreath
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_holly_wreath"
+msgid "A jolly holly laurel to wear on your head. How winter-y!"
+msgstr "Başına takılacak şen bir çobanpüskülü çelengi. Ne kadar kışlık!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.flowerhat_ribbon_wreath
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_ribbon_wreath"
+msgid "Get in the seasonal spirit by wreathing your head in lovely ribbons!"
+msgstr "Başını sevimli kurdelelerle çelenkleyerek mevsim ruhuna gir!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.flowerhat_wreath
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.flowerhat_wreath"
+msgid "Laurels ought rest on you, not the other way around."
+msgstr "Defneler senin üzerinde durmalı, tersi değil."
+
+#. STRINGS.SKIN_DESCRIPTIONS.footballhat_adventure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_adventure"
+msgid "Charge a head into battle."
+msgstr "Savaşa kafanla atılıp saldır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm"
+msgid "Who wouldn't be intimidated by this fearsome helm?"
+msgstr "Bu korkunç miğferden kim ürkmez ki?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_combathelm2"
+msgid "Behold its terrifying curly horns!"
+msgstr "İşte korkunç kıvrık boynuzları!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.footballhat_hockey
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_hockey"
+msgid "I'm gonna score a hat trick!"
+msgstr "Bir hat-trick atacağım!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.footballhat_rw_gustree
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_rw_gustree"
+msgid "Protect yourself from blows to the head."
+msgstr "Kafana inen darbelerden kendini koru."
+
+#. STRINGS.SKIN_DESCRIPTIONS.footballhat_western
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.footballhat_western"
+msgid "Tackle the toughest beefalo!"
+msgstr "En sert bızonsığıra omuz at!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.gemsocket_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gemsocket_crystal"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.gemsocket_hallowpylon
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gemsocket_hallowpylon"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.gemsocket_mystical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gemsocket_mystical"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.glasscutter_mystical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glasscutter_mystical"
+msgid "It has an edge to it."
+msgstr "Keskin bir kenarı var."
+
+#. STRINGS.SKIN_DESCRIPTIONS.glasscutter_terraprisma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glasscutter_terraprisma"
+msgid "Strike true with hallowed beauty."
+msgstr "Kutsanmış bir güzellikle isabetli vur."
+
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon"
+msgid "A pet as noble as he is huggable."
+msgstr "Sarılınası olduğu kadar asil de bir evcil dost."
+
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_beardeddragon_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_puft
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_puft"
+msgid "Seems familiar, and yet... otherworldly."
+msgstr "Tanıdık görünüyor ama... bu dünyaya ait değil."
+
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_puft_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_puft_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_winter
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_winter"
+msgid "What a precious little snowball you are, Glomglom!"
+msgstr "Ne tatlı bir kar topusun sen, Glomglom!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.glomling_winter_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glomling_winter_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.glommer_fantasy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glommer_fantasy"
+msgid "A fanciful look for an old friend."
+msgstr "Eski bir dost için hayalci bir görünüm."
+
+#. STRINGS.SKIN_DESCRIPTIONS.glommerflower_fantasy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.glommerflower_fantasy"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.goggleshat_fedora
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goggleshat_fedora"
+msgid "The best thing about being a detective is looking the part!"
+msgstr "Dedektif olmanın en iyi yanı, rolüne uygun görünmek!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_garden"
+msgid "It would be a shame to get dirt on this beautifully crafted garden hoe."
+msgstr "Bu güzelce yapılmış bahçe çapasına toprak bulaştırmak yazık olur."
+
+#. STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.golden_farmhoe_invisible"
+msgid "Convey an incredibly convincing impression of an expensive garden hoe."
+msgstr "İnanılmaz inandırıcı bir pahalı bahçe çapası taklidi yap."
+
+#. STRINGS.SKIN_DESCRIPTIONS.goldenaxe_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenaxe_invisible"
+msgid "Convey an incredibly convincing impression of an expensive axe."
+msgstr "İnanılmaz inandırıcı bir pahalı balta taklidi yap."
+
+#. STRINGS.SKIN_DESCRIPTIONS.goldenaxe_northern
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenaxe_northern"
+msgid "A resplendent golden axe, its design reminiscent of days of yore."
+msgstr "Tasarımı eski günleri çağrıştıran, görkemli altın bir balta."
+
+#. STRINGS.SKIN_DESCRIPTIONS.goldenpickaxe_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenpickaxe_invisible"
+msgid "Convey an incredibly convincing impression of an expensive pickaxe."
+msgstr "İnanılmaz inandırıcı bir pahalı kazma taklidi yap."
+
+#. STRINGS.SKIN_DESCRIPTIONS.goldenpickaxe_northern
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenpickaxe_northern"
+msgid "A resplendent golden pickaxe, its design reminiscent of days of yore."
+msgstr "Tasarımı eski günleri çağrıştıran, görkemli altın bir kazma."
+
+#. STRINGS.SKIN_DESCRIPTIONS.goldenpitchfork_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenpitchfork_invisible"
+msgid "Convey an incredibly convincing impression of an expensive pitchfork."
+msgstr "İnanılmaz inandırıcı bir pahalı dirgen taklidi yap."
+
+#. STRINGS.SKIN_DESCRIPTIONS.goldenshovel_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenshovel_invisible"
+msgid "Convey an incredibly convincing impression of an expensive shovel."
+msgstr "İnanılmaz inandırıcı bir pahalı kürek taklidi yap."
+
+#. STRINGS.SKIN_DESCRIPTIONS.goldenshovel_northern
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.goldenshovel_northern"
+msgid "A resplendent golden shovel, its design reminiscent of days of yore."
+msgstr "Tasarımı eski günleri çağrıştıran, görkemli altın bir kürek."
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy"
+msgid "The stone reads: \"RIP V. Winkle.\""
+msgstr "Taşta şöyle yazıyor: \"Huzur içinde uyu, V. Winkle.\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy2"
+msgid "The stone reads: \"RIP V. Winkle.\""
+msgstr "Taşta şöyle yazıyor: \"Huzur içinde uyu, V. Winkle.\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy3"
+msgid "The stone reads: \"RIP V. Winkle.\""
+msgstr "Taşta şöyle yazıyor: \"Huzur içinde uyu, V. Winkle.\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy4
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_fantasy4"
+msgid "The stone reads: \"RIP V. Winkle.\""
+msgstr "Taşta şöyle yazıyor: \"Huzur içinde uyu, V. Winkle.\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic"
+msgid "Add these stones to create a grave atmosphere."
+msgstr "Mezarvari bir hava yaratmak için bu taşları ekle."
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic2
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic2"
+msgid "Add these stones to create a grave atmosphere."
+msgstr "Mezarvari bir hava yaratmak için bu taşları ekle."
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic3
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic3"
+msgid "Add these stones to create a grave atmosphere."
+msgstr "Mezarvari bir hava yaratmak için bu taşları ekle."
+
+#. STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic4
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.gravestone_gothic4"
+msgid "Add these stones to create a grave atmosphere."
+msgstr "Mezarvari bir hava yaratmak için bu taşları ekle."
+
+#. STRINGS.SKIN_DESCRIPTIONS.greenstaff_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_an"
+msgid "Artfully break down old concepts to create something new."
+msgstr "Yeni bir şey yaratmak için eski kavramları sanatla yık."
+
+#. STRINGS.SKIN_DESCRIPTIONS.greenstaff_clockwork
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_clockwork"
+msgid "A construct of deconstruction."
+msgstr "Yıkımın bir yapısı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.greenstaff_planet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_planet"
+msgid "A tool of mass deconstruction."
+msgstr "Kitlesel yıkım aracı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hambat_nautical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hambat_nautical"
+msgid "This portly pufferfish is trying to pass itself off as pork."
+msgstr "Bu tombul kirpi balığı, kendini domuz eti olarak yutturmaya çalışıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hambat_potroast
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hambat_potroast"
+msgid "Delicious, delicious murder."
+msgstr "Lezzetli, lezzetli cinayet."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hambat_spiralcut
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hambat_spiralcut"
+msgid "This ham bat was fashioned after the scepter of the great Battlemaster Pugna."
+msgstr "Bu jambon sopa, büyük Savaş Ustası Pugna'nın asasından esinlenerek yapıldı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hammer_crowbar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hammer_crowbar"
+msgid "A mighty man hammers with a crowbar."
+msgstr "Kudretli bir adam levyeyle çakar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hammer_forge
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hammer_forge"
+msgid "Watch out for the spikey bits."
+msgstr "Sivri parçalara dikkat et."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hammer_hammush
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hammer_hammush"
+msgid "Make mush with mush."
+msgstr "Mantarla pat ezmesi yap."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hammer_invisible
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hammer_invisible"
+msgid "Convey an incredibly convincing impression of a hammer."
+msgstr "İnanılmaz inandırıcı bir çekiç taklidi yap."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hammer_rw_startingforest
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hammer_rw_startingforest"
+msgid "Pound them to a pulp!"
+msgstr "Pestillerini çıkar!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_brown_beaver
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_brown_beaver"
+msgid "'Werebeaver brown' colored gloves with a buckle on the back to help you hold it together."
+msgstr "Sırtında, kendini bir arada tutmana yardım eden bir tokası olan 'kunduzkurt kahverengisi' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_navy_ocean
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_navy_ocean"
+msgid "'Unsuitably blue' colored gloves with a buckle on the back to help you hold it together."
+msgstr "Sırtında, kendini bir arada tutmana yardım eden bir tokası olan 'uyumsuz mavi' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_orange_sienna
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_orange_sienna"
+msgid "'Leaves in autumn orange' colored gloves with a buckle on the back to help you hold it together."
+msgstr "Sırtında, kendini bir arada tutmana yardım eden bir tokası olan 'sonbahar yaprakları turuncusu' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_red_firehound
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_red_firehound"
+msgid "'Firehound red' colored gloves with a buckle on the back to help you hold it together."
+msgstr "Sırtında, kendini bir arada tutmana yardım eden bir tokası olan 'ateştazısı kırmızısı' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_teal_jungle
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_beltedgloves_teal_jungle"
+msgid "'Jungle green' colored gloves with a buckle on the back to help you hold it together."
+msgstr "Sırtında, kendini bir arada tutmana yardım eden bir tokası olan 'orman yeşili' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_brown_sepia
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_brown_sepia"
+msgid "These 'werebeaver brown' colored gloves are worn by good looking people who look cool."
+msgstr "Bu 'kunduzkurt kahverengisi' renkte eldivenler, havalı görünen yakışıklı kişiler tarafından giyilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_grey_dark
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_grey_dark"
+msgid "These 'stormcloud gray' colored gloves are worn by good looking people who look cool."
+msgstr "Bu 'fırtına bulutu grisi' renkte eldivenler, havalı görünen yakışıklı kişiler tarafından giyilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_tan_grass
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_tan_grass"
+msgid "These 'dry grass tan' colored gloves are worn by good looking people who look cool."
+msgstr "Bu 'kuru çayır teni' renkte eldivenler, havalı görünen yakışıklı kişiler tarafından giyilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_white_ivory
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_drivergloves_white_ivory"
+msgid "These 'houndbone white' colored gloves are worn by good looking people who look cool."
+msgstr "Bu 'tazıkemiği beyazı' renkte eldivenler, havalı görünen yakışıklı kişiler tarafından giyilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_black_scribble
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_black_scribble"
+msgid "'Scribble black' colored gloves suitable for all types of persons, robots, and monsters."
+msgstr "Her tür insan, robot ve canavara uygun, 'karalama siyahı' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_blue_cerulean
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_blue_cerulean"
+msgid "'Cobaltous oxide blue' colored gloves suitable for all types of persons, robots, and monsters."
+msgstr "Her tür insan, robot ve canavara uygun, 'kobalt oksit mavisi' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_green_hunters
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_green_hunters"
+msgid "'Forest guardian green' colored gloves suitable for all types of persons, robots, and monsters."
+msgstr "Her tür insan, robot ve canavara uygun, 'orman muhafızı yeşili' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_grey_battleship
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_grey_battleship"
+msgid "'Cumulus gray' colored gloves suitable for all types of persons, robots, and monsters."
+msgstr "Her tür insan, robot ve canavara uygun, 'kümülüs grisi' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_red_ruby
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_red_ruby"
+msgid "'Red gem red' colored gloves suitable for all types of persons, robots, and monsters."
+msgstr "Her tür insan, robot ve canavara uygun, 'kırmızı cevher kırmızısı' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_white_pure
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_white_pure"
+msgid "'Pure white' colored gloves suitable for all types of persons, robots, and monsters."
+msgstr "Her tür insan, robot ve canavara uygun, 'saf beyaz' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_yellow_straw
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_longgloves_yellow_straw"
+msgid "'Sulfuric yellow' colored gloves suitable for all types of persons, robots, and monsters."
+msgstr "Her tür insan, robot ve canavara uygun, 'kükürt sarısı' renkte eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_black_scribble
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_black_scribble"
+msgid "These are gloves. They cover your hands. This pair is 'scribble black' colored."
+msgstr "Bunlar eldiven. Ellerini örterler. Bu çift 'karalama siyahı' renkte."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_blue_cornflower
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_blue_cornflower"
+msgid "These are gloves. They cover your hands. This pair is 'rubber glove blue' colored."
+msgstr "Bunlar eldiven. Ellerini örterler. Bu çift 'lastik eldiven mavisi' renkte."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_grey_dark
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_grey_dark"
+msgid "These are gloves. They cover your hands. This pair is 'stormcloud gray' colored."
+msgstr "Bunlar eldiven. Ellerini örterler. Bu çift 'fırtına bulutu grisi' renkte."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_navy_midnight
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_navy_midnight"
+msgid "These are gloves. They cover your hands. This pair is 'begs the question blue' colored."
+msgstr "Bunlar eldiven. Ellerini örterler. Bu çift 'sorunu sorduran mavi' renkte."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_purple_violet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_purple_violet"
+msgid "These are gloves. They cover your hands. This pair is 'plethora of purple' colored."
+msgstr "Bunlar eldiven. Ellerini örterler. Bu çift 'mor bolluğu' renkte."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_red_higgsbury
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_red_higgsbury"
+msgid "These are gloves. They cover your hands. This pair is 'Higgsbury red' colored."
+msgstr "Bunlar eldiven. Ellerini örterler. Bu çift 'Higgsbury kırmızısı' renkte."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_white_smoke
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_shortgloves_white_smoke"
+msgid "These are gloves. They cover your hands. This pair is 'smoke white' colored."
+msgstr "Bunlar eldiven. Ellerini örterler. Bu çift 'duman beyazı' renkte."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_walter_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_walter_ancient"
+msgid "A Pinetree Pioneer isn't afraid of getting their hands dirty, especially in these gloves."
+msgstr "Bir Çamağacı Öncüsü, ellerini kirletmekten korkmaz, hele bu eldivenlerle hiç korkmaz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_walter_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_walter_ice"
+msgid "A pair of cozy mittens to keep your fingers warm while you're out exploring."
+msgstr "Keşfe çıkarken parmaklarını sıcak tutacak bir çift rahat eldiven."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_walter_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_walter_nature"
+msgid "These adventurous gloves are ready to take the reins!"
+msgstr "Bu maceraperest eldivenler dizginleri ele almaya hazır!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_formal"
+msgid "It isn't a fancy occasion if you're not wearing gloves."
+msgstr "Eldiven takmıyorsan zarif bir toplantı sayılmaz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_ice"
+msgid "These arctic mittens will save you from frostbitten fingers."
+msgstr "Bu kutup eldivenleri, parmaklarını donmaktan kurtaracak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_lunar"
+msgid "With these bracelets, a prophecy isn't the only statement you'll be making."
+msgstr "Bu bilekliklerle yapacağın tek açıklama bir kehanet olmayacak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_rose"
+msgid "Garden glam for your green thumbs."
+msgstr "Yeşil parmakların için bahçe ihtişamı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_shadow"
+msgid "Hands touched by shadows can only spread darkness."
+msgstr "Gölgelere değen eller yalnızca karanlık yayabilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_steampunk
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_steampunk"
+msgid "The material is surprisingly thin, allowing the hands better flexibility and precision."
+msgstr "Malzeme şaşırtıcı derecede ince, ellere daha iyi esneklik ve hassasiyet sağlıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_western
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_western"
+msgid "For when you need to get a grip."
+msgstr "Sıkı bir tutuş gerektiğinde."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_yule"
+msgid "Gloves for deftly maneuvering carving tools and paintbrushes."
+msgstr "Oyma aletleri ve fırçaları ustalıkla kullanmak için eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_warly_candyman
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_candyman"
+msgid "For hand-making each tasty treat with care."
+msgstr "Her lezzetli ikramı özenle elden yapmak için."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_warly_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_lunar"
+msgid "Lunar fashion isn't just a phase!"
+msgstr "Ay modası sadece bir evre değil!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_warly_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_masquerade"
+msgid "A nice pair of gloves gives any outfit a certain \"je ne sais quoi\"."
+msgstr "Güzel bir çift eldiven, her kıyafete bir \"je ne sais quoi\" katar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_warly_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_warly_rose"
+msgid "Gloved hands tend the finest roses."
+msgstr "Eldivenli eller en zarif gülleri yetiştirir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_gladiator"
+msgid "These fists are ready for glorious battle."
+msgstr "Bu yumruklar şanlı savaşa hazır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_ice"
+msgid "It's not the cold, these hands were blue to begin with."
+msgstr "Soğuktan değil, bu eller en başından maviydi zaten."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_lunar"
+msgid "Feel the power of the moon in your grasp."
+msgstr "Ay'ın gücünü avucunda hisset."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_magma"
+msgid "Battle gloves to withstand the flames that will consume this world."
+msgstr "Bu dünyayı yutacak alevlere dayanmak için savaş eldivenleri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_nature"
+msgid "These wrist coverings belong to someone who is at home in the woods."
+msgstr "Bu bileklikler, ormanda kendini evinde hisseden birine ait."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_pirate"
+msgid "Wrist ruffles add dramatic flair to a pirate's ensemble."
+msgstr "Bilek fırfırları, bir korsanın kombinine dramatik bir hava katar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_scarecrow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_scarecrow"
+msgid "Straw isn't quite as good as a fist for battle... unless your enemy has hay fever."
+msgstr "Saman, savaşta yumruk kadar işe yaramaz... düşmanın saman nezlesi yoksa tabii."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_victorian"
+msgid "A pair of thin cloth gloves, likely worn by an actress."
+msgstr "Muhtemelen bir aktris tarafından giyilmiş, ince kumaştan bir çift eldiven."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_wrestler
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_wrestler"
+msgid "Hand wraps and padded gloves mean hands are protected for better punches."
+msgstr "El bantları ve dolgulu eldivenler, ellerin daha iyi yumruk için korunduğu anlamına gelir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wathgrithr_yule"
+msgid "Blend in to the blue-white tundra with ease."
+msgstr "Mavi-beyaz tundraya kolayca karış."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_formal"
+msgid "White gloved hands are sometimes a symbol of deception. They're also a symbol of fashion!"
+msgstr "Beyaz eldivenli eller bazen aldatmanın simgesidir. Ayrıca modanın da simgesidir!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_formalp"
+msgid "White gloved hands are sometimes a symbol of deception. They're also a symbol of fashion!"
+msgstr "Beyaz eldivenli eller bazen aldatmanın simgesidir. Ayrıca modanın da simgesidir!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_gladiator"
+msgid "The handwraps of an alchemist, skilled at battle."
+msgstr "Savaşta usta bir simyacının el bantları."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_ice"
+msgid "Keep those greedy mitts warm."
+msgstr "O açgözlü patilerini sıcak tut."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_lunar"
+msgid "Will you reach for the light or the darkness?"
+msgstr "Işığa mı uzanacaksın yoksa karanlığa mı?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_magma"
+msgid "Gloves worthy of wrathful combat."
+msgstr "Öfkeli savaşa layık eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_nature"
+msgid "There's a perpetual dew dotting the leaves on the back of these gloves."
+msgstr "Bu eldivenlerin sırtındaki yaprakları kalıcı bir çiy bezemiş."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_vampire
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_vampire"
+msgid "A vampiric gentleman never leaves the coffin without his gloves."
+msgstr "Vampir bir centilmen, eldivenleri olmadan tabuttan asla çıkmaz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_victorian"
+msgid "A pair of white gloves for a high class snob."
+msgstr "Üst sınıf bir züppe için bir çift beyaz eldiven."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_wizard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_wizard"
+msgid "These hands have cast more than their fair share of curses."
+msgstr "Bu eller, hak ettiklerinden çok daha fazla lanet okumuş."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_waxwell_yule"
+msgid "Why leave the house when your riches are at home?"
+msgstr "Servetin evdeyken niye dışarı çıkasın?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_gladiator"
+msgid "Perhaps after battle you could take up decorative hedge trimming."
+msgstr "Belki savaştan sonra dekoratif çit budamaya başlayabilirsin."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_lunar"
+msgid "For some reason, nobody wants to hold your hand."
+msgstr "Nedense kimse senin elini tutmak istemiyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_magma"
+msgid "Like little candle flames for your claws."
+msgstr "Pençelerin için küçük mum alevleri gibi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_nature"
+msgid "These spider claws are sharpened and ready for the hunt!"
+msgstr "Bu örümcek pençeleri keskinleşmiş ve ava hazır!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_pirate"
+msgid "These helpful hooks make hanging from the rigging a breeze."
+msgstr "Bu yardımcı kancalar, halatlardan asılmayı çocuk oyuncağı kılar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_punk"
+msgid "The spikes on these cuffs look scary, but they're actually quite soft."
+msgstr "Bu manşetlerdeki dikenler ürkütücü görünüyor ama aslında oldukça yumuşaklar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_victorian"
+msgid "A pair of cuffs to wear when studiously practicing the three Rs."
+msgstr "Okuma, yazma ve hesabı çalışırken giyilecek bir çift manşet."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_webber_wrestler
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_webber_wrestler"
+msgid "These claw-some mitts are padded so no one will really get hurt."
+msgstr "Bu pençe-süper eldivenler dolguludur, böylece kimse pek incinmez."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_ancient"
+msgid "May the spirits look favorably upon the offering from your hands."
+msgstr "Ruhlar, ellerinden çıkan adağa olumlu baksın."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_gladiator"
+msgid "These handwraps are imbued with a quiet ferocity."
+msgstr "Bu el bantlarına sessiz bir vahşilik sinmiş."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_handmedown
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_handmedown"
+msgid "These carefully woven daisy bracelets remind you of brighter days."
+msgstr "Bu özenle dokunmuş papatya bileklikleri sana daha aydınlık günleri hatırlatıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_ice"
+msgid "A thin pair of winter gloves."
+msgstr "İnce bir çift kış eldiveni."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_magma"
+msgid "Flaming winged accessories to accompany your rebirth."
+msgstr "Yeniden doğuşuna eşlik edecek alev alev kanatlı aksesuarlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_victorian"
+msgid "Soft gloves to hold your heartbreak."
+msgstr "Kalp kırıklığını taşıyacak yumuşak eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wendy_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wendy_yule"
+msgid "Warm your hands, and maybe even your heart."
+msgstr "Ellerini ısıt, belki yüreğini bile."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wes_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_gladiator"
+msgid "A light gauntlet design for an expert duelist."
+msgstr "Uzman bir düellocu için hafif eldiven tasarımı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wes_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_magma"
+msgid "Fancy fingers for fiery fighting."
+msgstr "Ateşli dövüş için zarif parmaklar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wes_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_nature"
+msgid "Gloves to paint cheery, small trees in."
+msgstr "İçinde neşeli, küçük ağaçlar resmedilecek eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wes_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_victorian"
+msgid "These were white gloves when you first started in the sweep business."
+msgstr "Baca temizleme işine ilk başladığında bunlar beyaz eldivendi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wes_western
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_western"
+msgid "For the brave little fool who takes life by the horns--without making a sound."
+msgstr "Hayatı boynuzlarından tutan -hem de hiç ses çıkarmadan- cesur küçük aptal için."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wes_wrestler
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_wrestler"
+msgid "Your challengers can't handle how gorgeous these gloves are."
+msgstr "Rakiplerin bu eldivenlerin ne kadar muhteşem olduğunu kaldıramaz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wes_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wes_yule"
+msgid "Jolliness at your finger tips!"
+msgstr "Şenlik parmak uçlarında!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_gladiator"
+msgid "A thin strip of cloth to protect your caster's hands."
+msgstr "Büyücü ellerini korumak için ince bir kumaş şeridi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_ice"
+msgid "Sleek arm covers that radiate cool, clear refinement."
+msgstr "Soğuk, berrak bir zarafet yayan, zarif kol örtüleri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_lunar"
+msgid "Raise your hand if you've found your experience with the moon enlightening."
+msgstr "Ay ile yaşadığın deneyimi aydınlatıcı bulduysan elini kaldır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_magma"
+msgid "Armored gloves for handling hot magma samples."
+msgstr "Sıcak magma örneklerini işlemek için zırhlı eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_nature"
+msgid "These hands know which wild plants to harvest, and which to leave be."
+msgstr "Bu eller hangi yabani bitkiyi toplayıp hangisini bırakacağını bilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_ornate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_ornate"
+msgid "Long gloves are the most fashionable way to cover ink-stained hands."
+msgstr "Uzun eldivenler, mürekkep lekeli elleri örtmenin en şık yoludur."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_pirate"
+msgid "Save the best pieces of loot for yourself."
+msgstr "En iyi ganimet parçalarını kendine sakla."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_spiderwitch
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_spiderwitch"
+msgid "You'll go batty for these sleeves!"
+msgstr "Bu kollar için yarasa gibi çıldıracaksın!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wickerbottom_victorian"
+msgid "You'll be the envy of all at the luncheon in this refined number."
+msgstr "Bu zarif giysiyle öğle yemeğinde herkesin imrendiği kişi olacaksın."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_ancient"
+msgid "These bracelets may be old, but they've never lost their lustre."
+msgstr "Bu bileklikler eski olabilir ama parlaklıklarını asla yitirmediler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_gladiator"
+msgid "A fine leather set of bracers to wear into battle."
+msgstr "Savaşa giderken giyilecek zarif bir deri kolçak takımı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_haunteddoll
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_haunteddoll"
+msgid "This doll was found in the attic of someone's late grandmother, as all haunted dolls must legally be."
+msgstr "Bu bebek, birinin merhum büyükannesinin tavan arasında bulundu, çünkü tüm perili bebekler yasal olarak öyle bulunmalı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_ice"
+msgid "Two small tufts of rabbit fur to adorn the wrists."
+msgstr "Bilekleri süslemek için iki küçük tutam tavşan kürkü."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_lunar"
+msgid "Otherworldly accessories, for someone who goes against the grain."
+msgstr "Akışa karşı giden biri için bu dünyaya ait olmayan aksesuarlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_magma"
+msgid "Impress a deity with these sacrificial bangles."
+msgstr "Bu kurban bilezikleriyle bir tanrıyı etkile."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_nature"
+msgid "These muted brown bracelets are very down-to-earth."
+msgstr "Bu mat kahverengi bileklikler oldukça toprak gibi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_pirate"
+msgid "A bracelet of \"borrowed\" gems."
+msgstr "\"Ödünç alınmış\" cevherlerden bir bileklik."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_victorian"
+msgid "These matchstick seller gloves do little to keep out the cold."
+msgstr "Bu kibrit satıcı eldivenleri soğuğu pek tutmuyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_willow_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_willow_yule"
+msgid "Warm hands, warm heart."
+msgstr "Sıcak el, sıcak kalp."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_barber
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_barber"
+msgid "These hands won't be complete without a barber's blade."
+msgstr "Bu eller, bir berber jileti olmadan tamam sayılmaz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formal"
+msgid "These gloves will hide the chemical stains on your hands when you dress up for formal occasions."
+msgstr "Resmi davetlere giyindiğinde bu eldivenler ellerindeki kimyasal lekeleri saklayacak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formalp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_formalp"
+msgid "These gloves will hide the chemical stains on your hands when you dress up for formal occasions."
+msgstr "Resmi davetlere giyindiğinde bu eldivenler ellerindeki kimyasal lekeleri saklayacak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_gladiator"
+msgid "These bracers will help you look the part in the arena."
+msgstr "Bu kolçaklar, arenada role uygun görünmene yardımcı olacak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_ice"
+msgid "The gloves of a fellow with an icy touch."
+msgstr "Buz gibi dokunuşu olan bir adamın eldivenleri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_lunar"
+msgid "Infinite starscapes of knowledge are within your grasp!"
+msgstr "Sonsuz bilgi yıldızları artık avucunda!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_madscientist
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_madscientist"
+msgid "Laboratory gloves imbued with mercury, to encourage madness. (Don't try this at home.)"
+msgstr "Çılgınlığı teşvik etmek için cıvayla harmanlanmış laboratuvar eldivenleri. (Bunu evde denemeyin.)"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_magma"
+msgid "Rock hard gloves, sure to intimidate."
+msgstr "Kaya gibi sert eldivenler, ürkütmesi kesin."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_masquerade"
+msgid "Despite being chemical-resistant, these gloves are sure to get a reaction."
+msgstr "Kimyasallara dayanıklı olmalarına rağmen, bu eldivenler kesinlikle bir tepki alacak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_victorian"
+msgid "Don't worry, this won't hurt a bit!"
+msgstr "Merak etme, bu hiç acıtmayacak!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wilson_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wilson_yule"
+msgid "These gloves can't wait to get a hold of some festive desserts."
+msgstr "Bu eldivenler, bayramlık tatlılara el atmak için sabırsızlanıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_factory
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_factory"
+msgid "Standard issue Voxola workgloves, so you don't get fingerprints on the merchandise."
+msgstr "Mallara parmak izi bırakma diye standart Voxola iş eldivenleri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_gladiator"
+msgid "Any pair of gloves can be improved by brass plating."
+msgstr "Her eldiven, pirinç kaplamayla iyileştirilebilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_ice"
+msgid "Diamonds won't keep you warm."
+msgstr "Elmaslar seni sıcak tutmaz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_magma"
+msgid "Perfectly welded welding gloves."
+msgstr "Kusursuzca kaynak yapılmış kaynak eldivenleri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_nature"
+msgid "These once-thick gardening gloves are old and worn. They won't provide much protection anymore."
+msgstr "Bir zamanlar kalın olan bu bahçıvan eldivenleri eski ve yıpranmış. Artık fazla koruma sağlamazlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_pirate"
+msgid "A pair of hard working deck hands."
+msgstr "Çalışkan bir çift tayfa eli."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_spring
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_spring"
+msgid "Fresh floral flourish for hardworking hands."
+msgstr "Çalışkan eller için taze çiçeksi bir gösteriş."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_victorian"
+msgid "Thick gloves for transferring smelted metals."
+msgstr "Eritilmiş metalleri taşımak için kalın eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_wrestler
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_wrestler"
+msgid "Awesome gloves for an awesome lady."
+msgstr "Müthiş bir hanım için müthiş eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_winona_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_winona_yule"
+msgid "Long gloves with a wreath of showy fur."
+msgstr "Gösterişli bir kürk çelengi olan uzun eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_gladiator"
+msgid "Your mighty fists need no armor, only slight embellishment."
+msgstr "Kudretli yumrukların zırh gerektirmez, sadece hafif bir süs."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_ice"
+msgid "These gloves fail to keep the cold out, although they inspire a feeling of coziness."
+msgstr "Bu eldivenler soğuğu engellemez ama sıcak bir his uyandırırlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_lunar"
+msgid "Imbue your fists with the moon's might!"
+msgstr "Yumruklarına Ay'ın kudretini sindir!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_magma"
+msgid "Flaming adornments for your wrists."
+msgstr "Bileklerin için alev alev süsler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_strongman
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_strongman"
+msgid "Even the mighty hands of a strongman like to feel safe and protected."
+msgstr "Güçlü bir adamın kudretli elleri bile kendini güvende ve korunaklı hissetmek ister."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_victorian"
+msgid "Left hook! Right hook! Jab, jab!"
+msgstr "Sol kroşe! Sağ kroşe! Direk, direk!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_wolfman
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_wolfman"
+msgid "If you mess with the wolf, you'd better watch for the claws!"
+msgstr "Kurda bulaşıyorsan, pençelere dikkat etsen iyi olur!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_wrestler
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wolfgang_wrestler"
+msgid "Fingerless gloves for delivering the smack down."
+msgstr "Sopayı yapıştırmak için parmaksız eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_ancient"
+msgid "These chunky bangles are a timeless accessory."
+msgstr "Bu iri bilezikler zamansız bir aksesuar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_gladiator"
+msgid "These leather gloves have small holes cut in them for the knuckles to show through."
+msgstr "Bu deri eldivenlerin parmak boğumlarının görünmesi için küçük delikleri kesilmiş."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_hippie
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_hippie"
+msgid "They're handmade!"
+msgstr "Elde yapılmışlar!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_hockey
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_hockey"
+msgid "These gloves were made to be thrown down."
+msgstr "Bu eldivenler yere fırlatılmak için yapılmış."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_ice"
+msgid "You'd better keep those hands warm if you want to reach the summit with all your fingers."
+msgstr "Tüm parmaklarınla zirveye ulaşmak istiyorsan o elleri sıcak tutsan iyi olur."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_lunar"
+msgid "These gloves will have you throwing a flurry of furious fists and flying fur."
+msgstr "Bu eldivenler sana bir öfkeli yumruk ve uçuşan kürk fırtınası savurttuıracak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_magma"
+msgid "Studded gloves for peerless gripping of an axe."
+msgstr "Eşsiz bir balta tutuşu için çivili eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_masquerade
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_masquerade"
+msgid "The delicate fabric nearly masks the rough, calloused hands."
+msgstr "Narin kumaş, sert ve nasırlı elleri neredeyse maskeliyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_nature"
+msgid "These wrist bands have been delicately woven by deft hands."
+msgstr "Bu bilek bantları, becerikli eller tarafından özenle dokunmuştur."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_pirate"
+msgid "A shipwright hand, and a shipleft hand to match."
+msgstr "Bir tekneyapımcı sağ el, eşleşen bir tekneyapımcı sol el."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_victorian"
+msgid "Keep your hands free for tanning pelts!"
+msgstr "Postları tabaklamak için ellerini boş tut!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_woodie_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_woodie_yule"
+msgid "There are legends of a lone figure who wanders the snow-laden woods, tending to the trees with heavy, callused hands."
+msgstr "Karla kaplı ormanlarda dolaşan, ağaçları ağır ve nasırlı elleriyle gözeten yalnız bir figürün efsaneleri vardır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_brown_chocolate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_brown_chocolate"
+msgid "These 'insufficient chocolate brown' colored gloves look like they should be protective, but they really aren't."
+msgstr "Bu 'yetersiz çikolata kahverengisi' renkte eldivenler koruyucu görünüyor ama aslında pek değiller."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_grey_gainsboro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_grey_gainsboro"
+msgid "These 'silver gray' colored gloves look like they should be protective, but they really aren't."
+msgstr "Bu 'gümüş grisi' renkte eldivenler koruyucu görünüyor ama aslında pek değiller."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_red_higgsbury
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_red_higgsbury"
+msgid "These 'Higgsbury red' colored gloves look like they should be protective, but they really aren't."
+msgstr "Bu 'Higgsbury kırmızısı' renkte eldivenler koruyucu görünüyor ama aslında pek değiller."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_tan_grass
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_workgloves_tan_grass"
+msgid "These 'dry grass tan' colored gloves look like they should be protective, but they really aren't."
+msgstr "Bu 'kuru çayır teni' renkte eldivenler koruyucu görünüyor ama aslında pek değiller."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_ancient"
+msgid "These strange fungal arms are embracing their new surroundings."
+msgstr "Bu tuhaf mantarımsı kollar, yeni çevrelerini kucaklıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_cactus
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_cactus"
+msgid "Hands for prickling and tickling."
+msgstr "Batırmak ve gıdıklamak için eller."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_formal"
+msgid "Shoulder leaves and wooden sleeves in a classic yet stylish pairing."
+msgstr "Klasik ama şık bir eşleşmede omuz yaprakları ve ahşap kollar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_ice"
+msgid "The cold winter air has these poor vines shaking like a leaf!"
+msgstr "Soğuk kış havası, bu zavallı sarmaşıkları yaprak gibi titretiyor!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_lunar"
+msgid "These delicate blossoms add a soft touch."
+msgstr "Bu narin goncalar yumuşak bir dokunuş katar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_mushroom
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_mushroom"
+msgid "These fungal hands really grow on you."
+msgstr "Bu mantarımsı eller üstüne yetişiyor sahiden."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_nature"
+msgid "They wave gently in the warm spring breeze."
+msgstr "Sıcak ilkbahar meltemine yumuşakça sallanıyorlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_pumpkin
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_pumpkin"
+msgid "They're reaching out for some Hallowed Nights candy."
+msgstr "Cadılar Bayramı Geceleri şekeri için uzanıyorlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_rose"
+msgid "Limbs as elegant as the rose from which they grow."
+msgstr "Üzerlerinden yetiştikleri gül kadar zarif uzuvlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_shadow"
+msgid "Just one touch from these poisonous leaves could spell your doom."
+msgstr "Bu zehirli yapraklardan tek bir dokunuş bile sonunu getirebilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_survivor"
+msgid "There's something eerily soothing about the crunch of Wormwood's leaves as he embraces you."
+msgstr "Wormwood seni kucakladığında yapraklarının çıtırtısında ürpertici bir huzur vardır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_victorian"
+msgid "Carved with a delicate touch for a natural looking effect."
+msgstr "Doğal görünümlü bir etki için narin bir dokunuşla oyulmuş."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_yule"
+msgid "These hands have a particularly festive touch."
+msgstr "Bu ellerin özellikle bayramlık bir dokunuşu var."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_minotaur
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_minotaur"
+msgid "A pair of monstrous minotaur claws sporting golden bracers."
+msgstr "Altın kolçaklarla süslü, canavarımsı bir çift minotaur pençesi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_nature"
+msgid "Would you walk hand in hand with the forest folk?"
+msgstr "Orman halkıyla el ele yürür müydün?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_original
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_original"
+msgid "The fuzzy paws of a sweet forest fawn."
+msgstr "Tatlı bir orman geyik yavrusunun tüy gibi yumuşak patileri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_pirate"
+msgid "Glittery gold beads, procured through questionable means."
+msgstr "Şüpheli yollardan elde edilmiş, parıltılı altın boncuklar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_shadow"
+msgid "These claws have had a hand in many dark deeds."
+msgstr "Bu pençelerin pek çok karanlık işte parmağı vardır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_survivor"
+msgid "Sharp goblin claws honed for wilderness survival."
+msgstr "Vahşi doğada hayatta kalmak için bilenmiş keskin goblin pençeleri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wortox_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wortox_victorian"
+msgid "Hands of not-so-lifeless stone."
+msgstr "O kadar da cansız olmayan taştan eller."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_ancient"
+msgid "At some point in their evolution, Merms must have traded their fins for claws."
+msgstr "Evrimlerinin bir noktasında Merm'ler yüzgeçlerini pençelerle takas etmiş olmalı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_cave
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_cave"
+msgid "These claws were made for poking around in the dark."
+msgstr "Bu pençeler karanlıkta bir şeyleri kurcalamak için yapılmış."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_formal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_formal"
+msgid "Elegant and re-finned."
+msgstr "Zarif ve yeniden yüzgeçli."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_lunar"
+msgid "The finest fins in all the swamp!"
+msgstr "Bütün bataklığın en zarif yüzgeçleri!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_nature"
+msgid "These sharp little claws blend right into the algae... until it's too late."
+msgstr "Bu keskin küçük pençeler alglerin arasına karışır... iş işten geçinceye dek."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_pirate"
+msgid "These claws were made for pinching precious gems."
+msgstr "Bu pençeler değerli cevherleri kıstırmak için yapılmış."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_rose"
+msgid "Pink and pointy pointers."
+msgstr "Pembe ve sivri işaretçiler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_shadow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_shadow"
+msgid "Those fins look ominous..."
+msgstr "O yüzgeçler kötücül görünüyor..."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_squid
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_squid"
+msgid "Hands are for suckers."
+msgstr "Eller enayilere mahsustur."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_survivor
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_survivor"
+msgid "They pack a slimy punch!"
+msgstr "Yapışkan bir yumruk savururlar!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wurt_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wurt_victorian"
+msgid "Wurt was never one to be treated with kid-gloves."
+msgstr "Wurt hiçbir zaman çocuk eldivenleriyle muamele görecek biri olmadı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_ancient
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_ancient"
+msgid "A curse upon all you touch!"
+msgstr "Dokunduğun her şeye lanet!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_gladiator
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_gladiator"
+msgid "Make them regret falling into your metallic clutches."
+msgstr "Metalik pençelerine düştüklerine pişman olsunlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_ice
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_ice"
+msgid "Ice cold robotic claws."
+msgstr "Buz gibi soğuk robotik pençeler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_lunar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_lunar"
+msgid "Silvery gloves for the moon's right-hand 'bot."
+msgstr "Ay'ın sağ kolu 'botu için gümüşi eldivenler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_magma
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_magma"
+msgid "Com-bust some heads in style sporting these Furnace Gloves."
+msgstr "Bu Fırın Eldivenleriyle birkaç kafayı tarzla pat-latın."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_nature
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_nature"
+msgid "Get in touch with nature with these clinging vine hand replacements."
+msgstr "Bu sarmaşık el yedekleriyle doğayla temas kur."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_pirate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_pirate"
+msgid "These are the hands in an all-hands-on-deck situation."
+msgstr "\"Tüm el güverteye\" durumundaki ellerdir bunlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_retro"
+msgid "All superfluous fingers have been eradicated for maximum efficiency."
+msgstr "Azami verim için gereksiz tüm parmaklar yok edilmiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_victorian"
+msgid "These diving suit gloves are old and worn. They probably aren't waterproof anymore."
+msgstr "Bu dalgıç giysisi eldivenleri eski ve yıpranmış. Muhtemelen artık su geçirmez değiller."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wip
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wip"
+msgid "Just wires and bolts."
+msgstr "Sadece tel ve cıvata."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wrestler
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_wrestler"
+msgid "These gears were made for grappling."
+msgstr "Bu dişliler güreşmek için yapıldı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hand_wx78_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wx78_yule"
+msgid "Wooden hands don't get quite as cold as metal ones."
+msgstr "Tahta eller, metal olanlar kadar soğumaz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_antlion_swamp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_antlion_swamp"
+msgid "Any turf from sod to swamp is swapped with a simple step."
+msgstr "Çimden bataklığa her zemin, basit bir adımla değiştirilir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_catcoon_costume
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_catcoon_costume"
+msgid "Is that really a cap with a catcoon's face? You've gotta be kitten me!"
+msgstr "Bu gerçekten kedikoon yüzlü bir şapka mı? Yavrulu yavrulu yutturuyorsun!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_catcoon_costumep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_catcoon_costumep"
+msgid "Is that really a cap with a catcoon's face? You've gotta be kitten me!"
+msgstr "Bu gerçekten kedikoon yüzlü bir şapka mı? Yavrulu yavrulu yutturuyorsun!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_chester_costume
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_chester_costume"
+msgid "They say that imitation is the sincerest form of flattery."
+msgstr "Taklit, övgünün en içten biçimidir derler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_chester_costumep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_chester_costumep"
+msgid "They say that imitation is the sincerest form of flattery."
+msgstr "Taklit, övgünün en içten biçimidir derler."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_dog_helm
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_dog_helm"
+msgid "BEWARE OF DOG."
+msgstr "DİKKAT KÖPEK VAR."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_dreadstone_horn
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_dreadstone_horn"
+msgid "This helmet on your head will fill them with dread."
+msgstr "Kafandaki bu miğfer onları dehşetle dolduracak."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_glommer_costume
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_glommer_costume"
+msgid "The goopiness inside the rim makes it glom to your head that much better!"
+msgstr "İçindeki yapışkanlık onu kafana çok daha iyi yapıştırır!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_glommer_costumep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_glommer_costumep"
+msgid "The goopiness inside the rim makes it glom to your head that much better!"
+msgstr "İçindeki yapışkanlık onu kafana çok daha iyi yapıştırır!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_hutch_costume
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_hutch_costume"
+msgid "It's a Hutch hatch, for your head!"
+msgstr "Kafan için bir Hutch çıkışı!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_hutch_costumep
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_hutch_costumep"
+msgid "It's a Hutch hatch, for your head!"
+msgstr "Kafan için bir Hutch çıkışı!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_ice_shark
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_ice_shark"
+msgid "You'll be so cool with this chiselled jaw."
+msgstr "Bu yontulmuş çeneyle pek havalı olacaksın."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_puppy_cap
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_puppy_cap"
+msgid "Not made of real puppies."
+msgstr "Gerçek köpek yavrularından yapılmamıştır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hat_woodcarved_swamp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hat_woodcarved_swamp"
+msgid "Somehow, it works. You'll be stumped."
+msgstr "Nedense işe yarıyor. Kütüğüne kalacaksın."
+
+#. STRINGS.SKIN_DESCRIPTIONS.heatrock_fantasy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.heatrock_fantasy"
+msgid "A warm glow radiates from deep within the crystal."
+msgstr "Kristalin derinliklerinden sıcak bir parıltı yayılıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.heatrock_fire
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.heatrock_fire"
+msgid "A vibrant flame extracted in crystallized form from a passionate soul."
+msgstr "Tutkulu bir ruhtan kristalleşmiş haliyle çıkarılmış canlı bir alev."
+
+#. STRINGS.SKIN_DESCRIPTIONS.heatrock_planet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.heatrock_planet"
+msgid "A flame burns deep within."
+msgstr "Derinde bir alev yanıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermit_chair_rocking_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermit_chair_rocking_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermitcrab_coral
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermitcrab_coral"
+msgid "She's definitely going to pinch your cheeks."
+msgstr "Yanaklarını mutlaka çimdikleyecek."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermitcrab_hairy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermitcrab_hairy"
+msgid "Beneath that abrasive exterior lies a warm and caring heart."
+msgstr "O sert dış görünüşün altında sıcak ve şefkatli bir kalp yatıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermitcrab_lightpost_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermitcrab_lightpost_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermitcrab_none
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermitcrab_none"
+msgid "You can't beat the classics!"
+msgstr "Klasiklerin üstüne yoktur!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermitcrab_peacock
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermitcrab_peacock"
+msgid "Pearl is going to teach you young'uns a thing or two about fashion."
+msgstr "Pearl, siz gençlere moda hakkında bir iki şey öğretecek."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermitcrab_pointy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermitcrab_pointy"
+msgid "\"Ohh, my aching spines...\""
+msgstr "\"Off, ağrıyan dikenlerim...\""
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermitcrab_teashop_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermitcrab_teashop_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithotspring_constr_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithotspring_constr_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithotspring_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithotspring_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse2_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse2_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_construction1_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_construction1_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_construction2_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_construction2_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_construction3_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_construction3_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_bow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_bow"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_coral
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_coral"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_driftwood
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_driftwood"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_mushroom
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_mushroom"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_saltcrystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_saltcrystal"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_sanddollar
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_sanddollar"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_snowflake
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_snowflake"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_stocking
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_stocking"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_wood
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_wood"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_wreath
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_ornament_wreath"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hermithouse_yule
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hermithouse_yule"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hivehat_an
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hivehat_an"
+msgid "Royal tradition meets artistic expression."
+msgstr "Kraliyet geleneği, sanatsal ifadeyle buluşuyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hivehat_cawnival
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hivehat_cawnival"
+msgid "Dress like Cawnival royalty."
+msgstr "Karganaval kraliyeti gibi giyin."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hivehat_joker
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hivehat_joker"
+msgid "What a flop!"
+msgstr "Ne büyük bir başarısızlık!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hutch_fantasy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hutch_fantasy"
+msgid "The most charming amphibian you'll ever meet."
+msgstr "Karşına çıkacak en çekici amfibi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.hutch_fishbowl_fantasy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hutch_fishbowl_fantasy"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hutch_fishbowl_swamp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hutch_fishbowl_swamp"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.hutch_swamp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.hutch_swamp"
+msgid "Feel like confronting the void? Just look into his eyes!"
+msgstr "Boşlukla yüzleşmek mi istiyorsun? Sadece gözlerinin içine bak!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icebox_coffin
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_coffin"
+msgid "Send your food to an icy grave."
+msgstr "Yemeklerini buzlu bir mezara yolla."
+
+#. STRINGS.SKIN_DESCRIPTIONS.icebox_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_crystal"
+msgid "As icy inside as it is outside."
+msgstr "Dışı kadar içi de buzlu."
+
+#. STRINGS.SKIN_DESCRIPTIONS.icebox_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_kitchen"
+msgid "It's pretty cool."
+msgstr "Oldukça serin."
+
+#. STRINGS.SKIN_DESCRIPTIONS.icebox_porcelain
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_porcelain"
+msgid "Cold and pristine, like new-fallen snow."
+msgstr "Yeni düşmüş kar gibi, soğuk ve tertemiz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.icebox_victorian
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icebox_victorian"
+msgid "A sophisticated ice box, for the sophisticated wilderness dweller."
+msgstr "Seçkin bir vahşi doğa sakini için, seçkin bir buzdolabı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.icepack_kitchen
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icepack_kitchen"
+msgid "The perfect pick to pack your next picnic."
+msgstr "Sıradaki pikniğine paketlemek için kusursuz bir parça."
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_bee
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_bee"
+msgid "icestaff_bee"
+msgstr "icestaff_bee"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_gungnir
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_gungnir"
+msgid "icestaff_gungnir"
+msgstr "icestaff_gungnir"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_hockey
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_hockey"
+msgid "Ice to beat'cha!"
+msgstr "Buz seni yener!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_icerod
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_icerod"
+msgid "Give your enemies much more than the cold shoulder."
+msgstr "Düşmanlarına soğuk omuzdan çok daha fazlasını ver."
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_lance
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_lance"
+msgid "icestaff_lance"
+msgstr "icestaff_lance"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_northern
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_northern"
+msgid "icestaff_northern"
+msgstr "icestaff_northern"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_rose
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_rose"
+msgid "icestaff_rose"
+msgstr "icestaff_rose"
+
+#. STRINGS.SKIN_DESCRIPTIONS.icestaff_rw_swamp
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.icestaff_rw_swamp"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.insanityrock_fantasy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.insanityrock_fantasy"
+msgid "This mysterious pillar seems to grow and shrink, as if by magic."
+msgstr "Bu gizemli sütun sanki sihirle büyüyüp küçülüyormuş gibi görünüyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.insanityrock_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.insanityrock_gothic"
+msgid "Was that pillar there before? Have you finally gone mad?"
+msgstr "O sütun daha önce orada mıydı? Sonunda delirdin mi?"
+
+#. STRINGS.SKIN_DESCRIPTIONS.kitten_black
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_black"
+msgid "Bad luck. Good luck. Either way it's still adorable."
+msgstr "Kötü şans. İyi şans. Her durumda yine de sevimli."
+
+#. STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_black_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.kitten_winter
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_winter"
+msgid "Did this Kittykit just get cuter? (How's that even possible?!)"
+msgstr "Bu Yavrukedi az önce daha mı sevimli oldu? (Bu nasıl mümkün olabilir ki?!)"
+
+#. STRINGS.SKIN_DESCRIPTIONS.kitten_winter_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.kitten_winter_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.krampus_sack_basket
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_basket"
+msgid "Its heavy load pales in comparison to the weight on your conscience."
+msgstr "Ağır yükü, vicdanındaki ağırlığın yanında sönük kalır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.krampus_sack_garden
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_garden"
+msgid "The world is your garden, and it's ripe for the picking."
+msgstr "Dünya senin bahçen ve toplanmaya hazır."
+
+#. STRINGS.SKIN_DESCRIPTIONS.krampus_sack_voidbag
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_voidbag"
+msgid "Shimmering stardust sparkles vividly inside this unnaturally vast sack."
+msgstr "Bu doğal olmayan kadar geniş çuvalın içinde parıldayan yıldız tozu canlı canlı pırıldıyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lamb_cotl
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lamb_cotl"
+msgid "This adorable little lamb is sure to attract a following."
+msgstr "Bu sevimli küçük kuzu, kesinlikle bir tarikat çekecek."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lamb_cotl_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lamb_cotl_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lamb_dark
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lamb_dark"
+msgid "Being the black sheep of the family isn't all that baaad."
+msgstr "Ailenin kara koyunu olmak o kadar da meeeh değil."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lamb_dark_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lamb_dark_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lamb_winter
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lamb_winter"
+msgid "Winter doesn't seem quite as cold when you have a fleecy Ewelet by your side."
+msgstr "Yanında yünlü bir Kuzucuk olunca kış o kadar da soğuk gelmez."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lamb_winter_builder
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lamb_winter_builder"
+msgid "n/a"
+msgstr "n/a"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_crystal
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_crystal"
+msgid "It radiates a warm, soothing glow."
+msgstr "Sıcak, huzur verici bir parıltı yayar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_flower
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_flower"
+msgid "A lightweight lantern to brighten your disposition."
+msgstr "Ruh halini aydınlatacak hafif bir fener."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_flower_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_flower_alt"
+msgid "A lightweight lantern to brighten your disposition."
+msgstr "Ruh halini aydınlatacak hafif bir fener."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_gothic
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_gothic"
+msgid "Somehow, even the light feels gloomy."
+msgstr "Nedense ışığı bile kasvetli geliyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_insect
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_insect"
+msgid "For use in dark times."
+msgstr "Karanlık zamanlarda kullanmak için."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_mummy
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mummy"
+msgid "It's certainly eye-catching!"
+msgstr "Kesinlikle göz alıcı!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_mummy_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mummy_alt"
+msgid "It's certainly eye-catching!"
+msgstr "Kesinlikle göz alıcı!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_mystical
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_mystical"
+msgid "Its soothing purple glow is a quiet defiance against the night."
+msgstr "Yumuşak mor parıltısı, geceye karşı sessiz bir başkaldırı."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_retro
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_retro"
+msgid "A powerful light, with only a negligible risk of electrocution."
+msgstr "Güçlü bir ışık, sadece ihmal edilebilir bir elektrik çarpma riskiyle."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_tesla
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_tesla"
+msgid "An electrical resonant transformer circuit that provides light."
+msgstr "Işık sağlayan, elektriksel rezonanslı transformatör devresi."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_winter
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_winter"
+msgid "A lovely stained glass lantern to illuminate your winter nights."
+msgstr "Kış gecelerini aydınlatacak sevimli bir vitray feneri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.lantern_winter_alt
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.lantern_winter_alt"
+msgid "A lovely stained glass lantern to illuminate your winter nights."
+msgstr "Kış gecelerini aydınlatacak sevimli bir vitray feneri."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_blue_cornflower"
+msgid "These 'rubber glove blue' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "Bu 'lastik eldiven mavisi' renkte pantolonlar, dama oynamak ya da yapılacaklar listendeki maddeleri işaretlemek için kusursuz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_green_laurel
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_green_laurel"
+msgid "These 'willful green' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "Bu 'inatçı yeşil' renkte pantolonlar, dama oynamak ya da yapılacaklar listendeki maddeleri işaretlemek için kusursuz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_grey_slate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_grey_slate"
+msgid "These 'rainy gray' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "Bu 'yağmurlu gri' renkte pantolonlar, dama oynamak ya da yapılacaklar listendeki maddeleri işaretlemek için kusursuz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_orange_lumberjack
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_orange_lumberjack"
+msgid "These 'lumberjack orange' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "Bu 'oduncu turuncusu' renkte pantolonlar, dama oynamak ya da yapılacaklar listendeki maddeleri işaretlemek için kusursuz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_tan_grass
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_checkered_pleats_tan_grass"
+msgid "These 'dry grass tan' colored pants are perfect for playing checkers, or checking items off your to-do list."
+msgstr "Bu 'kuru çayır teni' renkte pantolonlar, dama oynamak ya da yapılacaklar listendeki maddeleri işaretlemek için kusursuz."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_fish
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_fish"
+msgid "Walk like a fish in these pants."
+msgstr "Bu pantolonlarla balık gibi yürü."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_jeans_black_scribble
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_jeans_black_scribble"
+msgid "Hard-wearing cotton dungarees, in a 'scribble black' color."
+msgstr "'Karalama siyahı' renginde, sağlam pamuklu tulum pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_jeans_blue_peacock
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_jeans_blue_peacock"
+msgid "Hard-wearing cotton dungarees, in a 'bird tail blue' color."
+msgstr "'Kuş kuyruğu mavisi' renginde, sağlam pamuklu tulum pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_jeans_grey_silver
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_jeans_grey_silver"
+msgid "Hard-wearing cotton dungarees, in a 'cumulus gray' color."
+msgstr "'Kümülüs grisi' renginde, sağlam pamuklu tulum pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_jeans_navy_ocean
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_jeans_navy_ocean"
+msgid "Hard-wearing cotton dungarees, in an 'unsuitably blue' color."
+msgstr "'Uyumsuz mavi' renginde, sağlam pamuklu tulum pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_merchant
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_merchant"
+msgid "These slacks really say \"Buy some torches!\""
+msgstr "Bu pantolonlar gerçekten \"Birkaç meşale al!\" diyor."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_black_scribble
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_black_scribble"
+msgid "Wearing these 'scribble black' colored pants won't help you survive... But you'll look great!"
+msgstr "Bu 'karalama siyahı' renkte pantolonları giymek hayatta kalmana yardım etmez... Ama harika görüneceksin!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_blue_sky
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_blue_sky"
+msgid "Wearing these 'schematic blue' colored pants won't help you survive... But you'll look great!"
+msgstr "Bu 'şema mavisi' renkte pantolonları giymek hayatta kalmana yardım etmez... Ama harika görüneceksin!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_brown_sepia
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_brown_sepia"
+msgid "Wearing these 'werebeaver brown' colored pants won't help you survive... But you'll look great!"
+msgstr "Bu 'kunduzkurt kahverengisi' renkte pantolonları giymek hayatta kalmana yardım etmez... Ama harika görüneceksin!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_green_forest
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_green_forest"
+msgid "Wearing these 'forest guardian green' colored pants won't help you survive... But you'll look great!"
+msgstr "Bu 'orman muhafızı yeşili' renkte pantolonları giymek hayatta kalmana yardım etmez... Ama harika görüneceksin!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_grey_dark
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_grey_dark"
+msgid "Wearing these 'stormcloud gray' colored pants won't help you survive... But you'll look great!"
+msgstr "Bu 'fırtına bulutu grisi' renkte pantolonları giymek hayatta kalmana yardım etmez... Ama harika görüneceksin!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_tan_cream
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_tan_cream"
+msgid "Wearing these 'no-tan-lines tan' colored pants won't help you survive... But you'll look great!"
+msgstr "Bu 'bronzlaşma izsiz teni' renkte pantolonları giymek hayatta kalmana yardım etmez... Ama harika görüneceksin!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_yellow_mustard
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pants_basic_yellow_mustard"
+msgid "Wearing these 'anagnorisis yellow' colored pants won't help you survive... But you'll look great!"
+msgstr "Bu 'tanınma sarısı' renkte pantolonları giymek hayatta kalmana yardım etmez... Ama harika görüneceksin!"
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_black_jet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_black_jet"
+msgid "'Disilluminated black' colored stripy trousers."
+msgstr "'Karanlıklı siyah' renkte çizgili pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_brown_chocolate
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_brown_chocolate"
+msgid "'Insufficient chocolate brown' colored stripy trousers."
+msgstr "'Yetersiz çikolata kahverengisi' renkte çizgili pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_navy_crow
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_navy_crow"
+msgid "'Crow blue' colored stripy trousers."
+msgstr "'Karga mavisi' renkte çizgili pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_purple_violet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_purple_violet"
+msgid "'Plethora of purple' colored stripy trousers."
+msgstr "'Mor bolluğu' renkte çizgili pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_red_garnet
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pinstripe_pants_red_garnet"
+msgid "'Wormgut red' colored stripy trousers."
+msgstr "'Solucan-bağırsak kırmızısı' renkte çizgili pantolonlar."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pj_blue_agean
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pj_blue_agean"
+msgid "No striped pajama squid were harmed in the making of these 'high pH blue' colored naptime pants."
+msgstr "Bu 'yüksek pH mavisi' renkte uyku pantolonlarının yapımında hiçbir çizgili pijama mürekkep balığı zarar görmemiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pj_green_hunters
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pj_green_hunters"
+msgid "No striped pajama squid were harmed in the making of these 'forest guardian green' colored naptime pants."
+msgstr "Bu 'orman muhafızı yeşili' renkte uyku pantolonlarının yapımında hiçbir çizgili pijama mürekkep balığı zarar görmemiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pj_grey
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pj_grey"
+msgid "No striped pajama squid were harmed in the making of these 'cumulus gray' colored naptime pants."
+msgstr "Bu 'kümülüs grisi' renkte uyku pantolonlarının yapımında hiçbir çizgili pijama mürekkep balığı zarar görmemiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pj_orange_honey
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pj_orange_honey"
+msgid "No striped pajama squid were harmed in the making of these 'bumbling honey orange' colored naptime pants."
+msgstr "Bu 'vızıltılı bal turuncusu' renkte uyku pantolonlarının yapımında hiçbir çizgili pijama mürekkep balığı zarar görmemiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pj_polkadot
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pj_polkadot"
+msgid "No dotted pajama coral were harmed in the making of these 'dotted red' colored naptime pants."
+msgstr "Bu 'puantiyeli kırmızı' renkte uyku pantolonlarının yapımında hiçbir benekli pijama mercanı zarar görmemiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pj_purple_mauve
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pj_purple_mauve"
+msgid "No striped pajama squid were harmed in the making of these 'snail mucus purple' colored naptime pants."
+msgstr "Bu 'salyangoz sümüğü moru' renkte uyku pantolonlarının yapımında hiçbir çizgili pijama mürekkep balığı zarar görmemiştir."
+
+#. STRINGS.SKIN_DESCRIPTIONS.legs_pj_red_redbird
+msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_pj_red_redbird"
+msgid "No striped pajama squid were harmed in the making of these 'redbird red' colored naptime pants."
+msgstr "Bu 'kızılkuş kırmızısı' renkte uyku pantolonlarının yapımında hiçbir çizgili pijama mürekkep balığı zarar görmemiştir."
+
 #. STRINGS.UI.ACCOUNT.CANCEL
 msgctxt "STRINGS.UI.ACCOUNT.CANCEL"
 msgid "Cancel"
